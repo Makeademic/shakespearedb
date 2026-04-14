@@ -1,16 +1,7 @@
-const pluginTailwind = require('eleventy-plugin-tailwindcss');
-
 module.exports = (config) => {
-  config.addPlugin(pluginTailwind, {
-    src: 'src/assets/css/*',
-    // excludeNonCssFiles is bugged in 
-    // eleventy-plugin-tailwindcss@0.3.0 (git+ssh://git@github.com/dafiulh/eleventy-plugin-tailwindcss.git#c8b8d4d7419e2f5fcf4483b8556cce163bd4d0a9).
-    // See https://github.com/dafiulh/eleventy-plugin-tailwindcss/pull/34
-    excludeNonCssFiles: false
-  });
-
   config.setDataDeepMerge(true);
 
+  config.addPassthroughCopy('src/assets/css/');
   config.addPassthroughCopy('src/assets/img/**/*');
   config.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
 
