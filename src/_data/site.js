@@ -6,6 +6,6 @@ module.exports = {
   // how many posts you want to show for each page
   paginate: 18,
   // WARNING: This assumes that the pathPrefix is "/"
-  logo: '{{ /assets/img/favicon.png  | url }}'
+  logo: 'https://makeademic.github.io/shakespearedb/assets/img/favicon.png'
 };
 
