@@ -9,10 +9,10 @@ title: titles
 
     {% for data in titles %}
     <div>
-      <a href="{{ data.titleURL }}">
-      <img width="80px" src="{{ data.titleImage }}"
+      <a href="{{ data.titleURL | url }}">
+      <img width="80px" src="{{ data.titleImage | url }}"
       </a>
-      <a href="{{ data.titleURL }}">{{ data.title }}</a>
+      <a href="{{ data.titleURL | url }}">{{ data.title }}</a>
     </div>
     {% endfor %}
 
