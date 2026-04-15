@@ -45,7 +45,7 @@ module.exports = (config) => {
       input: 'src',
       output: 'dist'
     },
-    pathPrefix: "/",
+    pathPrefix: "/shakespearedb/",
     templateFormats: ['md', 'njk', 'html'],
     dataTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk'
