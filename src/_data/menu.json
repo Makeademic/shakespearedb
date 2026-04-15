@@ -1,7 +1,7 @@
 [
     {
         "label": "About",
-        "url": "about"
+        "url": "{{ '/about/' | url }}"
     },
     {
         "label": "Search",
