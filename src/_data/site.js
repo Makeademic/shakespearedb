@@ -6,6 +6,6 @@ module.exports = {
   // how many posts you want to show for each page
   paginate: 18,
   // WARNING: This assumes that the pathPrefix is "/"
-  logo: '/assets/img/favicon.png'
+  logo: '{{ /assets/img/favicon.png  | url }}'
 };
 
