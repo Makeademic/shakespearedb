@@ -71,9 +71,9 @@
 
 </head>	
 
-<body class="flex flex-col h-screen bg-white text-gray-800 break-words">
+<body class="flex flex-col h-screen bg-white text-gray-800 wrap-break-word">
     {% include "partials/header.njk" %}
-    <main class="mx-7 lg:mx-6 mt-32 flex-grow">
+    <main class="mx-7 lg:mx-6 mt-32 grow">
         {{ content | safe }}
     </main>
     {% include "partials/footer.njk" %}
