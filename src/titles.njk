@@ -5,10 +5,10 @@ title: titles
 ---
 
 {% block main %}
-<div class="flex flex-wrap>
+<div class="flex flex-wrap p-[100px]">
 
     {% for data in titles %}
-    <div>
+    <div class="p-[10px] m-[10px]">
       <a href="{{ data.titleURL | url }}">
       <img width="80px" src="{{ data.titleImage | url }}"
       </a>
