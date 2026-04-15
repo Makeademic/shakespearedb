@@ -5,10 +5,10 @@
     },
     {
         "label": "Search",
-        "url": "index.html"
+        "url": "/index.html"
     },
     {
         "label": "Titles",
-        "url": "titles/index.html"
+        "url": "/titles"
     }
 ]
