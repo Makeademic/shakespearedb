@@ -2,6 +2,8 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url><loc>./404.html</loc></url>
     <url><loc>./about/</loc></url>
+    <url><loc>./advisoryboard/</loc></url>
+    <url><loc>./contact/</loc></url>
     <url><loc>./</loc></url>
     <url><loc>./keymaps/0xcharly/</loc></url>
     <url><loc>./keymaps/ARTSEY/</loc></url>
@@ -149,6 +151,7 @@
     <url><loc>./keymaps/yaelol1/</loc></url>
     <url><loc>./keymaps/yhaliaw/</loc></url>
     <url><loc>./keymaps/zzkt/</loc></url>
+    <url><loc>./references/</loc></url>
     <url><loc>./titles/</loc></url>
     
 </urlset>
