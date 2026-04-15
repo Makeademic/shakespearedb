@@ -1,5 +1,5 @@
 [
-    { "title": "The Birth of Merlin", "titleImage": "assets/img/title_icons/birth-of-merlin.png", "titleURL": "/Birth-of-Merlin/" },
+    { "title": "The Birth of Merlin", "titleImage": "/assets/img/title_icons/birth-of-merlin.png", "titleURL": "/Birth-of-Merlin/" },
     { "title": "Comedies, Histories, and Tragedies: F1", "titleImage": "assets/img/title_icons/F1.png", "titleURL": "/F1/" },    
     { "title": "Comedies, Histories, and Tragedies: F2", "titleImage": "assets/img/title_icons/f2.png", "titleURL": "/F2/" },  
     { "title": "Comedies, Histories, and Tragedies: F3", "titleImage": "assets/img/title_icons/f3.png", "titleURL": "/F3/" },  
