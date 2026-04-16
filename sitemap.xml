@@ -4,153 +4,45 @@
     <url><loc>./about/</loc></url>
     <url><loc>./advisoryboard/</loc></url>
     <url><loc>./contact/</loc></url>
-    <url><loc>./</loc></url>
-    <url><loc>./keymaps/0xcharly/</loc></url>
-    <url><loc>./keymaps/ARTSEY/</loc></url>
-    <url><loc>./keymaps/AlaaSaadAbdo/</loc></url>
-    <url><loc>./keymaps/CowboyVang/</loc></url>
-    <url><loc>./keymaps/Dakes/</loc></url>
-    <url><loc>./keymaps/DesyncTheThird/</loc></url>
-    <url><loc>./keymaps/JannikWibker/</loc></url>
-    <url><loc>./keymaps/Lysquid/</loc></url>
-    <url><loc>./keymaps/MakotoKurauchi-helix_froggy/</loc></url>
-    <url><loc>./keymaps/MattSturgeon/</loc></url>
-    <url><loc>./keymaps/MicahElliot/</loc></url>
-    <url><loc>./keymaps/NeonSpork/</loc></url>
-    <url><loc>./keymaps/OneDeadKey/</loc></url>
-    <url><loc>./keymaps/ScriBanana/</loc></url>
-    <url><loc>./keymaps/ShamalLakshan/</loc></url>
-    <url><loc>./keymaps/Vermoot/</loc></url>
-    <url><loc>./keymaps/Wimads/</loc></url>
-    <url><loc>./keymaps/aidancz/</loc></url>
-    <url><loc>./keymaps/ajarov/</loc></url>
-    <url><loc>./keymaps/alper/</loc></url>
-    <url><loc>./keymaps/alterecco-zmk/</loc></url>
-    <url><loc>./keymaps/alvaro_prieto/</loc></url>
-    <url><loc>./keymaps/andrewjrae/</loc></url>
-    <url><loc>./keymaps/anymak/</loc></url>
-    <url><loc>./keymaps/archydragon/</loc></url>
-    <url><loc>./keymaps/argenkiwi/</loc></url>
-    <url><loc>./keymaps/bingocaller/</loc></url>
-    <url><loc>./keymaps/bpruitt_goddard/</loc></url>
-    <url><loc>./keymaps/braindefender-wellum/</loc></url>
-    <url><loc>./keymaps/brandonschlack/</loc></url>
-    <url><loc>./keymaps/bsag/</loc></url>
-    <url><loc>./keymaps/caksoylar/</loc></url>
-    <url><loc>./keymaps/callum_oakley/</loc></url>
-    <url><loc>./keymaps/casuanoob/</loc></url>
-    <url><loc>./keymaps/chaosk/</loc></url>
-    <url><loc>./keymaps/chusecubr/</loc></url>
-    <url><loc>./keymaps/conner_mcnicholas/</loc></url>
-    <url><loc>./keymaps/cyb3rkun/</loc></url>
-    <url><loc>./keymaps/daisukekoba/</loc></url>
-    <url><loc>./keymaps/dasmikko/</loc></url>
-    <url><loc>./keymaps/datagrok/</loc></url>
-    <url><loc>./keymaps/dbroqua/</loc></url>
-    <url><loc>./keymaps/dchenex/</loc></url>
-    <url><loc>./keymaps/default-ferris/</loc></url>
-    <url><loc>./keymaps/default-kyria/</loc></url>
-    <url><loc>./keymaps/dickiedyce-corneish_zen/</loc></url>
-    <url><loc>./keymaps/dlip-engram/</loc></url>
-    <url><loc>./keymaps/dolie/</loc></url>
-    <url><loc>./keymaps/dovenyi/</loc></url>
-    <url><loc>./keymaps/dracks/</loc></url>
-    <url><loc>./keymaps/dschil138/</loc></url>
-    <url><loc>./keymaps/duckyb/</loc></url>
-    <url><loc>./keymaps/eldritch_elder-splaytoraid40/</loc></url>
-    <url><loc>./keymaps/fculpo/</loc></url>
-    <url><loc>./keymaps/ferrance/</loc></url>
-    <url><loc>./keymaps/finex/</loc></url>
-    <url><loc>./keymaps/fluffactually/</loc></url>
-    <url><loc>./keymaps/frogmouth-kyria-rsthd_prime/</loc></url>
-    <url><loc>./keymaps/fsck-eco/</loc></url>
-    <url><loc>./keymaps/getreuer/</loc></url>
-    <url><loc>./keymaps/gfolgert/</loc></url>
-    <url><loc>./keymaps/godalming123/</loc></url>
-    <url><loc>./keymaps/grassfedreeve/</loc></url>
-    <url><loc>./keymaps/h_youhei/</loc></url>
-    <url><loc>./keymaps/haraldkubota/</loc></url>
-    <url><loc>./keymaps/indianpojken/</loc></url>
-    <url><loc>./keymaps/isaacsa51-halcyon_kyria/</loc></url>
-    <url><loc>./keymaps/isaacsa51/</loc></url>
-    <url><loc>./keymaps/ishtob/</loc></url>
-    <url><loc>./keymaps/jcmkk3/</loc></url>
-    <url><loc>./keymaps/josefadamcik/</loc></url>
-    <url><loc>./keymaps/jporter_dev/</loc></url>
-    <url><loc>./keymaps/justinmklam-karabiner/</loc></url>
-    <url><loc>./keymaps/justinmklam/</loc></url>
-    <url><loc>./keymaps/jwon/</loc></url>
-    <url><loc>./keymaps/kawamashi/</loc></url>
-    <url><loc>./keymaps/khitsule-atreus/</loc></url>
-    <url><loc>./keymaps/khitsule-iris/</loc></url>
-    <url><loc>./keymaps/kkga/</loc></url>
-    <url><loc>./keymaps/konomu/</loc></url>
-    <url><loc>./keymaps/lehoff/</loc></url>
-    <url><loc>./keymaps/lolo/</loc></url>
-    <url><loc>./keymaps/lucordes/</loc></url>
-    <url><loc>./keymaps/magicmonty/</loc></url>
-    <url><loc>./keymaps/manna_harbour/</loc></url>
-    <url><loc>./keymaps/markstos/</loc></url>
-    <url><loc>./keymaps/matobaa-braille/</loc></url>
-    <url><loc>./keymaps/mattgemmell/</loc></url>
-    <url><loc>./keymaps/metheon/</loc></url>
-    <url><loc>./keymaps/minusfive/</loc></url>
-    <url><loc>./keymaps/mkovaxx-phalanx/</loc></url>
-    <url><loc>./keymaps/mrkskk/</loc></url>
-    <url><loc>./keymaps/naginata/</loc></url>
-    <url><loc>./keymaps/nerdypepper/</loc></url>
-    <url><loc>./keymaps/nfriend/</loc></url>
-    <url><loc>./keymaps/optozorax/</loc></url>
-    <url><loc>./keymaps/pcoves/</loc></url>
-    <url><loc>./keymaps/peterjc-hands_down_promethium/</loc></url>
-    <url><loc>./keymaps/peterjc-new_stickney/</loc></url>
-    <url><loc>./keymaps/peterxjang/</loc></url>
-    <url><loc>./keymaps/pfn/</loc></url>
-    <url><loc>./keymaps/phaberest/</loc></url>
-    <url><loc>./keymaps/precondition/</loc></url>
-    <url><loc>./keymaps/pseudoku-ergowarp/</loc></url>
-    <url><loc>./keymaps/purple_rw/</loc></url>
-    <url><loc>./keymaps/rafaelromao/</loc></url>
-    <url><loc>./keymaps/ranzq/</loc></url>
-    <url><loc>./keymaps/ratoru/</loc></url>
-    <url><loc>./keymaps/rayduck/</loc></url>
-    <url><loc>./keymaps/rearman/</loc></url>
-    <url><loc>./keymaps/reinier/</loc></url>
-    <url><loc>./keymaps/rootiest/</loc></url>
-    <url><loc>./keymaps/rstacruz/</loc></url>
-    <url><loc>./keymaps/rytjens/</loc></url>
-    <url><loc>./keymaps/sartak/</loc></url>
-    <url><loc>./keymaps/scylla_german_gaming/</loc></url>
-    <url><loc>./keymaps/seancolsen/</loc></url>
-    <url><loc>./keymaps/sennomo-stifluqz/</loc></url>
-    <url><loc>./keymaps/shaykalyan/</loc></url>
-    <url><loc>./keymaps/skychil/</loc></url>
-    <url><loc>./keymaps/smallcat/</loc></url>
-    <url><loc>./keymaps/smt-minivan/</loc></url>
-    <url><loc>./keymaps/squizzler/</loc></url>
-    <url><loc>./keymaps/stevep99/</loc></url>
-    <url><loc>./keymaps/t00mietum/</loc></url>
-    <url><loc>./keymaps/theol0403/</loc></url>
-    <url><loc>./keymaps/timeopochin-oat_y/</loc></url>
-    <url><loc>./keymaps/timeopochin-rsi_terminated/</loc></url>
-    <url><loc>./keymaps/toykeeper-kanata_k400plus/</loc></url>
-    <url><loc>./keymaps/treeman/</loc></url>
-    <url><loc>./keymaps/trguhq/</loc></url>
-    <url><loc>./keymaps/tw1t611/</loc></url>
-    <url><loc>./keymaps/tynanbe/</loc></url>
-    <url><loc>./keymaps/ulounge/</loc></url>
-    <url><loc>./keymaps/urob/</loc></url>
-    <url><loc>./keymaps/valdirjunior011/</loc></url>
-    <url><loc>./keymaps/via-charybdis_nano/</loc></url>
-    <url><loc>./keymaps/vvhg1/</loc></url>
-    <url><loc>./keymaps/waffle87/</loc></url>
-    <url><loc>./keymaps/waynehoover/</loc></url>
-    <url><loc>./keymaps/wernerdegroot/</loc></url>
-    <url><loc>./keymaps/wochap/</loc></url>
-    <url><loc>./keymaps/xsznix/</loc></url>
-    <url><loc>./keymaps/yaelol1/</loc></url>
-    <url><loc>./keymaps/yhaliaw/</loc></url>
-    <url><loc>./keymaps/zzkt/</loc></url>
+    <url><loc>./copies/1082_Poems/</loc></url>
+    <url><loc>./copies/1127_The Puritan, or The Widow/</loc></url>
+    <url><loc>./copies/1143_The Rape of Lucrece/</loc></url>
+    <url><loc>./copies/1197_Richard II/</loc></url>
+    <url><loc>./copies/1344_Romeo and Juliet/</loc></url>
+    <url><loc>./copies/1409_1 Sir John Oldcastle/</loc></url>
+    <url><loc>./copies/1454_Sonnets/</loc></url>
+    <url><loc>./copies/1467_The Taming of athe Shrew/</loc></url>
+    <url><loc>./copies/1499_Thomas Lord Cromwell/</loc></url>
+    <url><loc>./copies/1523_Titus Andronicus/</loc></url>
+    <url><loc>./copies/1543_Troilus and Cressida/</loc></url>
+    <url><loc>./copies/1559_1&amp;2 The Troublesome Reign/</loc></url>
+    <url><loc>./copies/1602_The Two Noble Kinsmen/</loc></url>
+    <url><loc>./copies/1648_Venus and Adonis/</loc></url>
+    <url><loc>./copies/1676_The Whole Contention Betw/</loc></url>
+    <url><loc>./copies/1716_A Yorkshire Tragedy/</loc></url>
+    <url><loc>./copies/191_1 Henry IV/</loc></url>
+    <url><loc>./copies/1_The Birth of Merlin/</loc></url>
+    <url><loc>./copies/25_Cupid&#39;s Cabinet Unlocked/</loc></url>
+    <url><loc>./copies/281_2 Henry IV/</loc></url>
+    <url><loc>./copies/28_Hamlet/</loc></url>
+    <url><loc>./copies/303_Henry V/</loc></url>
+    <url><loc>./copies/354_2 Henry VI/</loc></url>
+    <url><loc>./copies/362_3 Henry VI/</loc></url>
+    <url><loc>./copies/373_Julius Caesar/</loc></url>
+    <url><loc>./copies/472_King Lear/</loc></url>
+    <url><loc>./copies/5001_Comedies, Histories, and/</loc></url>
+    <url><loc>./copies/538_Locrine/</loc></url>
+    <url><loc>./copies/551_The London Prodigal/</loc></url>
+    <url><loc>./copies/567_Love&#39;s Labors Lost/</loc></url>
+    <url><loc>./copies/607_Love&#39;s Martyr/</loc></url>
+    <url><loc>./copies/611_Macbeth/</loc></url>
+    <url><loc>./copies/622_The Merchant of Venice/</loc></url>
+    <url><loc>./copies/708_The Merry Wives of Windsor/</loc></url>
+    <url><loc>./copies/764_A Midsummer Night&#39;s Dream/</loc></url>
+    <url><loc>./copies/805_Much Ado About Nothing/</loc></url>
+    <url><loc>./copies/823_Othello/</loc></url>
+    <url><loc>./copies/983_The Passionate Pilgrim/</loc></url>
+    <url><loc>./copies/989_Pericles/</loc></url>
     <url><loc>./references/</loc></url>
     <url><loc>./titles/</loc></url>
     
