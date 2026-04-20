@@ -3,7 +3,7 @@ function oxfordJoin(coll) {
 }
 
 module.exports = {
-  layout: "layouts/keymapdb_entry.njk",
+  layout: "layouts/db_entry.njk",
   eleventyComputed: {
     permalink: (data) => `copies/${data.page.fileSlug}/index.html`,
     keymapImage: (data) => {

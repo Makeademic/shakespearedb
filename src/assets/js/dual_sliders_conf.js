@@ -39,13 +39,7 @@ noUiSlider.create(keyCountSlider, {
 keyCountSlider.noUiSlider.on("change",
     noUiSliderCallbackArgs => updatePostGrid(keyCountSlider));
 
-/* Layers can go up to 32 in QMK but it's very unlikely to encounter more than
- * 16 layers in a keymap so in order to make the slider more comfortable to use,
- * we limit the max to 16. However, we can and should change that if we do find
- * a keymap with more 16 layers.
- *
- * EDIT: 32-layer keymap found! See posts/keymaps/rafaelromao.md @ PR#66
- */
+
 const MAX_LAYER_COUNT = 32;
 const layerCountPipsStep = 4;
 let layerCountPips = [1]
