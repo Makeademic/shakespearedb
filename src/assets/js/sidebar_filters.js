@@ -127,7 +127,7 @@ function syncSidebarFilters() {
                         element.selectedIndex = 0;
                         urlSearchParams.delete(fieldName)
                         history.pushState({}, "", "{{ '/' | url }}" + "?" + urlSearchParams);
-                        populatePostGrid(getFilteredKeymaps());
+                        populatePostGrid(getfilteredCopies());
                     }
                 }
             } else if (element instanceof HTMLInputElement && element.type === "text") {
@@ -151,34 +151,34 @@ window.onload = function() {
 };
 
 function resetSidebarFilters(resetUrl) {
-    const keymapFilters = document.getElementsByClassName("keymap-filter");
-    for (const keymapFilter of keymapFilters) {
-        if (isCheckable(keymapFilter)) {
-            keymapFilter.checked = false;
-        } else if ("noUiSlider" in keymapFilter) {
-            const slider = keymapFilter.noUiSlider;
+    const copyFilters = document.getElementsByClassName("copy-filter");
+    for (const copyFilter of copyFilters) {
+        if (isCheckable(copyFilter)) {
+            copyFilter.checked = false;
+        } else if ("noUiSlider" in copyFilter) {
+            const slider = copyFilter.noUiSlider;
             slider.set(slider.options.start);
-        } else if (keymapFilter instanceof HTMLSelectElement) {
-            if (keymapFilter.multiple) {
-                const options = keymapFilter.options;
+        } else if (copyFilter instanceof HTMLSelectElement) {
+            if (copyFilter.multiple) {
+                const options = copyFilter.options;
                 for (const option of options) {
                     option.selected = false;
                 }
             } else {
-                keymapFilter.selectedIndex = 0;
+                copyFilter.selectedIndex = 0;
             }
         }
     }
     if (resetUrl){
         // Remove filters from the URL
         history.pushState({}, "", location.pathname);
-        getKeymapsJSON().then(filteredKeymaps => populatePostGrid(filteredKeymaps));
+        getCopiesJSON().then(filteredCopies => populatePostGrid(filteredCopies));
     }
 }
 
 function updatePostGrid(element) {
     updateUrlSearchParams(element);
-    getFilteredKeymaps().then(filteredKeymaps => populatePostGrid(filteredKeymaps));
+    getfilteredCopies().then(filteredCopies => populatePostGrid(filteredCopies));
 }
 
 function toggleFullScreenSidebar() {
