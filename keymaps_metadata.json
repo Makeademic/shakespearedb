@@ -1,7 +1,7 @@
 [
     {
 
-        "url": "/shakespearedb/keymaps/ShamalLakshan/",
+        "url": "/shakespearedb/copies/ShamalLakshan/",
         "fileSlug": "ShamalLakshan",
         "title": "36-QWERTY-Tap-Switch-Keymap",
         "keymapUrl": "https://github.com/ShamalLakshan/36-QWERTY-Tap-Switch-Keymap",
@@ -29,12 +29,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/kkga/",
+        "url": "/shakespearedb/copies/kkga/",
         "fileSlug": "kkga",
         "title": "A keyboard layer system for 34 keys",
         "keymapUrl": "https://github.com/kkga/config/tree/625d91022c4163e0dad674270d5a147692eaf9b2/.config/qmk",
         "author": "kkga",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/kkga.png",
+        "keymapImage": "/assets/img/title_icons/kkga.png",
         "keyCount": 34,
         "firmwares": ["QMK"],
         "keyboard": "Atreus",
@@ -57,12 +57,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/default-ferris/",
+        "url": "/shakespearedb/copies/default-ferris/",
         "fileSlug": "default-ferris",
         "title": "A usable default keymap for the Ferris keyboard",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/ferris/keymaps/default",
         "author": "pierrechevalier83",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/default-ferris.png",
+        "keymapImage": "/assets/img/title_icons/default-ferris.png",
         "keyCount": 34,
         "firmwares": ["QMK"],
         "keyboard": "Ferris",
@@ -85,7 +85,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/AlaaSaadAbdo/",
+        "url": "/shakespearedb/copies/AlaaSaadAbdo/",
         "fileSlug": "AlaaSaadAbdo",
         "title": "AlaaSaadAbdo's ZMK keymap for 30-key wireless Battoota",
         "keymapUrl": "https://github.com/AlaaSaadAbdo/zmk-config",
@@ -113,12 +113,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/alper/",
+        "url": "/shakespearedb/copies/alper/",
         "fileSlug": "alper",
         "title": "Alper's Contra Layout",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/contra/keymaps/alper",
         "author": "alper",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/alper.png",
+        "keymapImage": "/assets/img/title_icons/alper.png",
         "keyCount": 47,
         "firmwares": ["QMK"],
         "keyboard": "Contra",
@@ -141,12 +141,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/alterecco-zmk/",
+        "url": "/shakespearedb/copies/alterecco-zmk/",
         "fileSlug": "alterecco-zmk",
         "title": "alterecco's Ahokore/Ferris 34-key keymap",
         "keymapUrl": "https://github.com/alterecco/ahokore-zmk-config",
         "author": "alterecco",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/alterecco-zmk.png",
+        "keymapImage": "/assets/img/title_icons/alterecco-zmk.png",
         "keyCount": 34,
         "firmwares": ["ZMK"],
         "keyboard": "Ahokore",
@@ -169,7 +169,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/theol0403/",
+        "url": "/shakespearedb/copies/theol0403/",
         "fileSlug": "theol0403",
         "title": "Anachron ZMK Config ⌛⌨️",
         "keymapUrl": "https://github.com/theol0403/anachron-zmk-config",
@@ -197,7 +197,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/andrewjrae/",
+        "url": "/shakespearedb/copies/andrewjrae/",
         "fileSlug": "andrewjrae",
         "title": "andrewjrae's QMK keymap for the SplitKB Kyria",
         "keymapUrl": "https://github.com/andrewjrae/kyria-keymap",
@@ -225,7 +225,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/anymak/",
+        "url": "/shakespearedb/copies/anymak/",
         "fileSlug": "anymak",
         "title": "anymak:END",
         "keymapUrl": "https://github.com/rpnfan/Anymak",
@@ -253,7 +253,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/archydragon/",
+        "url": "/shakespearedb/copies/archydragon/",
         "fileSlug": "archydragon",
         "title": "archydragon's multilingual layout for Lily58 keyboard",
         "keymapUrl": "https://github.com/archydragon/lily-layout",
@@ -281,7 +281,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/OneDeadKey/",
+        "url": "/shakespearedb/copies/OneDeadKey/",
         "fileSlug": "OneDeadKey",
         "title": "Arsenik",
         "keymapUrl": "https://github.com/OneDeadKey/arsenik",
@@ -309,7 +309,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ARTSEY/",
+        "url": "/shakespearedb/copies/ARTSEY/",
         "fileSlug": "ARTSEY",
         "title": "ARTSEY",
         "keymapUrl": "https://artsey.io/#firmware",
@@ -337,12 +337,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/khitsule-atreus/",
+        "url": "/shakespearedb/copies/khitsule-atreus/",
         "fileSlug": "khitsule-atreus",
         "title": "Atreus Layout by Khitsule",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/atreus/keymaps/khitsule",
         "author": "khitsule",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/khitsule-atreus.png",
+        "keymapImage": "/assets/img/title_icons/khitsule-atreus.png",
         "keyCount": 42,
         "firmwares": ["QMK"],
         "keyboard": "Atreus",
@@ -365,7 +365,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/haraldkubota/",
+        "url": "/shakespearedb/copies/haraldkubota/",
         "fileSlug": "haraldkubota",
         "title": "Bracket Left",
         "keymapUrl": "https://github.com/haraldkubota/static-files/blob/5f23e24eaa18bf1ff087ef41f7909e58bfc91d4f/corne/",
@@ -393,12 +393,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/brandonschlack/",
+        "url": "/shakespearedb/copies/brandonschlack/",
         "fileSlug": "brandonschlack",
         "title": "brandonschlack's Nightmare Keymap",
         "keymapUrl": "https://github.com/brandonschlack/qmk_firmware/tree/master/keyboards/nightmare/keymaps/brandonschlack",
         "author": "brandonschlack",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/brandonschlack.png",
+        "keymapImage": "/assets/img/title_icons/brandonschlack.png",
         "keyCount": 49,
         "firmwares": ["QMK"],
         "keyboard": "Nightmare",
@@ -421,7 +421,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/bsag/",
+        "url": "/shakespearedb/copies/bsag/",
         "fileSlug": "bsag",
         "title": "bsag's mini3x5+2 Ferris Sweep QMK layout",
         "keymapUrl": "https://github.com/bsag/qmk_custom",
@@ -449,7 +449,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/caksoylar/",
+        "url": "/shakespearedb/copies/caksoylar/",
         "fileSlug": "caksoylar",
         "title": "caksoylar's keymap for 26-30 key keyboards",
         "keymapUrl": "https://github.com/caksoylar/zmk-config",
@@ -477,7 +477,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/indianpojken/",
+        "url": "/shakespearedb/copies/indianpojken/",
         "fileSlug": "indianpojken",
         "title": "Caliply",
         "keymapUrl": "https://github.com/indianpojken/qmk-config/tree/main/ferris",
@@ -505,7 +505,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/callum_oakley/",
+        "url": "/shakespearedb/copies/callum_oakley/",
         "fileSlug": "callum_oakley",
         "title": "callum's keymap",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/users/callum",
@@ -533,7 +533,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/casuanoob/",
+        "url": "/shakespearedb/copies/casuanoob/",
         "fileSlug": "casuanoob",
         "title": "casuanoob's layout for BastardKB boards (and other 3x5+2)",
         "keymapUrl": "https://github.com/casuanoob/qmk_userspace/tree/casua/users/casuanoob",
@@ -561,12 +561,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/via-charybdis_nano/",
+        "url": "/shakespearedb/copies/via-charybdis_nano/",
         "fileSlug": "via-charybdis_nano",
         "title": "Charybdis (3x5) via keymap",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/bastardkb/charybdis/3x5/keymaps/via",
         "author": "0xcharly",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/via-charybdis_nano.webp",
+        "keymapImage": "/assets/img/title_icons/via-charybdis_nano.webp",
         "keyCount": 36,
         "firmwares": ["QMK"],
         "keyboard": "Charybdis Nano",
@@ -589,7 +589,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/gfolgert/",
+        "url": "/shakespearedb/copies/gfolgert/",
         "fileSlug": "gfolgert",
         "title": "Chordic",
         "keymapUrl": "https://github.com/gfolgert/qmk_firmware/tree/master/keyboards/crkbd/keymaps/gfolgert",
@@ -617,12 +617,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ranzq/",
+        "url": "/shakespearedb/copies/ranzq/",
         "fileSlug": "ranzq",
         "title": "Compact Sofle 3x5+5 for fi-FI",
         "keymapUrl": "https://github.com/RanzQ/qmk-keymaps/tree/main/sofle-rgb",
         "author": "RanzQ",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/ranzq.png",
+        "keymapImage": "/assets/img/title_icons/ranzq.png",
         "keyCount": 40,
         "firmwares": ["QMK"],
         "keyboard": "Sofle",
@@ -645,7 +645,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ajarov/",
+        "url": "/shakespearedb/copies/ajarov/",
         "fileSlug": "ajarov",
         "title": "Corne Spanish layout by ajarov",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/crkbd/keymaps/ajarov",
@@ -673,12 +673,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/purple_rw/",
+        "url": "/shakespearedb/copies/purple_rw/",
         "fileSlug": "purple_rw",
         "title": "Custom one-handed ARTSEY keyboard layout",
         "keymapUrl": "https://github.com/purple-rw/artsey-keyboard",
         "author": "purple-rw",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/purple_rw.jpg",
+        "keymapImage": "/assets/img/title_icons/purple_rw.jpg",
         "keyCount": 8,
         "firmwares": ["QMK"],
         "keyboard": "Macropad v2",
@@ -701,7 +701,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/finex/",
+        "url": "/shakespearedb/copies/finex/",
         "fileSlug": "finex",
         "title": "Customized keymap for Redox by Leonardo (FiNeX) Finetti",
         "keymapUrl": "https://github.com/finex/redox-finex/tree/simpleawesome",
@@ -729,7 +729,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/cyb3rkun/",
+        "url": "/shakespearedb/copies/cyb3rkun/",
         "fileSlug": "cyb3rkun",
         "title": "Cyb3rKun's Corne Layout for neovim, mouse navigation and gaming",
         "keymapUrl": "https://github.com/cyb3rkun/corneGLP",
@@ -757,7 +757,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/daisukekoba/",
+        "url": "/shakespearedb/copies/daisukekoba/",
         "fileSlug": "daisukekoba",
         "title": "Daisuke Kobayashi's Keymap for Ergo42",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/biacco42/ergo42/keymaps/koba",
@@ -785,12 +785,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/Dakes/",
+        "url": "/shakespearedb/copies/Dakes/",
         "fileSlug": "Dakes",
         "title": "Dakes' Keymap",
         "keymapUrl": "https://github.com/Dakes/qmk_config/tree/main/kyria/keymaps/dakes",
         "author": "Dakes",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/Dakes.png",
+        "keymapImage": "/assets/img/title_icons/Dakes.png",
         "keyCount": 50,
         "firmwares": ["QMK"],
         "keyboard": "Kyria",
@@ -813,7 +813,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dasmikko/",
+        "url": "/shakespearedb/copies/dasmikko/",
         "fileSlug": "dasmikko",
         "title": "dasmikko's Kyria QMK keymap",
         "keymapUrl": "https://github.com/dasmikko/qmk_stuff",
@@ -841,12 +841,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/datagrok/",
+        "url": "/shakespearedb/copies/datagrok/",
         "fileSlug": "datagrok",
         "title": "datagrok's layout for the Mitosis",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/mitosis/keymaps/datagrok",
         "author": "datagrok",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/datagrok.png",
+        "keymapImage": "/assets/img/title_icons/datagrok.png",
         "keyCount": 46,
         "firmwares": ["QMK"],
         "keyboard": "Mitosis",
@@ -869,12 +869,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dbroqua/",
+        "url": "/shakespearedb/copies/dbroqua/",
         "fileSlug": "dbroqua",
         "title": "Dbroqua Layout",
         "keymapUrl": "https://github.com/dbroqua/qmk_firmware/tree/master/keyboards/planck/keymaps/dbroqua",
         "author": "dbroqua",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/dbroqua.png",
+        "keymapImage": "/assets/img/title_icons/dbroqua.png",
         "keyCount": 47,
         "firmwares": ["QMK"],
         "keyboard": "Planck",
@@ -897,12 +897,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dchenex/",
+        "url": "/shakespearedb/copies/dchenex/",
         "fileSlug": "dchenex",
         "title": "dchenex Kyria layout",
         "keymapUrl": "https://github.com/dchenex/zmk-config/tree/master/config",
         "author": "dchenex",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/dchenex.webp",
+        "keymapImage": "/assets/img/title_icons/dchenex.webp",
         "keyCount": 50,
         "firmwares": ["ZMK"],
         "keyboard": "Kyria",
@@ -925,7 +925,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/default-kyria/",
+        "url": "/shakespearedb/copies/default-kyria/",
         "fileSlug": "default-kyria",
         "title": "Default Kyria keymap",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/master/keyboards/splitkb/kyria/keymaps/default/",
@@ -953,7 +953,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/0xcharly/",
+        "url": "/shakespearedb/copies/0xcharly/",
         "fileSlug": "0xcharly",
         "title": "delay/0xcharly's layout for BastardKB boards (and other 5x3)",
         "keymapUrl": "https://github.com/0xcharly/qmk_firmware/tree/users-delay-wip/users/delay",
@@ -981,7 +981,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/DesyncTheThird/",
+        "url": "/shakespearedb/copies/DesyncTheThird/",
         "fileSlug": "DesyncTheThird",
         "title": "Desync's keymap",
         "keymapUrl": "https://github.com/DesyncTheThird/corne-keymap/tree/main",
@@ -1009,7 +1009,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ferrance/",
+        "url": "/shakespearedb/copies/ferrance/",
         "fileSlug": "ferrance",
         "title": "dizave42",
         "keymapUrl": "https://github.com/ferrance/dizave42",
@@ -1037,7 +1037,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dlip-engram/",
+        "url": "/shakespearedb/copies/dlip-engram/",
         "fileSlug": "dlip-engram",
         "title": "Dlip's 28 Key Engram Layout",
         "keymapUrl": "https://github.com/dlip/qmk_firmware/tree/dlip/keyboards/tamatama/keymaps/engram",
@@ -1065,12 +1065,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dovenyi/",
+        "url": "/shakespearedb/copies/dovenyi/",
         "fileSlug": "dovenyi",
         "title": "dovenyi's Tormentor keymap",
         "keymapUrl": "http://www.keyboard-layout-editor.com/#/gists/9b6379d4940a356bf904ea5452bf3956",
         "author": "dovenyi",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/dovenyi.png",
+        "keymapImage": "/assets/img/title_icons/dovenyi.png",
         "keyCount": 46,
         "firmwares": ["QMK"],
         "keyboard": "S.Torm46",
@@ -1093,7 +1093,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dracks/",
+        "url": "/shakespearedb/copies/dracks/",
         "fileSlug": "dracks",
         "title": "Draconian",
         "keymapUrl": "https://github.com/Dracks/keyboard-draft-viewer/tree/main/qmk",
@@ -1121,7 +1121,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/duckyb/",
+        "url": "/shakespearedb/copies/duckyb/",
         "fileSlug": "duckyb",
         "title": "duckyb's Ferris Sweep ZMK Configuration",
         "keymapUrl": "https://github.com/duckyb/zmk-sweep",
@@ -1149,12 +1149,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/fsck-eco/",
+        "url": "/shakespearedb/copies/fsck-eco/",
         "fileSlug": "fsck-eco",
         "title": "ECO Layout by fsck",
         "keymapUrl": "https://github.com/fsck/qmk_firmware/tree/master/keyboards/eco/keymaps/fsck",
         "author": "fsck",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/fsck-eco.png",
+        "keymapImage": "/assets/img/title_icons/fsck-eco.png",
         "keyCount": 56,
         "firmwares": ["QMK"],
         "keyboard": "ECO",
@@ -1177,7 +1177,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ulounge/",
+        "url": "/shakespearedb/copies/ulounge/",
         "fileSlug": "ulounge",
         "title": "Ergo-L (French, English) layout for 34 keys Urchin",
         "keymapUrl": "https://github.com/ulounge/zmk-urchin",
@@ -1205,12 +1205,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/bpruitt_goddard/",
+        "url": "/shakespearedb/copies/bpruitt_goddard/",
         "fileSlug": "bpruitt_goddard",
         "title": "Ergodox EZ Layout by bpruitt-goddard",
         "keymapUrl": "https://github.com/bpruitt-goddard/qmk_firmware/tree/master/keyboards/ergodox_ez/keymaps/bpruitt-goddard",
         "author": "bpruitt-goddard",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/bpruitt_goddard.png",
+        "keymapImage": "/assets/img/title_icons/bpruitt_goddard.png",
         "keyCount": 76,
         "firmwares": ["QMK"],
         "keyboard": "ErgoDox",
@@ -1233,7 +1233,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/conner_mcnicholas/",
+        "url": "/shakespearedb/copies/conner_mcnicholas/",
         "fileSlug": "conner_mcnicholas",
         "title": "Final Ferriskey XXXIV",
         "keymapUrl": "https://github.com/conner-mcnicholas/FinalFerrisKey34",
@@ -1261,7 +1261,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/vvhg1/",
+        "url": "/shakespearedb/copies/vvhg1/",
         "fileSlug": "vvhg1",
         "title": "Fisk keymap",
         "keymapUrl": "https://github.com/vvhg1/fisk",
@@ -1289,12 +1289,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/kawamashi/",
+        "url": "/shakespearedb/copies/kawamashi/",
         "fileSlug": "kawamashi",
         "title": "FR-Godox",
         "keymapUrl": "https://configure.ergodox-ez.com/ergodox-ez/layouts/wOl03/latest/0",
         "author": "Kawamashi",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/kawamashi.webp",
+        "keymapImage": "/assets/img/title_icons/kawamashi.webp",
         "keyCount": 68,
         "firmwares": ["QMK"],
         "keyboard": "ErgoDox",
@@ -1317,12 +1317,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/eldritch_elder-splaytoraid40/",
+        "url": "/shakespearedb/copies/eldritch_elder-splaytoraid40/",
         "fileSlug": "eldritch_elder-splaytoraid40",
         "title": "freja's layout on the splaytoraid",
         "keymapUrl": "https://codeberg.org/eldritch-empress/keymap",
         "author": "eldritch-elder",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/eldritch_elder-splaytoraid40.webp",
+        "keymapImage": "/assets/img/title_icons/eldritch_elder-splaytoraid40.webp",
         "keyCount": 40,
         "firmwares": ["ZMK"],
         "keyboard": "Splaytoraid40",
@@ -1345,12 +1345,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/MakotoKurauchi-helix_froggy/",
+        "url": "/shakespearedb/copies/MakotoKurauchi-helix_froggy/",
         "fileSlug": "MakotoKurauchi-helix_froggy",
         "title": "Froggy -one hand Helix-",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/helix/rev2/keymaps/froggy",
         "author": "MakotoKurauchi",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/MakotoKurauchi-helix_froggy.webp",
+        "keymapImage": "/assets/img/title_icons/MakotoKurauchi-helix_froggy.webp",
         "keyCount": 32,
         "firmwares": ["QMK"],
         "keyboard": "Helix",
@@ -1373,7 +1373,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/frogmouth-kyria-rsthd_prime/",
+        "url": "/shakespearedb/copies/frogmouth-kyria-rsthd_prime/",
         "fileSlug": "frogmouth-kyria-rsthd_prime",
         "title": "frogmouth's Kyria RSTHD/Prime",
         "keymapUrl": "https://github.com/frogm0uth/keyboard-firmware/tree/main/kyria-rsthd-prime",
@@ -1401,7 +1401,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dschil138/",
+        "url": "/shakespearedb/copies/dschil138/",
         "fileSlug": "dschil138",
         "title": "Fulcrum",
         "keymapUrl": "https://github.com/dschil138/Fulcrum",
@@ -1429,7 +1429,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/yaelol1/",
+        "url": "/shakespearedb/copies/yaelol1/",
         "fileSlug": "yaelol1",
         "title": "Gawr Kynya!",
         "keymapUrl": "https://github.com/yaelol1/Gawr-Kynya",
@@ -1457,12 +1457,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/scylla_german_gaming/",
+        "url": "/shakespearedb/copies/scylla_german_gaming/",
         "fileSlug": "scylla_german_gaming",
         "title": "German Gaming Layout for the Scylla",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/bastardkb/scylla/keymaps/german_gaming",
         "author": "Joschua Gandert",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/scylla_german_gaming.webp",
+        "keymapImage": "/assets/img/title_icons/scylla_german_gaming.webp",
         "keyCount": 40,
         "firmwares": ["QMK"],
         "keyboard": "Scylla",
@@ -1485,7 +1485,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/godalming123/",
+        "url": "/shakespearedb/copies/godalming123/",
         "fileSlug": "godalming123",
         "title": "Godalming123's 30 key keymap",
         "keymapUrl": "https://github.com/godalming123/qmk-keymap",
@@ -1513,7 +1513,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/peterjc-hands_down_promethium/",
+        "url": "/shakespearedb/copies/peterjc-hands_down_promethium/",
         "fileSlug": "peterjc-hands_down_promethium",
         "title": "Hands Down Promethium (Pico mod) on Japanese Apple Keyboard",
         "keymapUrl": "https://codeberg.org/peterjc/kana-chording-ke/src/branch/main/hands-down-on-jis-macbook/",
@@ -1541,12 +1541,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/rytjens/",
+        "url": "/shakespearedb/copies/rytjens/",
         "fileSlug": "rytjens",
         "title": "Home row mods-free 34-key",
         "keymapUrl": null,
         "author": "rytjens",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/rytjens.webp",
+        "keymapImage": "/assets/img/title_icons/rytjens.webp",
         "keyCount": 34,
         "firmwares": ["ZMK"],
         "keyboard": "Chocofi",
@@ -1569,7 +1569,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/alvaro_prieto/",
+        "url": "/shakespearedb/copies/alvaro_prieto/",
         "fileSlug": "alvaro_prieto",
         "title": "Hysp keymap",
         "keymapUrl": "https://github.com/alvaro-prieto/corne",
@@ -1597,12 +1597,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/fluffactually/",
+        "url": "/shakespearedb/copies/fluffactually/",
         "fileSlug": "fluffactually",
         "title": "Iris layout by fluffactually",
         "keymapUrl": "https://github.com/fluffactually/qmk_firmware/tree/master/keyboards/keebio/iris/keymaps/fluffactually",
         "author": "fluffactually",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/fluffactually.png",
+        "keymapImage": "/assets/img/title_icons/fluffactually.png",
         "keyCount": 56,
         "firmwares": ["QMK"],
         "keyboard": "Iris",
@@ -1625,12 +1625,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/khitsule-iris/",
+        "url": "/shakespearedb/copies/khitsule-iris/",
         "fileSlug": "khitsule-iris",
         "title": "Iris Layout by Khitsule",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/keebio/iris/keymaps/khitsule",
         "author": "khitsule",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/khitsule-iris.png",
+        "keymapImage": "/assets/img/title_icons/khitsule-iris.png",
         "keyCount": 56,
         "firmwares": ["QMK"],
         "keyboard": "Iris",
@@ -1653,12 +1653,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ishtob/",
+        "url": "/shakespearedb/copies/ishtob/",
         "fileSlug": "ishtob",
         "title": "Ishtob's personal planck layout",
         "keymapUrl": "https://github.com/ishtob/qmk_firmware/tree/master/keyboards/planck/keymaps/ishtob",
         "author": "ishtob",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/ishtob.png",
+        "keymapImage": "/assets/img/title_icons/ishtob.png",
         "keyCount": 48,
         "firmwares": ["QMK"],
         "keyboard": "Planck",
@@ -1681,7 +1681,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/JannikWibker/",
+        "url": "/shakespearedb/copies/JannikWibker/",
         "fileSlug": "JannikWibker",
         "title": "Jannik Wibker's 40% ortho layout with custom xkb layout",
         "keymapUrl": "https://github.com/JannikWibker/qmk_niu_mini_keymap",
@@ -1709,7 +1709,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/jcmkk3/",
+        "url": "/shakespearedb/copies/jcmkk3/",
         "fileSlug": "jcmkk3",
         "title": "jcmkk3's config for Hummingbird keyboards",
         "keymapUrl": "https://github.com/jcmkk3/zmk-config",
@@ -1737,7 +1737,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/jporter_dev/",
+        "url": "/shakespearedb/copies/jporter_dev/",
         "fileSlug": "jporter_dev",
         "title": "jporter-dev's simple 36-key keymap for the Corne",
         "keymapUrl": "https://github.com/jporter-dev/keymaps",
@@ -1765,7 +1765,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/justinmklam/",
+        "url": "/shakespearedb/copies/justinmklam/",
         "fileSlug": "justinmklam",
         "title": "justinmklam's Corne Keyboard Layout",
         "keymapUrl": "https://github.com/justinmklam/corne-keyboard",
@@ -1793,7 +1793,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/justinmklam-karabiner/",
+        "url": "/shakespearedb/copies/justinmklam-karabiner/",
         "fileSlug": "justinmklam-karabiner",
         "title": "justinmklam's Layers for Standard Keyboards",
         "keymapUrl": "https://gist.github.com/justinmklam/3e389a6e06820ffaec1c2dea8381357b",
@@ -1821,12 +1821,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/jwon/",
+        "url": "/shakespearedb/copies/jwon/",
         "fileSlug": "jwon",
         "title": "jwon's Programmer Dvorak",
         "keymapUrl": "https://github.com/jwon/qmk_firmware/tree/master/keyboards/kinesis/keymaps/jwon",
         "author": "jwon",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/jwon.png",
+        "keymapImage": "/assets/img/title_icons/jwon.png",
         "keyCount": 86,
         "firmwares": ["QMK"],
         "keyboard": "Kinesis",
@@ -1849,7 +1849,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/argenkiwi/",
+        "url": "/shakespearedb/copies/argenkiwi/",
         "fileSlug": "argenkiwi",
         "title": "Kenkyo",
         "keymapUrl": "https://github.com/argenkiwi/kenkyo",
@@ -1877,12 +1877,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/konomu/",
+        "url": "/shakespearedb/copies/konomu/",
         "fileSlug": "konomu",
         "title": "konomu's one handed keyboard",
         "keymapUrl": "https://github.com/konomu/qmk_firmware/tree/frogpad/keyboards/crkbd/keymaps/frogpad",
         "author": "konomu",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/konomu.png",
+        "keymapImage": "/assets/img/title_icons/konomu.png",
         "keyCount": 21,
         "firmwares": ["QMK"],
         "keyboard": "Corne",
@@ -1905,12 +1905,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/magicmonty/",
+        "url": "/shakespearedb/copies/magicmonty/",
         "fileSlug": "magicmonty",
         "title": "Layout of @magicmonty",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/clueboard/66/keymaps/magicmonty",
         "author": "magicmonty",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/magicmonty.png",
+        "keymapImage": "/assets/img/title_icons/magicmonty.png",
         "keyCount": 66,
         "firmwares": ["QMK"],
         "keyboard": "Clueboard 66%",
@@ -1933,7 +1933,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/Lysquid/",
+        "url": "/shakespearedb/copies/Lysquid/",
         "fileSlug": "Lysquid",
         "title": "Lysquid's keymap",
         "keymapUrl": "https://github.com/Lysquid/qmk_firmware",
@@ -1961,12 +1961,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/bingocaller/",
+        "url": "/shakespearedb/copies/bingocaller/",
         "fileSlug": "bingocaller",
         "title": "MacOS standard 60% keymap with Vim-like arrows",
         "keymapUrl": "https://github.com/bingocaller/qmk_firmware/tree/master/keyboards/dz60/keymaps/bingocaller",
         "author": "bingocaller",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/bingocaller.png",
+        "keymapImage": "/assets/img/title_icons/bingocaller.png",
         "keyCount": 67,
         "firmwares": ["QMK"],
         "keyboard": "DZ60",
@@ -1989,7 +1989,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/markstos/",
+        "url": "/shakespearedb/copies/markstos/",
         "fileSlug": "markstos",
         "title": "Markstos Corne keyboard layout",
         "keymapUrl": "https://github.com/markstos/qmk_firmware/tree/markstos/keyboards/crkbd/keymaps/markstos",
@@ -2017,7 +2017,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/matobaa-braille/",
+        "url": "/shakespearedb/copies/matobaa-braille/",
         "fileSlug": "matobaa-braille",
         "title": "matobaa's Braille keyboard",
         "keymapUrl": "https://github.com/matobaa/braille_keyboard/tree/master",
@@ -2045,7 +2045,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/mattgemmell/",
+        "url": "/shakespearedb/copies/mattgemmell/",
         "fileSlug": "mattgemmell",
         "title": "Matt Gemmell's ever-evolving 34-key layout for iPadOS",
         "keymapUrl": "https://github.com/mattgemmell/qmk_firmware/tree/master/keyboards/crkbd/keymaps/mattgemmell",
@@ -2073,7 +2073,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/MattSturgeon/",
+        "url": "/shakespearedb/copies/MattSturgeon/",
         "fileSlug": "MattSturgeon",
         "title": "Matt Sturgeon's config for the MoErgo Glove80",
         "keymapUrl": "https://github.com/MattSturgeon/glove80-config",
@@ -2101,7 +2101,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/metheon/",
+        "url": "/shakespearedb/copies/metheon/",
         "fileSlug": "metheon",
         "title": "metheon's QMK layout",
         "keymapUrl": "https://github.com/metheon/qmk_layout",
@@ -2129,7 +2129,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/chaosk/",
+        "url": "/shakespearedb/copies/chaosk/",
         "fileSlug": "chaosk",
         "title": "Midas",
         "keymapUrl": "https://github.com/chaosk/midas",
@@ -2157,7 +2157,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/chusecubr/",
+        "url": "/shakespearedb/copies/chusecubr/",
         "fileSlug": "chusecubr",
         "title": "Mini-ryoku",
         "keymapUrl": "https://github.com/ChuseCubr/mini-ryoku/tree/main/qmk",
@@ -2185,7 +2185,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dolie/",
+        "url": "/shakespearedb/copies/dolie/",
         "fileSlug": "dolie",
         "title": "MiniDox Bépo",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/blob/user-keymaps-still-present/keyboards/maple_computing/minidox/keymaps/bepo",
@@ -2213,12 +2213,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/tw1t611/",
+        "url": "/shakespearedb/copies/tw1t611/",
         "fileSlug": "tw1t611",
         "title": "Minidox Layout by tw1t611",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/blob/user-keymaps-still-present/keyboards/maple_computing/minidox/keymaps/tw1t611",
         "author": "tw1t611",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/tw1t611.png",
+        "keymapImage": "/assets/img/title_icons/tw1t611.png",
         "keyCount": 36,
         "firmwares": ["QMK"],
         "keyboard": "MiniDox",
@@ -2241,12 +2241,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/lehoff/",
+        "url": "/shakespearedb/copies/lehoff/",
         "fileSlug": "lehoff",
         "title": "MiniDox Norman Layout by LeHoff",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/blob/user-keymaps-still-present/keyboards/maple_computing/minidox/keymaps/norman",
         "author": "lehoff",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/lehoff.png",
+        "keymapImage": "/assets/img/title_icons/lehoff.png",
         "keyCount": 36,
         "firmwares": ["QMK"],
         "keyboard": "MiniDox",
@@ -2269,7 +2269,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/manna_harbour/",
+        "url": "/shakespearedb/copies/manna_harbour/",
         "fileSlug": "manna_harbour",
         "title": "Miryoku",
         "keymapUrl": "https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku",
@@ -2297,7 +2297,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/mrkskk/",
+        "url": "/shakespearedb/copies/mrkskk/",
         "fileSlug": "mrkskk",
         "title": "mrkskk's QMK keymap for the Charybdis Nano",
         "keymapUrl": "https://github.com/mrkskk/qmk_firmware/tree/mrkskk_branch/keyboards/bastardkb/charybdis/3x5/keymaps/mrkskk",
@@ -2325,12 +2325,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/josefadamcik/",
+        "url": "/shakespearedb/copies/josefadamcik/",
         "fileSlug": "josefadamcik",
         "title": "Multi OS Katana60 layout",
         "keymapUrl": "https://github.com/josefadamcik/qmk_firmware/tree/master/keyboards/rominronin/katana60/rev1/keymaps/josefadamcik",
         "author": "josefadamcik",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/josefadamcik.png",
+        "keymapImage": "/assets/img/title_icons/josefadamcik.png",
         "keyCount": 70,
         "firmwares": ["QMK"],
         "keyboard": "Katana60",
@@ -2353,7 +2353,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/naginata/",
+        "url": "/shakespearedb/copies/naginata/",
         "fileSlug": "naginata",
         "title": "Naginata style (薙刀式)",
         "keymapUrl": "https://github.com/eswai/qmk_userspace/tree/main/users/naginata_v16",
@@ -2381,12 +2381,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/nerdypepper/",
+        "url": "/shakespearedb/copies/nerdypepper/",
         "fileSlug": "nerdypepper",
         "title": "nerdypepper's programming layout for the Ferricy",
         "keymapUrl": "https://git.peppe.rs/config/zmk/tree/config",
         "author": "nerdypepper",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/nerdypepper.png",
+        "keymapImage": "/assets/img/title_icons/nerdypepper.png",
         "keyCount": 34,
         "firmwares": ["ZMK"],
         "keyboard": "Ferris",
@@ -2409,12 +2409,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/peterjc-new_stickney/",
+        "url": "/shakespearedb/copies/peterjc-new_stickney/",
         "fileSlug": "peterjc-new_stickney",
         "title": "New Stickney Japanese keyboard layout on macOS via Karabiner-Elements",
         "keymapUrl": "https://codeberg.org/peterjc/kana-chording-ke/src/branch/main/new-stickney-in-macos/",
         "author": "peterjc",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/peterjc-new_stickney.png",
+        "keymapImage": "/assets/img/title_icons/peterjc-new_stickney.png",
         "keyCount": 60,
         "firmwares": ["Karabiner-Elements"],
         "keyboard": "ANSI",
@@ -2437,12 +2437,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/nfriend/",
+        "url": "/shakespearedb/copies/nfriend/",
         "fileSlug": "nfriend",
         "title": "nfriend's ErgoDox EZ configuration",
         "keymapUrl": "https://github.com/nfriend/qmk_firmware/tree/nfriend-ergodox-ez/keyboards/ergodox_ez/keymaps/nfriend",
         "author": "nfriend",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/nfriend.png",
+        "keymapImage": "/assets/img/title_icons/nfriend.png",
         "keyCount": 76,
         "firmwares": ["QMK"],
         "keyboard": "ErgoDox",
@@ -2465,7 +2465,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/h_youhei/",
+        "url": "/shakespearedb/copies/h_youhei/",
         "fileSlug": "h_youhei",
         "title": "No Pinkies",
         "keymapUrl": "https://github.com/h-youhei/qmk_keymap",
@@ -2493,7 +2493,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/timeopochin-oat_y/",
+        "url": "/shakespearedb/copies/timeopochin-oat_y/",
         "fileSlug": "timeopochin-oat_y",
         "title": "OAT Y",
         "keymapUrl": null,
@@ -2521,7 +2521,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ScriBanana/",
+        "url": "/shakespearedb/copies/ScriBanana/",
         "fileSlug": "ScriBanana",
         "title": "OptiCorne",
         "keymapUrl": "https://github.com/ScriBanana/OptiCorne",
@@ -2549,7 +2549,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/pcoves/",
+        "url": "/shakespearedb/copies/pcoves/",
         "fileSlug": "pcoves",
         "title": "Pablo Coves' 32-key layout",
         "keymapUrl": "https://github.com/pcoves/qmk_firmware/tree/pcoves/keyboards/crkbd/keymaps/pcoves",
@@ -2577,7 +2577,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/getreuer/",
+        "url": "/shakespearedb/copies/getreuer/",
         "fileSlug": "getreuer",
         "title": "Pascal Getreuer's QMK keymap",
         "keymapUrl": "https://github.com/getreuer/qmk-keymap",
@@ -2605,7 +2605,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/peterxjang/",
+        "url": "/shakespearedb/copies/peterxjang/",
         "fileSlug": "peterxjang",
         "title": "Peter Jang's 36-key beginner-friendly keyboard layout",
         "keymapUrl": "https://github.com/peterxjang/qmk_firmware/tree/master/keyboards/gergo/keymaps/peterxjang",
@@ -2633,12 +2633,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/pfn/",
+        "url": "/shakespearedb/copies/pfn/",
         "fileSlug": "pfn",
         "title": "pfn's Kyria QMK keymap",
         "keymapUrl": "https://github.com/pfn/qmk-keymap-kyria",
         "author": "pfn",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/pfn.png",
+        "keymapImage": "/assets/img/title_icons/pfn.png",
         "keyCount": 48,
         "firmwares": ["QMK"],
         "keyboard": "Kyria",
@@ -2661,7 +2661,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/phaberest/",
+        "url": "/shakespearedb/copies/phaberest/",
         "fileSlug": "phaberest",
         "title": "phaberest's corne",
         "keymapUrl": "https://github.com/phaberest/qmk_firmware/tree/main/keyboards/crkbd/keymaps/phaberest",
@@ -2689,7 +2689,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/mkovaxx-phalanx/",
+        "url": "/shakespearedb/copies/mkovaxx-phalanx/",
         "fileSlug": "mkovaxx-phalanx",
         "title": "Phalanx 36",
         "keymapUrl": "https://github.com/mkovaxx/phalanx36-for-Adv360-Pro",
@@ -2717,12 +2717,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/aidancz/",
+        "url": "/shakespearedb/copies/aidancz/",
         "fileSlug": "aidancz",
         "title": "Planck Crab",
         "keymapUrl": "https://github.com/aidancz/planck_crab",
         "author": "aidancz",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/aidancz.webp",
+        "keymapImage": "/assets/img/title_icons/aidancz.webp",
         "keyCount": 43,
         "firmwares": ["QMK"],
         "keyboard": "Planck",
@@ -2745,12 +2745,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/trguhq/",
+        "url": "/shakespearedb/copies/trguhq/",
         "fileSlug": "trguhq",
         "title": "Planck Unicode Rune",
         "keymapUrl": "https://github.com/trguhq/planck_rune",
         "author": "trguhq",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/trguhq.webp",
+        "keymapImage": "/assets/img/title_icons/trguhq.webp",
         "keyCount": 48,
         "firmwares": ["QMK"],
         "keyboard": "Planck",
@@ -2773,7 +2773,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/rayduck/",
+        "url": "/shakespearedb/copies/rayduck/",
         "fileSlug": "rayduck",
         "title": "Pnohty",
         "keymapUrl": "https://github.com/rayduck/zmk-config",
@@ -2801,12 +2801,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/precondition/",
+        "url": "/shakespearedb/copies/precondition/",
         "fileSlug": "precondition",
         "title": "Precondition's keymap for the Dactyl Manuform 5x6",
         "keymapUrl": "https://github.com/precondition/dactyl-manuform-keymap/",
         "author": "precondition",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/precondition.jpg",
+        "keymapImage": "/assets/img/title_icons/precondition.jpg",
         "keyCount": 64,
         "firmwares": ["QMK"],
         "keyboard": "Dactyl Manuform 5x6",
@@ -2829,7 +2829,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/pseudoku-ergowarp/",
+        "url": "/shakespearedb/copies/pseudoku-ergowarp/",
         "fileSlug": "pseudoku-ergowarp",
         "title": "Pseudoku's ErgoWarp",
         "keymapUrl": "https://github.com/pseudoku/ErgoWarp",
@@ -2857,7 +2857,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/CowboyVang/",
+        "url": "/shakespearedb/copies/CowboyVang/",
         "fileSlug": "CowboyVang",
         "title": "qmk-unicorne-colemak-dh",
         "keymapUrl": "https://github.com/CowboyVang/unicorne-keymap",
@@ -2885,7 +2885,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/rafaelromao/",
+        "url": "/shakespearedb/copies/rafaelromao/",
         "fileSlug": "rafaelromao",
         "title": "rafaelromao's keyboard layout",
         "keymapUrl": "https://github.com/rafaelromao/keyboards",
@@ -2913,12 +2913,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/ratoru/",
+        "url": "/shakespearedb/copies/ratoru/",
         "fileSlug": "ratoru",
         "title": "ratoru's keymaps for Kyria rev3 and Aurora Sweep",
         "keymapUrl": "https://github.com/ratoru/qmk_keymap/tree/main",
         "author": "ratoru",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/ratoru.webp",
+        "keymapImage": "/assets/img/title_icons/ratoru.webp",
         "keyCount": 50,
         "firmwares": ["QMK"],
         "keyboard": "Kyria",
@@ -2941,7 +2941,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/rearman/",
+        "url": "/shakespearedb/copies/rearman/",
         "fileSlug": "rearman",
         "title": "rearman's Corne Layout",
         "keymapUrl": "https://github.com/rearman/zmk-config/",
@@ -2969,7 +2969,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/grassfedreeve/",
+        "url": "/shakespearedb/copies/grassfedreeve/",
         "fileSlug": "grassfedreeve",
         "title": "reeve's keymap for 26-30 keys",
         "keymapUrl": "https://github.com/grassfedreeve/zmk-config-akohekohe",
@@ -2997,7 +2997,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/reinier/",
+        "url": "/shakespearedb/copies/reinier/",
         "fileSlug": "reinier",
         "title": "reinier's keymap for the Microdox and Moonlander",
         "keymapUrl": "https://github.com/reinier/dotfiles",
@@ -3025,7 +3025,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/rstacruz/",
+        "url": "/shakespearedb/copies/rstacruz/",
         "fileSlug": "rstacruz",
         "title": "Rico's keymap",
         "keymapUrl": "https://github.com/rstacruz/my_qmk_keymaps",
@@ -3053,12 +3053,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/timeopochin-rsi_terminated/",
+        "url": "/shakespearedb/copies/timeopochin-rsi_terminated/",
         "fileSlug": "timeopochin-rsi_terminated",
         "title": "RSI Terminated",
         "keymapUrl": null,
         "author": "timeopochin",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/timeopochin-rsi_terminated.png",
+        "keymapImage": "/assets/img/title_icons/timeopochin-rsi_terminated.png",
         "keyCount": 36,
         "firmwares": ["QMK"],
         "keyboard": "MiniDox",
@@ -3081,7 +3081,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/sartak/",
+        "url": "/shakespearedb/copies/sartak/",
         "fileSlug": "sartak",
         "title": "sartak's keyboard config heavily focused on chording words",
         "keymapUrl": "https://github.com/sartak/keyboard",
@@ -3109,12 +3109,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/seancolsen/",
+        "url": "/shakespearedb/copies/seancolsen/",
         "fileSlug": "seancolsen",
         "title": "seancolsen's 36 key layout with only 2 layers — and lots of combos!",
         "keymapUrl": null,
         "author": "seancolsen",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/seancolsen.webp",
+        "keymapImage": "/assets/img/title_icons/seancolsen.webp",
         "keyCount": 36,
         "firmwares": ["QMK"],
         "keyboard": "Corne",
@@ -3137,7 +3137,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/stevep99/",
+        "url": "/shakespearedb/copies/stevep99/",
         "fileSlug": "stevep99",
         "title": "Seniply",
         "keymapUrl": "https://github.com/stevep99/seniply/tree/master/downloads",
@@ -3165,12 +3165,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/shaykalyan/",
+        "url": "/shakespearedb/copies/shaykalyan/",
         "fileSlug": "shaykalyan",
         "title": "Shay Kalyan's Lily58",
         "keymapUrl": "https://github.com/shaykalyan/qmk_firmware/blob/lily58-keymap-add-shaykalyan/keyboards/lily58/keymaps/shaykalyan/",
         "author": "shaykalyan",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/shaykalyan.webp",
+        "keymapImage": "/assets/img/title_icons/shaykalyan.webp",
         "keyCount": 58,
         "firmwares": ["QMK"],
         "keyboard": "Lily58",
@@ -3193,7 +3193,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/smallcat/",
+        "url": "/shakespearedb/copies/smallcat/",
         "fileSlug": "smallcat",
         "title": "Smallcat",
         "keymapUrl": "https://github.com/smallwat3r/qmk-keymap",
@@ -3221,12 +3221,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/smt-minivan/",
+        "url": "/shakespearedb/copies/smt-minivan/",
         "fileSlug": "smt-minivan",
         "title": "smt's TV44 keymap",
         "keymapUrl": "https://github.com/smt/qmk_firmware/tree/master/keyboards/thevankeyboards/minivan/keymaps/smt",
         "author": "smt",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/smt-minivan.png",
+        "keymapImage": "/assets/img/title_icons/smt-minivan.png",
         "keyCount": 45,
         "firmwares": ["QMK"],
         "keyboard": "tv44",
@@ -3249,7 +3249,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/isaacsa51-halcyon_kyria/",
+        "url": "/shakespearedb/copies/isaacsa51-halcyon_kyria/",
         "fileSlug": "isaacsa51-halcyon_kyria",
         "title": "Spanish/English Kyria with Cirque Trackpad and OS Toggler",
         "keymapUrl": "https://github.com/isaacsa51/qmk_userspace/tree/isaac",
@@ -3277,7 +3277,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/isaacsa51/",
+        "url": "/shakespearedb/copies/isaacsa51/",
         "fileSlug": "isaacsa51",
         "title": "Spanish/English Programming Corne Keymap",
         "keymapUrl": "https://github.com/isaacsa51/zmk-config-corne",
@@ -3305,7 +3305,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/sennomo-stifluqz/",
+        "url": "/shakespearedb/copies/sennomo-stifluqz/",
         "fileSlug": "sennomo-stifluqz",
         "title": "StiFluQz layout for half Microdox",
         "keymapUrl": "https://github.com/sennomo/qmk_firmware/tree/master/keyboards/boardsource/microdox/keymaps/sennomo",
@@ -3333,7 +3333,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/lucordes/",
+        "url": "/shakespearedb/copies/lucordes/",
         "fileSlug": "lucordes",
         "title": "Sweep International Keymap",
         "keymapUrl": "https://github.com/lucordes/zmk-config-nomouse",
@@ -3361,12 +3361,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/t00mietum/",
+        "url": "/shakespearedb/copies/t00mietum/",
         "fileSlug": "t00mietum",
         "title": "t00mietum Comfort Keyboard",
         "keymapUrl": null,
         "author": "t00mietum",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/t00mietum.png",
+        "keymapImage": "/assets/img/title_icons/t00mietum.png",
         "keyCount": 48,
         "firmwares": ["QMK"],
         "keyboard": "Planck",
@@ -3389,7 +3389,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/valdirjunior011/",
+        "url": "/shakespearedb/copies/valdirjunior011/",
         "fileSlug": "valdirjunior011",
         "title": "Temper - wireless-only mechanical keyboard",
         "keymapUrl": "https://github.com/valdirjunior011/zmk-config-temper/tree/main/boards/shields/temper",
@@ -3417,7 +3417,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/skychil/",
+        "url": "/shakespearedb/copies/skychil/",
         "fileSlug": "skychil",
         "title": "The Kombol Layout",
         "keymapUrl": "https://github.com/skychil/kombol",
@@ -3445,7 +3445,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/rootiest/",
+        "url": "/shakespearedb/copies/rootiest/",
         "fileSlug": "rootiest",
         "title": "The Rootiest Planck Layout",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/planck/keymaps/rootiest",
@@ -3473,12 +3473,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/xsznix/",
+        "url": "/shakespearedb/copies/xsznix/",
         "fileSlug": "xsznix",
         "title": "The RSTHD layout",
         "keymapUrl": "https://github.com/xsznix/qmk_firmware/tree/master/keyboards/ergodox_ez/keymaps/rsthd",
         "author": "xsznix",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/xsznix.jpg",
+        "keymapImage": "/assets/img/title_icons/xsznix.jpg",
         "keyCount": 76,
         "firmwares": ["QMK"],
         "keyboard": "ErgoDox",
@@ -3501,7 +3501,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/squizzler/",
+        "url": "/shakespearedb/copies/squizzler/",
         "fileSlug": "squizzler",
         "title": "The RSTHD Layout for minidox - Empowered with Combos",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/maple_computing/minidox/keymaps/rsthd_combos",
@@ -3529,7 +3529,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/treeman/",
+        "url": "/shakespearedb/copies/treeman/",
         "fileSlug": "treeman",
         "title": "The T-34 keyboard layout",
         "keymapUrl": "https://github.com/treeman/qmk_firmware/tree/master/keyboards/ferris/keymaps/treeman",
@@ -3557,7 +3557,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/MicahElliot/",
+        "url": "/shakespearedb/copies/MicahElliot/",
         "fileSlug": "MicahElliot",
         "title": "The Woodpecker Makery's ZeLDA Layout for Planck Keyboards",
         "keymapUrl": "https://github.com/MicahElliott/ZeLDA",
@@ -3585,7 +3585,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/toykeeper-kanata_k400plus/",
+        "url": "/shakespearedb/copies/toykeeper-kanata_k400plus/",
         "fileSlug": "toykeeper-kanata_k400plus",
         "title": "ToyKeeper's Kanata keymap for Logitech K400+",
         "keymapUrl": "https://github.com/ToyKeeper/kanata-logitech-k400plus",
@@ -3613,12 +3613,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/fculpo/",
+        "url": "/shakespearedb/copies/fculpo/",
         "fileSlug": "fculpo",
         "title": "Tweaked keymap for Redox",
         "keymapUrl": "https://github.com/fculpo/qmk_firmware/tree/master/keyboards/redox/keymaps/fculpo",
         "author": "fculpo",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/fculpo.png",
+        "keymapImage": "/assets/img/title_icons/fculpo.png",
         "keyCount": 70,
         "firmwares": ["QMK"],
         "keyboard": "Redox",
@@ -3641,12 +3641,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/tynanbe/",
+        "url": "/shakespearedb/copies/tynanbe/",
         "fileSlug": "tynanbe",
         "title": "tynanbe's keymap based on dustypomerleau's minidox",
         "keymapUrl": "https://github.com/tynanbe/qmk_firmware/tree/tynanbe/users/tynanbe",
         "author": "tynanbe",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/tynanbe.jpg",
+        "keymapImage": "/assets/img/title_icons/tynanbe.jpg",
         "keyCount": 36,
         "firmwares": ["QMK"],
         "keyboard": "Arch-36",
@@ -3669,7 +3669,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/urob/",
+        "url": "/shakespearedb/copies/urob/",
         "fileSlug": "urob",
         "title": "urob's keymap for 34+ key keyboards",
         "keymapUrl": "https://github.com/urob/zmk-config",
@@ -3697,12 +3697,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/NeonSpork/",
+        "url": "/shakespearedb/copies/NeonSpork/",
         "fileSlug": "NeonSpork",
         "title": "UT47 Nordic keymap",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/40percentclub/ut47/keymaps/nordic",
         "author": "NeonSpork",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/NeonSpork.png",
+        "keymapImage": "/assets/img/title_icons/NeonSpork.png",
         "keyCount": 47,
         "firmwares": ["QMK"],
         "keyboard": "UT47",
@@ -3725,12 +3725,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/Vermoot/",
+        "url": "/shakespearedb/copies/Vermoot/",
         "fileSlug": "Vermoot",
         "title": "Vermoot's combo-heavy Kyria keymap for French and English",
         "keymapUrl": "https://github.com/Vermoot/qmk_keymaps/tree/master/kyria/keymaps/Vermoot",
         "author": "Vermoot",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/Vermoot.png",
+        "keymapImage": "/assets/img/title_icons/Vermoot.png",
         "keyCount": 46,
         "firmwares": ["QMK"],
         "keyboard": "Kyria",
@@ -3753,7 +3753,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/waffle87/",
+        "url": "/shakespearedb/copies/waffle87/",
         "fileSlug": "waffle87",
         "title": "waffle's keymap",
         "keymapUrl": "https://github.com/waffle87/qmk.me/",
@@ -3781,7 +3781,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/waynehoover/",
+        "url": "/shakespearedb/copies/waynehoover/",
         "fileSlug": "waynehoover",
         "title": "waynehoover's Dvorak IULM",
         "keymapUrl": "https://github.com/waynehoover/qmk_firmware/tree/waynehoover_keymaps/keyboards/crkbd/keymaps/waynehoover",
@@ -3809,7 +3809,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/braindefender-wellum/",
+        "url": "/shakespearedb/copies/braindefender-wellum/",
         "fileSlug": "braindefender-wellum",
         "title": "Wellum — 36-keys callum-styled keyboard layout",
         "keymapUrl": "https://github.com/braindefender/wellum",
@@ -3837,7 +3837,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/wernerdegroot/",
+        "url": "/shakespearedb/copies/wernerdegroot/",
         "fileSlug": "wernerdegroot",
         "title": "wernerdegroot's layout",
         "keymapUrl": "https://github.com/wernerdegroot/karabiner-elements",
@@ -3865,7 +3865,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/Wimads/",
+        "url": "/shakespearedb/copies/Wimads/",
         "fileSlug": "Wimads",
         "title": "Wimads' keymap for 3x5+3 split keyboards",
         "keymapUrl": "https://github.com/Wimads/qmk_firmware/blob/master/keyboards/keycapsss/3w6_2040/keymaps/Wimads",
@@ -3893,12 +3893,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/wochap/",
+        "url": "/shakespearedb/copies/wochap/",
         "fileSlug": "wochap",
         "title": "wochap's 3x5+2 corne layout",
         "keymapUrl": "https://github.com/wochap/corne-layout",
         "author": "wochap",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/wochap.webp",
+        "keymapImage": "/assets/img/title_icons/wochap.webp",
         "keyCount": 34,
         "firmwares": ["QMK"],
         "keyboard": "Corne",
@@ -3921,12 +3921,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/dickiedyce-corneish_zen/",
+        "url": "/shakespearedb/copies/dickiedyce-corneish_zen/",
         "fileSlug": "dickiedyce-corneish_zen",
         "title": "Workman Corneish-Zen",
         "keymapUrl": "https://github.com/dickiedyce/zmk-config-zen-2/blob/main/config/corneish_zen.keymap",
         "author": "dickiedyce",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/dickiedyce-corneish_zen.png",
+        "keymapImage": "/assets/img/title_icons/dickiedyce-corneish_zen.png",
         "keyCount": 42,
         "firmwares": ["ZMK"],
         "keyboard": "Corne",
@@ -3949,12 +3949,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/yhaliaw/",
+        "url": "/shakespearedb/copies/yhaliaw/",
         "fileSlug": "yhaliaw",
         "title": "yhaliaw Planck layout",
         "keymapUrl": "https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/planck/keymaps/yhaliaw",
         "author": "yhaliaw",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/yhaliaw.png",
+        "keymapImage": "/assets/img/title_icons/yhaliaw.png",
         "keyCount": 48,
         "firmwares": ["QMK"],
         "keyboard": "Planck",
@@ -3977,7 +3977,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/zzkt/",
+        "url": "/shakespearedb/copies/zzkt/",
         "fileSlug": "zzkt",
         "title": "zzkt's emacs-centric keymap for the crkbd",
         "keymapUrl": "https://github.com/zzkt/crkbd",
@@ -4005,12 +4005,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/lolo/",
+        "url": "/shakespearedb/copies/lolo/",
         "fileSlug": "lolo",
         "title": "Каряга",
         "keymapUrl": "",
         "author": "LoLo",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/lolo.png",
+        "keymapImage": "/assets/img/title_icons/lolo.png",
         "keyCount": 31,
         "firmwares": ["QMK"],
         "keyboard": "Snag",
@@ -4033,12 +4033,12 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/optozorax/",
+        "url": "/shakespearedb/copies/optozorax/",
         "fileSlug": "optozorax",
         "title": "Раскладка Ильи Шепрута",
         "keymapUrl": "https://github.com/optozorax/moonlander",
         "author": "optozorax",
-        "keymapImage": "/shakespearedb/assets/img/keymaps/optozorax.webp",
+        "keymapImage": "/assets/img/title_icons/optozorax.webp",
         "keyCount": 72,
         "firmwares": ["QMK"],
         "keyboard": "Moonlander",
@@ -4061,7 +4061,7 @@
     },
     {
 
-        "url": "/shakespearedb/keymaps/minusfive/",
+        "url": "/shakespearedb/copies/minusfive/",
         "fileSlug": "minusfive",
         "title": "👊 Knucklehead",
         "keymapUrl": "https://github.com/minusfive/knucklehead",
