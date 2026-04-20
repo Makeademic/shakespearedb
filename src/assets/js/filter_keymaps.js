@@ -26,7 +26,7 @@ function isKeymapConforming(query, keymapData) {
         // keymapData["summary"] might be null so that's why we use
         // AND's short-circuit evaluation to check for null before accessing
         // the toLowerCase property. It might also be an array of strings instead.
-        let isConformingToTypedSearch = (word) => ["title", "author", "summary"]
+        let isConformingToTypedSearch = (word) => ["title", "author", "summary", "OS", "languages"]
             .map(fieldN => keymapData[fieldN] && String(keymapData[fieldN]).toLowerCase().indexOf(word.toLowerCase()) !== -1)
             .some(Boolean);
         if (!value.split(" ").every(isConformingToTypedSearch)) {
