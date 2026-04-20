@@ -11,7 +11,7 @@ module.exports = {
         if (data.keymapImage.search(/^https?:\/\//) !== -1) {
           return data.keymapImage.replace("http:", "https:");
         }
-        return `/assets/img/keymaps/${data.keymapImage}`;
+        return `/shakespearedb/assets/img/keymaps/${data.keymapImage}`;
       } else {
         return false;
       }
