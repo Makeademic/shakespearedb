@@ -5,13 +5,13 @@ function oxfordJoin(coll) {
 module.exports = {
   layout: "layouts/keymapdb_entry.njk",
   eleventyComputed: {
-    permalink: (data) => `keymaps/${data.page.fileSlug}/index.html`,
+    permalink: (data) => `copies/${data.page.fileSlug}/index.html`,
     keymapImage: (data) => {
       if (data.keymapImage) {
         if (data.keymapImage.search(/^https?:\/\//) !== -1) {
           return data.keymapImage.replace("http:", "https:");
         }
-        return `/shakespearedb/assets/img/keymaps/${data.keymapImage}`;
+        return `/assets/img/title_icons/${data.keymapImage}`;
       } else {
         return false;
       }
