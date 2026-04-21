@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Corne
 keyCount: 42
-keymapImage: "https://raw.githubusercontent.com/rearman/zmk-config/master/corne.svg"
+titleImage: "https://raw.githubusercontent.com/rearman/zmk-config/master/corne.svg"
 keymapUrl: "https://github.com/rearman/zmk-config/"
 languages: [English]
 layerCount: 3

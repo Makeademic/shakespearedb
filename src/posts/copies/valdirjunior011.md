@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Temper
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/valdirjunior011/zmk-config-temper/main/keymap_img/temper.svg
+titleImage: https://raw.githubusercontent.com/valdirjunior011/zmk-config-temper/main/keymap_img/temper.svg
 keymapUrl: https://github.com/valdirjunior011/zmk-config-temper/tree/main/boards/shields/temper
 languages: [English]
 layerCount: 5

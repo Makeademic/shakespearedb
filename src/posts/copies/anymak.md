@@ -12,7 +12,7 @@ isTapDanceEnabled: true # true or false
 keybindings: [] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: Corne  # Kyria or Corne or Dactyl Manuform 5x6 or ...
 keyCount: 32
-keymapImage: https://rpnfan.github.io/keyboard-heaven/images/anymak-end.png
+titleImage: https://rpnfan.github.io/keyboard-heaven/images/anymak-end.png
 keymapUrl: https://github.com/rpnfan/Anymak
 languages: ["English", "German", "Dutch"] # [English, Spanish, ...]
 layerCount: 3

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Ferris
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/metheon/qmk_layout/main/images/keymap.svg
+titleImage: https://raw.githubusercontent.com/metheon/qmk_layout/main/images/keymap.svg
 keymapUrl: https://github.com/metheon/qmk_layout
 languages: [English, Danish]
 layerCount: 8

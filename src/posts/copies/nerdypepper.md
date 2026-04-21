@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, Graphics/CAD]
 keyboard: Ferris
 keyCount: 34
-keymapImage: nerdypepper.png
+titleImage: nerdypepper.png
 keymapUrl: https://git.peppe.rs/config/zmk/tree/config
 languages: [English]
 layerCount: 6

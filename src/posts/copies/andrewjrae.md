@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, TWM, Gaming]
 keyboard: Kyria
 keyCount: 46
-keymapImage: https://github.com/andrewjrae/kyria-keymap/raw/master/images/kyria.png
+titleImage: https://github.com/andrewjrae/kyria-keymap/raw/master/images/kyria.png
 keymapUrl: https://github.com/andrewjrae/kyria-keymap
 languages: [English]
 layerCount: 7

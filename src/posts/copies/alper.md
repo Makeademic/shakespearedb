@@ -4,7 +4,7 @@ author: alper
 firmwares: [QMK]
 hasHomeRowMods: False
 hasLetterOnThumb: False
-keymapImage: alper.png
+titleImage: alper.png
 keyCount: 47
 keyboard: Contra
 baseLayouts: ["QWERTY"]

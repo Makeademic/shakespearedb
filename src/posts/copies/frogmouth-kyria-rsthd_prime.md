@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Kyria
 keyCount: 41
-keymapImage: https://raw.githubusercontent.com/frogm0uth/keyboard-firmware/main/kyria-rsthd-prime/docs/images/kyria-rsthd-prime-alpha.png
+titleImage: https://raw.githubusercontent.com/frogm0uth/keyboard-firmware/main/kyria-rsthd-prime/docs/images/kyria-rsthd-prime-alpha.png
 keymapUrl: https://github.com/frogm0uth/keyboard-firmware/tree/main/kyria-rsthd-prime
 languages: [English]
 layerCount: 6

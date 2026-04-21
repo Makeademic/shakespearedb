@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Planck
 keyCount: 48
-keymapImage: t00mietum.png
+titleImage: t00mietum.png
 keymapUrl: # (t00mietum deleted the repo on GH and the web archive only archived the landing page) https://github.com/t00mietum/keyboard/
 languages: [English]
 layerCount: 9

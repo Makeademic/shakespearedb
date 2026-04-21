@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Gergo
 keyCount: 36
-keymapImage: https://peterxjang.com/img/36-key-layout.png
+titleImage: https://peterxjang.com/img/36-key-layout.png
 keymapUrl: https://github.com/peterxjang/qmk_firmware/tree/master/keyboards/gergo/keymaps/peterxjang
 languages: [English]
 layerCount: 3

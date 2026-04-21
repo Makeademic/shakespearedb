@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, TWM]
 keyboard: Kyria
 keyCount: 50
-keymapImage: https://user-images.githubusercontent.com/72839499/130539776-64c081e4-e99b-4d23-a7e8-4db67cdaea16.png
+titleImage: https://user-images.githubusercontent.com/72839499/130539776-64c081e4-e99b-4d23-a7e8-4db67cdaea16.png
 keymapUrl: https://github.com/skychil/kombol
 languages: [English]
 layerCount: 7

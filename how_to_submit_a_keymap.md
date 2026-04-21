@@ -26,7 +26,7 @@ isTapDanceEnabled: # true or false
 keybindings: # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: # Kyria or Corne or Dactyl Manuform 5x6 or ...
 keyCount:
-keymapImage:
+titleImage:
 keymapUrl:
 languages: # [English, Spanish, ...]
 layerCount:

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [TWM, Emacs, Vim]
 keyboard: Planck
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/MicahElliott/ZeLDA/master/keyboard-layout-all.png
+titleImage: https://raw.githubusercontent.com/MicahElliott/ZeLDA/master/keyboard-layout-all.png
 keymapUrl: https://github.com/MicahElliott/ZeLDA
 languages: [English]
 layerCount: 4

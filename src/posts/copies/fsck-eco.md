@@ -4,7 +4,7 @@ author: fsck
 firmwares: [QMK]
 hasHomeRowMods: False
 hasLetterOnThumb: False
-keymapImage: fsck-eco.png
+titleImage: fsck-eco.png
 keyCount: 56
 keyboard: ECO
 baseLayouts: ["QWERTY"]

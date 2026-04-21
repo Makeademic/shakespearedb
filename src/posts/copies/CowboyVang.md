@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Unicorne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/CowboyVang/unicorne-keymap/main/images/layer-0-base.svg
+titleImage: https://raw.githubusercontent.com/CowboyVang/unicorne-keymap/main/images/layer-0-base.svg
 keymapUrl: https://github.com/CowboyVang/unicorne-keymap
 languages: [English]
 layerCount: 3

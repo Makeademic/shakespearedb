@@ -4,7 +4,7 @@ author: yhaliaw
 firmwares: [QMK]
 hasHomeRowMods: False
 hasLetterOnThumb: False
-keymapImage: yhaliaw.png
+titleImage: yhaliaw.png
 keyCount: 48
 keyboard: Planck
 baseLayouts: ["QWERTY"]

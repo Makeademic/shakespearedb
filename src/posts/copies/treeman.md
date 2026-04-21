@@ -13,7 +13,7 @@ keybindings: [Vim, TWM]
 keyboard: Ferris
 keyCount: 34
 # There are more separate layer images
-keymapImage: https://www.jonashietala.se/images/t-34/base.png
+titleImage: https://www.jonashietala.se/images/t-34/base.png
 keymapUrl: https://github.com/treeman/qmk_firmware/tree/master/keyboards/ferris/keymaps/treeman
 languages: [English, Swedish]
 layerCount: 10

@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [Gaming]
 keyboard: ErgoDox
 keyCount: 38
-keymapImage: https://raw.githubusercontent.com/chaosk/midas/master/layout.png
+titleImage: https://raw.githubusercontent.com/chaosk/midas/master/layout.png
 keymapUrl: https://github.com/chaosk/midas
 languages: []
 layerCount: 3

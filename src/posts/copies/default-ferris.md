@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Ferris
 keyCount: 34
-keymapImage: default-ferris.png
+titleImage: default-ferris.png
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/ferris/keymaps/default
 languages: [English]
 layerCount: 8

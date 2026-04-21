@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: S.Torm46
 keyCount: 46
-keymapImage: dovenyi.png
+titleImage: dovenyi.png
 keymapUrl: http://www.keyboard-layout-editor.com/#/gists/9b6379d4940a356bf904ea5452bf3956
 languages: [Hungarian, English]
 layerCount: 5

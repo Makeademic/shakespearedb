@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Corne
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/mattgemmell/qmk_firmware/master/keyboards/crkbd/keymaps/mattgemmell/keymap_diagram.svg
+titleImage: https://raw.githubusercontent.com/mattgemmell/qmk_firmware/master/keyboards/crkbd/keymaps/mattgemmell/keymap_diagram.svg
 keymapUrl: https://github.com/mattgemmell/qmk_firmware/tree/master/keyboards/crkbd/keymaps/mattgemmell
 languages: [English]
 layerCount: 4

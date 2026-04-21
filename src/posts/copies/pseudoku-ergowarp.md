@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: ErgoWarp
 keyCount: 46
-keymapImage: https://raw.githubusercontent.com/pseudoku/Warped-keyboard/master/Photo/WarpmanLayout.png
+titleImage: https://raw.githubusercontent.com/pseudoku/Warped-keyboard/master/Photo/WarpmanLayout.png
 keymapUrl: https://github.com/pseudoku/ErgoWarp
 languages: [English]
 layerCount: 4

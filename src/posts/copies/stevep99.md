@@ -13,7 +13,7 @@ keybindings: []
 # I honestly don't know what to put in since it supports so many keyboards
 keyboard: ""
 keyCount: 34
-keymapImage: https://stevep99.github.io/seniply/gfx/seniply_us_matrix_all.png
+titleImage: https://stevep99.github.io/seniply/gfx/seniply_us_matrix_all.png
 keymapUrl: https://github.com/stevep99/seniply/tree/master/downloads
 languages: [English]
 layerCount: 5

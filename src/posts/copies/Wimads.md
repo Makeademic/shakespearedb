@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Graphics/CAD]
 keyboard: 3W6
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/Wimads/qmk_firmware/master/keyboards/keycapsss/3w6_2040/keymaps/Wimads/keymapdb/Layers.png
+titleImage: https://raw.githubusercontent.com/Wimads/qmk_firmware/master/keyboards/keycapsss/3w6_2040/keymaps/Wimads/keymapdb/Layers.png
 keymapUrl: https://github.com/Wimads/qmk_firmware/blob/master/keyboards/keycapsss/3w6_2040/keymaps/Wimads
 languages: [English, Dutch]
 layerCount: 6

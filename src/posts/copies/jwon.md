@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Kinesis
 keyCount: 86
-keymapImage: jwon.png
+titleImage: jwon.png
 keymapUrl: https://github.com/jwon/qmk_firmware/tree/master/keyboards/kinesis/keymaps/jwon
 languages: ['English']
 layerCount: 4

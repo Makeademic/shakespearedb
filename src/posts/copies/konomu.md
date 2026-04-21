@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Corne
 keyCount: 21
-keymapImage: konomu.png
+titleImage: konomu.png
 keymapUrl: https://github.com/konomu/qmk_firmware/tree/frogpad/keyboards/crkbd/keymaps/frogpad
 languages: [English]
 layerCount: 4

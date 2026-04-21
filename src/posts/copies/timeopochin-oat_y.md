@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, TWM]
 keyboard: MiniDox
 keyCount: 36
-keymapImage: https://i.redd.it/jdjmkli09yi91.png
+titleImage: https://i.redd.it/jdjmkli09yi91.png
 keymapUrl:
 languages: [English]
 layerCount: 4

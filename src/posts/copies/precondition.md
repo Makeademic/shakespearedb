@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [Vim]
 keyboard: Dactyl Manuform 5x6
 keyCount: 64
-keymapImage: precondition.jpg
+titleImage: precondition.jpg
 keymapUrl: https://github.com/precondition/dactyl-manuform-keymap/
 languages: [English, French]
 layerCount: 7

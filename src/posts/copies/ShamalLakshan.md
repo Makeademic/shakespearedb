@@ -12,7 +12,7 @@ isTapDanceEnabled: false                                                        
 keybindings: []                                                                                                                 # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: BGKeeb                                                                                                                # Kyria or Corne or Dactyl Manuform 5x6 or ...
 keyCount: 36
-keymapImage: "https://raw.githubusercontent.com/ShamalLakshan/36-QWERTY-Tap-Switch-Keymap/refs/heads/main/images/preview.png"
+titleImage: "https://raw.githubusercontent.com/ShamalLakshan/36-QWERTY-Tap-Switch-Keymap/refs/heads/main/images/preview.png"
 keymapUrl: "https://github.com/ShamalLakshan/36-QWERTY-Tap-Switch-Keymap"
 languages: [English]                                                                                                            # [English, Spanish, ...]
 layerCount: 6

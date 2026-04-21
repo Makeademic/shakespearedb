@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: ["Vim", "Gaming"]
 keyboard: Corne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/phaberest/qmk_firmware/main/keyboards/crkbd/keymaps/phaberest/keymap.svg
+titleImage: https://raw.githubusercontent.com/phaberest/qmk_firmware/main/keyboards/crkbd/keymaps/phaberest/keymap.svg
 keymapUrl: https://github.com/phaberest/qmk_firmware/tree/main/keyboards/crkbd/keymaps/phaberest
 languages: ["English"]
 layerCount: 7

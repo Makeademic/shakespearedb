@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Macropad v2
 keyCount: 8
-keymapImage: purple_rw.jpg
+titleImage: purple_rw.jpg
 keymapUrl: https://github.com/purple-rw/artsey-keyboard
 languages: [English]
 layerCount: 7

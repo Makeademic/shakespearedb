@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [TWM]
 keyboard: Kyria
 keyCount: 50
-keymapImage: https://github.com/isaacsa51/qmk_userspace/raw/isaac/res/combined.png
+titleImage: https://github.com/isaacsa51/qmk_userspace/raw/isaac/res/combined.png
 keymapUrl: https://github.com/isaacsa51/qmk_userspace/tree/isaac
 languages: [English, Spanish]
 layerCount: 10

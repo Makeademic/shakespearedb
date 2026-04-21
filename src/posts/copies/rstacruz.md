@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, TWM]
 keyboard: Planck
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/rstacruz/my_qmk_keymaps/main/preview.png
+titleImage: https://raw.githubusercontent.com/rstacruz/my_qmk_keymaps/main/preview.png
 keymapUrl: https://github.com/rstacruz/my_qmk_keymaps
 languages: [English]
 # Has more layers if one-handed frogpad mode is enabled

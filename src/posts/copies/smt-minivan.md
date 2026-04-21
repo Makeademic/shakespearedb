@@ -4,7 +4,7 @@ author: smt
 firmwares: [QMK]
 hasHomeRowMods: False
 hasLetterOnThumb: False
-keymapImage: smt-minivan.png
+titleImage: smt-minivan.png
 keyCount: 45
 keyboard: tv44
 baseLayouts: ["Dvorak", "Colemak", "QWERTY"]

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: NIU Mini
 keyCount: 47
-keymapImage: https://raw.githubusercontent.com/JannikWibker/qmk_niu_mini_keymap/master/layout.png
+titleImage: https://raw.githubusercontent.com/JannikWibker/qmk_niu_mini_keymap/master/layout.png
 keymapUrl: https://github.com/JannikWibker/qmk_niu_mini_keymap
 languages: [English]
 layerCount: 12

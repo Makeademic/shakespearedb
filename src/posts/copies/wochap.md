@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Corne
 keyCount: 34
-keymapImage: wochap.webp
+titleImage: wochap.webp
 keymapUrl: https://github.com/wochap/corne-layout
 languages: [English]
 layerCount: 6

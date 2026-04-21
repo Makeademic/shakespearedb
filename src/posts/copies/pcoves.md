@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, TWM]
 keyboard: Corne
 keyCount: 32
-keymapImage: https://pcoves.gitlab.io/en/blog/i-was-wrong-36-keys-is-way-too-much/layout_4.png
+titleImage: https://pcoves.gitlab.io/en/blog/i-was-wrong-36-keys-is-way-too-much/layout_4.png
 keymapUrl: https://github.com/pcoves/qmk_firmware/tree/pcoves/keyboards/crkbd/keymaps/pcoves
 languages: [English, French]
 layerCount: 2

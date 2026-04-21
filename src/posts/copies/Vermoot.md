@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Kyria
 keyCount: 46
-keymapImage: Vermoot.png
+titleImage: Vermoot.png
 keymapUrl: https://github.com/Vermoot/qmk_keymaps/tree/master/kyria/keymaps/Vermoot
 languages: [French, English]
 layerCount: 11

@@ -13,7 +13,7 @@ keybindings: []
 # Also Moonlander
 keyboard: Microdox
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/reinier/dotfiles/main/hammerspoon/keyboard/keymap.png
+titleImage: https://raw.githubusercontent.com/reinier/dotfiles/main/hammerspoon/keyboard/keymap.png
 keymapUrl: https://github.com/reinier/dotfiles
 languages: [English, Dutch]
 layerCount: 5

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Kyria
 keyCount: 50
-keymapImage: https://i.ibb.co/RQZx2dY/default-kyria2.jpg
+titleImage: https://i.ibb.co/RQZx2dY/default-kyria2.jpg
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/master/keyboards/splitkb/kyria/keymaps/default/
 languages: [English]
 layerCount: 7

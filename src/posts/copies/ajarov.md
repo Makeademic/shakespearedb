@@ -12,7 +12,7 @@ isTapDanceEnabled: False
 keybindings: []
 keyboard: Corne
 keyCount: 42
-keymapImage: https://user-images.githubusercontent.com/1832140/178291869-ea3c070b-2c0d-45f9-aeb8-00ac6942e847.png
+titleImage: https://user-images.githubusercontent.com/1832140/178291869-ea3c070b-2c0d-45f9-aeb8-00ac6942e847.png
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/crkbd/keymaps/ajarov
 languages: ["Spanish"]
 layerCount: 4

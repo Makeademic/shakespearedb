@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Corne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/ScriBanana/OptiCorne/refs/heads/master/Illustrations/CorneOptimot.webp
+titleImage: https://raw.githubusercontent.com/ScriBanana/OptiCorne/refs/heads/master/Illustrations/CorneOptimot.webp
 keymapUrl: https://github.com/ScriBanana/OptiCorne
 languages: [French, English]
 layerCount: 4

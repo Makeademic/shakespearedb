@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming, Kakoune, Vim]
 keyboard: "Hummingbird"
 keyCount: 26
-keymapImage: https://caksoylar.github.io/zmk-config/keymapdb.svg
+titleImage: https://caksoylar.github.io/zmk-config/keymapdb.svg
 keymapUrl: https://github.com/caksoylar/zmk-config
 languages: [English]
 layerCount: 7

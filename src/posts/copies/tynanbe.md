@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [TWM]
 keyboard: Arch-36
 keyCount: 36
-keymapImage: tynanbe.jpg
+titleImage: tynanbe.jpg
 keymapUrl: https://github.com/tynanbe/qmk_firmware/tree/tynanbe/users/tynanbe
 languages: [English]
 layerCount: 9

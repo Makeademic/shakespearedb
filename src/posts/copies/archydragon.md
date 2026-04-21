@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Lily58
 keyCount: 58
-keymapImage: https://raw.githubusercontent.com/archydragon/lily-layout/main/img/latin-colemak.png
+titleImage: https://raw.githubusercontent.com/archydragon/lily-layout/main/img/latin-colemak.png
 keymapUrl: https://github.com/archydragon/lily-layout
 languages: [English, Finnish, Swedish, Russian, Ukrainian, Belarusian]
 layerCount: 6

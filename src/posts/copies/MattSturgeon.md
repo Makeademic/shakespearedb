@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, Gaming]
 keyboard: Glove80
 keyCount: 70
-keymapImage: https://github.com/MattSturgeon/glove80-config/raw/6be8debed9bba1107392ef65004dc75df97ac9f2/img/glove80_ColmakDH.svg
+titleImage: https://github.com/MattSturgeon/glove80-config/raw/6be8debed9bba1107392ef65004dc75df97ac9f2/img/glove80_ColmakDH.svg
 keymapUrl: https://github.com/MattSturgeon/glove80-config
 languages: [English]
 layerCount: 6

@@ -21,11 +21,11 @@ keybindings: []
     <header class="mb-14">
         <h1 class="text-3xl text-center font-bold leading-normal text-gray-900 mt-0 mb-3">{{ title }}</h1>
         <h2 class="text-2xl text-center leading-normal text-gray-750 mt-0 mb-3">Author: {{ author }}</h2>
-        {% if keymapImage %}
-            <a href="{{ keymapImage | url }}">
+        {% if titleImage %}
+            <a href="{{ titleImage | url }}">
             <img
             class="w-full m-0 rounded-t lazy"
-            src="{% if keymapImage %}{{ keymapImage | url }}{% elif image %}{{ image | url }}{% else %}{{ '/assets/img/no-image.svg' | url }}{% endif %}"
+            src="{% if titleImage %}{{ titleImage | url }}{% elif image %}{{ image | url }}{% else %}{{ '/assets/img/no-image.svg' | url }}{% endif %}"
             width="960"
             height="500"
             alt="{{ imageAlt }}">

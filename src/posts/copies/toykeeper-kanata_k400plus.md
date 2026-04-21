@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Logitech K400+
 keyCount: 82
-keymapImage: https://raw.githubusercontent.com/ToyKeeper/kanata-logitech-k400plus/trunk/tk-k400%2B.png
+titleImage: https://raw.githubusercontent.com/ToyKeeper/kanata-logitech-k400plus/trunk/tk-k400%2B.png
 keymapUrl: https://github.com/ToyKeeper/kanata-logitech-k400plus
 languages: [English]
 layerCount: 7

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: ANSI
 keyCount: 31
-keymapImage: https://oookaworks.up.seesaa.net/image/E89699E58880E5BC8Fv16E6A0BCE5AD90-thumbnail2.jpg
+titleImage: https://oookaworks.up.seesaa.net/image/E89699E58880E5BC8Fv16E6A0BCE5AD90-thumbnail2.jpg
 keymapUrl: https://github.com/eswai/qmk_userspace/tree/main/users/naginata_v16
 languages: [Japanese]
 layerCount: 3

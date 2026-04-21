@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Charybdis Nano
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/casuanoob/qmk_userspace/refs/heads/casua/users/casuanoob/assets/split34_keymap_qmk.svg
+titleImage: https://raw.githubusercontent.com/casuanoob/qmk_userspace/refs/heads/casua/users/casuanoob/assets/split34_keymap_qmk.svg
 keymapUrl: https://github.com/casuanoob/qmk_userspace/tree/casua/users/casuanoob
 languages: [English]
 layerCount: 16

@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: []
 keyboard: ErgoDox
 keyCount: 76
-keymapImage: bpruitt_goddard.png
+titleImage: bpruitt_goddard.png
 keymapUrl: https://github.com/bpruitt-goddard/qmk_firmware/tree/master/keyboards/ergodox_ez/keymaps/bpruitt-goddard
 languages: ['English']
 layerCount: 4

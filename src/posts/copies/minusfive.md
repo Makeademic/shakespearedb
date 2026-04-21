@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [Vim]
 keyboard: Corne
 keyCount: 42
-keymapImage: https://minusfive.com/knucklehead/corneish_zen.svg
+titleImage: https://minusfive.com/knucklehead/corneish_zen.svg
 keymapUrl: https://github.com/minusfive/knucklehead
 languages: [English, Spanish]
 layerCount: 3

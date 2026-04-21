@@ -12,7 +12,7 @@ isTapDanceEnabled: False
 keybindings: ["Emacs"]
 keyboard: Corne
 keyCount: 42
-keymapImage: https://github.com/zzkt/crkbd/raw/endless/img/zzkt--alphalikes.png
+titleImage: https://github.com/zzkt/crkbd/raw/endless/img/zzkt--alphalikes.png
 keymapUrl: https://github.com/zzkt/crkbd
 languages: ["English"]
 layerCount: 6

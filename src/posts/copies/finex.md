@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [TWM]
 keyboard: Redox
 keyCount: 70
-keymapImage: https://raw.githubusercontent.com/finex/redox-finex/simpleawesome/images/redox-finex.png
+titleImage: https://raw.githubusercontent.com/finex/redox-finex/simpleawesome/images/redox-finex.png
 keymapUrl: https://github.com/finex/redox-finex/tree/simpleawesome
 languages: [Italian, English]
 layerCount: 7

@@ -6,18 +6,18 @@ module.exports = {
   layout: "layouts/db_entry.njk",
   eleventyComputed: {
     permalink: (data) => `copies/${data.page.fileSlug}/index.html`,
-    keymapImage: (data) => {
-      if (data.keymapImage) {
-        if (data.keymapImage.search(/^https?:\/\//) !== -1) {
-          return data.keymapImage.replace("http:", "https:");
+    titleImage: (data) => {
+      if (data.titleImage) {
+        if (data.titleImage.search(/^https?:\/\//) !== -1) {
+          return data.titleImage.replace("http:", "https:");
         }
-        return `/assets/img/title_icons/${data.keymapImage}`;
+        return `/assets/img/title_icons/${data.titleImage}`;
       } else {
         return false;
       }
     },
     description: (data) => `Get inspired by ${data.author}'s ${data.keyCount}-key ${data.languages.length > 1 ? "multilingual " : ""}${data.keyboard} keymap and browse other ${oxfordJoin(data.firmwares)} keymaps like this.`,
-    ogImage: (data) => data.keymapImage,
+    ogImage: (data) => data.titleImage,
     imageAlt: (data) => `${data.isSplit ? "Split" : "Non-split"} ${data.stagger}-staggered ${data.keyboard} with ${oxfordJoin(data.baseLayouts)} legends.`
   }
 };

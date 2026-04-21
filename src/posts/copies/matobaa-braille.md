@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Braille
 keyCount: 8
-keymapImage: https://github.com/matobaa/braille_keyboard/raw/master/doc/layout.png
+titleImage: https://github.com/matobaa/braille_keyboard/raw/master/doc/layout.png
 keymapUrl: https://github.com/matobaa/braille_keyboard/tree/master
 languages: [English, Japanese]
 layerCount: 5

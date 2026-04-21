@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: ["Vim"]
 keyboard: ANSI
 keyCount: 35
-keymapImage: https://raw.githubusercontent.com/wernerdegroot/karabiner-elements/refs/heads/main/keyboard-layout.png
+titleImage: https://raw.githubusercontent.com/wernerdegroot/karabiner-elements/refs/heads/main/keyboard-layout.png
 keymapUrl: https://github.com/wernerdegroot/karabiner-elements
 languages: ["English", "Dutch"]
 layerCount: 7

@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [Vim, Gaming]
 keyboard: Kyria
 keyCount: 50
-keymapImage: ratoru.webp # dark
+titleImage: ratoru.webp # dark
 keymapUrl: https://github.com/ratoru/qmk_keymap/tree/main
 languages: [English]
 layerCount: 6

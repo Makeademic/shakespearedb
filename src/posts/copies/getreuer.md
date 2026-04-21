@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Dactyl
 keyCount: 52
-keymapImage: https://raw.githubusercontent.com/getreuer/qmk-keymap/refs/heads/main/doc/layout-0-base.png
+titleImage: https://raw.githubusercontent.com/getreuer/qmk-keymap/refs/heads/main/doc/layout-0-base.png
 keymapUrl: https://github.com/getreuer/qmk-keymap
 languages: [English]
 layerCount: 5

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, Helix]
 keyboard: "Corne"
 keyCount: 30
-keymapImage: "https://github.com/godalming123/qmk-keymap/raw/main/keymap.svg"
+titleImage: "https://github.com/godalming123/qmk-keymap/raw/main/keymap.svg"
 keymapUrl: "https://github.com/godalming123/qmk-keymap"
 languages: [English]
 layerCount: 2

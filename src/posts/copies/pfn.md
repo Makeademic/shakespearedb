@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Kyria
 keyCount: 48
-keymapImage: pfn.png
+titleImage: pfn.png
 keymapUrl: https://github.com/pfn/qmk-keymap-kyria
 languages: [English]
 layerCount: 8

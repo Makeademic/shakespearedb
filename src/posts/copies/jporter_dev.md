@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: []
 keyboard: Corne
 keyCount: 36
-keymapImage: https://user-images.githubusercontent.com/1226637/167232280-c3c752ee-3e7a-4790-93ec-1ba8a790c9fc.png
+titleImage: https://user-images.githubusercontent.com/1226637/167232280-c3c752ee-3e7a-4790-93ec-1ba8a790c9fc.png
 keymapUrl: https://github.com/jporter-dev/keymaps
 languages: [English]
 layerCount: 4

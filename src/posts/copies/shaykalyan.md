@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Lily58
 keyCount: 58
-keymapImage: shaykalyan.webp
+titleImage: shaykalyan.webp
 keymapUrl: https://github.com/shaykalyan/qmk_firmware/blob/lily58-keymap-add-shaykalyan/keyboards/lily58/keymaps/shaykalyan/
 languages: [English]
 layerCount: 4

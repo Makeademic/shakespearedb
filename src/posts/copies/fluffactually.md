@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Iris
 keyCount: 56
-keymapImage: fluffactually.png
+titleImage: fluffactually.png
 keymapUrl: https://github.com/fluffactually/qmk_firmware/tree/master/keyboards/keebio/iris/keymaps/fluffactually
 languages: ['English']
 layerCount: 3

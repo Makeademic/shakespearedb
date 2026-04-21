@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Iris
 keyCount: 56
-keymapImage: khitsule-iris.png
+titleImage: khitsule-iris.png
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/keebio/iris/keymaps/khitsule
 languages: ['English']
 layerCount: 5

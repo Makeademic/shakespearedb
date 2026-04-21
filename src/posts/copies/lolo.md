@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Snag
 keyCount: 31
-keymapImage: lolo.png
+titleImage: lolo.png
 keymapUrl: ""
 languages: [Russian]
 layerCount: 5

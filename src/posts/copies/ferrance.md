@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: []
 keyboard: Corne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/ferrance/dizave42/main/images/crkbd-dizave42.jpg
+titleImage: https://raw.githubusercontent.com/ferrance/dizave42/main/images/crkbd-dizave42.jpg
 keymapUrl: https://github.com/ferrance/dizave42
 languages: [English]
 layerCount: 6

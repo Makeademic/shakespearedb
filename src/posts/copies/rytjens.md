@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Spreadsheets]
 keyboard: Chocofi
 keyCount: 34
-keymapImage: rytjens.webp
+titleImage: rytjens.webp
 keymapUrl:
 languages: [English]
 layerCount: 4

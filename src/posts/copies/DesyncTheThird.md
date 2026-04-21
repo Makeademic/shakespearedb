@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Corne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/main/images/combined.png
+titleImage: https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/main/images/combined.png
 keymapUrl: https://github.com/DesyncTheThird/corne-keymap/tree/main
 languages: [English]
 layerCount: 13

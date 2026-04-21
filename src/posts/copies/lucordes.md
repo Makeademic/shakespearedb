@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings:  []
 keyboard: Ferris
 keyCount: 33
-keymapImage: https://github.com/user-attachments/assets/3b3d65f9-8baa-4e73-9c62-1e845fa25314
+titleImage: https://github.com/user-attachments/assets/3b3d65f9-8baa-4e73-9c62-1e845fa25314
 keymapUrl: https://github.com/lucordes/zmk-config-nomouse
 languages:  [English, Italian, German]
 layerCount: 12

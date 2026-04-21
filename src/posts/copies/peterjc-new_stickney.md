@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: ANSI
 keyCount: 60
-keymapImage: peterjc-new_stickney.png
+titleImage: peterjc-new_stickney.png
 keymapUrl: https://codeberg.org/peterjc/kana-chording-ke/src/branch/main/new-stickney-in-macos/
 languages: ["Japanese"]
 layerCount: 1

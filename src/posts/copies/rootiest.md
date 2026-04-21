@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: []
 keyboard: Planck
 keyCount: 47
-keymapImage: https://github.com/rootiest/rootiest.github.io/raw/main/img/rootiest-planck_legend.png
+titleImage: https://github.com/rootiest/rootiest.github.io/raw/main/img/rootiest-planck_legend.png
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/planck/keymaps/rootiest
 languages: ['English']
 layerCount: 10

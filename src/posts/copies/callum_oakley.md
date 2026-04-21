@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [TWM]
 keyboard: ""
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/callum-oakley/keymap/master/keymap.svg
+titleImage: https://raw.githubusercontent.com/callum-oakley/keymap/master/keymap.svg
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/users/callum
 languages: [English]
 layerCount: 4

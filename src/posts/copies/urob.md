@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [Vim, TWM]
 keyboard: Corne
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/urob/zmk-config/main/draw/keymap.png
+titleImage: https://raw.githubusercontent.com/urob/zmk-config/main/draw/keymap.png
 keymapUrl: https://github.com/urob/zmk-config
 languages: [English, German, Greek]
 layerCount: 6

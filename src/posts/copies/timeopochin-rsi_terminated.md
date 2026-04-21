@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, TWM]
 keyboard: MiniDox
 keyCount: 36
-keymapImage: timeopochin-rsi_terminated.png
+titleImage: timeopochin-rsi_terminated.png
 keymapUrl:
 languages: [English]
 layerCount: 3

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Rollow
 keyCount: 34
-keymapImage: https://github.com/theol0403/anachron-zmk-config/raw/master/assets/v1.2.0.png
+titleImage: https://github.com/theol0403/anachron-zmk-config/raw/master/assets/v1.2.0.png
 keymapUrl: https://github.com/theol0403/anachron-zmk-config
 languages: [English]
 layerCount: 5

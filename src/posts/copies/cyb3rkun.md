@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings:  [Vim, Gaming]
 keyboard: Corne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/cyb3rkun/corneGLP/refs/heads/master/Layer_Guide.svg
+titleImage: https://raw.githubusercontent.com/cyb3rkun/corneGLP/refs/heads/master/Layer_Guide.svg
 keymapUrl: https://github.com/cyb3rkun/corneGLP
 languages:  [English]
 layerCount: 7

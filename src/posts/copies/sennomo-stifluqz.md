@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Microdox
 keyCount: 18
-keymapImage: https://www.sennomo.net/stifluqz/stifluqz.png
+titleImage: https://www.sennomo.net/stifluqz/stifluqz.png
 keymapUrl: https://github.com/sennomo/qmk_firmware/tree/master/keyboards/boardsource/microdox/keymaps/sennomo
 languages: [English]
 layerCount: 6

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [TWM]
 keyboard: Ferris
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/Lysquid/qmk_firmware/lysquid/keymap.svg
+titleImage: https://raw.githubusercontent.com/Lysquid/qmk_firmware/lysquid/keymap.svg
 keymapUrl: https://github.com/Lysquid/qmk_firmware
 languages: [French, English]
 layerCount: 8

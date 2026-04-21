@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Fisk
 keyCount: 54
-keymapImage: https://raw.githubusercontent.com/vvhg1/fisk/main/images/keymap.png
+titleImage: https://raw.githubusercontent.com/vvhg1/fisk/main/images/keymap.png
 keymapUrl: https://github.com/vvhg1/fisk
 languages: [English]
 layerCount: 6

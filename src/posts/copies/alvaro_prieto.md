@@ -5,7 +5,7 @@ author: alvaro-prieto
 firmwares: [QMK]
 hasHomeRowMods: False
 hasLetterOnThumb: False
-keymapImage: https://github.com/alvaro-prieto/corne/raw/main/extra/keymap.png
+titleImage: https://github.com/alvaro-prieto/corne/raw/main/extra/keymap.png
 keyCount: 42
 keyboard: Corne
 baseLayouts: ["QVERFY"]

@@ -13,7 +13,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: ErgoDox
 keyCount: 76
-keymapImage: https://raw.githubusercontent.com/h-youhei/qmk_keymap/master/img/ascii-layout.png
+titleImage: https://raw.githubusercontent.com/h-youhei/qmk_keymap/master/img/ascii-layout.png
 keymapUrl: https://github.com/h-youhei/qmk_keymap
 languages: [Japanese, English]
 layerCount: 5

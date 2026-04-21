@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Planck
 keyCount: 43
-keymapImage: aidancz.webp
+titleImage: aidancz.webp
 keymapUrl: https://github.com/aidancz/planck_crab
 languages: ['English']
 layerCount: 4

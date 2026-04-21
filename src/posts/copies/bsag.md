@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Ferris
 keyCount: 34
-keymapImage: https://raw.githubusercontent.com/bsag/qmk_custom/main/mini3x5/keymap_diagram.svg
+titleImage: https://raw.githubusercontent.com/bsag/qmk_custom/main/mini3x5/keymap_diagram.svg
 keymapUrl: https://github.com/bsag/qmk_custom
 languages: [English]
 layerCount: 7

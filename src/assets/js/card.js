@@ -25,7 +25,7 @@ function card(post, postUrl) {
           <a href="${post.url}">
           <img
           class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-          src="${post.keymapImage}"
+          src="${post.titleImage}"
           width="960"
           height="500"
           alt="${splitStatus} ${post.stagger}-staggered ${post.keyboard} with ${oxfordJoin(post.baseLayouts)} legends">

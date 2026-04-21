@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [] # [Vim]
 keyboard: ISO
 keyCount: 33
-keymapImage: https://raw.githubusercontent.com/OneDeadKey/arsenik/main/img/all.svg
+titleImage: https://raw.githubusercontent.com/OneDeadKey/arsenik/main/img/all.svg
 keymapUrl: https://github.com/OneDeadKey/arsenik
 languages: [French, English, Spanish]
 layerCount: 7

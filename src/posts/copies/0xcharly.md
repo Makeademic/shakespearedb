@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: [TWM]
 keyboard: Skeletyl
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/0xcharly/qmk_firmware/users-delay-wip/users/delay/assets/keymap.png
+titleImage: https://raw.githubusercontent.com/0xcharly/qmk_firmware/users-delay-wip/users/delay/assets/keymap.png
 keymapUrl: https://github.com/0xcharly/qmk_firmware/tree/users-delay-wip/users/delay
 languages: [English]
 layerCount: 8

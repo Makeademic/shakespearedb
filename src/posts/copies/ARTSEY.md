@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: The Paintbrush
 keyCount: 8
-keymapImage: https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/current.jpg
+titleImage: https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/current.jpg
 keymapUrl: https://artsey.io/#firmware
 languages: [English]
 layerCount: 7

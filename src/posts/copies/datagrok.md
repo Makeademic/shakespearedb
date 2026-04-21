@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Mitosis
 keyCount: 46
-keymapImage: datagrok.png
+titleImage: datagrok.png
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/mitosis/keymaps/datagrok
 languages: [English]
 layerCount: 7

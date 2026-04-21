@@ -12,7 +12,7 @@ isTapDanceEnabled: true
 keybindings: []
 keyboard: Corne
 keyCount: 42
-keymapImage: dickiedyce-corneish_zen.png
+titleImage: dickiedyce-corneish_zen.png
 keymapUrl: https://github.com/dickiedyce/zmk-config-zen-2/blob/main/config/corneish_zen.keymap
 languages: [English]
 layerCount: 2

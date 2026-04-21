@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Moonlander
 keyCount: 72
-keymapImage: optozorax.webp
+titleImage: optozorax.webp
 keymapUrl: https://github.com/optozorax/moonlander
 languages: [Russian, English]
 layerCount: 12

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, Emacs]
 keyboard: MiniDox
 keyCount: 36
-keymapImage: lehoff.png
+titleImage: lehoff.png
 keymapUrl: https://github.com/qmk/qmk_firmware/blob/user-keymaps-still-present/keyboards/maple_computing/minidox/keymaps/norman
 languages: [English, Danish]
 layerCount: 4

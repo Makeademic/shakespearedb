@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: MiniDox
 keyCount: 36
-keymapImage: https://live.staticflickr.com/65535/49926249372_77ab8eba95_z.jpg
+titleImage: https://live.staticflickr.com/65535/49926249372_77ab8eba95_z.jpg
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/maple_computing/minidox/keymaps/rsthd_combos
 languages: [English]
 layerCount: 4

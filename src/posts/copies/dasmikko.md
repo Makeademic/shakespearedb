@@ -12,7 +12,7 @@ isTapDanceEnabled: false  # true or false
 keybindings: [Gaming] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: Kyria # Kyria or Corne or Dactyl Manuform 5x6 or ...
 keyCount: 50
-keymapImage: https://github.com/dasmikko/qmk_stuff/blob/main/images/kyria.png?raw=true
+titleImage: https://github.com/dasmikko/qmk_stuff/blob/main/images/kyria.png?raw=true
 keymapUrl: https://github.com/dasmikko/qmk_stuff
 languages: [Danish, English] # [English, Spanish, ...]
 layerCount: 8

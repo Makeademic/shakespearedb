@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Atreus
 keyCount: 42
-keymapImage: khitsule-atreus.png
+titleImage: khitsule-atreus.png
 keymapUrl: https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/atreus/keymaps/khitsule
 languages: ['English']
 layerCount: 5

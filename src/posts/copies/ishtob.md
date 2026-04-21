@@ -4,7 +4,7 @@ author: ishtob
 firmwares: [QMK]
 hasHomeRowMods: False
 hasLetterOnThumb: False
-keymapImage: ishtob.png
+titleImage: ishtob.png
 keyCount: 48
 keyboard: Planck
 baseLayouts: ["QWERTY"]

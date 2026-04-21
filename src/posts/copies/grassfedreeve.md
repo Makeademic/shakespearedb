@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: ʻākohekohe
 keyCount: 26
-keymapImage: "https://raw.githubusercontent.com/grassfedreeve/akohekohe/main/img/example_keymap.svg"
+titleImage: "https://raw.githubusercontent.com/grassfedreeve/akohekohe/main/img/example_keymap.svg"
 keymapUrl: "https://github.com/grassfedreeve/zmk-config-akohekohe"
 languages: [English]
 layerCount: 4

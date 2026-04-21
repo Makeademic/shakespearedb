@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Kyria
 keyCount: 50
-keymapImage: https://raw.githubusercontent.com/yaelol1/Gawr-Kynya/main/img/kyria.png
+titleImage: https://raw.githubusercontent.com/yaelol1/Gawr-Kynya/main/img/kyria.png
 keymapUrl: https://github.com/yaelol1/Gawr-Kynya
 languages: [English]
 layerCount: 6

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: []
 keyboard: Corne
 keyCount: 42
-keymapImage: https://raw.githubusercontent.com/gfolgert/qmk_firmware/master/keyboards/crkbd/keymaps/gfolgert/images/01-chordic-layout-full.png
+titleImage: https://raw.githubusercontent.com/gfolgert/qmk_firmware/master/keyboards/crkbd/keymaps/gfolgert/images/01-chordic-layout-full.png
 keymapUrl: https://github.com/gfolgert/qmk_firmware/tree/master/keyboards/crkbd/keymaps/gfolgert
 languages: [English]
 layerCount: 3

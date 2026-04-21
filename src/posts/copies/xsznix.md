@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: ErgoDox
 keyCount: 76
-keymapImage: xsznix.jpg
+titleImage: xsznix.jpg
 keymapUrl: https://github.com/xsznix/qmk_firmware/tree/master/keyboards/ergodox_ez/keymaps/rsthd
 languages: [English]
 layerCount: 9

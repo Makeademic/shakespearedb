@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim, Gaming, TWM]
 keyboard: "Cantor Remix"
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/braindefender/wellum/master/images/wellum-preview.jpg
+titleImage: https://raw.githubusercontent.com/braindefender/wellum/master/images/wellum-preview.jpg
 keymapUrl: https://github.com/braindefender/wellum
 languages: [English, Russian]
 layerCount: 6

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim,Emacs,TWM]
 keyboard: MiniDox
 keyCount: 36
-keymapImage: https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/cover/miryoku-kle-cover.png
+titleImage: https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/cover/miryoku-kle-cover.png
 keymapUrl: https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku
 languages: [English]
 layerCount: 10

@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Splaytoraid40
 keyCount: 40
-keymapImage: eldritch_elder-splaytoraid40.webp
+titleImage: eldritch_elder-splaytoraid40.webp
 keymapUrl: https://codeberg.org/eldritch-empress/keymap
 languages: [English, German]
 layerCount: 4

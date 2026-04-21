@@ -12,7 +12,7 @@ isTapDanceEnabled: false
 keybindings: [Vim]
 keyboard: Ferris
 keyCount: 34
-keymapImage: https://github.com/sartak/keyboard/raw/master/images/keymap.svg
+titleImage: https://github.com/sartak/keyboard/raw/master/images/keymap.svg
 keymapUrl: https://github.com/sartak/keyboard
 languages: [English]
 layerCount: 4

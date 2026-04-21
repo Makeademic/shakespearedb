@@ -148,7 +148,7 @@ In case a keymap can be applied to multiple different keyboards with varying amo
 - 102
 - 255
 
-## keymapImage (string)
+## titleImage (string)
 Link to a visual representation of the keymap in question. 
 
 In most cases, this should be an externally hosted image but hosting the keymap image directly in the repo at `src/assets/img/keymaps/` may be considered.
