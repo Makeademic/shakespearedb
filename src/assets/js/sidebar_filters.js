@@ -141,7 +141,7 @@ function syncSidebarFilters() {
 }
 
 window.onload = function() {
-    /* Resetting the keymap filters in the sidebar because in case
+    /* Resetting the copy filters in the sidebar because in case
      * of a discrepancy between what the sidebar says and what the URL
      * says, the URL rules.
      */

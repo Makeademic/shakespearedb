@@ -14,7 +14,7 @@
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
             src="{% if post.data.titleImage %}{{ post.data.titleImage | url }}{% elif post.data.image %}{{ post.data.image | url }}{% else %}{{ '/assets/img/no-image.svg' | url }}{% endif %}"
-            width="960"
+            width="500"
             height="500"
             alt="{{ splitStatus }} {{ post.data.stagger }}-staggered {{ post.data.keyboard }} with {{ post.data.baseLayouts | oxfordJoin }} legends">
             </a>
