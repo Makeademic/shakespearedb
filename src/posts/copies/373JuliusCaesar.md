@@ -1,7 +1,7 @@
 ---
 author: archydragon
 baseLayouts: [Colemak, QWERTY]
-firmwares: [QMK]
+firmwares: [Julius Caesar]
 hasHomeRowMods: false
 hasLetterOnThumb: false
 hasRotaryEncoder: false
@@ -12,13 +12,13 @@ isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Lily58
 keyCount: 58
-titleImage: https://raw.githubusercontent.com/archydragon/lily-layout/main/img/latin-colemak.png
+titleImage: julius-caesar.png
 keymapUrl: https://github.com/archydragon/lily-layout
 languages: [English, Finnish, Swedish, Russian, Ukrainian, Belarusian]
 layerCount: 6
 OS: [Windows, Linux]
 stagger: columnar
 summary: Colemak-DH layout able to type in English, Finnish, Swedish, Russian, Ukrainian and Belarusian with just two system layouts that fits all the printable characters into the main keyboard layer and where no modifier keys are under other fingers but thumbs.
-title: archydragon's multilingual layout for Lily58 keyboard
+title: Julius Caesar
 writeup: https://github.com/archydragon/lily-layout/blob/main/README.md
 ---
