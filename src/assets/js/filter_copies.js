@@ -26,7 +26,7 @@ function isCopyConforming(query, copyData) {
         // copyData["summary"] might be null so that's why we use
         // AND's short-circuit evaluation to check for null before accessing
         // the toLowerCase property. It might also be an array of strings instead.
-        let isConformingToTypedSearch = (word) => ["title", "author", "summary", "OS", "languages"]
+        let isConformingToTypedSearch = (word) => ["title", "summary"]
             .map(fieldN => copyData[fieldN] && String(copyData[fieldN]).toLowerCase().indexOf(word.toLowerCase()) !== -1)
             .some(Boolean);
         if (!value.split(" ").every(isConformingToTypedSearch)) {

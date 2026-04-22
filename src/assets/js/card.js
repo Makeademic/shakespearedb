@@ -28,7 +28,7 @@ function card(post, postUrl) {
           src="${post.titleImage}"
           width="500"
           height="500"
-          alt="${splitStatus} ${post.stagger}-staggered ${post.keyboard} with ${oxfordJoin(post.baseLayouts)} legends">
+          alt="${post.title}">
           </a>
           <div class="px-6 py-5">
               <div class="font-semibold text-lg mb-2">

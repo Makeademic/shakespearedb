@@ -56,58 +56,6 @@
 
 <br>
 
-<fieldset class="mb-3 xl:w-96">
-    <legend class="form-check-label inline-block text-gray-800" id="keyboardSelectionLegend">
-      Keyboard
-    </legend>
-    <select id="keyboardSelection" name="keyboard" onchange="updatePostGrid(this)" class="copy-filter form-select
-          block
-          px-3
-          py-1.5
-          text-base
-          font-normal
-          text-gray-700
-          bg-white bg-clip-padding bg-no-repeat
-          border border-solid border-gray-300
-          rounded
-          transition
-          ease-in-out
-          m-0
-          focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" 
-          aria-labelledby="keyboardSelectionLegend">
-        <option value="" selected>Any</option>
-        {# FIXME This procedure of sorting entries by keyboard name and
-        dropping duplicates could probably be sped up #}
-        {% for keyboardName, keymapEntry in collections.posts | sort(false, false, "data.keyboard") | groupby("data.keyboard")  %}
-            {# Don't list empty keyboard names (i.e. ""), sometimes used for keymaps that can work on a vast array of different keyboards #}
-            {% if keyboardName | length > 0 -%} 
-                <option value="{{ keyboardName }}">{{ keyboardName }}</option>
-            {%- endif %}
-        {% endfor %}
-    </select>
-</fieldset>
-
-<br>
-
-<fieldset class="flex flex-col">
-    <legend>Stagger</legend>
-    <label class="inline-flex mt-3">
-        <input type="radio" name="stagger" value="row" onclick="updatePostGrid(this)" class="copy-filter form-radio h-5 w-5 text-gray-600">
-        <span class="ml-2 text-gray-700">row</span>
-    </label>
-
-    <label class="inline-flex mt-3">
-        <input type="radio" name="stagger" value="columnar" onclick="updatePostGrid(this)" class="copy-filter form-radio h-5 w-5 text-gray-600">
-        <span class="ml-2 text-gray-700">columnar</span>
-    </label>
-
-    <label class="inline-flex mt-3">
-        <input type="radio" name="stagger" value="ortholinear" onclick="updatePostGrid(this)" class="copy-filter form-radio h-5 w-5 text-gray-600">
-        <span class="ml-2 text-gray-700">ortholinear</span>
-    </label>
-</fieldset>
-
-<br>
 
 {{ YesNo("Split", "isSplit") }}
 
@@ -126,19 +74,6 @@
 <br>
 
 <fieldset class="flex flex-col">
-    <legend>OS</legend>
-    {% for OS in ["Windows", "MacOS", "Linux", "Android"] %}
-        <label class="inline-flex items-center mt-3">
-            <input type="checkbox" name="OS" value="{{ OS }}" 
-            onclick="updatePostGrid(this)" class="copy-filter form-checkbox h-5 w-5 text-gray-600">
-            <span class="ml-2 text-gray-700">{{ OS }}</span>
-        </label>
-    {% endfor %}
-</fieldset>
-
-<br>
-
-<fieldset class="flex flex-col">
     <legend>Keybinding Scheme</legend>
     {% for keybindingsScheme in collections.posts | mapToDbField("keybindings") | flatten | sort | uniq %}
         <label class="inline-flex items-center mt-3">
@@ -150,35 +85,7 @@
 
 <br>
 
-{{ YesNo("Letter(s) on thumb", "hasLetterOnThumb") }}
-
-<br>
-
-{{ YesNo("Rotary Encoder(s)", "hasRotaryEncoder") }}
-
-<br>
-
-<fieldset>
-    <legend>Layer Count</legend>
-    {# Dummy input used to simply fill in the blank for NoScript users #}
-    <div class="copy-filter flex" name="layerCount" id="layerCountSlider">1<input type="range" min="1" max="32" value="32">32</input></div>
-</fieldset>
-
-<br>
-
 {{ YesNo("Combos", "isComboEnabled") }}
-
-<br>
-
-{{ YesNo("Tap dance", "isTapDanceEnabled") }}
-
-<br>
-
-{{ YesNo("Auto Shift", "isAutoShiftEnabled") }}
-
-<br>
-
-{{ YesNo("Home row mods", "hasHomeRowMods") }}
 
 <br>
 
