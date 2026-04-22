@@ -6,7 +6,7 @@ hasHomeRowMods: false # true or false
 hasLetterOnThumb: false # true or false
 hasRotaryEncoder: false # true or false
 isAutoShiftEnabled: false # true or false
-isComboEnabled: true # true or false
+isLocationVerified: true # true or false
 isFragment: true # true or false
 isTapDanceEnabled: true # true or false
 keybindings: [] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
