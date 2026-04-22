@@ -23,7 +23,7 @@
         "layerCount": 8,
         "hasHomeRowMods": true,
         "isTapDanceEnabled": true,
-        "isComboEnabled": false,
+        "isLocationVerified": false,
         "isAutoShiftEnabled": false
         
     },
@@ -51,7 +51,7 @@
         "layerCount": 3,
         "hasHomeRowMods": false,
         "isTapDanceEnabled": true,
-        "isComboEnabled": true,
+        "isLocationVerified": true,
         "isAutoShiftEnabled": false
         
     },
@@ -79,7 +79,7 @@
         "layerCount": 3,
         "hasHomeRowMods": true,
         "isTapDanceEnabled": false,
-        "isComboEnabled": true,
+        "isLocationVerified": true,
         "isAutoShiftEnabled": false
         
     },
@@ -107,7 +107,7 @@
         "layerCount": 7,
         "hasHomeRowMods": false,
         "isTapDanceEnabled": false,
-        "isComboEnabled": true,
+        "isLocationVerified": true,
         "isAutoShiftEnabled": false
         
     },
@@ -135,7 +135,7 @@
         "layerCount": 6,
         "hasHomeRowMods": false,
         "isTapDanceEnabled": false,
-        "isComboEnabled": false,
+        "isLocationVerified": false,
         "isAutoShiftEnabled": false
         
     },
@@ -163,7 +163,7 @@
         "layerCount": 7,
         "hasHomeRowMods": true,
         "isTapDanceEnabled": false,
-        "isComboEnabled": true,
+        "isLocationVerified": true,
         "isAutoShiftEnabled": false
         
     }
