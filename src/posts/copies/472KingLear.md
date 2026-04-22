@@ -11,7 +11,7 @@ isFragment: true
 isTapDanceEnabled: false
 keybindings: [Gaming, Kakoune, Vim]
 keyboard: "Hummingbird"
-yearCount: 26
+yearCount: 1608
 titleImage: king-lear.png
 keymapUrl: https://github.com/caksoylar/zmk-config
 languages: [English]

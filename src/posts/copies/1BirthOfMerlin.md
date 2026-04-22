@@ -11,7 +11,7 @@ isFragment: true
 isTapDanceEnabled: true
 keybindings: [TWM]
 keyboard: Skeletyl
-yearCount: 36
+yearCount: 1662
 titleImage: birth-of-merlin.png
 keymapUrl: https://github.com/0xcharly/qmk_firmware/tree/users-delay-wip/users/delay
 languages: [English]

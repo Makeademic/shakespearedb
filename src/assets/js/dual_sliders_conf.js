@@ -1,8 +1,8 @@
 let yearCountSlider = $('yearCountSlider');
 let layerCountSlider = $('layerCountSlider');
 
-const MAX_YEAR_COUNT = 90;
-const yearCountPipsStep = 15;
+const MAX_YEAR_COUNT = 1700;
+const yearCountPipsStep = 25;
 let yearCountPips = [1]
 for (let v = yearCountPipsStep; v <= MAX_YEAR_COUNT ; v += yearCountPipsStep) {
     yearCountPips.push(v);
@@ -26,7 +26,7 @@ noUiSlider.create(yearCountSlider, {
         density: 4
     },
     range: {
-        'min': 1,
+        'min': 1590,
         'max': MAX_YEAR_COUNT
     },
     handleAttributes: [
@@ -39,43 +39,6 @@ noUiSlider.create(yearCountSlider, {
 yearCountSlider.noUiSlider.on("change",
     noUiSliderCallbackArgs => updatePostGrid(yearCountSlider));
 
-
-const MAX_LAYER_COUNT = 32;
-const layerCountPipsStep = 4;
-let layerCountPips = [1]
-for (let v = layerCountPipsStep; v <= MAX_LAYER_COUNT ; v += layerCountPipsStep) {
-    layerCountPips.push(v);
-}
-
-layerCountSlider.innerHTML = ""
-layerCountSlider.classList.add("slider-styled");
-noUiSlider.create(layerCountSlider, {
-    start: [1, MAX_LAYER_COUNT],
-    connect: true,
-    step: 1,
-    tooltips: true,
-    format: {
-        to: (numberValue) => Math.round(numberValue),
-        from: (stringValue) => Number(stringValue.replace(',-', ''))
-    },
-    pips: {
-        mode: 'values',
-        values: layerCountPips,
-        density: 7,
-    },
-    range: {
-        'min': 1,
-        'max': MAX_LAYER_COUNT,
-    },
-    handleAttributes: [
-        {"aria-label": "Minimum layer count"},
-        {"aria-label": "Maximum layer count"}
-    ]
-});
-
-// Ignore all parameters passed to the callback
-layerCountSlider.noUiSlider.on("change",
-    noUiSliderCallbackArgs => updatePostGrid(layerCountSlider));
 
 
 // Source: https://refreshless.com/nouislider/examples/#section-merging-tooltips
@@ -164,5 +127,4 @@ function mergeTooltips(slider, threshold, separator) {
 
 // Not an ASCII hyphen, the separator is an en-dash
 //<–> 8211, Hex 2013, Oct 20023, Digr -N
-mergeTooltips(yearCountSlider, 15, '–');
-mergeTooltips(layerCountSlider, 15, '–');
+mergeTooltips(yearCountSlider, 25, '–');
