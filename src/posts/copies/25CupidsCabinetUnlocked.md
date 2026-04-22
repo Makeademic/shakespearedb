@@ -7,7 +7,7 @@ hasLetterOnThumb: false # true or false
 hasRotaryEncoder: false # true or false
 isAutoShiftEnabled: false # true or false
 isComboEnabled: true # true or false
-isSplit: true # true or false
+isFragment: true # true or false
 isTapDanceEnabled: true # true or false
 keybindings: [] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: Corne  # Kyria or Corne or Dactyl Manuform 5x6 or ...

@@ -7,7 +7,7 @@ hasLetterOnThumb: false
 hasRotaryEncoder: false
 isAutoShiftEnabled: false
 isComboEnabled: false
-isSplit: true
+isFragment: true
 isTapDanceEnabled: true
 keybindings: [TWM]
 keyboard: Skeletyl

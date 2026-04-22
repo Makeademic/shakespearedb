@@ -11,10 +11,10 @@ keybindings: []
 {% from "macros/boolean_to_yes_no.njk" import booleanToYesNo %}
 {% from "macros/show_categorical_array.njk" import showCategoricalArray %}
 
-{% if isSplit %}
-    {% set splitStatus = "Split" %}
+{% if isFragment %}
+    {% set fragmentStatus = "Fragment" %}
 {% else %}
-    {% set splitStatus = "Non-split" %}
+    {% set fragmentStatus = "Non-fragment" %}
 {% endif %}
 
 <article class="max-w-5xl mx-auto">
@@ -59,8 +59,8 @@ keybindings: []
                 <td>{{ keyCount }}</td>
             </tr>
             <tr>
-                <td>Split</td>
-                <td>{{ booleanToYesNo(isSplit) }}</td>
+                <td>Fragment</td>
+                <td>{{ booleanToYesNo(isFragment) }}</td>
             </tr>
             <tr>
                 <td>Rotary Encoder(s)</td>

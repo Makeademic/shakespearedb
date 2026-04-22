@@ -8,7 +8,7 @@
     "keyboard",
     "baseLayouts",
     "stagger",
-    "isSplit",
+    "isFragment",
     "languages",
     "summary",
     "OS",

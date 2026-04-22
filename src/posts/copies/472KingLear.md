@@ -7,7 +7,7 @@ hasLetterOnThumb: false
 hasRotaryEncoder: false
 isAutoShiftEnabled: false
 isComboEnabled: true
-isSplit: true
+isFragment: true
 isTapDanceEnabled: false
 keybindings: [Gaming, Kakoune, Vim]
 keyboard: "Hummingbird"
