@@ -1,18 +1,18 @@
-let keyCountSlider = $('keyCountSlider');
+let yearCountSlider = $('yearCountSlider');
 let layerCountSlider = $('layerCountSlider');
 
-const MAX_KEY_COUNT = 90;
-const keyCountPipsStep = 15;
-let keyCountPips = [1]
-for (let v = keyCountPipsStep; v <= MAX_KEY_COUNT ; v += keyCountPipsStep) {
-    keyCountPips.push(v);
+const MAX_YEAR_COUNT = 90;
+const yearCountPipsStep = 15;
+let yearCountPips = [1]
+for (let v = yearCountPipsStep; v <= MAX_YEAR_COUNT ; v += yearCountPipsStep) {
+    yearCountPips.push(v);
 }
 
 // Remove the dummy HTML slider
-keyCountSlider.innerHTML = ""
-keyCountSlider.classList.add("slider-styled");
-noUiSlider.create(keyCountSlider, {
-    start: [1, MAX_KEY_COUNT],
+yearCountSlider.innerHTML = ""
+yearCountSlider.classList.add("slider-styled");
+noUiSlider.create(yearCountSlider, {
+    start: [1, MAX_YEAR_COUNT],
     connect: true,
     step: 1,
     tooltips: true,
@@ -22,22 +22,22 @@ noUiSlider.create(keyCountSlider, {
     },
     pips: {
         mode: 'values',
-        values: keyCountPips,
+        values: yearCountPips,
         density: 4
     },
     range: {
         'min': 1,
-        'max': MAX_KEY_COUNT
+        'max': MAX_YEAR_COUNT
     },
     handleAttributes: [
-        {"aria-label": "Minimum key count"},
-        {"aria-label": "Maximum key count"}
+        {"aria-label": "Minimum year"},
+        {"aria-label": "Maximum year"}
     ]
 });
 
 // Ignore all parameters passed to the callback
-keyCountSlider.noUiSlider.on("change",
-    noUiSliderCallbackArgs => updatePostGrid(keyCountSlider));
+yearCountSlider.noUiSlider.on("change",
+    noUiSliderCallbackArgs => updatePostGrid(yearCountSlider));
 
 
 const MAX_LAYER_COUNT = 32;
@@ -164,5 +164,5 @@ function mergeTooltips(slider, threshold, separator) {
 
 // Not an ASCII hyphen, the separator is an en-dash
 //<–> 8211, Hex 2013, Oct 20023, Digr -N
-mergeTooltips(keyCountSlider, 15, '–');
+mergeTooltips(yearCountSlider, 15, '–');
 mergeTooltips(layerCountSlider, 15, '–');

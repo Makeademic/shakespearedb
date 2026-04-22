@@ -11,7 +11,7 @@ isFragment: true
 isTapDanceEnabled: false
 keybindings: []
 keyboard: The Paintbrush
-keyCount: 8
+yearCount: 8
 titleImage: henry-v.png
 keymapUrl: https://artsey.io/#firmware
 languages: [English]

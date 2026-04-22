@@ -11,7 +11,7 @@ isFragment: true # true or false
 isTapDanceEnabled: true # true or false
 keybindings: [] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: Corne  # Kyria or Corne or Dactyl Manuform 5x6 or ...
-keyCount: 32
+yearCount: 32
 titleImage: cupids-cabinet-unlocked.png
 keymapUrl: https://github.com/rpnfan/Anymak
 languages: ["English", "German", "Dutch"] # [English, Spanish, ...]

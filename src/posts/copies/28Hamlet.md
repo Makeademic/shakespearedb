@@ -11,7 +11,7 @@ isFragment: false
 isTapDanceEnabled: false
 keybindings: []
 keyboard: ANSI
-keyCount: 31
+yearCount: 31
 titleImage: hamlet.png
 keymapUrl: https://github.com/argenkiwi/kenkyo
 languages: [English, Spanish]

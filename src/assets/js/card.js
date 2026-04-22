@@ -35,7 +35,7 @@ function card(post, postUrl) {
                   <a class="text-gray-900 hover:text-gray-700" ${titleHover} href="${post.url}">${post.title}</a>
               </div>
               <div class="my-5 flex flex-wrap justify-between">
-                  <p id="keyCount-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5">${post.keyCount} keys</p>
+                  <p id="yearCount-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5">${post.yearCount} keys</p>
                   <p id="languages-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right">${post.languages.join(", ") || "N/A"}</p>
                   <div class="flexitems-break"></div>
                   <p id="layerCount-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5">${post.layerCount} layers</p>

@@ -11,7 +11,7 @@ isFragment: true
 isTapDanceEnabled: false
 keybindings: [Gaming]
 keyboard: Lily58
-keyCount: 58
+yearCount: 58
 titleImage: julius-caesar.png
 keymapUrl: https://github.com/archydragon/lily-layout
 languages: [English, Finnish, Swedish, Russian, Ukrainian, Belarusian]
