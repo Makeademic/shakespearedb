@@ -25,7 +25,7 @@ function card(post, postUrl) {
           <a href="${post.url}">
           <img
           class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-          src="${post.titleImage}"
+          src="/shakespearedb/${post.titleImage}"
           width="500"
           height="500"
           alt="${post.title}">
