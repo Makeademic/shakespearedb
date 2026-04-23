@@ -14,7 +14,7 @@ keyboard: The Paintbrush
 yearCount: 1600
 titleImage: henry-v.png
 keymapUrl: https://artsey.io/#firmware
-languages: [English]
+edition_number: ["3"]
 layerCount: 7
 OS: []
 stagger: ortholinear

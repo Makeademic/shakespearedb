@@ -62,11 +62,11 @@
 <br>
 
 <fieldset class="block text-left">
-    <legend>Language(s) (Ctrl+Click to select more than one)</legend>
-    <select name="languages" id="languages-multi-select" onchange="updatePostGrid(this)" class="copy-filter form-multiselect block w-full mt-1 border-2"
-        aria-label="Languages selection" multiple>
-       {% for language in collections.posts | mapToDbField("languages") | flatten | sort | uniq  %}
-           <option value="{{ language }}">{{ language }}</option>
+    <legend>Edition Number (Ctrl+Click to select more than one)</legend>
+    <select name="edition_number" id="edition-multi-select" onchange="updatePostGrid(this)" class="copy-filter form-multiselect block w-full mt-1 border-2"
+        aria-label="Edition selection" multiple>
+       {% for edition in collections.posts | mapToDbField("edition_number") | flatten | sort | uniq  %}
+           <option value="{{ edition }}">{{ edition }}</option>
        {% endfor %}
      </select>
 </fieldset>

@@ -14,7 +14,7 @@ keyboard: ANSI
 yearCount: 1603
 titleImage: hamlet.png
 keymapUrl: https://github.com/argenkiwi/kenkyo
-languages: [English, Spanish]
+edition_number: ["2"]
 layerCount: 3
 OS: [Windows, MacOS, Linux]
 stagger: row

@@ -14,7 +14,7 @@ keyboard: Lily58
 yearCount: 1684
 titleImage: julius-caesar.png
 keymapUrl: https://github.com/archydragon/lily-layout
-languages: [English, Finnish, Swedish, Russian, Ukrainian, Belarusian]
+edition_number: ["3"]
 layerCount: 6
 OS: [Windows, Linux]
 stagger: columnar

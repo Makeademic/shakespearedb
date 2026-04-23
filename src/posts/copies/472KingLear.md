@@ -14,7 +14,7 @@ keyboard: "Hummingbird"
 yearCount: 1608
 titleImage: king-lear.png
 keymapUrl: https://github.com/caksoylar/zmk-config
-languages: [English]
+edition_number: ["4"]
 layerCount: 7
 OS: [Windows, Linux]
 stagger: columnar

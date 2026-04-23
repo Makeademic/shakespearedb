@@ -14,7 +14,7 @@ keyboard: Skeletyl
 yearCount: 1662
 titleImage: birth-of-merlin.png
 keymapUrl: https://github.com/0xcharly/qmk_firmware/tree/users-delay-wip/users/delay
-languages: [English]
+edition_number: ["1"]
 layerCount: 8
 OS: [MacOS]
 stagger: columnar
