@@ -18,7 +18,7 @@ edition_number: ["4"]
 STC_Wing: ["22292"]
 OS: [Windows, Linux]
 stagger: columnar
-summary: A keymap for my 26-30 key split keyboards, intended to be used with Hummingbird-like physical layouts that can have single thumb and pinky keys. Base layer is a Colemak variation, utilizing horizontal combos for frequent symbols and infrequent letters.
+summary: ""
 title: King Lear
 writeup: https://github.com/caksoylar/zmk-config/blob/main/README.md
 ---

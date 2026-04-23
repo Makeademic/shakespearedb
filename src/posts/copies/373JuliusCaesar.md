@@ -18,7 +18,7 @@ edition_number: ["3"]
 STC_Wing: ["S2922"]
 OS: [Windows, Linux]
 stagger: columnar
-summary: Colemak-DH layout able to type in English, Finnish, Swedish, Russian, Ukrainian and Belarusian with just two system layouts that fits all the printable characters into the main keyboard layer and where no modifier keys are under other fingers but thumbs.
+summary: "328027"
 title: Julius Caesar
 writeup: https://github.com/archydragon/lily-layout/blob/main/README.md
 ---

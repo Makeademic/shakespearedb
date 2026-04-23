@@ -18,7 +18,7 @@ edition_number: ["1"]
 STC_Wing: ["R2096"]
 OS: [MacOS]
 stagger: columnar
-summary: ""
+summary: "A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front."
 title: Birth of Merlin
 writeup: https://github.com/0xcharly/qmk_firmware/blob/users-delay-wip/users/delay/README.md
 ---

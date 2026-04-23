@@ -18,7 +18,7 @@ edition_number: ["3"]
 STC_Wing: ["22289"]
 OS: []
 stagger: ortholinear
-summary: ARTSEY is a one-handed keyboard system using 8 keys in a 2x4 layout. The system is designed to be easy to learn, comfortable to use, and fast enough for practical use.
+summary: ""
 title: Henry V
 writeup: https://artsey.io/
 ---
