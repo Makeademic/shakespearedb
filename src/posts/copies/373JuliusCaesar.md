@@ -9,7 +9,7 @@ isAutoShiftEnabled: false
 isLocationVerified: false
 isFragment: true
 isTapDanceEnabled: false
-keybindings: [Gaming]
+edition_format: ["4°"]
 keyboard: Lily58
 yearCount: 1684
 titleImage: julius-caesar.png

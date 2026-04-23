@@ -9,7 +9,7 @@ isAutoShiftEnabled: false
 isLocationVerified: true
 isFragment: true
 isTapDanceEnabled: false
-keybindings: [Gaming, Kakoune, Vim]
+edition_format: ["4°"]
 keyboard: "Hummingbird"
 yearCount: 1608
 titleImage: king-lear.png

@@ -9,7 +9,7 @@ isAutoShiftEnabled: false
 isLocationVerified: true
 isFragment: false
 isTapDanceEnabled: false
-keybindings: []
+edition_format: ["4°"]
 keyboard: ANSI
 yearCount: 1603
 titleImage: hamlet.png

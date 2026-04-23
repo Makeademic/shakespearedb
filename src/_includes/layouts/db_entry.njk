@@ -2,7 +2,7 @@
 layout: default
 # TODO: remove those defaults
 isLocationVerified: false
-keybindings: []
+edition_format: []
 ---
 
 {% from "macros/boolean_to_yes_no.njk" import booleanToYesNo %}
@@ -78,8 +78,8 @@ keybindings: []
             <tbody>
                 <th colspan="2" class="text-xl font-bold">Use Case</th>
                 <tr>
-                    <td>Special Keybinding Schemes</td>
-                    <td>{{ showCategoricalArray(keybindings, "None") }}</td>
+                    <td>Edition Format</td>
+                    <td>{{ showCategoricalArray(edition_format, "None") }}</td>
                 </tr>
             </tbody>
             <tbody class="wrap-break-word">

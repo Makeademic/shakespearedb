@@ -9,7 +9,7 @@ isAutoShiftEnabled: false
 isLocationVerified: false
 isFragment: true
 isTapDanceEnabled: true
-keybindings: [TWM]
+edition_format: ["4°"]
 keyboard: Skeletyl
 yearCount: 1662
 titleImage: birth-of-merlin.png

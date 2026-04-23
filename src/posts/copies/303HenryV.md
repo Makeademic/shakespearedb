@@ -9,7 +9,7 @@ isAutoShiftEnabled: false
 isLocationVerified: true
 isFragment: true
 isTapDanceEnabled: false
-keybindings: []
+edition_format: ["4°"]
 keyboard: The Paintbrush
 yearCount: 1600
 titleImage: henry-v.png

@@ -9,7 +9,7 @@ isAutoShiftEnabled: false # true or false
 isLocationVerified: true # true or false
 isFragment: true # true or false
 isTapDanceEnabled: true # true or false
-keybindings: [] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
+edition_format: ["12°"] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets, Gaming]
 keyboard: Corne  # Kyria or Corne or Dactyl Manuform 5x6 or ...
 yearCount: 1662
 titleImage: cupids-cabinet-unlocked.png
