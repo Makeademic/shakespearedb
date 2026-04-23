@@ -1,5 +1,4 @@
 let yearCountSlider = $('yearCountSlider');
-let layerCountSlider = $('layerCountSlider');
 
 const MAX_YEAR_COUNT = 1700;
 const yearCountPipsStep = 25;

@@ -15,7 +15,7 @@ yearCount: 1662
 titleImage: cupids-cabinet-unlocked.png
 digital_facsimile_URL: "/N"
 edition_number: ["2"] # [English, Spanish, ...]
-layerCount: 3
+STC_Wing: ["C7597A", "D3A"]
 OS: ["Windows", "MacOS", "Linux"] # [Windows, MacOS, Linux, Android]
 stagger: columnar # row or columnar or ortholinear
 summary: anymak:END is a full system combining a custom alpha layout with an ergonomic layer/modifier framework. The Anymak approach emphasizes one-shot mods, bottom-row mods, SpaceFN (hold space for nav layer with arrows, copy/paste, etc.), and symbol layers. It maintains consistent fingering across standard row-stagger, columnar, and split ergonomic keyboards, avoids uncomfortable positions and prioritizes inward rolls and calm finger flow.

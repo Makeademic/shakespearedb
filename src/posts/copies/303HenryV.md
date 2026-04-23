@@ -15,7 +15,7 @@ yearCount: 1600
 titleImage: henry-v.png
 digital_facsimile_URL: "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=19&LHPage=-2&RHCopy=19&RHPage=-1"
 edition_number: ["3"]
-layerCount: 7
+STC_Wing: ["22289"]
 OS: []
 stagger: ortholinear
 summary: ARTSEY is a one-handed keyboard system using 8 keys in a 2x4 layout. The system is designed to be easy to learn, comfortable to use, and fast enough for practical use.

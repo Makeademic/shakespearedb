@@ -15,7 +15,7 @@ yearCount: 1684
 titleImage: julius-caesar.png
 digital_facsimile_URL: "\N"
 edition_number: ["3"]
-layerCount: 6
+STC_Wing: ["S2922"]
 OS: [Windows, Linux]
 stagger: columnar
 summary: Colemak-DH layout able to type in English, Finnish, Swedish, Russian, Ukrainian and Belarusian with just two system layouts that fits all the printable characters into the main keyboard layer and where no modifier keys are under other fingers but thumbs.

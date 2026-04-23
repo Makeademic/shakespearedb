@@ -23,11 +23,11 @@
                     <a class="text-gray-900 hover:text-gray-700" href="{{ post.url | url }}">{{ post.data.title }}</a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-{{ post.data.fileSlug }}"   class="text-gray-700 mb-1 max-w-2/5 ">{{ post.data.yearCount }} keys</p>
-                    <p id="edition-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right">{{ showCategoricalArray(post.data.edition_number, "N/A") }}</p>
+                    <p id="yearCount-table-cell-{{ post.data.fileSlug }}"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> {{ post.data.yearCount }}</p>
+                    <p id="edition-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> {{ showCategoricalArray(post.data.edition_number, "N/A") }}</p>
                     <div class="flexitems-break"></div>
-                    <p id="layerCount-table-cell-{{ post.data.fileSlug }}" class="text-gray-700 mb-1 max-w-2/5">{{ post.data.layerCount }} layers</p>
-                    <p id="location-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right">{{ showCategoricalArray(post.data.location_name, "N/A") }}</p>
+                    <p id="STC-table-cell-{{ post.data.fileSlug }}" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> {{ showCategoricalArray(post.data.STC_Wing, "N/A") }}</p>
+                    <p id="location-table-cell-{{ post.data.fileSlug }}"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> {{ showCategoricalArray(post.data.location_name, "N/A") }}</p>
                 </div>
                 {% if post.data.summary -%}
                     {% if post.data.summary | isArray %}

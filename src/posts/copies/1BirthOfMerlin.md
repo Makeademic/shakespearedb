@@ -15,7 +15,7 @@ yearCount: 1662
 titleImage: birth-of-merlin.png
 digital_facsimile_URL: "https://archive.org/details/birthofmerlinorc00rowl/page/n12"
 edition_number: ["1"]
-layerCount: 8
+STC_Wing: ["R2096"]
 OS: [MacOS]
 stagger: columnar
 summary: ""

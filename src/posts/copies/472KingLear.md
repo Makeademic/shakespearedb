@@ -15,7 +15,7 @@ yearCount: 1608
 titleImage: king-lear.png
 digital_facsimile_URL: "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=25&LHPage=-2&RHCopy=25&RHPage=-1"
 edition_number: ["4"]
-layerCount: 7
+STC_Wing: ["22292"]
 OS: [Windows, Linux]
 stagger: columnar
 summary: A keymap for my 26-30 key split keyboards, intended to be used with Hummingbird-like physical layouts that can have single thumb and pinky keys. Base layer is a Colemak variation, utilizing horizontal combos for frequent symbols and infrequent letters.

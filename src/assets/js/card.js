@@ -35,11 +35,11 @@ function card(post, postUrl) {
                   <a class="text-gray-900 hover:text-gray-700" ${titleHover} href="${post.url}">${post.title}</a>
               </div>
               <div class="my-5 flex flex-wrap justify-between">
-                  <p id="yearCount-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5">${post.yearCount} keys</p>
-                  <p id="edition-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right">${post.edition_number.join(", ") || "N/A"}</p>
+                  <p id="yearCount-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5"><strong>Year:</strong> ${post.yearCount}</p>
+                  <p id="edition-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> ${post.edition_number.join(", ") || "N/A"}</p>
                   <div class="flexitems-break"></div>
-                  <p id="layerCount-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5">${post.layerCount} layers</p>
-                  <p id="location-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right">${post.location_name.join(", ") || "N/A"}</p>
+                  <p id="STC-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> ${post.STC_Wing.join(", ") || "N/A"}</p>
+                  <p id="location-table-cell-${post.fileSlug}" class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> ${post.location_name.join(", ") || "N/A"}</p>
               </div>
               ${summary}
           </div>
