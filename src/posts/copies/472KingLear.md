@@ -13,7 +13,7 @@ edition_format: ["4°"]
 keyboard: "Hummingbird"
 yearCount: 1608
 titleImage: king-lear.png
-keymapUrl: https://github.com/caksoylar/zmk-config
+digital_facsimile_URL: "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=25&LHPage=-2&RHCopy=25&RHPage=-1"
 edition_number: ["4"]
 layerCount: 7
 OS: [Windows, Linux]

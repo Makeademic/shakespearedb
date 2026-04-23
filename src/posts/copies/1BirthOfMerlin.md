@@ -13,7 +13,7 @@ edition_format: ["4°"]
 keyboard: Skeletyl
 yearCount: 1662
 titleImage: birth-of-merlin.png
-keymapUrl: https://github.com/0xcharly/qmk_firmware/tree/users-delay-wip/users/delay
+digital_facsimile_URL: "https://archive.org/details/birthofmerlinorc00rowl/page/n12"
 edition_number: ["1"]
 layerCount: 8
 OS: [MacOS]

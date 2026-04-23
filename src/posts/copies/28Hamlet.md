@@ -13,7 +13,7 @@ edition_format: ["4°"]
 keyboard: ANSI
 yearCount: 1603
 titleImage: hamlet.png
-keymapUrl: https://github.com/argenkiwi/kenkyo
+digital_facsimile_URL: "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=0&LHPage=0&RHCopy=0&RHPage=1"
 edition_number: ["2"]
 layerCount: 3
 OS: [Windows, MacOS, Linux]

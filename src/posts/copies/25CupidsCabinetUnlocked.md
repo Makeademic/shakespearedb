@@ -13,7 +13,7 @@ edition_format: ["12°"] # [Vim, Emacs, Kakoune, Graphics/CAD, TWM, Spreadsheets
 keyboard: Corne  # Kyria or Corne or Dactyl Manuform 5x6 or ...
 yearCount: 1662
 titleImage: cupids-cabinet-unlocked.png
-keymapUrl: https://github.com/rpnfan/Anymak
+digital_facsimile_URL: "/N"
 edition_number: ["2"] # [English, Spanish, ...]
 layerCount: 3
 OS: ["Windows", "MacOS", "Linux"] # [Windows, MacOS, Linux, Android]
