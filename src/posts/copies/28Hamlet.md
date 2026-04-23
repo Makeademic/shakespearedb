@@ -1,5 +1,5 @@
 ---
-author: argenkiwi
+NSC: "28"
 location_name: [British Library]
 firmwares: [Hamlet]
 hasHomeRowMods: true

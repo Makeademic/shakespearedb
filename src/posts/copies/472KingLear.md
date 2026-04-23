@@ -1,5 +1,5 @@
 ---
-author: caksoylar
+NSC: "472"
 location_name: [British Library]
 firmwares: [King Lear]
 hasHomeRowMods: true

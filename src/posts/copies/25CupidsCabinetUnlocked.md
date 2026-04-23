@@ -1,5 +1,5 @@
 ---
-author: William Shakespeare
+NSC: "25"
 location_name: [Folger Shakespeare Library]  # [QWERTY, Colemak, Dvorak, ...]
 firmwares: [Cupid's Cabinet Unlocked]
 hasHomeRowMods: false # true or false

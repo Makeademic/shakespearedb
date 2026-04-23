@@ -8,7 +8,7 @@ async function getSVG(fieldName, fieldValue) {
 
 function card(post, postUrl) {
   const fragmentStatus = post.isFragment ? "Fragment" : "Non-fragment"
-  const titleHover = post.title.toLowerCase().includes(post.author.toLowerCase()) ? '' : `title="by ${post.author}"`;
+  const titleHover = post.title.toLowerCase().includes(post.NSC.toLowerCase()) ? '' : `title="# ${post.NSC}"`;
   let summary = "";
   if (Array.isArray(post.summary)) {
     summary = '<ul class="list-disc">';
