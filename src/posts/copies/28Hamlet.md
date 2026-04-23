@@ -1,6 +1,6 @@
 ---
 author: argenkiwi
-baseLayouts: [QWERTY, Colemak]
+location_name: [British Library]
 firmwares: [Hamlet]
 hasHomeRowMods: true
 hasLetterOnThumb: false

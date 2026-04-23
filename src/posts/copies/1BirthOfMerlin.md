@@ -1,6 +1,6 @@
 ---
 author: William Shakespeare
-baseLayouts: [Boston Public Library]
+location_name: [Boston Public Library]
 firmwares: [The Birth of Merlin]
 hasHomeRowMods: true
 hasLetterOnThumb: false

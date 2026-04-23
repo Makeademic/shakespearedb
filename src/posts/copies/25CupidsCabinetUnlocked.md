@@ -1,6 +1,6 @@
 ---
 author: William Shakespeare
-baseLayouts: ["anymak:END", "Colemak", "QWERTY","Graphite"]  # [QWERTY, Colemak, Dvorak, ...]
+location_name: [Folger Shakespeare Library]  # [QWERTY, Colemak, Dvorak, ...]
 firmwares: [Cupid's Cabinet Unlocked]
 hasHomeRowMods: false # true or false
 hasLetterOnThumb: false # true or false

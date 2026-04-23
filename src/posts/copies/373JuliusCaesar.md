@@ -1,6 +1,6 @@
 ---
 author: archydragon
-baseLayouts: [Colemak, QWERTY]
+location_name: [Library of Birmingham]
 firmwares: [Julius Caesar]
 hasHomeRowMods: false
 hasLetterOnThumb: false

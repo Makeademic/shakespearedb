@@ -1,6 +1,6 @@
 ---
 author: artseyio
-baseLayouts: [ARTSEY]
+location_name: [British Library]
 firmwares: [Henry V]
 hasHomeRowMods: false
 hasLetterOnThumb: false

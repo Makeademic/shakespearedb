@@ -29,10 +29,10 @@
 <br>
 
 <fieldset class="mb-3 xl:w-96">
-    <legend class="form-check-label inline-block text-gray-800" id="baseLayoutSelectionLegend">
-      Base layout family
+    <legend class="form-check-label inline-block text-gray-800" id="locationSelectionLegend">
+      Location
     </legend>
-    <select id="baseLayoutSelection" name="baseLayouts" onchange="updatePostGrid(this)" class="copy-filter form-select
+    <select id="locationSelection" name="location_name" onchange="updatePostGrid(this)" class="copy-filter form-select
       block
       px-3
       py-1.5
@@ -46,10 +46,10 @@
       ease-in-out
       m-0
       focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" 
-      aria-labelledby="baseLayoutSelectionLegend">
+      aria-labelledby="locationSelectionLegend">
         <option value="" selected>Any</option>
-        {% for baseLayoutName in collections.posts | mapToDbField("baseLayouts") | flatten | sort | uniq  %}
-        <option value="{{ baseLayoutName }}">{{ baseLayoutName }}</option>
+        {% for locationName in collections.posts | mapToDbField("location_name") | flatten | sort | uniq  %}
+        <option value="{{ locationName }}">{{ locationName }}</option>
         {% endfor %}
     </select>
 </fieldset>

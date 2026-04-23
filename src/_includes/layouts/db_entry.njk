@@ -1,10 +1,7 @@
 ---
 layout: default
 # TODO: remove those defaults
-hasRotaryEncoder: false
-isTapDanceEnabled: false
 isLocationVerified: false
-isAutoShiftEnabled: false
 keybindings: []
 ---
 
@@ -51,10 +48,6 @@ keybindings: []
                 <td>{{ keyboard }}</td>
             </tr>
             <tr>
-                <td>Stagger</td>
-                <td>{{ stagger | title }}</td>
-            </tr>
-            <tr>
                 <td>Year</td>
                 <td>{{ yearCount }}</td>
             </tr>
@@ -63,55 +56,27 @@ keybindings: []
                 <td>{{ booleanToYesNo(isFragment) }}</td>
             </tr>
             <tr>
-                <td>Rotary Encoder(s)</td>
-                <td>{{ booleanToYesNo(hasRotaryEncoder) }}</td>
-            </tr>
-            <tr>
                 <td>Title(s)</td>
                 <td>{{ title }}</td>
             </tr>
             <th colspan="2" class="text-xl font-bold">Keymap</th>
             <tr>
-                <td>Base Layout(s)</td>
-                <td>{{ showCategoricalArray(baseLayouts, "N/A") }}</td>
+                <td>Location</td>
+                <td>{{ showCategoricalArray(location_name, "N/A") }}</td>
             </tr>
             <tr>
                 <td>Language(s)</td>
                 <td>{{ showCategoricalArray(languages, "N/A") }}</td>
             </tr>
-            <tr>
-                <td>Letter(s) on thumb</td>
-                <td>{{ booleanToYesNo(hasLetterOnThumb) }}</td>
-            </tr>
-            <tr>
-                <td>Layer Count</td>
-                <td>{{ layerCount }}</td>
-            </tr>
             <tbody>
                 <th colspan="2" class="text-xl font-bold">Firmware Features</th>
-                <tr>
-                    <td>Home Row Mods</td>
-                    <td>{{ booleanToYesNo(hasHomeRowMods) }}</td>
-                </tr>
                 <tr>
                     <td>Location Verified</td>
                     <td>{{ booleanToYesNo(isLocationVerified) }}</td>
                 </tr>
-                <tr>
-                    <td>Tap Dance</td>
-                    <td>{{ booleanToYesNo(isTapDanceEnabled) }}</td>
-                </tr>
-                <tr>
-                    <td>Auto Shift</td>
-                    <td>{{ booleanToYesNo(isAutoShiftEnabled) }}</td>
-                </tr>
             </tbody>
             <tbody>
                 <th colspan="2" class="text-xl font-bold">Use Case</th>
-                <tr>
-                    <td>OS</td>
-                    <td>{{ showCategoricalArray(OS, "N/A") }}</td>
-                </tr>
                 <tr>
                     <td>Special Keybinding Schemes</td>
                     <td>{{ showCategoricalArray(keybindings, "None") }}</td>
@@ -123,14 +88,6 @@ keybindings: []
                     <td>Keymap Folder</td>
                     {% if keymapUrl %}
                         <td><a href="{{ keymapUrl }}">{{ keymapUrl | replace('/', '<wbr>/') | safe }}</a></td>
-                    {% else %}
-                        <td>N/A</td>
-                    {% endif %}
-                </tr>
-                <tr>
-                    <td>Write-Up</td>
-                    {% if writeup %}
-                        <td><a href="{{ writeup }}">{{ writeup | replace('/', '<wbr>/') | safe }}</a></td>
                     {% else %}
                         <td>N/A</td>
                     {% endif %}

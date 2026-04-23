@@ -1,6 +1,6 @@
 ---
 author: caksoylar
-baseLayouts: [Colemak, Bird]
+location_name: [British Library]
 firmwares: [King Lear]
 hasHomeRowMods: true
 hasLetterOnThumb: false
