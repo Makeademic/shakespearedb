@@ -8,11 +8,13 @@ title: titles
 <div class="flex flex-wrap p-[100px]">
 
     {% for data in titles %}
-    <div class="p-[10px] m-[10px]">
+    <div class="w-[150px] text-center align-top text-center mt-3">
+      <div class="w-[100px] h-[100px] mx-auto rounded-full border">
       <a href="{{ data.titleURL | url }}">
-      <img width="80px" src="{{ data.titleImage | url }}"
+      <img class="h-[80px] w-[80px] rounded-[20px] m-[10px]" src="{{ data.titleImage | url }}"
       </a>
-      <a href="{{ data.titleURL | url }}">{{ data.title }}</a>
+      </div>
+      <p class="mt-4 pb-5 text-center text-sm"><a href="{{ data.titleURL | url }}">{{ data.title }}</a></p>
     </div>
     {% endfor %}
 
