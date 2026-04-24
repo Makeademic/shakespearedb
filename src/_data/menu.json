@@ -1,14 +1,14 @@
 [
     {
-        "label": "About",
+        "label": "about",
         "url": "/about/"
     },
     {
-        "label": "Search",
+        "label": "search",
         "url": "/"
     },
     {
-        "label": "Titles",
+        "label": "titles",
         "url": "/titles/"
     }
 ]

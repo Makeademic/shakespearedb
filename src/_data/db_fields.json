@@ -4,21 +4,11 @@
     "NSC",
     "titleImage",
     "yearCount",
-    "firmwares",
-    "keyboard",
     "location_name",
-    "stagger",
     "isFragment",
     "edition_number",
     "summary",
-    "OS",
     "edition_format",
-    "writeup",
-    "hasRotaryEncoder",
-    "hasLetterOnThumb",
     "STC_Wing",
-    "hasHomeRowMods",
-    "isTapDanceEnabled",
-    "isLocationVerified",
-    "isAutoShiftEnabled"
+    "isLocationVerified"
 ]
