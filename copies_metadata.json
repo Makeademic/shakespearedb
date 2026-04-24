@@ -8,23 +8,13 @@
         "NSC": "1",
         "titleImage": "/assets/img/title_icons/birth-of-merlin.png",
         "yearCount": 1662,
-        "firmwares": ["The Birth of Merlin"],
-        "keyboard": "Skeletyl",
         "location_name": ["Boston Public Library"],
-        "stagger": "columnar",
         "isFragment": true,
         "edition_number": ["1"],
         "summary": "A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front.",
-        "OS": ["MacOS"],
         "edition_format": ["4°"],
-        "writeup": "https://github.com/0xcharly/qmk_firmware/blob/users-delay-wip/users/delay/README.md",
-        "hasRotaryEncoder": false,
-        "hasLetterOnThumb": false,
         "STC_Wing": ["R2096"],
-        "hasHomeRowMods": true,
-        "isTapDanceEnabled": true,
-        "isLocationVerified": false,
-        "isAutoShiftEnabled": false
+        "isLocationVerified": false
         
     },
     {
@@ -36,23 +26,13 @@
         "NSC": "25",
         "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png",
         "yearCount": 1662,
-        "firmwares": ["Cupid's Cabinet Unlocked"],
-        "keyboard": "Corne",
         "location_name": ["Folger Shakespeare Library"],
-        "stagger": "columnar",
         "isFragment": true,
         "edition_number": ["2"],
         "summary": "Imperfect: containing Cupid’s cabinet unlock’t only, leaves G8-I3, with G11 wanting.",
-        "OS": ["Windows","MacOS","Linux"],
         "edition_format": ["12°"],
-        "writeup": "https://rpnfan.github.io/keyboard-heaven",
-        "hasRotaryEncoder": false,
-        "hasLetterOnThumb": false,
         "STC_Wing": ["C7597A","D3A"],
-        "hasHomeRowMods": false,
-        "isTapDanceEnabled": true,
-        "isLocationVerified": true,
-        "isAutoShiftEnabled": false
+        "isLocationVerified": true
         
     },
     {
@@ -64,23 +44,13 @@
         "NSC": "28",
         "titleImage": "/assets/img/title_icons/hamlet.png",
         "yearCount": 1603,
-        "firmwares": ["Hamlet"],
-        "keyboard": "ANSI",
         "location_name": ["British Library"],
-        "stagger": "row",
         "isFragment": false,
         "edition_number": ["2"],
         "summary": "Imperfect; wanting the titlepage",
-        "OS": ["Windows","MacOS","Linux"],
         "edition_format": ["4°"],
-        "writeup": "https://github.com/argenkiwi/kenkyo/blob/main/README.md",
-        "hasRotaryEncoder": false,
-        "hasLetterOnThumb": false,
         "STC_Wing": ["22275"],
-        "hasHomeRowMods": true,
-        "isTapDanceEnabled": false,
-        "isLocationVerified": true,
-        "isAutoShiftEnabled": false
+        "isLocationVerified": true
         
     },
     {
@@ -92,23 +62,13 @@
         "NSC": "303",
         "titleImage": "/assets/img/title_icons/henry-v.png",
         "yearCount": 1600,
-        "firmwares": ["Henry V"],
-        "keyboard": "The Paintbrush",
         "location_name": ["British Library"],
-        "stagger": "ortholinear",
         "isFragment": true,
         "edition_number": ["3"],
         "summary": "",
-        "OS": [],
         "edition_format": ["4°"],
-        "writeup": "https://artsey.io/",
-        "hasRotaryEncoder": false,
-        "hasLetterOnThumb": false,
         "STC_Wing": ["22289"],
-        "hasHomeRowMods": false,
-        "isTapDanceEnabled": false,
-        "isLocationVerified": true,
-        "isAutoShiftEnabled": false
+        "isLocationVerified": true
         
     },
     {
@@ -120,23 +80,13 @@
         "NSC": "373",
         "titleImage": "/assets/img/title_icons/julius-caesar.png",
         "yearCount": 1684,
-        "firmwares": ["Julius Caesar"],
-        "keyboard": "Lily58",
         "location_name": ["Library of Birmingham"],
-        "stagger": "columnar",
         "isFragment": true,
         "edition_number": ["3"],
         "summary": "328027",
-        "OS": ["Windows","Linux"],
         "edition_format": ["4°"],
-        "writeup": "https://github.com/archydragon/lily-layout/blob/main/README.md",
-        "hasRotaryEncoder": false,
-        "hasLetterOnThumb": false,
         "STC_Wing": ["S2922"],
-        "hasHomeRowMods": false,
-        "isTapDanceEnabled": false,
-        "isLocationVerified": false,
-        "isAutoShiftEnabled": false
+        "isLocationVerified": false
         
     },
     {
@@ -148,23 +98,13 @@
         "NSC": "472",
         "titleImage": "/assets/img/title_icons/king-lear.png",
         "yearCount": 1608,
-        "firmwares": ["King Lear"],
-        "keyboard": "Hummingbird",
         "location_name": ["British Library"],
-        "stagger": "columnar",
         "isFragment": true,
         "edition_number": ["4"],
         "summary": "",
-        "OS": ["Windows","Linux"],
         "edition_format": ["4°"],
-        "writeup": "https://github.com/caksoylar/zmk-config/blob/main/README.md",
-        "hasRotaryEncoder": false,
-        "hasLetterOnThumb": false,
         "STC_Wing": ["22292"],
-        "hasHomeRowMods": true,
-        "isTapDanceEnabled": false,
-        "isLocationVerified": true,
-        "isAutoShiftEnabled": false
+        "isLocationVerified": true
         
     }
 ]
