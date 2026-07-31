@@ -1,21 +1,1284 @@
 [
-    { "title": "The Birth of Merlin", "titleImage": "/assets/img/title_icons/birth-of-merlin.png", "titleURL": "/Birth-of-Merlin/" },
+    { "title": "The Birth of Merlin", 
+      "titleImage": "/assets/img/title_icons/birth-of-merlin.png", 
+      "titleURL": "/Birth-of-Merlin/",
+      "isFragment": false,
+      "extant_copies": "26",
+      "plus_fragment": "0",
+      "editions": [
+        {
+        "edition_number": "1",
+        "yearCount": "1662",
+        "STC_Wing": "R2096",
+        "ESTC": "R7261"
+        }
+      ] 
+    },
     { "title": "Comedies, Histories, and Tragedies: F1", "titleImage": "/assets/img/title_icons/F1.png", "titleURL": "/F1/" },    
     { "title": "Comedies, Histories, and Tragedies: F2", "titleImage": "/assets/img/title_icons/f2.png", "titleURL": "/F2/" },  
     { "title": "Comedies, Histories, and Tragedies: F3", "titleImage": "/assets/img/title_icons/f3.png", "titleURL": "/F3/" },  
     { "title": "Comedies, Histories, and Tragedies: F4", "titleImage": "/assets/img/title_icons/f4.png", "titleURL": "/F4/" },     
-    { "title": "Cupid's Cabinet Unlocked", "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", "titleURL": "/Cupids-Cabinet-Unlocked/" },  
-    { "title": "Hamlet", "titleImage": "/assets/img/title_icons/hamlet.png", "titleURL": "/Hamlet/" },  
-    { "title": "1 Henry IV", "titleImage": "/assets/img/title_icons/1-henry-iv.png", "titleURL": "/1-Henry-IV/" },
-    { "title": "2 Henry IV", "titleImage": "/assets/img/title_icons/2-henry-iv.png", "titleURL": "/2-Henry-IV/" },
-    { "title": "Henry V", "titleImage": "/assets/img/title_icons/henry-v.png", "titleURL": "/Henry-V/" },
-    { "title": "2 Henry VI", "titleImage": "/assets/img/title_icons/2-henry-vi.png", "titleURL": "/2-Henry-VI/" },
-    { "title": "3 Henry VI", "titleImage": "/assets/img/title_icons/3-henry-vi.png", "titleURL": "/3-Henry-VI/" },
-    { "title": "Julius Caesar", "titleImage": "/assets/img/title_icons/julius-caesar.png", "titleURL": "/Julius-Caesar/" },
-    { "title": "King Lear", "titleImage": "/assets/img/title_icons/king-lear.png", "titleURL": "/King-Lear/" },
-    { "title": "Locrine", "titleImage": "/assets/img/title_icons/locrine.png", "titleURL": "/Locrine/" },   
-    { "title": "The London Prodigal", "titleImage": "/assets/img/title_icons/london-prodigal.png", "titleURL": "/The-London-Prodigal/" },
-    { "title": "Love's Labors Lost", "titleImage": "/assets/img/title_icons/loves-labors-lost.png", "titleURL": "/Loves-Labors-Lost/" },
-    { "title": "Love's Martyr", "titleImage": "/assets/img/title_icons/loves-martyr.png", "titleURL": "/Loves-Martyr/" }, 
-    { "title": "A Yorkshire Tragedy", "titleImage": "/assets/img/title_icons/yorkshire-tragedy.png", "titleURL": "/A-Yorkshire-Tragedy/"}
+    
+    { "title": "Cupid's Cabinet Unlocked", 
+        "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", 
+        "titleURL": "/Cupids-Cabinet-Unlocked/",
+        "isFragment": false,
+        "extant_copies": "3",
+        "plus_fragment": "0",
+              "editions": [
+                {
+                "edition_number": 1,
+                "yearCount": 1662,
+                "STC_Wing": "C7597A; D3A",
+                "ESTC": "R214877; R224860"
+                },
+                {
+                "edition_number": 2,
+                "yearCount": "[1671-2]",
+                "STC_Wing": "not in Wing",
+                "ESTC": "R508745"
+                }
+        ]   
+    },  
+    
+    
+    
+    { "title": "Hamlet", 
+    "titleImage": "/assets/img/title_icons/hamlet.png", 
+    "titleURL": "/Hamlet/", 
+    "isFragment": false,
+    "extant_copies": 187,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1603,
+        "STC_Wing": "22275",
+        "ESTC": "S111109"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1604,
+        "STC_Wing": "22276",
+        "ESTC": "S111107"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1605,
+        "STC_Wing": "22276a",
+        "ESTC": "S112640"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1611,
+        "STC_Wing": "22277",
+        "ESTC": "S111103"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": "[1625]",
+        "STC_Wing": "22278",
+        "ESTC": "S111101"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1637,
+        "STC_Wing": "22279",
+        "ESTC": "S111099"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1676,
+        "STC_Wing": "S2950",
+        "ESTC": "R17530"
+      },
+      {
+        "edition_number": 7,
+        "yearCount": "1676 [i.e. 1683-84]",
+        "STC_Wing": "S2951",
+        "ESTC": "R561"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": 1683,
+        "STC_Wing": "S2952",
+        "ESTC": "R226573"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": 1683,
+        "STC_Wing": "S2952",
+        "ESTC": "R17644"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": 1683,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      },
+      {
+        "edition_number": 9,
+        "yearCount": 1695,
+        "STC_Wing": "S2954",
+        "ESTC": "R35173"
+      },
+      {
+        "edition_number": 9,
+        "yearCount": 1695,
+        "STC_Wing": "S2955",
+        "ESTC": "R509"
+      },
+      {
+        "edition_number": 9,
+        "yearCount": 1695,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      }
+    ]
+},  
+
+
+    { "title": "1 Henry IV", 
+    "titleImage": "/assets/img/title_icons/1-henry-iv.png", 
+    "titleURL": "/1-Henry-IV/",
+    "isFragment": true,
+    "extant_copies": 91,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": "[1598]",
+        "STC_Wing": "22279a",
+        "ESTC": "S106001"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1598,
+        "STC_Wing": "22280",
+        "ESTC": "S111128"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1599,
+        "STC_Wing": "22281",
+        "ESTC": "S111130"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1604,
+        "STC_Wing": "22282",
+        "ESTC": "S107199"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1608,
+        "STC_Wing": "22283",
+        "ESTC": "S111112"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1613,
+        "STC_Wing": "22284",
+        "ESTC": "S111121"
+      },
+      {
+        "edition_number": 7,
+        "yearCount": 1622,
+        "STC_Wing": "22285",
+        "ESTC": "S111122"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": 1632,
+        "STC_Wing": "22286",
+        "ESTC": "S104545"
+      },
+      {
+        "edition_number": 9,
+        "yearCount": 1639,
+        "STC_Wing": "22287",
+        "ESTC": "S111125"
+      }
+    ]
+ },
+
+
+    { "title": "2 Henry IV", 
+    "titleImage": "/assets/img/title_icons/2-henry-iv.png", 
+    "titleURL": "/2-Henry-IV/",
+    "isFragment": false,
+    "extant_copies": 22,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "22288",
+        "ESTC": "S111114"
+      },
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "22288a",
+        "ESTC": "S111115"
+      },
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      }
+    ]
+},
+
+    
+
+    { "title": "Henry V", 
+    "titleImage": "/assets/img/title_icons/henry-v.png", 
+    "titleURL": "/Henry-V/",
+    "isFragment": true,
+    "extant_copies": 53,
+    "plus_fragment": 2,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "22289",
+        "ESTC": "S111105"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1602,
+        "STC_Wing": "22290",
+        "ESTC": "S111108"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": "1608 [i.e. 1619]",
+        "STC_Wing": "22291",
+        "ESTC": "S111119"
+      }
+    ]
+ },
+
+
+
+    { "title": "2 Henry VI", 
+    "titleImage": "/assets/img/title_icons/2-henry-vi.png", 
+    "titleURL": "/2-Henry-VI/",
+    "isFragment": false,
+    "extant_copies": 8,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1594,
+        "STC_Wing": "26099",
+        "ESTC": "S105347"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1600,
+        "STC_Wing": "26100",
+        "ESTC": "S111146"
+      }
+    ]
+ },
+
+
+
+    { "title": "3 Henry VI", 
+    "titleImage": "/assets/img/title_icons/3-henry-vi.png", 
+    "titleURL": "/3-Henry-VI/",
+    "isFragment": false,
+    "extant_copies": 11,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1595,
+        "STC_Wing": "21006",
+        "ESTC": "S102944"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1600,
+        "STC_Wing": "21006a",
+        "ESTC": "S111150"
+      }
+    ]
+},
+
+
+
+    { "title": "Julius Caesar", 
+    "titleImage": "/assets/img/title_icons/julius-caesar.png", 
+    "titleURL": "/Julius-Caesar/",
+    "isFragment": false,
+    "extant_copies": 128,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1684,
+        "STC_Wing": "S2922",
+        "ESTC": "R15574"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1691,
+        "STC_Wing": "S2922A",
+        "ESTC": "R8049"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": "[1695-1700]",
+        "STC_Wing": "S2923",
+        "ESTC": "R469134; R11165"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": "[1695-1700]",
+        "STC_Wing": "S2924",
+        "ESTC": "R35172"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": "[1695-1700]",
+        "STC_Wing": "S2925",
+        "ESTC": "R226533"
+      }
+    ]
+},
+
+
+
+    { "title": "King Lear", 
+    "titleImage": "/assets/img/title_icons/king-lear.png", 
+    "titleURL": "/King-Lear/",
+    "isFragment": true,
+    "extant_copies": 68,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1608,
+        "STC_Wing": "22292",
+        "ESTC": "S111085"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": "1608 [i.e. 1619]",
+        "STC_Wing": "22293",
+        "ESTC": "S111098"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1655,
+        "STC_Wing": "S2957",
+        "ESTC": "R17679"
+      }
+    ]
+},
+
+
+
+    { "title": "Locrine", 
+    "titleImage": "/assets/img/title_icons/locrine.png", 
+    "titleURL": "/Locrine/",
+    "isFragment": false,
+    "extant_copies": 13,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1595,
+        "STC_Wing": "21528",
+        "ESTC": "S106301"
+      }
+    ]    
+},   
+
+
+
+    { "title": "The London Prodigal", 
+    "titleImage": "/assets/img/title_icons/london-prodigal.png", 
+    "titleURL": "/The-London-Prodigal/",
+    "isFragment": true,
+    "extant_copies": 16,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1605,
+        "STC_Wing": "22333",
+        "ESTC": "S106302"
+      }
+    ]
+ },
+
+
+
+    { "title": "Love's Labors Lost", 
+    "titleImage": "/assets/img/title_icons/loves-labors-lost.png", 
+    "titleURL": "/Loves-Labors-Lost/",
+    "isFragment": false,
+    "extant_copies": 42,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1598,
+        "STC_Wing": "22294",
+        "ESTC": "S111181"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1631,
+        "STC_Wing": "22295",
+        "ESTC": "S111183"
+      }
+    ]
+ },
+
+
+
+    { "title": "Love's Martyr", 
+    "titleImage": "/assets/img/title_icons/loves-martyr.png", 
+    "titleURL": "/Loves-Martyr/",
+    "isFragment": false,
+    "extant_copies": 4,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1601,
+        "STC_Wing": "5119",
+        "ESTC": "S106438"
+      },
+      {
+        "edition_number": 1,
+        "yearCount": 1611,
+        "STC_Wing": "5120",
+        "ESTC": "S116061"
+      },
+      {
+        "edition_number": 1,
+        "yearCount": "[Unknown]",
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      }
+    ]
+ }, 
+
+ {
+    "title": "Macbeth",
+    "titleImage": "/assets/img/title_icons/macbeth.png",
+    "titleURL": "/Macbeth/",
+    "isFragment": false,
+    "extant_copies": 12,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1673,
+        "STC_Wing": "S2929",
+        "ESTC": "R22948"
+      }
+    ]
+  },
+  
+  {
+    "title": "The Merchant of Venice",
+    "titleImage": "/assets/img/title_icons/merchant-of-venice.png",
+    "titleURL": "/The-Merchant-Of-Venice/",
+    "isFragment": false,
+    "extant_copies": 89,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "22296",
+        "ESTC": "S111215"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": "1600 [i.e. 1619]",
+        "STC_Wing": "22297",
+        "ESTC": "S111195"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1637,
+        "STC_Wing": "22298",
+        "ESTC": "S111192"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1652,
+        "STC_Wing": "S2938",
+        "ESTC": "R14929"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": "[Unknown]",
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      }
+    ]
+  },
+
+
+  {
+    "title": "The Merry Wives of Windsor",
+    "titleImage": "/assets/img/title_icons/merry-wives-of-windsor.png",
+    "titleURL": "/The-Merry-Wives-Of-Windsor/",
+    "isFragment": true,
+    "extant_copies": 55,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1602,
+        "STC_Wing": "22299",
+        "ESTC": "S111204"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1619,
+        "STC_Wing": "22300",
+        "ESTC": "S111206"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1630,
+        "STC_Wing": "22301",
+        "ESTC": "S111208"
+      }
+    ]
+  },
+
+
+  {
+    "title": "A Midsummer Night's Dream",
+    "titleImage": "/assets/img/title_icons/midsummer-nights-dream.png",
+    "titleURL": "/A-Midsummer-Nights-Dream/",
+    "isFragment": false,
+    "extant_copies": 42,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "22302",
+        "ESTC": "S111178"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": "1600 [i.e. 1619]",
+        "STC_Wing": "22303",
+        "ESTC": "S111174"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Much Ado About Nothing",
+    "titleImage": "/assets/img/title_icons/much-ado-about-nothing.png",
+    "titleURL": "/Much-Ado-About-Nothing/",
+    "isFragment": false,
+    "extant_copies": 17,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "22304",
+        "ESTC": "S111188"
+      }
+    ]
+  },
+
+  {
+    "title": "Othello",
+    "titleImage": "/assets/img/title_icons/othello.png",
+    "titleURL": "/Othello/",
+    "isFragment": true,
+    "extant_copies": 179,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1622,
+        "STC_Wing": "22305",
+        "ESTC": "S111186"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1630,
+        "STC_Wing": "22306",
+        "ESTC": "S111182"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1655,
+        "STC_Wing": "S2939",
+        "ESTC": "R17082"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1655,
+        "STC_Wing": "S2939",
+        "ESTC": "R226564"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1681,
+        "STC_Wing": "S2940",
+        "ESTC": "R17174"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1687,
+        "STC_Wing": "S2941",
+        "ESTC": "R17264"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1695,
+        "STC_Wing": "S2942",
+        "ESTC": "R17265"
+      }
+    ]
+  },
+
+  {
+    "title": "The Passionate Pilgrim",
+    "titleImage": "/assets/img/title_icons/passionate-pilgrim.png",
+    "titleURL": "/The-Passionate-Pilgrim/",
+    "isFragment": true,
+    "extant_copies": 5,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1599,
+        "STC_Wing": "22341.5",
+        "ESTC": "S107201"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1599,
+        "STC_Wing": "22342",
+        "ESTC": "S106363"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1612,
+        "STC_Wing": "22343",
+        "ESTC": "S106170"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Pericles",
+    "titleImage": "/assets/img/title_icons/pericles.png",
+    "titleURL": "/Pericles/",
+    "isFragment": true,
+    "extant_copies": 101,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1609,
+        "STC_Wing": "22334",
+        "ESTC": "S111190"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1609,
+        "STC_Wing": "22335",
+        "ESTC": "S111194"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1611,
+        "STC_Wing": "22336",
+        "ESTC": "S101699"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1619,
+        "STC_Wing": "26101",
+        "ESTC": "S111147"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1630,
+        "STC_Wing": "22337",
+        "ESTC": "S1139"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1630,
+        "STC_Wing": "22338",
+        "ESTC": "S111198"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1630,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1635,
+        "STC_Wing": "22339",
+        "ESTC": "S111200"
+      }
+    ]
+  }, 
+
+  {
+    "title": "Poems",
+    "titleImage": "/assets/img/title_icons/poems.png",
+    "titleURL": "/Poems/",
+    "isFragment": true,
+    "extant_copies": 67,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1640,
+        "STC_Wing": "22344",
+        "ESTC": "S106377"
+      }
+    ]
+  },
+
+
+  {
+    "title": "The Puritan, or The Widow of Watling Street",
+    "titleImage": "/assets/img/title_icons/puritan-or-the-widow-of-watling-street.png",
+    "titleURL": "/The-Puritan/",
+    "isFragment": true,
+    "extant_copies": 16,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1607,
+        "STC_Wing": "21531",
+        "ESTC": "S106337"
+      }
+    ]
+  },
+
+
+  {
+    "title": "The Rape of Lucrece",
+    "titleImage": "/assets/img/title_icons/rape-of-lucrece.png",
+    "titleURL": "/The-Rape-Of-Lucrece/",
+    "isFragment": true,
+    "extant_copies": 51,
+    "plus_fragment": 4,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1594,
+        "STC_Wing": "22345",
+        "ESTC": "S106341"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1598,
+        "STC_Wing": "22346",
+        "ESTC": "S106225"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1600,
+        "STC_Wing": "22347",
+        "ESTC": "S107202"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1600,
+        "STC_Wing": "22348",
+        "ESTC": "S106226"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1607,
+        "STC_Wing": "22349",
+        "ESTC": "S106351"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1616,
+        "STC_Wing": "22350",
+        "ESTC": "S106350"
+      },
+      {
+        "edition_number": 7,
+        "yearCount": 1624,
+        "STC_Wing": "22351",
+        "ESTC": "S106348"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": 1632,
+        "STC_Wing": "22352",
+        "ESTC": "S106346"
+      },
+      {
+        "edition_number": 9,
+        "yearCount": 1655,
+        "STC_Wing": "S2943",
+        "ESTC": "R13087"
+      }
+    ]
+  },
+
+  
+  {
+    "title": "Richard II",
+    "titleImage": "/assets/img/title_icons/richard-ii.png",
+    "titleURL": "/Richard-II/",
+    "isFragment": false,
+    "extant_copies": 64,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1597,
+        "STC_Wing": "22307",
+        "ESTC": "S111135"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1598,
+        "STC_Wing": "22308",
+        "ESTC": "S111138"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1598,
+        "STC_Wing": "22309",
+        "ESTC": "S105634"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1608,
+        "STC_Wing": "22310",
+        "ESTC": "S111139"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1608,
+        "STC_Wing": "22311",
+        "ESTC": "S103000"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1608,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1615,
+        "STC_Wing": "22312",
+        "ESTC": "S111141"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1634,
+        "STC_Wing": "22313",
+        "ESTC": "S111142"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1634,
+        "STC_Wing": "22313",
+        "ESTC": "S111142"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1634,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Richard III",
+    "titleImage": "/assets/img/title_icons/richard-iii.png",
+    "titleURL": "/Richard-III/",
+    "isFragment": true,
+    "extant_copies": 84,
+    "plus_fragment": 2,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1597,
+        "STC_Wing": "22314",
+        "ESTC": "S111093"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1598,
+        "STC_Wing": "22315",
+        "ESTC": "S111110"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1602,
+        "STC_Wing": "22316",
+        "ESTC": "S111111"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1605,
+        "STC_Wing": "22317",
+        "ESTC": "S111118"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1612,
+        "STC_Wing": "22318",
+        "ESTC": "S111120"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1622,
+        "STC_Wing": "22319",
+        "ESTC": "S111123"
+      },
+      {
+        "edition_number": 7,
+        "yearCount": 1629,
+        "STC_Wing": "22320",
+        "ESTC": "S111127"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": 1634,
+        "STC_Wing": "22321",
+        "ESTC": "S111132"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Romeo and Juliet",
+    "titleImage": "/assets/img/title_icons/romeo-and-juliet.png",
+    "titleURL": "/Romeo-And-Juliet/",
+    "isFragment": true,
+    "extant_copies": 67,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1597,
+        "STC_Wing": "22322",
+        "ESTC": "S111176"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1599,
+        "STC_Wing": "22323",
+        "ESTC": "S111179"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1609,
+        "STC_Wing": "22324",
+        "ESTC": "S111184"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": "[1623]",
+        "STC_Wing": "22325",
+        "ESTC": "S111191"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": "[1623]",
+        "STC_Wing": "22325a",
+        "ESTC": "S111193"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": "[1623]",
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": 1637,
+        "STC_Wing": "22326",
+        "ESTC": "S111244"
+      }
+    ]
+  },
+
+  {
+    "title": "1 Sir John Oldcastle",
+    "titleImage": "/assets/img/title_icons/1-sir-john-oldcastle.png",
+    "titleURL": "/1-Sir-John-Oldcastle/",
+    "isFragment": true,
+    "extant_copies": 50,
+    "plus_fragment": 2,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1600,
+        "STC_Wing": "18795",
+        "ESTC": "S106323"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": "1600 [i.e. 1619]",
+        "STC_Wing": "18796",
+        "ESTC": "S106328"
+      }
+    ]
+  },
+
+  {
+    "title": "Sonnets",
+    "titleImage": "/assets/img/title_icons/sonnets.png",
+    "titleURL": "/Sonnets/",
+    "isFragment": false,
+    "extant_copies": 13,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1609,
+        "STC_Wing": "22353",
+        "ESTC": "S106352"
+      },
+      {
+        "edition_number": 1,
+        "yearCount": 1609,
+        "STC_Wing": "22353a",
+        "ESTC": "S121830"
+      },
+      {
+        "edition_number": 1,
+        "yearCount": 1609,
+        "STC_Wing": "[Unknown]",
+        "ESTC": "[Unknown]"
+      }
+    ]
+  },
+
+
+  {
+    "title": "The Taming of a/the Shrew",
+    "titleImage": "/assets/img/title_icons/taming-of-the-shrew.png",
+    "titleURL": "/The-Taming-Of-The-Shrew/",
+    "isFragment": true,
+    "extant_copies": 32,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1594,
+        "STC_Wing": "23667",
+        "ESTC": "S111124"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1596,
+        "STC_Wing": "23668",
+        "ESTC": "S111126"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1607,
+        "STC_Wing": "23669",
+        "ESTC": "S111131"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1631,
+        "STC_Wing": "22327",
+        "ESTC": "S111180"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Thomas Lord Cromwell",
+    "titleImage": "/assets/img/title_icons/thomas-lord-cromwell.png",
+    "titleURL": "/Thomas-Lord-Cromwell/",
+    "isFragment": false,
+    "extant_copies": 23,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1602,
+        "STC_Wing": "21532",
+        "ESTC": "S104562"
+      },
+        {
+        "edition_number": 2,
+        "yearCount": 1613,
+        "STC_Wing": "21533",
+        "ESTC": "S106330"
+      }
+    ]
+  },
+
+
+    {
+    "title": "Titus Andronicus",
+    "titleImage": "/assets/img/title_icons/titus-andronicus.png",
+    "titleURL": "/Titus-Andronicus/",
+    "isFragment": false,
+    "extant_copies": 20,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1594,
+        "STC_Wing": "22328",
+        "ESTC": "S106004"
+      },
+        {
+        "edition_number": 2,
+        "yearCount": 1600,
+        "STC_Wing": "22329",
+        "ESTC": "S111196"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1611,
+        "STC_Wing": "22330",
+        "ESTC": "S111203"
+      }
+    ]
+  },
+
+
+    {
+    "title": "Troilus and Cressida",
+    "titleImage": "/assets/img/title_icons/troilus-and-cressida.png",
+    "titleURL": "/Troilus-And-Cressida/",
+    "isFragment": true,
+    "extant_copies": 15,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1609,
+        "STC_Wing": "22331",
+        "ESTC": "S111172"
+      },
+        {
+        "edition_number": 1,
+        "yearCount": 1609,
+        "STC_Wing": "22332",
+        "ESTC": "S111177"
+      }
+    ]
+  },
+
+
+      {
+    "title": "1&2 The Troublesome Reign of King John",
+    "titleImage": "/assets/img/title_icons/troublesome-reign-of-king-john.png",
+    "titleURL": "/The-Troublesome-Reign-Of-King-John/",
+    "isFragment": false,
+    "extant_copies": 44,
+    "plus_fragment": 0,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1591,
+        "STC_Wing": "14644",
+        "ESTC": "S106391"
+      },
+        {
+        "edition_number": 2,
+        "yearCount": 1611,
+        "STC_Wing": "14646",
+        "ESTC": "S106395"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": 1622,
+        "STC_Wing": "14647",
+        "ESTC": "S106399"
+      }
+    ]
+  },
+
+  {
+    "title": "The Two Noble Kinsmen",
+    "titleImage": "/assets/img/title_icons/two-noble-kinsmen.png",
+    "titleURL": "/The-Two-Noble-Kinsmen/",
+    "isFragment": true,
+    "extant_copies": 60,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1634,
+        "STC_Wing": "11075",
+        "ESTC": "S106283"
+      }
+    ]
+  },
+
+    {
+    "title": "The Whole Contention Between the Two Famous Houses, Lancaster and York",
+    "titleImage": "/assets/img/title_icons/whole-contention.png",
+    "titleURL": "/The-Whole-Contention/",
+    "isFragment": true,
+    "extant_copies": 60,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": "[1619]",
+        "STC_Wing": "26101",
+        "ESTC": "S111147"
+      }
+    ]
+  },
+
+
+    { "title": "A Yorkshire Tragedy", 
+    "titleImage": "/assets/img/title_icons/yorkshire-tragedy.png", 
+    "titleURL": "/A-Yorkshire-Tragedy/",
+    "isFragment": true,
+    "extant_copies": 15,
+    "plus_fragment": 1,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1608,
+        "STC_Wing": "22340",
+        "ESTC": "S106334"
+      },
+        {
+        "edition_number": 2,
+        "yearCount": 1619,
+        "STC_Wing": "22341",
+        "ESTC": "S106333"
+      }
+    ]}
 ]

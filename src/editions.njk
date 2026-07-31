@@ -1,0 +1,55 @@
+---
+layout: layouts/default
+pagination:
+  data: titles
+  size: 1
+  alias: play
+permalink: "{{ play.titleURL }}"
+eleventyComputed:
+  pageTitle: "{{ play.title }} — Editions"
+---
+
+{% block main %}
+<div class="flex flex-wrap p-[100px]">
+
+    <div class="w-[150px] text-center align-top text-center mt-3">
+      <div class="w-[100px] h-[100px] mx-auto rounded-full border">
+      <a href="{{ play.titleURL | url }}">
+      <img class="h-[80px] w-[80px] rounded-[20px] m-[10px]" src="{{ play.titleImage | url }}" />
+      </a>
+      </div>
+      <h1 class="mt-4 pb-5 text-center text-sm"><a href="{{ play.titleURL | url }}">{{ play.title }}</a></h1>
+      <p>All editions</p>
+      <p>{% if play.isFragment %}Extant copies: {{ play.extant_copies }}, plus {{ play.plus_fragment }} fragments {% else %} Extant copies: {{ play.extant_copies }} {% endif %}</p>
+    </div>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" class="text-xl font-bold">Edition</th>
+      <th colspan="2" class="text-xl font-bold">Year</th>
+      <th colspan="2" class="text-xl font-bold">STC / Wing</th>
+      <th colspan="2" class="text-xl font-bold">ESTC</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for edition in play.editions %}
+      <tr>
+        <td>{{ play.edition_number }}</td>
+        <td>{{ play.yearCount }}</td>
+        <td>{{ play.STC_Wing }}</td>
+        <td>{{ play.ESTC }}</td>
+      </tr>
+    {% else %}
+      <tr>
+        <td colspan="3">No editions available.</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+
+
+
+</div>
+{% endblock %}
