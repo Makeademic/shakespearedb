@@ -1243,6 +1243,128 @@
     ]
   },
 
+    
+    { "title": "Venus and Adonis", 
+    "titleImage": "/assets/img/title_icons/venus-and-adonis.png", 
+    "titleURL": "/Venus-And-Adonis/", 
+    "isFragment": true,
+    "extant_copies": 24,
+    "plus_fragment": 4,
+    "editions": [
+      {
+        "edition_number": 1,
+        "yearCount": 1593,
+        "STC_Wing": "22354",
+        "ESTC": "S111109"
+      },
+      {
+        "edition_number": 2,
+        "yearCount": 1594,
+        "STC_Wing": "22355",
+        "ESTC": "S106376"
+      },
+      {
+        "edition_number": 3,
+        "yearCount": "[1595?]",
+        "STC_Wing": "22356",
+        "ESTC": "S107307"
+      },
+      {
+        "edition_number": 4,
+        "yearCount": 1596,
+        "STC_Wing": "22357",
+        "ESTC": "S2332"
+      },
+      {
+        "edition_number": 5,
+        "yearCount": "1598",
+        "STC_Wing": "22358",
+        "ESTC": "S106359"
+      },
+      {
+        "edition_number": 6,
+        "yearCount": 1599,
+        "STC_Wing": "22358a",
+        "ESTC": "S107306"
+      },
+      {
+        "edition_number": 7,
+        "yearCount": "[1602?]",
+        "STC_Wing": "22359",
+        "ESTC": "S114108"
+      },
+      {
+        "edition_number": 8,
+        "yearCount": "1602 [i.e. 1607-8?]",
+        "STC_Wing": "22360",
+        "ESTC": "S114110"
+      },
+      {
+        "edition_number": 9,
+        "yearCount": "1602 [i.e. 1608-9?]",
+        "STC_Wing": "22360a",
+        "ESTC": "S114112"
+      },
+      {
+        "edition_number": 10,
+        "yearCount": "1602 [i.e. 1610?]",
+        "STC_Wing": "22360b",
+        "ESTC": "S114114"
+      },
+      {
+        "edition_number": 11,
+        "yearCount": 1617,
+        "STC_Wing": "22361",
+        "ESTC": "S100018"
+      },
+      {
+        "edition_number": 12,
+        "yearCount": 1620,
+        "STC_Wing": "22362",
+        "ESTC": "S1652"
+      },
+      {
+        "edition_number": 13,
+        "yearCount": 1627,
+        "STC_Wing": "22363",
+        "ESTC": "S106378"
+      },
+      {
+        "edition_number": 14,
+        "yearCount": 1630,
+        "STC_Wing": "22364",
+        "ESTC": "S106230"
+      },
+      {
+        "edition_number": 15,
+        "yearCount": "[1630-36?]",
+        "STC_Wing": "22365",
+        "ESTC": "S114115"
+      },
+      {
+        "edition_number": 16,
+        "yearCount": 1636,
+        "STC_Wing": "22366",
+        "ESTC": "S104547"
+      },
+      {
+        "edition_number": 17,
+        "yearCount": 1675,
+        "STC_Wing": "S2957A",
+        "ESTC": "R2778"
+      },
+      {
+        "edition_number": 17,
+        "yearCount": 1675,
+        "STC_Wing": "S2957A",
+        "ESTC": "R234469"
+      }
+    ]
+},  
+
+
+
+
     {
     "title": "The Whole Contention Between the Two Famous Houses, Lancaster and York",
     "titleImage": "/assets/img/title_icons/whole-contention.png",

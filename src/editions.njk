@@ -1,5 +1,6 @@
 ---
 layout: layouts/default
+editions: []
 pagination:
   data: titles
   size: 1
@@ -22,23 +23,24 @@ eleventyComputed:
       <p>All editions</p>
       <p>{% if play.isFragment %}Extant copies: {{ play.extant_copies }}, plus {{ play.plus_fragment }} fragments {% else %} Extant copies: {{ play.extant_copies }} {% endif %}</p>
     </div>
+</div>
 
 <table>
   <thead>
     <tr>
-      <th colspan="2" class="text-xl font-bold">Edition</th>
-      <th colspan="2" class="text-xl font-bold">Year</th>
-      <th colspan="2" class="text-xl font-bold">STC / Wing</th>
-      <th colspan="2" class="text-xl font-bold">ESTC</th>
+      <th class="text-xl font-bold">Edition</th>
+      <th class="text-xl font-bold">Year</th>
+      <th class="text-xl font-bold">STC / Wing</th>
+      <th class="text-xl font-bold">ESTC</th>
     </tr>
   </thead>
   <tbody>
     {% for edition in play.editions %}
       <tr>
-        <td>{{ play.edition_number }}</td>
-        <td>{{ play.yearCount }}</td>
-        <td>{{ play.STC_Wing }}</td>
-        <td>{{ play.ESTC }}</td>
+        <td>{{ edition.edition_number }}</td>
+        <td>{{ edition.yearCount }}</td>
+        <td>{{ edition.STC_Wing }}</td>
+        <td>{{ edition.ESTC }}</td>
       </tr>
     {% else %}
       <tr>
@@ -51,5 +53,5 @@ eleventyComputed:
 
 
 
-</div>
+
 {% endblock %}
