@@ -58,7 +58,7 @@ edition_format: []
             </tr>                        
             <tr>
                 <td><strong>Edition Number</strong></td>
-                <td>{{ showCategoricalArray(edition_number, "N/A") }}</td>
+                <td><a href="{{ edition_URL | url }}">{{ showCategoricalArray(edition_number, "N/A") }}</a></td>
             </tr>
             <tr>
                 <td><strong>Fragment</strong></td>
@@ -79,6 +79,10 @@ edition_format: []
             </tr>
             <tr>
                 <td><strong>Provenance</strong></td>
+                <td>{{ showCategoricalArray(provenance, "N/A") }}</td>
+            </tr>
+                        <tr>
+                <td><strong>Provenance notes</strong></td>
                 <td>{{ prov_info }}</td>
             </tr>
             <tr>

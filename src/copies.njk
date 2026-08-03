@@ -21,7 +21,7 @@ eleventyComputed:
       </a>
       </div>
       <h1 class="mt-4 pb-5 text-center"><a href="{{ copy.titleURL | url }}">{{ copy.title }}</a></h1>
-      <p>Edition: {{ copy.edition_number }}  {{ copy.yearCount }}  STC/Wing: {{ copy.STC_Wing }}  ESTC: {{ copy.ESTC }}  DEEP: {{ copy.DEEP }}</p>
+      <p>Edition: {{ copy.edition_number }}  {{ copy.yearCount }}  STC/Wing: {{ copy.STC_Wing }}  ESTC: <a href="https://datb.cerl.org/estc/{{ copy.ESTC}}">{{ copy.ESTC }}</a>  DEEP: {{ copy.DEEP }}</p>
       <p>{% if copy.isFragment %}Extant copies: {{ copy.extant_ed_copies }}, plus {{ copy.plus_fragment }} fragments {% else %} Extant copies: {{ copy.extant_ed_copies }} {% endif %}</p>
     </div>
 </div>
