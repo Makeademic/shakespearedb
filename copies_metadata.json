@@ -9,12 +9,12 @@
         "titleImage": "/assets/img/title_icons/birth-of-merlin.png",
         "yearCount": 1662,
         "location_name": ["Boston Public Library"],
-        "isFragment": true,
+        "isFragment": false,
         "edition_number": ["1"],
         "summary": "A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front.",
         "edition_format": ["4°"],
         "STC_Wing": ["R2096"],
-        "isLocationVerified": false
+        "isLocationVerified": true
         
     },
     {
