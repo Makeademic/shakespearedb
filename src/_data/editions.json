@@ -1,0 +1,104 @@
+[
+    { "title": "The Birth of Merlin", 
+      "titleImage": "/assets/img/title_icons/birth-of-merlin.png", 
+      "titleURL": "/Birth-of-Merlin/",
+      "edition_URL": "/1Birth-of-Merlin/",
+      "edition_format": "4°",
+      "isFragment": false,
+      "extant_ed_copies": "26",
+      "plus_fragment": "0",
+      "edition_number": "1",
+      "yearCount": "1662",
+      "STC_Wing": "R2096",
+      "ESTC": "R7261",
+      "DEEP": "not in DEEP",
+      "copies": [
+        {
+        "NSC": "1",
+        "location_name": "Boston Public Library",
+        "shelfmark": "G.176.43",
+        "location_verified": "true",
+        "digital_facsimile_URL": "https://archive.org/details/birthofmerlinorc00rowl/page/n12",
+        "copy_URL": "/copies/1BirthOfMerlin/"
+        },
+        {
+        "NSC": "2",
+        "location_name": "British Library",
+        "shelfmark": "C.12.f.1.(6.)",
+        "location_verified": "true",
+        "digital_facsimile_URL": ""
+        },
+        {
+        "NSC": "3",
+        "location_name": "British Library",
+        "shelfmark": "C.34.l.7",
+        "location_verified": "true",
+        "digital_facsimile_URL": ""
+        },
+        {
+        "NSC": "4",
+        "location_name": "Cambridge University, St. John's College",
+        "shelfmark": "Gg.3.42(8)",
+        "location_verified": "true",
+        "digital_facsimile_URL": ""
+        }
+      ] 
+    },
+
+
+    { "title": "Cupid's Cabinet Unlocked", 
+      "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", 
+      "titleURL": "/Cupids-Cabinet-Unlocked/",
+      "edition_URL": "/1Cupids-Cabinet-Unlocked/",
+      "edition_format": "12°",
+      "isFragment": false,
+      "extant_ed_copies": "2",
+      "plus_fragment": "0",
+      "edition_number": "1",
+      "yearCount": "1662",
+      "STC_Wing": "C7597A; D3A",
+      "ESTC": "R214877;  R224860",
+      "DEEP": "not in DEEP",
+      "copies": [
+        {
+        "NSC": "25",
+        "location_name": "Folger Shakespeare Library",
+        "shelfmark": "C7597a",
+        "location_verified": "true",
+        "digital_facsimile_URL": ""
+        },
+        {
+        "NSC": "26",
+        "location_name": "Oxford University, Bodleian Library",
+        "shelfmark": "Douce C.80[1]",
+        "location_verified": "true",
+        "digital_facsimile_URL": ""
+        }
+      ] 
+    },
+
+
+    { "title": "Cupid's Cabinet Unlocked", 
+      "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", 
+      "titleURL": "/Cupids-Cabinet-Unlocked/",
+      "edition_URL": "/2Cupids-Cabinet-Unlocked/",
+      "edition_format": "12°",
+      "isFragment": false,
+      "extant_ed_copies": "1",
+      "plus_fragment": "0",
+      "edition_number": "2",
+      "yearCount": "[1671-2]",
+      "STC_Wing": "not in Wing",
+      "ESTC": "R508745",
+      "DEEP": "not in DEEP",
+      "copies": [
+        {
+        "NSC": "27",
+        "location_name": "Boston Public Library",
+        "shelfmark": "G.176.62",
+        "location_verified": "true",
+        "digital_facsimile_URL": "https://archive.org/details/cupidscabinetunl00shak/page/n8"
+        }
+      ] 
+    }
+  ]

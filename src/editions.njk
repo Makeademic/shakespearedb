@@ -11,6 +11,7 @@ eleventyComputed:
 ---
 
 {% block main %}
+<div class="flex items-start mx-[10%] mb-6">
 <div class="flex flex-wrap p-[100px]">
 
     <div class="w-[150px] text-center align-top text-center mt-3">
@@ -19,13 +20,13 @@ eleventyComputed:
       <img class="h-[80px] w-[80px] rounded-[20px] m-[10px]" src="{{ play.titleImage | url }}" />
       </a>
       </div>
-      <h1 class="mt-4 pb-5 text-center text-sm"><a href="{{ play.titleURL | url }}">{{ play.title }}</a></h1>
+      <h1 class="mt-4 pb-5 text-center"><a href="{{ play.titleURL | url }}">{{ play.title }}</a></h1>
       <p>All editions</p>
       <p>{% if play.isFragment %}Extant copies: {{ play.extant_copies }}, plus {{ play.plus_fragment }} fragments {% else %} Extant copies: {{ play.extant_copies }} {% endif %}</p>
     </div>
 </div>
 
-<table>
+<table class="text-center">
   <thead>
     <tr>
       <th class="text-xl font-bold">Edition</th>
@@ -37,7 +38,7 @@ eleventyComputed:
   <tbody>
     {% for edition in play.editions %}
       <tr>
-        <td>{{ edition.edition_number }}</td>
+        <td><a href="{{ edition.edition_URL  | url }}">{{ edition.edition_number }}</a></td>
         <td>{{ edition.yearCount }}</td>
         <td>{{ edition.STC_Wing }}</td>
         <td>{{ edition.ESTC }}</td>
@@ -52,6 +53,6 @@ eleventyComputed:
 
 
 
-
+</div>
 
 {% endblock %}

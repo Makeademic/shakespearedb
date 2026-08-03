@@ -1,0 +1,60 @@
+---
+layout: layouts/default
+editions: []
+pagination:
+  data: editions
+  size: 1
+  alias: copy
+permalink: "{{ copy.edition_URL }}"
+eleventyComputed:
+  pageTitle: "{{ copy.title }} Edition: {{ copy.edition_number }} — Copies"
+---
+
+{% block main %}
+<div class="flex items-start mx-[10%] mb-6">
+<div class="flex flex-wrap p-[100px]">
+
+    <div class="w-[150px] text-center align-top text-center mt-3">
+      <div class="w-[100px] h-[100px] mx-auto rounded-full border">
+      <a href="{{ copy.titleURL | url }}">
+      <img class="h-[80px] w-[80px] rounded-[20px] m-[10px]" src="{{ copy.titleImage | url }}" />
+      </a>
+      </div>
+      <h1 class="mt-4 pb-5 text-center"><a href="{{ copy.titleURL | url }}">{{ copy.title }}</a></h1>
+      <p>Edition: {{ copy.edition_number }}  {{ copy.yearCount }}  STC/Wing: {{ copy.STC_Wing }}  ESTC: {{ copy.ESTC }}  DEEP: {{ copy.DEEP }}</p>
+      <p>{% if copy.isFragment %}Extant copies: {{ copy.extant_ed_copies }}, plus {{ copy.plus_fragment }} fragments {% else %} Extant copies: {{ copy.extant_ed_copies }} {% endif %}</p>
+    </div>
+</div>
+
+<table class="text-center">
+  <thead>
+    <tr>
+      <th class="text-xl font-bold">SC #</th>
+      <th class="text-xl font-bold">Location</th>
+      <th class="text-xl font-bold">Shelfmark</th>
+      <th class="text-xl font-bold">Location Verified?</th>
+      <th class="text-xl font-bold">Digital Facsimile URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for number in copy.copies %}
+      <tr>
+        <td><a href="{{ number.copy_URL  | url }}">{{ number.NSC }}</a></td>
+        <td>{{ number.location_name }}</td>
+        <td>{{ number.shelfmark }}</td>
+        <td>{{ number.location_verified }}</td>
+        <td>{{ number.digital_facsimile_URL }}</td>
+      </tr>
+    {% else %}
+      <tr>
+        <td colspan="3">No copies available.</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+
+
+</div>
+
+{% endblock %}
