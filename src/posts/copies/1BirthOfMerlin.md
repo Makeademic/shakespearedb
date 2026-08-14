@@ -4,6 +4,7 @@ location_name: [Boston Public Library]
 shelfmark: "G.176.43"
 isLocationVerified: true
 isFragment: false
+isFacsimileAvailable: true
 
 edition_format: ["4°"]
 

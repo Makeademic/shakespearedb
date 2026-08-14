@@ -4,6 +4,7 @@ location_name: [Folger Shakespeare Library]
 
 isLocationVerified: true # true or false
 isFragment: true # true or false
+isFacsimileAvailable: false
 
 edition_format: ["12°"]
 

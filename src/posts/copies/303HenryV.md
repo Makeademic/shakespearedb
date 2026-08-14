@@ -3,6 +3,7 @@ NSC: "303"
 location_name: [British Library]
 isLocationVerified: true
 isFragment: true
+isFacsimileAvailable: true
 
 edition_format: ["4°"]
 

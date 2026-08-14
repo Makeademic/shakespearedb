@@ -10,5 +10,6 @@
     "summary",
     "edition_format",
     "STC_Wing",
-    "isLocationVerified"
+    "isLocationVerified",
+    "isFacsimileAvailable"
 ]

@@ -4,6 +4,7 @@ location_name: [British Library]
 
 isLocationVerified: true
 isFragment: true
+isFacsimileAvailable: true
 
 edition_format: ["4°"]
 

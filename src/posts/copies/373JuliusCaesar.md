@@ -5,6 +5,7 @@ location_name: [Library of Birmingham]
 
 isLocationVerified: false
 isFragment: true
+isFacsimileAvailable: false
 
 edition_format: ["4°"]
 
