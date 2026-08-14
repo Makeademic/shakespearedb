@@ -14,7 +14,8 @@
         "summary": "A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front.",
         "edition_format": ["4°"],
         "STC_Wing": ["R2096"],
-        "isLocationVerified": true
+        "isLocationVerified": true,
+        "isFacsimileAvailable": true
         
     },
     {
@@ -32,7 +33,8 @@
         "summary": "Imperfect: containing Cupid’s cabinet unlock’t only, leaves G8-I3, with G11 wanting.",
         "edition_format": ["12°"],
         "STC_Wing": ["C7597A","D3A"],
-        "isLocationVerified": true
+        "isLocationVerified": true,
+        "isFacsimileAvailable": false
         
     },
     {
@@ -50,7 +52,8 @@
         "summary": "Imperfect; wanting the titlepage",
         "edition_format": ["4°"],
         "STC_Wing": ["22275"],
-        "isLocationVerified": true
+        "isLocationVerified": true,
+        "isFacsimileAvailable": true
         
     },
     {
@@ -68,7 +71,8 @@
         "summary": "",
         "edition_format": ["4°"],
         "STC_Wing": ["22289"],
-        "isLocationVerified": true
+        "isLocationVerified": true,
+        "isFacsimileAvailable": true
         
     },
     {
@@ -86,7 +90,8 @@
         "summary": "328027",
         "edition_format": ["4°"],
         "STC_Wing": ["S2922"],
-        "isLocationVerified": false
+        "isLocationVerified": false,
+        "isFacsimileAvailable": false
         
     },
     {
@@ -104,7 +109,8 @@
         "summary": "",
         "edition_format": ["4°"],
         "STC_Wing": ["22292"],
-        "isLocationVerified": true
+        "isLocationVerified": true,
+        "isFacsimileAvailable": true
         
     }
 ]

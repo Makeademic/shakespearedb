@@ -261,6 +261,18 @@
 
 <br>
 
+
+<fieldset class="switch-field">
+    <legend>Digital Facsimile Available?</legend>
+    <input type="radio" id="digital-facsimile-available-yes" name="isFacsimileAvailable" class="copy-filter" value="true"  onclick="updatePostGrid(this)"/>
+    <label for="digital-facsimile-available-yes">Yes</label>
+    <input type="radio" id="digital-facsimile-available-no"  name="isFacsimileAvailable" class="copy-filter" value="false" onclick="updatePostGrid(this)"/>
+    <label for="digital-facsimile-available-no">No</label>
+</fieldset>
+
+
+<br>
+
 <div class="flex justify-between flex-wrap">
     
     <button type="button" onclick="resetSidebarFilters(true); toggleFullScreenSidebar();" class="button float-left mt-9">Reset filters</button>
