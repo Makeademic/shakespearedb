@@ -17,7 +17,7 @@ STC_Wing: ["R2096"]
 
 summary: "A slip with a note from Francis Bedford, with his advice with respect to the challenges of trimming sheet E2.3, is tipped in at front."
 title: Birth of Merlin
-edition_URL: "/1Birth-of-Merlin/"
+edition_URL: "/birth-of-merlin-1/"
 
 provenance: ["Barton, Cora Livingston (1806-1873)", "Barton, Thomas Pennant (1803-1869)"]
 prov_info: "Armorial bookplate of the Barton Library."

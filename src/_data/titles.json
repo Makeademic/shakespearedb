@@ -1,7 +1,7 @@
 [
     { "title": "The Birth of Merlin", 
       "titleImage": "/assets/img/title_icons/birth-of-merlin.png", 
-      "titleURL": "/Birth-of-Merlin/",
+      "titleURL": "/birth-of-merlin/",
       "isFragment": false,
       "extant_copies": "26",
       "plus_fragment": "0",
@@ -11,18 +11,18 @@
         "yearCount": "1662",
         "STC_Wing": "R2096",
         "ESTC": "R7261",
-        "edition_URL": "/1Birth-of-Merlin/"
+        "edition_URL": "/birth-of-merlin-1/"
         }
       ] 
     },
-    { "title": "Comedies, Histories, and Tragedies: F1", "titleImage": "/assets/img/title_icons/F1.png", "titleURL": "/F1/" },    
-    { "title": "Comedies, Histories, and Tragedies: F2", "titleImage": "/assets/img/title_icons/f2.png", "titleURL": "/F2/" },  
-    { "title": "Comedies, Histories, and Tragedies: F3", "titleImage": "/assets/img/title_icons/f3.png", "titleURL": "/F3/" },  
-    { "title": "Comedies, Histories, and Tragedies: F4", "titleImage": "/assets/img/title_icons/f4.png", "titleURL": "/F4/" },     
+    { "title": "Comedies, Histories, and Tragedies: F1", "titleImage": "/assets/img/title_icons/F1.png", "titleURL": "/f1/" },    
+    { "title": "Comedies, Histories, and Tragedies: F2", "titleImage": "/assets/img/title_icons/f2.png", "titleURL": "/f2/" },  
+    { "title": "Comedies, Histories, and Tragedies: F3", "titleImage": "/assets/img/title_icons/f3.png", "titleURL": "/f3/" },  
+    { "title": "Comedies, Histories, and Tragedies: F4", "titleImage": "/assets/img/title_icons/f4.png", "titleURL": "/f4/" },     
     
     { "title": "Cupid's Cabinet Unlocked", 
         "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", 
-        "titleURL": "/Cupids-Cabinet-Unlocked/",
+        "titleURL": "/cupids-cabinet-unlocked/",
         "isFragment": false,
         "extant_copies": "3",
         "plus_fragment": "0",
@@ -32,14 +32,14 @@
                 "yearCount": 1662,
                 "STC_Wing": "C7597A; D3A",
                 "ESTC": "R214877; R224860",
-                "edition_URL": "/1Cupids-Cabinet-Unlocked/"
+                "edition_URL": "/cupids-cabinet-unlocked-1/"
                 },
                 {
                 "edition_number": 2,
                 "yearCount": "[1671-2]",
                 "STC_Wing": "not in Wing",
                 "ESTC": "R508745",
-                "edition_URL": "/2Cupids-Cabinet-Unlocked/"
+                "edition_URL": "/cupids-cabinet-unlocked-2/"
                 }
         ]   
     },  
@@ -48,7 +48,7 @@
     
     { "title": "Hamlet", 
     "titleImage": "/assets/img/title_icons/hamlet.png", 
-    "titleURL": "/Hamlet/", 
+    "titleURL": "/hamlet/", 
     "isFragment": false,
     "extant_copies": 187,
     "plus_fragment": 0,
@@ -143,7 +143,7 @@
 
     { "title": "1 Henry IV", 
     "titleImage": "/assets/img/title_icons/1-henry-iv.png", 
-    "titleURL": "/1-Henry-IV/",
+    "titleURL": "/1-henry-iv/",
     "isFragment": true,
     "extant_copies": 91,
     "plus_fragment": 1,
@@ -208,7 +208,7 @@
 
     { "title": "2 Henry IV", 
     "titleImage": "/assets/img/title_icons/2-henry-iv.png", 
-    "titleURL": "/2-Henry-IV/",
+    "titleURL": "/2-henry-iv/",
     "isFragment": false,
     "extant_copies": 22,
     "plus_fragment": 0,
@@ -238,7 +238,7 @@
 
     { "title": "Henry V", 
     "titleImage": "/assets/img/title_icons/henry-v.png", 
-    "titleURL": "/Henry-V/",
+    "titleURL": "/henry-v/",
     "isFragment": true,
     "extant_copies": 53,
     "plus_fragment": 2,
@@ -268,7 +268,7 @@
 
     { "title": "2 Henry VI", 
     "titleImage": "/assets/img/title_icons/2-henry-vi.png", 
-    "titleURL": "/2-Henry-VI/",
+    "titleURL": "/2-henry-vi/",
     "isFragment": false,
     "extant_copies": 8,
     "plus_fragment": 0,
@@ -292,7 +292,7 @@
 
     { "title": "3 Henry VI", 
     "titleImage": "/assets/img/title_icons/3-henry-vi.png", 
-    "titleURL": "/3-Henry-VI/",
+    "titleURL": "/3-henry-vi/",
     "isFragment": false,
     "extant_copies": 11,
     "plus_fragment": 0,
@@ -316,7 +316,7 @@
 
     { "title": "Julius Caesar", 
     "titleImage": "/assets/img/title_icons/julius-caesar.png", 
-    "titleURL": "/Julius-Caesar/",
+    "titleURL": "/julius-caesar/",
     "isFragment": false,
     "extant_copies": 128,
     "plus_fragment": 0,
@@ -358,7 +358,7 @@
 
     { "title": "King Lear", 
     "titleImage": "/assets/img/title_icons/king-lear.png", 
-    "titleURL": "/King-Lear/",
+    "titleURL": "/king-lear/",
     "isFragment": true,
     "extant_copies": 68,
     "plus_fragment": 1,
@@ -388,7 +388,7 @@
 
     { "title": "Locrine", 
     "titleImage": "/assets/img/title_icons/locrine.png", 
-    "titleURL": "/Locrine/",
+    "titleURL": "/locrine/",
     "isFragment": false,
     "extant_copies": 13,
     "plus_fragment": 0,
@@ -406,7 +406,7 @@
 
     { "title": "The London Prodigal", 
     "titleImage": "/assets/img/title_icons/london-prodigal.png", 
-    "titleURL": "/The-London-Prodigal/",
+    "titleURL": "/london-prodigal/",
     "isFragment": true,
     "extant_copies": 16,
     "plus_fragment": 1,
@@ -424,7 +424,7 @@
 
     { "title": "Love's Labors Lost", 
     "titleImage": "/assets/img/title_icons/loves-labors-lost.png", 
-    "titleURL": "/Loves-Labors-Lost/",
+    "titleURL": "/loves-labors-lost/",
     "isFragment": false,
     "extant_copies": 42,
     "plus_fragment": 0,
@@ -448,7 +448,7 @@
 
     { "title": "Love's Martyr", 
     "titleImage": "/assets/img/title_icons/loves-martyr.png", 
-    "titleURL": "/Loves-Martyr/",
+    "titleURL": "/loves-martyr/",
     "isFragment": false,
     "extant_copies": 4,
     "plus_fragment": 0,
@@ -477,7 +477,7 @@
  {
     "title": "Macbeth",
     "titleImage": "/assets/img/title_icons/macbeth.png",
-    "titleURL": "/Macbeth/",
+    "titleURL": "/macbeth/",
     "isFragment": false,
     "extant_copies": 12,
     "plus_fragment": 0,
@@ -494,7 +494,7 @@
   {
     "title": "The Merchant of Venice",
     "titleImage": "/assets/img/title_icons/merchant-of-venice.png",
-    "titleURL": "/The-Merchant-Of-Venice/",
+    "titleURL": "/merchant-of-venice/",
     "isFragment": false,
     "extant_copies": 89,
     "plus_fragment": 0,
@@ -536,7 +536,7 @@
   {
     "title": "The Merry Wives of Windsor",
     "titleImage": "/assets/img/title_icons/merry-wives-of-windsor.png",
-    "titleURL": "/The-Merry-Wives-Of-Windsor/",
+    "titleURL": "/merry-wives-of-windsor/",
     "isFragment": true,
     "extant_copies": 55,
     "plus_fragment": 1,
@@ -566,7 +566,7 @@
   {
     "title": "A Midsummer Night's Dream",
     "titleImage": "/assets/img/title_icons/midsummer-nights-dream.png",
-    "titleURL": "/A-Midsummer-Nights-Dream/",
+    "titleURL": "/midsummer-nights-dream/",
     "isFragment": false,
     "extant_copies": 42,
     "plus_fragment": 0,
@@ -590,7 +590,7 @@
   {
     "title": "Much Ado About Nothing",
     "titleImage": "/assets/img/title_icons/much-ado-about-nothing.png",
-    "titleURL": "/Much-Ado-About-Nothing/",
+    "titleURL": "/much-ado-about-nothing/",
     "isFragment": false,
     "extant_copies": 17,
     "plus_fragment": 0,
@@ -607,7 +607,7 @@
   {
     "title": "Othello",
     "titleImage": "/assets/img/title_icons/othello.png",
-    "titleURL": "/Othello/",
+    "titleURL": "/othello/",
     "isFragment": true,
     "extant_copies": 179,
     "plus_fragment": 1,
@@ -660,7 +660,7 @@
   {
     "title": "The Passionate Pilgrim",
     "titleImage": "/assets/img/title_icons/passionate-pilgrim.png",
-    "titleURL": "/The-Passionate-Pilgrim/",
+    "titleURL": "/passionate-pilgrim/",
     "isFragment": true,
     "extant_copies": 5,
     "plus_fragment": 1,
@@ -690,7 +690,7 @@
   {
     "title": "Pericles",
     "titleImage": "/assets/img/title_icons/pericles.png",
-    "titleURL": "/Pericles/",
+    "titleURL": "/pericles/",
     "isFragment": true,
     "extant_copies": 101,
     "plus_fragment": 1,
@@ -749,7 +749,7 @@
   {
     "title": "Poems",
     "titleImage": "/assets/img/title_icons/poems.png",
-    "titleURL": "/Poems/",
+    "titleURL": "/poems/",
     "isFragment": true,
     "extant_copies": 67,
     "plus_fragment": 1,
@@ -767,7 +767,7 @@
   {
     "title": "The Puritan, or The Widow of Watling Street",
     "titleImage": "/assets/img/title_icons/puritan-or-the-widow-of-watling-street.png",
-    "titleURL": "/The-Puritan/",
+    "titleURL": "/puritan-or-the-widow-of-watling-street/",
     "isFragment": true,
     "extant_copies": 16,
     "plus_fragment": 1,
@@ -785,7 +785,7 @@
   {
     "title": "The Rape of Lucrece",
     "titleImage": "/assets/img/title_icons/rape-of-lucrece.png",
-    "titleURL": "/The-Rape-Of-Lucrece/",
+    "titleURL": "/rape-of-lucrece/",
     "isFragment": true,
     "extant_copies": 51,
     "plus_fragment": 4,
@@ -851,7 +851,7 @@
   {
     "title": "Richard II",
     "titleImage": "/assets/img/title_icons/richard-ii.png",
-    "titleURL": "/Richard-II/",
+    "titleURL": "/richard-ii/",
     "isFragment": false,
     "extant_copies": 64,
     "plus_fragment": 0,
@@ -923,7 +923,7 @@
   {
     "title": "Richard III",
     "titleImage": "/assets/img/title_icons/richard-iii.png",
-    "titleURL": "/Richard-III/",
+    "titleURL": "/richard-iii/",
     "isFragment": true,
     "extant_copies": 84,
     "plus_fragment": 2,
@@ -983,7 +983,7 @@
   {
     "title": "Romeo and Juliet",
     "titleImage": "/assets/img/title_icons/romeo-and-juliet.png",
-    "titleURL": "/Romeo-And-Juliet/",
+    "titleURL": "/romeo-and-juliet/",
     "isFragment": true,
     "extant_copies": 67,
     "plus_fragment": 1,
@@ -1036,7 +1036,7 @@
   {
     "title": "1 Sir John Oldcastle",
     "titleImage": "/assets/img/title_icons/1-sir-john-oldcastle.png",
-    "titleURL": "/1-Sir-John-Oldcastle/",
+    "titleURL": "/1-sir-john-oldcastle/",
     "isFragment": true,
     "extant_copies": 50,
     "plus_fragment": 2,
@@ -1059,7 +1059,7 @@
   {
     "title": "Sonnets",
     "titleImage": "/assets/img/title_icons/sonnets.png",
-    "titleURL": "/Sonnets/",
+    "titleURL": "/sonnets/",
     "isFragment": false,
     "extant_copies": 13,
     "plus_fragment": 0,
@@ -1089,7 +1089,7 @@
   {
     "title": "The Taming of a/the Shrew",
     "titleImage": "/assets/img/title_icons/taming-of-the-shrew.png",
-    "titleURL": "/The-Taming-Of-The-Shrew/",
+    "titleURL": "/taming-of-the-shrew/",
     "isFragment": true,
     "extant_copies": 32,
     "plus_fragment": 1,
@@ -1125,7 +1125,7 @@
   {
     "title": "Thomas Lord Cromwell",
     "titleImage": "/assets/img/title_icons/thomas-lord-cromwell.png",
-    "titleURL": "/Thomas-Lord-Cromwell/",
+    "titleURL": "/thomas-lord-cromwell/",
     "isFragment": false,
     "extant_copies": 23,
     "plus_fragment": 0,
@@ -1149,7 +1149,7 @@
     {
     "title": "Titus Andronicus",
     "titleImage": "/assets/img/title_icons/titus-andronicus.png",
-    "titleURL": "/Titus-Andronicus/",
+    "titleURL": "/titus-andronicus/",
     "isFragment": false,
     "extant_copies": 20,
     "plus_fragment": 0,
@@ -1179,7 +1179,7 @@
     {
     "title": "Troilus and Cressida",
     "titleImage": "/assets/img/title_icons/troilus-and-cressida.png",
-    "titleURL": "/Troilus-And-Cressida/",
+    "titleURL": "/troilus-and-cressida/",
     "isFragment": true,
     "extant_copies": 15,
     "plus_fragment": 1,
@@ -1203,7 +1203,7 @@
       {
     "title": "1&2 The Troublesome Reign of King John",
     "titleImage": "/assets/img/title_icons/troublesome-reign-of-king-john.png",
-    "titleURL": "/The-Troublesome-Reign-Of-King-John/",
+    "titleURL": "/troublesome-reign-of-king-john/",
     "isFragment": false,
     "extant_copies": 44,
     "plus_fragment": 0,
@@ -1232,7 +1232,7 @@
   {
     "title": "The Two Noble Kinsmen",
     "titleImage": "/assets/img/title_icons/two-noble-kinsmen.png",
-    "titleURL": "/The-Two-Noble-Kinsmen/",
+    "titleURL": "/two-noble-kinsmen/",
     "isFragment": true,
     "extant_copies": 60,
     "plus_fragment": 1,
@@ -1249,7 +1249,7 @@
     
     { "title": "Venus and Adonis", 
     "titleImage": "/assets/img/title_icons/venus-and-adonis.png", 
-    "titleURL": "/Venus-And-Adonis/", 
+    "titleURL": "/venus-and-adonis/", 
     "isFragment": true,
     "extant_copies": 24,
     "plus_fragment": 4,
@@ -1371,7 +1371,7 @@
     {
     "title": "The Whole Contention Between the Two Famous Houses, Lancaster and York",
     "titleImage": "/assets/img/title_icons/whole-contention.png",
-    "titleURL": "/The-Whole-Contention/",
+    "titleURL": "/whole-contention/",
     "isFragment": true,
     "extant_copies": 60,
     "plus_fragment": 1,
@@ -1388,7 +1388,7 @@
 
     { "title": "A Yorkshire Tragedy", 
     "titleImage": "/assets/img/title_icons/yorkshire-tragedy.png", 
-    "titleURL": "/A-Yorkshire-Tragedy/",
+    "titleURL": "/yorkshire-tragedy/",
     "isFragment": true,
     "extant_copies": 15,
     "plus_fragment": 1,

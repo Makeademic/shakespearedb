@@ -1,8 +1,8 @@
 [
     { "title": "The Birth of Merlin", 
       "titleImage": "/assets/img/title_icons/birth-of-merlin.png", 
-      "titleURL": "/Birth-of-Merlin/",
-      "edition_URL": "/1Birth-of-Merlin/",
+      "titleURL": "/birth-of-merlin/",
+      "edition_URL": "/birth-of-merlin-1/",
       "edition_format": "4°",
       "isFragment": false,
       "extant_ed_copies": "26",
@@ -19,7 +19,7 @@
         "shelfmark": "G.176.43",
         "location_verified": "true",
         "digital_facsimile_URL": "https://archive.org/details/birthofmerlinorc00rowl/page/n12",
-        "copy_URL": "/copies/1BirthOfMerlin/"
+        "copy_URL": "/copies/1-birth-of-merlin-1/"
         },
         {
         "NSC": "2",
@@ -48,8 +48,8 @@
 
     { "title": "Cupid's Cabinet Unlocked", 
       "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", 
-      "titleURL": "/Cupids-Cabinet-Unlocked/",
-      "edition_URL": "/1Cupids-Cabinet-Unlocked/",
+      "titleURL": "/cupids-cabinet-unlocked/",
+      "edition_URL": "/cupids-cabinet-unlocked-1/",
       "edition_format": "12°",
       "isFragment": false,
       "extant_ed_copies": "2",
@@ -65,7 +65,8 @@
         "location_name": "Folger Shakespeare Library",
         "shelfmark": "C7597a",
         "location_verified": "true",
-        "digital_facsimile_URL": ""
+        "digital_facsimile_URL": "",
+        "copy_URL": "/copies/25-cupids-cabinet-unlocked-1/"
         },
         {
         "NSC": "26",
@@ -80,8 +81,8 @@
 
     { "title": "Cupid's Cabinet Unlocked", 
       "titleImage": "/assets/img/title_icons/cupids-cabinet-unlocked.png", 
-      "titleURL": "/Cupids-Cabinet-Unlocked/",
-      "edition_URL": "/2Cupids-Cabinet-Unlocked/",
+      "titleURL": "/cupids-cabinet-unlocked/",
+      "edition_URL": "/cupids-cabinet-unlocked-2/",
       "edition_format": "12°",
       "isFragment": false,
       "extant_ed_copies": "1",
