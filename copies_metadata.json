@@ -1,8 +1,8 @@
 [
     {
 
-        "url": "/shakespearedb/copies/1BirthOfMerlin/",
-        "fileSlug": "1BirthOfMerlin",
+        "url": "/shakespearedb/copies/1-birth-of-merlin-1/",
+        "fileSlug": "1-birth-of-merlin-1",
         "title": "Birth of Merlin",
         "digital_facsimile_URL": "https://archive.org/details/birthofmerlinorc00rowl/page/n12",
         "NSC": "1",
@@ -20,8 +20,8 @@
     },
     {
 
-        "url": "/shakespearedb/copies/25CupidsCabinetUnlocked/",
-        "fileSlug": "25CupidsCabinetUnlocked",
+        "url": "/shakespearedb/copies/25-cupids-cabinet-unlocked-1/",
+        "fileSlug": "25-cupids-cabinet-unlocked-1",
         "title": "Cupid's Cabinet Unlocked",
         "digital_facsimile_URL": "/N",
         "NSC": "25",
@@ -29,7 +29,7 @@
         "yearCount": 1662,
         "location_name": ["Folger Shakespeare Library"],
         "isFragment": true,
-        "edition_number": ["2"],
+        "edition_number": ["1"],
         "summary": "Imperfect: containing Cupid’s cabinet unlock’t only, leaves G8-I3, with G11 wanting.",
         "edition_format": ["12°"],
         "STC_Wing": ["C7597A","D3A"],
@@ -39,8 +39,8 @@
     },
     {
 
-        "url": "/shakespearedb/copies/28Hamlet/",
-        "fileSlug": "28Hamlet",
+        "url": "/shakespearedb/copies/28-hamlet-1/",
+        "fileSlug": "28-hamlet-1",
         "title": "Hamlet",
         "digital_facsimile_URL": "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=0&LHPage=0&RHCopy=0&RHPage=1",
         "NSC": "28",
@@ -58,8 +58,8 @@
     },
     {
 
-        "url": "/shakespearedb/copies/303HenryV/",
-        "fileSlug": "303HenryV",
+        "url": "/shakespearedb/copies/303-henry-v-1/",
+        "fileSlug": "303-henry-v-1",
         "title": "Henry V",
         "digital_facsimile_URL": "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=19&LHPage=-2&RHCopy=19&RHPage=-1",
         "NSC": "303",
@@ -77,8 +77,8 @@
     },
     {
 
-        "url": "/shakespearedb/copies/373JuliusCaesar/",
-        "fileSlug": "373JuliusCaesar",
+        "url": "/shakespearedb/copies/373-julius-caesar-1/",
+        "fileSlug": "373-julius-caesar-1",
         "title": "Julius Caesar",
         "digital_facsimile_URL": "",
         "NSC": "373",
@@ -96,8 +96,8 @@
     },
     {
 
-        "url": "/shakespearedb/copies/472KingLear/",
-        "fileSlug": "472KingLear",
+        "url": "/shakespearedb/copies/472-king-lear-1/",
+        "fileSlug": "472-king-lear-1",
         "title": "King Lear",
         "digital_facsimile_URL": "https://www.bl.uk/treasures/SiqDiscovery/ui/record.aspx?Source=text&LHCopy=25&LHPage=-2&RHCopy=25&RHPage=-1",
         "NSC": "472",
