@@ -63,6 +63,10 @@ edition_format: []
             <tr>
                 <td><strong>Fragment</strong></td>
                 <td>{{ booleanToYesNo(isFragment) }}</td>
+            </tr>
+                        <tr>
+                <td><strong>Notes about issue</strong></td>
+                <td>{{ issue_notes }}</td>
             </tr>                        
             <th colspan="2" class="text-xl font-bold">Provenance</th>
             <tr>
@@ -79,7 +83,7 @@ edition_format: []
             </tr>
             <tr>
                 <td><strong>Provenance</strong></td>
-                <td>{{ showCategoricalArray(provenance, "N/A") }}</td>
+                <td>{{ showCategoricalArray(provenance_name, "N/A") }}</td>
             </tr>
                         <tr>
                 <td><strong>Provenance notes</strong></td>

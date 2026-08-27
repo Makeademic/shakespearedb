@@ -19,7 +19,7 @@ summary: "A slip with a note from Francis Bedford, with his advice with respect 
 title: Birth of Merlin
 edition_URL: "/birth-of-merlin-1/"
 
-provenance: ["Barton, Cora Livingston (1806-1873)", "Barton, Thomas Pennant (1803-1869)"]
+provenance_name: ["Barton, Cora Livingston (1806-1873)", "Barton, Thomas Pennant (1803-1869)"]
 prov_info: "Armorial bookplate of the Barton Library."
 binding: "Red morocco panelled in triple-ruled gilt."
 binder: "Clarke & Bedford"
