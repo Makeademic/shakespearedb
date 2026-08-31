@@ -1,0 +1,55 @@
+---
+id: 8147
+order: 3145
+NSC: "8093"
+filename: 8093-f4-Three-publishers
+copy_URL: /8093-f4-Three-publishers/
+title_id: 46
+title: |
+  Comedies, Histories, and Tragedies: F4
+titleImage: f4.png
+title_hyphen: f4
+titleURL: /f4/
+edition_URL: 
+issue: TRUE
+issue_id: 190
+issue_notes: |
+  [This issue lists H. Herringman, E. Brewster, and R. Bentley as publishers in the imprint.]
+total_extant_copies: 408
+title_fragment: 
+isFragment: FALSE
+apocryphal: FALSE
+edition_id: 154
+edition_number: ["Three publishers"]
+edition_format: ["2°"]
+STC_Wing: ["S2915"]
+ESTC: ["R25621"]
+year: 1685
+start_date: 1685
+end_date: 1685
+yearCount: 1685
+DEEP: 
+extant_ed_copies: 239
+ed_fragment: 
+location_id: 122
+location_name: [Private collection]
+shelfmark: |
+  MR 1570
+isLocationVerified: TRUE
+isFacsimileAvailable: FALSE
+digital_facsimile_URL: 
+summary: |
+  Folger copy 10 wants all before A2; supplied are a facsim. of the "verses" leaf with port., [pi]1, and a facsim. of the title leaf, [pi]2 (that reproduces the title page of the Third Folio, 1664). Also wanting are M2-5 (MND 137-44). Imperfections affect text on A2, slightly on 2S4, and very slightly on 15 other leaves (list on file). Margins are repaired with reinforcing strips on A2-B1, 2F5, and 4C1. Leaf 4C2, trimmed to the rules on the recto and mounted, is mutilated at the head, affecting the running title and the page number.
+provenance_name: 
+prov_info: |
+  Bookplate of David Garrick (but otherwise undocumented as Garrick’s copy). "Toft Hall", i.e., Leycester copy.
+height: 37.8
+width: 25
+marginalia: |
+  Slight manuscript additions passim (list on file).
+condition: 
+binding: 
+binder: |
+  Bedford, Francis
+---
+

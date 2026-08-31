@@ -1,0 +1,51 @@
+---
+id: 1683
+order: 676
+NSC: "601"
+filename: 601-loves-labors-lost-2
+copy_URL: /601-loves-labors-lost-2/
+title_id: 15
+title: |
+  Love's Labors Lost
+titleImage: loves-labors-lost.png
+title_hyphen: loves-labors-lost
+titleURL: /loves-labors-lost/
+edition_URL: 
+issue: FALSE
+issue_id: 50
+issue_notes: 
+total_extant_copies: 42
+title_fragment: 
+isFragment: FALSE
+apocryphal: FALSE
+edition_id: 43
+edition_number: ["2"]
+edition_format: ["4°"]
+STC_Wing: ["22295"]
+ESTC: ["S111183"]
+year: 1631
+start_date: 1631
+end_date: 1631
+yearCount: 1631
+DEEP: 257
+extant_ed_copies: 28
+ed_fragment: 
+location_id: 25
+location_name: [Folger Shakespeare Library]
+shelfmark: |
+  PML 5109
+isLocationVerified: TRUE
+isFacsimileAvailable: FALSE
+digital_facsimile_URL: 
+summary: 
+provenance_name: ["Asay, E. G.", "Irwin, Theodore (1827-1902)", "Morgan, J. Pierpont (1837-1913)", "Quaritch", "Morgan, J. Pierpont, Jr. (1867–1943)"]
+prov_info: 
+height: 
+width: 
+marginalia: 
+condition: 
+binding: 
+binder: |
+  Macdonald, Oct. 1953.
+---
+

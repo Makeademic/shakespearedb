@@ -1,0 +1,53 @@
+---
+id: 7906
+order: 2162
+NSC: "5229"
+filename: 5229-F1-Fragments
+copy_URL: /5229-F1-Fragments/
+title_id: 43
+title: |
+  Comedies, Histories, and Tragedies: F1
+titleImage: F1.png
+title_hyphen: F1
+titleURL: /F1/
+edition_URL: 
+issue: TRUE
+issue_id: 175
+issue_notes: 
+total_extant_copies: 393
+title_fragment: 
+isFragment: TRUE
+apocryphal: FALSE
+edition_id: 140
+edition_number: ["Fragments"]
+edition_format: ["2°"]
+STC_Wing: ["22273"]
+ESTC: ["S111228"]
+year: 1623
+start_date: 1623
+end_date: 1623
+yearCount: 1623
+DEEP: 5081
+extant_ed_copies: 164
+ed_fragment: 
+location_id: 101
+location_name: [Gloucester Cathedral]
+shelfmark: |
+  4-NF-23617
+isLocationVerified: FALSE
+isFacsimileAvailable: FALSE
+digital_facsimile_URL: 
+summary: 
+provenance_name: ["Ricci, Seymour de (1881–1942)"]
+prov_info: |
+  Donor and date not known, but in collection in 1813, when it appears in the library catalogue. Possibly the first Shakespeare Folio to reach an American library.
+height: 
+width: 
+marginalia: |
+  Written in ink on front endpaper and on title page (with manicule): "Not to be sent out!"; below imprint on title page: "Second Folio Edition"; at bottom of page 410 (Cymbeline): "The last p[a]rt of ye 4th & ye whole 5th act wanting--"
+condition: 
+binding: |
+  18th-century, tan leather, marbled boards with "D" on spine and "Charleston Library Society" tooled in gold
+binder: 
+---
+

@@ -1,20 +1,55 @@
 ---
+id: 1089
+order: 27
 NSC: "25"
-location_name: [Folger Shakespeare Library]
-
-isLocationVerified: true # true or false
-isFragment: true # true or false
-isFacsimileAvailable: false
-
-edition_format: ["12°"]
-edition_URL: "/cupids-cabinet-unlocked-1/"
-
-yearCount: 1662
+filename: 25-cupids-cabinet-unlocked-1
+copy_URL: /25-cupids-cabinet-unlocked-1/
+title_id: 8
+title: |
+  Cupid's Cabinet Unlocked
 titleImage: cupids-cabinet-unlocked.png
-digital_facsimile_URL: "/N"
-edition_number: ["1"] 
+title_hyphen: cupids-cabinet-unlocked
+titleURL: /cupids-cabinet-unlocked/
+edition_URL: 
+issue: FALSE
+issue_id: 22
+issue_notes: |
+  [The second of three titles (sigs. G8r-I3v) in a book titled ‘The Art of Courtship’. Misattributed to Shakeespare, contains 5 poems by John Milton. Both Wing and ESTC are confused about the bibliographic relationship among extant copies, hence the multiple reference numbers. [LE]]
+total_extant_copies: 3
+title_fragment: 
+isFragment: FALSE
+apocryphal: TRUE
+edition_id: 21
+edition_number: ["1"]
+edition_format: ["12°"]
 STC_Wing: ["C7597A", "D3A"]
-
-summary: "Imperfect: containing Cupid’s cabinet unlock’t only, leaves G8-I3, with G11 wanting."
-title: Cupid's Cabinet Unlocked
+ESTC: ["R214877", "R224860"]
+year: 1662
+start_date: 1662
+end_date: 1662
+yearCount: 1662
+DEEP: 0
+extant_ed_copies: 2
+ed_fragment: 
+location_id: 7
+location_name: [National Library of Scotland]
+shelfmark: |
+  C7597a
+isLocationVerified: TRUE
+isFacsimileAvailable: FALSE
+digital_facsimile_URL: 
+summary: |
+  Imperfect: t.p. wanting; title supplied from copy at Beinecke library.
+provenance_name: ["Milner, William (17th c.?)"]
+prov_info: |
+  Bequest of Norman Holmes Pearson.
+height: 
+width: 
+marginalia: |
+  MS note on sig. A2r: "frei[n...] [?]" [cropped]; MS mark ("x") underneath half title on sig. A2r; MS marks and notes on sig. B3r; [E1]r, and N4r [CMLB]
+condition: 
+binding: |
+  Disbound
+binder: 
 ---
+

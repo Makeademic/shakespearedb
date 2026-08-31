@@ -1,0 +1,52 @@
+---
+id: 7810
+order: 2314
+NSC: "5371"
+filename: 5371-F1-Fragments
+copy_URL: /5371-F1-Fragments/
+title_id: 43
+title: |
+  Comedies, Histories, and Tragedies: F1
+titleImage: F1.png
+title_hyphen: F1
+titleURL: /F1/
+edition_URL: 
+issue: TRUE
+issue_id: 175
+issue_notes: 
+total_extant_copies: 393
+title_fragment: 
+isFragment: TRUE
+apocryphal: FALSE
+edition_id: 140
+edition_number: ["Fragments"]
+edition_format: ["2°"]
+STC_Wing: ["22273"]
+ESTC: ["S111228"]
+year: 1623
+start_date: 1623
+end_date: 1623
+yearCount: 1623
+DEEP: 5081
+extant_ed_copies: 164
+ed_fragment: 
+location_id: 260
+location_name: [Folger Shakespeare Library]
+shelfmark: |
+  * Z239.2 .S52o
+isLocationVerified: FALSE
+isFacsimileAvailable: FALSE
+digital_facsimile_URL: 
+summary: |
+  Sigs D2-E6 (Merry Wives), i3-l4 (Hen. V and the first page of 1 Hen. VI), and 2n4-2r5 (Macb. and Ham.) only.  Each segment of leaves in this vol. is probably supplied from a different original copy of the 2nd Folio. Leaf 2n4 is probably supplied from a copy different from the one in which the rest of Macb. originated.  Leaf 2p6 is supplied from a copy different from the one in which the rest of Ham. originated.
+provenance_name: ["Magee, David (1905–1977)"]
+prov_info: |
+  Inscribed "Ex lib: W. A. Smith ... Nov. 19 1802".
+height: 
+width: 
+marginalia: 
+condition: 
+binding: 
+binder: 
+---
+
