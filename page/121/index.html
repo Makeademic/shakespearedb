@@ -1471,6 +1471,19 @@
 
 <br>
 
+
+<fieldset class="switch-field">
+    <legend>Apocryphal?</legend>
+    <input type="radio" id="apocryphal-yes" name="apocryphal" class="copy-filter" value="true"  onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-yes">Yes</label>
+    <input type="radio" id="apocryphal-no"  name="apocryphal" class="copy-filter" value="false" onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-no">No</label>
+</fieldset>
+
+
+<br>
+
+
 <div class="flex justify-between flex-wrap">
     
     <button type="button" onclick="resetSidebarFilters(true); toggleFullScreenSidebar();" class="button float-left mt-9">Reset filters</button>
@@ -1481,7 +1494,7 @@
     </aside>
     <div id="post-grid-container" class="flex-col w-full md:flex">
         
-        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 1201 to 1210 of 3453 results found.</div>
+        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 1801 to 1815 of 3453 results found.</div>
         <div id="post-grid">
         
     
@@ -1490,149 +1503,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7010-f3-1663-issue/">
+            <a href="/shakespearedb/copies/1636.5-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7010-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1636.5-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Free Library of Philadelphia
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7011-f3-1664-issue/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F3
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7011-f3-1664-issue/">Comedies, Histories, and Tragedies: F3
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1664</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1664 issue
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2914
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Mount Holyoke College
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7012-f3-1663-issue/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F3
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7012-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    University of Toronto, John W. Graham Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7013-f3-1663-issue/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F3
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7013-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    University of Melbourne
-</p>
-                </div>
-                
-                        <p>Lacking portrait frontispiece and the final page.
+                        <p>Title page only, pasted into a scrapbook made by Halliwell-Phillipps for the Earl of Warwick, containing extracts from early printed books and manuscripts alluding to Shakespeare.
 <p>
                     
             </div>
@@ -1645,31 +1544,31 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7014-f3-1663-issue/">
+            <a href="/shakespearedb/copies/1636.7-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7014-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1636.7-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Massachusetts Institute of Technology
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
@@ -1683,35 +1582,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7015-f3-1663-issue/">
+            <a href="/shakespearedb/copies/1637-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7015-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1637-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Massachusetts Institute of Technology
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
-                        <p>Covers and spine rubbed and scratched; back stained and bent; edges rubbed and missing leather in places; spine cracked; pages foxed and cockled; shelfworn; box shelfworn. Scanned 9/02.
+                        <p>Binding signed by F. Bedford.
 <p>
                     
             </div>
@@ -1724,35 +1623,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7016-f3-1663-issue/">
+            <a href="/shakespearedb/copies/1638-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7016-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1638-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Folger Shakespeare Library
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
-                        <p>Engraved portrait and title-page lightly soiled, tiny burn hole (A2) not touching any text, occasional slight water staining.
+                        <p>Imperfect: title page wanting and replaced in pen facsimile by John Harris (see Barton Collection catalog). Bound by Clarke &amp; Bedford in red morocco-grained leather paneled in double-ruled gilt with rolled edges and gilt turn-ins. Spine paneled and tooled in gilt. All text block edges gilt.
 <p>
                     
             </div>
@@ -1765,35 +1664,73 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7017-f3-1664-issue/">
+            <a href="/shakespearedb/copies/1638.5-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7017-f3-1664-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1638.5-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1664</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1664 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2914
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Edinburgh University
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
-                        <p>The two millionth book added to the collection of the Cincinnati Public Library.
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1639-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1639-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+                        <p>Bound in green morocco, gilt, gilt edges, by Bedford. Described in Erne &amp; Singh, #163.
 <p>
                     
             </div>
@@ -1806,35 +1743,149 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7018-f3-1663-issue/">
+            <a href="/shakespearedb/copies/1640-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7018-f3-1663-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1640-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1663</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1663 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2913
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Edinburgh University
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
-                        <p>Light foxing throughout; inkstains
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1641-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1641-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1642-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1642-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1642.5-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1642.5-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+                        <p>Bound in maroon morocco, by Rivière &amp; Son.
 <p>
                     
             </div>
@@ -1847,37 +1898,189 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/7019-f3-1664-issue/">
+            <a href="/shakespearedb/copies/1643-two-noble-kinsmen-1/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f3.png"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F3
+            alt="The Two Noble Kinsmen
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/7019-f3-1664-issue/">Comedies, Histories, and Tragedies: F3
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1643-two-noble-kinsmen-1/">The Two Noble Kinsmen
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1664</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1664 issue
+    1
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2914
+    11075
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Edinburgh University
+    Meisei University, Kodama Memorial Library
 </p>
                 </div>
                 
-                        <p>Conservator&#39;s ticket on final flyleaf recto; conserved by Richard C. Baker, January 2005.
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1644-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1644-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1645-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1645-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1646-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1646-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
+                        <p>T.p. and following three leaves, and the last six leaves, in pen-and-ink facsimile.
 <p>
                     
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/1646.3-two-noble-kinsmen-1/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/two-noble-kinsmen.png"
+            width="500"
+            height="500"
+            alt="The Two Noble Kinsmen
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/1646.3-two-noble-kinsmen-1/">The Two Noble Kinsmen
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1634</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    1
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    11075
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Meisei University, Kodama Memorial Library
+</p>
+                </div>
+                
             </div>
         </div>
     </div>

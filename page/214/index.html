@@ -1471,6 +1471,19 @@
 
 <br>
 
+
+<fieldset class="switch-field">
+    <legend>Apocryphal?</legend>
+    <input type="radio" id="apocryphal-yes" name="apocryphal" class="copy-filter" value="true"  onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-yes">Yes</label>
+    <input type="radio" id="apocryphal-no"  name="apocryphal" class="copy-filter" value="false" onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-no">No</label>
+</fieldset>
+
+
+<br>
+
+
 <div class="flex justify-between flex-wrap">
     
     <button type="button" onclick="resetSidebarFilters(true); toggleFullScreenSidebar();" class="button float-left mt-9">Reset filters</button>
@@ -1481,7 +1494,7 @@
     </aside>
     <div id="post-grid-container" class="flex-col w-full md:flex">
         
-        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 2131 to 2140 of 3453 results found.</div>
+        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 3196 to 3210 of 3453 results found.</div>
         <div id="post-grid">
         
     
@@ -1490,187 +1503,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/403-julius-caesar-2/">
+            <a href="/shakespearedb/copies/8137-f4-Three-publishers/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Julius Caesar
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/403-julius-caesar-2/">Julius Caesar
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8137-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
+    Three publishers
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
+    S2915
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Folger Shakespeare Library
+    Private collection
 </p>
                 </div>
                 
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/403.5-julius-caesar-2/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
-            width="500"
-            height="500"
-            alt="Julius Caesar
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/403.5-julius-caesar-2/">Julius Caesar
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Oxford University, Bodleian Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/404-julius-caesar-2/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
-            width="500"
-            height="500"
-            alt="Julius Caesar
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/404-julius-caesar-2/">Julius Caesar
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Edinburgh University
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/405-julius-caesar-2/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
-            width="500"
-            height="500"
-            alt="Julius Caesar
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/405-julius-caesar-2/">Julius Caesar
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Yale University, Beinecke Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/405.5-julius-caesar-2/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
-            width="500"
-            height="500"
-            alt="Julius Caesar
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/405.5-julius-caesar-2/">Julius Caesar
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Henry E. Huntington Library and Art Gallery
-</p>
-                </div>
-                
-                        <p>cs612. MS. shelf-mark on front fly-leaf.
+                        <p>Imperfect: Numbers 81-88 omitted in paging
 <p>
                     
             </div>
@@ -1683,35 +1544,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/406-julius-caesar-2/">
+            <a href="/shakespearedb/copies/8138-f4-Three-publishers/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Julius Caesar
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/406-julius-caesar-2/">Julius Caesar
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8138-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
+    Three publishers
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
+    S2915
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    British Library
+    Private collection
 </p>
                 </div>
                 
-                        <p>T.p. mutilated.
+                        <p>Fragment: Romeo and Juliet only
 <p>
                     
             </div>
@@ -1724,35 +1585,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/407-julius-caesar-2/">
+            <a href="/shakespearedb/copies/8139-f4-Three-publishers/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Julius Caesar
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/407-julius-caesar-2/">Julius Caesar
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8139-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
+    Three publishers
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
+    S2915
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Victoria and Albert Museum National Art Library
+    Private collection
 </p>
                 </div>
                 
-                        <p>Binding signed by F. Bedford.
+                        <p>Fragment: Titus, Cromwell, Oldcastle, Puritan, Yorkshire Tragedy, and Locrine only.
 <p>
                     
             </div>
@@ -1765,35 +1626,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/408-julius-caesar-2/">
+            <a href="/shakespearedb/copies/8140-f4-Three-publishers/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Julius Caesar
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/408-julius-caesar-2/">Julius Caesar
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8140-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
+    Three publishers
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
+    S2915
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Dartmouth College
+    Private collection
 </p>
                 </div>
                 
-                        <p>lacks M2
+                        <p>Includes 12 plays, as well as 6 pen-and-ink drawings, three of them signed by John Ruskin.
 <p>
                     
             </div>
@@ -1806,31 +1667,72 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/409-julius-caesar-2/">
+            <a href="/shakespearedb/copies/8141-f4-Three-publishers/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Julius Caesar
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/409-julius-caesar-2/">Julius Caesar
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8141-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
+    Three publishers
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
+    S2915
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Oxford University, Bodleian Library
+    Private collection
+</p>
+                </div>
+                
+                        <p>Bound with a watercolor portrait of David Garrick, a drawing of John Lawrence Toole by Frederick Barnard, and a drawing of Henry Irving by Phil May.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8142-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8142-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
 </p>
                 </div>
                 
@@ -1844,31 +1746,338 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/410-julius-caesar-2/">
+            <a href="/shakespearedb/copies/8143-f4-Three-publishers/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/julius-caesar.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Julius Caesar
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/410-julius-caesar-2/">Julius Caesar
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8143-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1691</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    2
+    Three publishers
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    S2922A
+    S2915
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    New York Public Library
+    Private collection
+</p>
+                </div>
+                
+                        <p>Lacking preliminaries but including all the plays.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8144-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8144-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8145-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8145-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8146-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8146-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8147-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8147-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8148-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8148-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8149-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8149-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8150-f4-F5-so-called/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8150-f4-F5-so-called/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1700</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    F5 (so-called)
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8151-f4-Three-publishers/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8151-f4-Three-publishers/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Three publishers
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    S2915
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection
 </p>
                 </div>
                 

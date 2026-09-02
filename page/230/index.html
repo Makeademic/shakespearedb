@@ -1471,6 +1471,19 @@
 
 <br>
 
+
+<fieldset class="switch-field">
+    <legend>Apocryphal?</legend>
+    <input type="radio" id="apocryphal-yes" name="apocryphal" class="copy-filter" value="true"  onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-yes">Yes</label>
+    <input type="radio" id="apocryphal-no"  name="apocryphal" class="copy-filter" value="false" onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-no">No</label>
+</fieldset>
+
+
+<br>
+
+
 <div class="flex justify-between flex-wrap">
     
     <button type="button" onclick="resetSidebarFilters(true); toggleFullScreenSidebar();" class="button float-left mt-9">Reset filters</button>
@@ -1481,7 +1494,7 @@
     </aside>
     <div id="post-grid-container" class="flex-col w-full md:flex">
         
-        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 2291 to 2300 of 3453 results found.</div>
+        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 3436 to 3450 of 3453 results found.</div>
         <div id="post-grid">
         
     
@@ -1490,225 +1503,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/540-locrine-1/">
+            <a href="/shakespearedb/copies/8369-f4-Fragments/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Locrine
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/540-locrine-1/">Locrine
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8369-f4-Fragments/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
+    Fragments
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
+    [various]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Yale University, Elizabethan Club
+    Private collection (Florida)
 </p>
                 </div>
                 
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/541-locrine-1/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
-            width="500"
-            height="500"
-            alt="Locrine
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/541-locrine-1/">Locrine
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Henry E. Huntington Library and Art Gallery
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/542-locrine-1/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
-            width="500"
-            height="500"
-            alt="Locrine
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/542-locrine-1/">Locrine
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    British Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/543-locrine-1/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
-            width="500"
-            height="500"
-            alt="Locrine
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/543-locrine-1/">Locrine
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Harvard University, Houghton Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/544-locrine-1/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
-            width="500"
-            height="500"
-            alt="Locrine
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/544-locrine-1/">Locrine
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Victoria and Albert Museum National Art Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/545-locrine-1/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
-            width="500"
-            height="500"
-            alt="Locrine
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/545-locrine-1/">Locrine
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Oxford University, Bodleian Library, Verulam Deposit
-</p>
-                </div>
-                
-                        <p>Very defective. Leaves A1-4, E3-4, H1-4, I1-4 wanting.
+                        <p>Imperfect: a fragment consisting of leaves A3-7 and C2-7 only. Bound with these leaves are gatherings B and D from the second 1599 edition (STC 22342). The combination of gatherings from the two editions does not provide a complete text: the result in the text (with 2 leaves missing) is the omission of 34 lines and the duplication of 54 lines (Folger file). Also bound with: Shakespeare, W. Lucrece. London: Printed by I.H. for Iohn Harison, 1600 (STC 22347) -- Middleton, T. The ghost of Lucrece. At London: Printed by Valentine Simmes, 1600 (STC 17885.5) -- E.C. Emaricdulfe. At London: Printed for Matthew Law, 1595 (STC 4268) -- Shakespeare, W. Venus and Adonis. Imprinted at London for William Leake, dwelling in Paules Churchyard, at the signe of the Greyhound, 1599 (STC 22358a).
 <p>
                     
             </div>
@@ -1721,35 +1544,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/546-locrine-1/">
+            <a href="/shakespearedb/copies/8370-f4-Fragments/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Locrine
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/546-locrine-1/">Locrine
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8370-f4-Fragments/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
+    Fragments
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
+    [various]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    University of California, Los Angeles, Clark Library
+    University of California, Berkeley, Bancroft Library
 </p>
                 </div>
                 
-                        <p>Closely cropped at bottom margin with loss of imprint date; some leaves reinforced at outside margin. The date cut out of this copy has been inserted in SC 1482.
+                        <p>Lacking the first leaf (blank except signature A). Lee mistook the order of items in this book: Passionate Pilgrim is first, Venus and Adonis second.
 <p>
                     
             </div>
@@ -1762,31 +1585,72 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/547-locrine-1/">
+            <a href="/shakespearedb/copies/8371-f4-Fragments/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Locrine
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/547-locrine-1/">Locrine
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8371-f4-Fragments/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
+    Fragments
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
+    [various]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Yale University, Beinecke Library
+    Private collection (Florida)
+</p>
+                </div>
+                
+                        <p>Imperfect; a made-up copy: wanting gatherings A and C; in their stead are A3-7 and C2-7 of STC 22341.5. The combination of gatherings from the two editions does not provide a complete text: the result in the text (with 2 leaves missing) is the omission of 34 lines and the duplication of 54 lines (Folger file). Also bound with: Shakespeare, W. Lucrece. London: Printed by I.H. for Iohn Harison, 1600 (STC 22347) -- Middleton, T. The ghost of Lucrece. At London: Printed by Valentine Simmes, 1600 (STC 17885.5) -- E.C. Emaricdulfe. At London: Printed for Matthew Law, 1595 (STC 4268) -- Shakespeare, W. Venus and Adonis. Imprinted at London for William Leake, dwelling in Paules Churchyard, at the signe of the Greyhound, 1599 (STC 22358a).
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8372-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8372-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection (Florida)
 </p>
                 </div>
                 
@@ -1800,31 +1664,154 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/548-locrine-1/">
+            <a href="/shakespearedb/copies/8373-f4-Fragments/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Locrine
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/548-locrine-1/">Locrine
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8373-f4-Fragments/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
+    Fragments
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
+    [various]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Henry E. Huntington Library and Art Gallery
+    Private collection (Florida)
+</p>
+                </div>
+                
+                        <p>cs0900. Wanting the blank leaves. The outer margins of all leaves repaired, affecting some letters; many leaves backed.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8374-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8374-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection (Florida)
+</p>
+                </div>
+                
+                        <p>Retains cancellandum, bound in facing the cancel title page. Cancel title page torn at bottom and repaired with missing text in pen facsimile.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8375-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8375-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection (Florida)
+</p>
+                </div>
+                
+                        <p>Ruled in red throughout. I4 (blank) wanting.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8376-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8376-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection (Florida)
 </p>
                 </div>
                 
@@ -1838,35 +1825,278 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/549-locrine-1/">
+            <a href="/shakespearedb/copies/8377-f4-Fragments/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/locrine.png"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
             width="500"
             height="500"
-            alt="Locrine
+            alt="Comedies, Histories, and Tragedies: F4
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/549-locrine-1/">Locrine
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8377-f4-Fragments/">Comedies, Histories, and Tragedies: F4
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1595</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    1
+    Fragments
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    21528
+    [various]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Henry E. Huntington Library and Art Gallery
+    University of California, Los Angeles
 </p>
                 </div>
                 
-                        <p>Lacking title page. Title supplied in manuscript by Malone with reference to &quot;Vol. 59&quot; for his other copy.
+                        <p>Inlaid; tp. slightly mutilated
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8378-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8378-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    University of California, Los Angeles
+</p>
+                </div>
+                
+                        <p>-Final blank.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8379-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8379-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    University of California, Los Angeles
+</p>
+                </div>
+                
+                        <p>Title is facsimile; some leaves repaired. Bound in full cross-grained morocco.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8380-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8380-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Private collection (Florida)
+</p>
+                </div>
+                
+                        <p>cs0532. Variant. Wanting the blank leaf.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8381-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8381-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Anne and Roger Cognard Collection
+</p>
+                </div>
+                
+                        <p>F4 in MS.; -blank.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8382-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8382-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Loras College (Iowa)
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/8383-f4-Fragments/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f4.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F4
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8383-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Fragments
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [various]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Oxford University, Magdalene College
+</p>
+                </div>
+                
+                        <p>-A1.4, I1.4; A1 replaced by type reprint; MS. ink signatures on A2r: &quot;John Jones, 1709&quot; and &quot;James Chesman&quot;; on B1r: &quot;James Chesman his book&quot;; on I2r: &quot;John Jones his book&quot;; MS. ink correction &quot;greene&quot; to &quot;grave&quot; on F2r, line 27; MS. ink marks on C4r; formerly contained flyleaf with notes by James Orchard Halliwell-Phillipps and bookplate of John Fitchett Marsh; 81031890
 <p>
                     
             </div>

@@ -1471,6 +1471,19 @@
 
 <br>
 
+
+<fieldset class="switch-field">
+    <legend>Apocryphal?</legend>
+    <input type="radio" id="apocryphal-yes" name="apocryphal" class="copy-filter" value="true"  onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-yes">Yes</label>
+    <input type="radio" id="apocryphal-no"  name="apocryphal" class="copy-filter" value="false" onclick="updatePostGrid(this)"/>
+    <label for="apocryphal-no">No</label>
+</fieldset>
+
+
+<br>
+
+
 <div class="flex justify-between flex-wrap">
     
     <button type="button" onclick="resetSidebarFilters(true); toggleFullScreenSidebar();" class="button float-left mt-9">Reset filters</button>
@@ -1481,7 +1494,7 @@
     </aside>
     <div id="post-grid-container" class="flex-col w-full md:flex">
         
-        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 1781 to 1790 of 3453 results found.</div>
+        <div id="showing-n-results" class="text-center mb-5 mx-auto text-lg text-gray-600">Showing 2671 to 2685 of 3453 results found.</div>
         <div id="post-grid">
         
     
@@ -1490,111 +1503,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8332-f4-Fragments/">
+            <a href="/shakespearedb/copies/6329-f2-Unknown-issue/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F4
+            alt="Comedies, Histories, and Tragedies: F2
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8332-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6329-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
+    Unknown issue
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
+    [unknown]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Meisei University, Kodama Memorial Library
+    University of Texas at Austin, Harry Ransom Center
 </p>
                 </div>
                 
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8333-f4-Fragments/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F4
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8333-f4-Fragments/">Comedies, Histories, and Tragedies: F4
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Meisei University, Kodama Memorial Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8334-f4-Fragments/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F4
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8334-f4-Fragments/">Comedies, Histories, and Tragedies: F4
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Meisei University, Kodama Memorial Library
-</p>
-                </div>
-                
-                        <p>Signatures: A² B-K⁴ L².
+                        <p>Henry VIII only. Cuts and alterations, call-lists, and a few properties. For a Smock Alley production, managed by Joseph Ashbury.
 <p>
                     
             </div>
@@ -1607,111 +1544,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8335-f4-Fragments/">
+            <a href="/shakespearedb/copies/6330-f2-Unknown-issue/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F4
+            alt="Comedies, Histories, and Tragedies: F2
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8335-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6330-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
+    Unknown issue
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
+    [unknown]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Occidental College
+    Henry E. Huntington Library and Art Gallery
 </p>
                 </div>
                 
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8336-f4-Fragments/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F4
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8336-f4-Fragments/">Comedies, Histories, and Tragedies: F4
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    British Library
-</p>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-
-    
-        
-    
-
-    <div class="postcard">
-        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8337-f4-Fragments/">
-            <img
-            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
-            width="500"
-            height="500"
-            alt="Comedies, Histories, and Tragedies: F4
-">
-            </a>
-            <div class="px-6 py-5">
-                <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8337-f4-Fragments/">Comedies, Histories, and Tragedies: F4
-</a>
-                </div>
-                <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
-                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
-</p>
-                    <div class="flexitems-break"></div>
-                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
-</p>
-                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    British Library
-</p>
-                </div>
-                
-                        <p>cs174.3. In a volume containing (order as yet undetermined): John Dryden, Aureng-Zebe (1694); Nathaniel Lee, Mithridates (1693); Thomas Otway, Venice Preserved (1696); Julius Caesar (1691); Dryden, Conquest of Granada (1695)
+                        <p>Lear only. Cuts and alterations, some scenic indications, and calls. For a Smock Alley production, managed by Joseph Ashbury. Sig 3X1v (p. 788) is the 1st page of the Smock Alley Othello.
 <p>
                     
             </div>
@@ -1724,35 +1585,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8338-f4-Fragments/">
+            <a href="/shakespearedb/copies/6331-f2-Allot-&#39;at-the-signe&#39;/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F4
+            alt="Comedies, Histories, and Tragedies: F2
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8338-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6331-f2-Allot-&#39;at-the-signe&#39;/">Comedies, Histories, and Tragedies: F2
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
+    Allot &#39;at the signe&#39;
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
+    22274a
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Private collection
+    University of Texas at Austin, Harry Ransom Center
 </p>
                 </div>
                 
-                        <p>From Sotheby&#39;s catalogue: &quot;upper outer corner of title-page restored (not affecting text), long tear to B1 repaired with some break in text, a number of other minor tears and loss to margins professionally restored, endpapers slightly discoloured.&quot;
+                        <p>Merry Wives of Windsor only. Cuts, scenic indications, calls, cues for entrances and music. For a Smock Alley production, managed by Joseph Ashbury.
 <p>
                     
             </div>
@@ -1765,35 +1626,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8339-f4-Fragments/">
+            <a href="/shakespearedb/copies/6332-f2-Unknown-issue/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F4
+            alt="Comedies, Histories, and Tragedies: F2
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8339-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6332-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
+    Unknown issue
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
+    [unknown]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Private collection (Florida)
+    University of California, Berkeley, Bancroft Library
 </p>
                 </div>
                 
-                        <p>Gilt edges
+                        <p>Macbeth only. Marked in several hands.&#92;r&#92;nFor a Smock Alley production, managed by Joseph Ashbury. Last page is at University of Edinburgh
 <p>
                     
             </div>
@@ -1806,35 +1667,35 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8340-f4-Fragments/">
+            <a href="/shakespearedb/copies/6333-f2-Unknown-issue/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F4
+            alt="Comedies, Histories, and Tragedies: F2
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8340-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6333-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
+    Unknown issue
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
+    [unknown]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Private collection (Florida)
+    Hofstra University
 </p>
                 </div>
                 
-                        <p>K2 cropped at foot, affecting text.
+                        <p>Othello only. Cuts, scenic indications, calls, cues for effects and entrances. For a Smock Alley production, managed by Joseph Ashbury.
 <p>
                     
             </div>
@@ -1847,35 +1708,401 @@
 
     <div class="postcard">
         <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
-            <a href="/shakespearedb/copies/8341-f4-Fragments/">
+            <a href="/shakespearedb/copies/6334-f2-Unknown-issue/">
             <img
             class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
-            src="/shakespearedb/assets/img/title_icons/f4.png"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
             width="500"
             height="500"
-            alt="Comedies, Histories, and Tragedies: F4
+            alt="Comedies, Histories, and Tragedies: F2
 ">
             </a>
             <div class="px-6 py-5">
                 <div class="font-semibold text-lg mb-2">
-                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/8341-f4-Fragments/">Comedies, Histories, and Tragedies: F4
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6334-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
 </a>
                 </div>
                 <div class="my-5 flex flex-wrap justify-between">
-                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1685</p>
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
                     <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
-    Fragments
+    Unknown issue
 </p>
                     <div class="flexitems-break"></div>
                     <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
-    [various]
+    [unknown]
 </p>
                     <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
-    Private collection
+    Brown University, John Hay Library
 </p>
                 </div>
                 
-                        <p>cs811. Foxed.
+                        <p>Imperfect: leaves A1, A2 and N4 (blank) wanting; leaf A4 mended at inner margin; leaves D1, F2, F3, G1, G2 and G3 mended at outer margin; tear across the bottom of leaf F3 mended without damage to text; most pages close cropped at top margin with frequent damage to and occasional loss of running title. Has ms. note in pencil on front free endpaper and black silk marker.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6335-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6335-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Kongelige Bibliotek (Royal Library, Denmark)
+</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6336-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6336-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    National Library of Scotland
+</p>
+                </div>
+                
+                        <p>Pericles only. Apparently a part of the copy of the Third Folio which contained the Smock Alley promptbooks.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6337-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6337-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Senate House Library, University of London
+</p>
+                </div>
+                
+                        <p>Twelfth Night only. A few cuts, scenic indications, calls, and cues for effects. For a Smock Alley production, managed by Joseph Ashbury.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6338-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6338-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Senate House Library, University of London
+</p>
+                </div>
+                
+                        <p>Timon of Athens only. Unmarked, not used for production. Page 688, sig. M4v., contains a manuscript cast list for a Smock Alley production of Julius Caesar at the time of Joseph Ashbury’s management.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6338.3-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6338.3-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Senate House Library, University of London
+</p>
+                </div>
+                
+                        <p>Winter&#39;s Tale only. Cuts marked. For a Smock Alley production, managed by Joseph Ashbury.
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6338.5-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6338.5-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Yale University, Beinecke Library
+</p>
+                </div>
+                
+                        <p>Part of the leaf book, &quot;Original leaves from the first four folios of the plays of William Shakespeare : 1623, 1632, 1663, 1685,&quot; issued by Grabhorn Press for D. Magee in 1935. Bound with leaves from the other three folios (which are described there).
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6338.7-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6338.7-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Staatsbibliothek zu Berlin—Preussischer Kulturbesitz (Berlin State Library—Prussian Cultural Heritage)
+</p>
+                </div>
+                
+                        <p>Single leaf of King Lear, pp. 785-86. Part of the leaf book, &quot;Original leaves from the first four folios of the plays of William Shakespeare : 1623, 1632, 1663, 1685,&quot; issued by Grabhorn Press for D. Magee in 1935. Bound with leaves from the other three folios (which are described there).
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6339-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6339-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Cincinnati and Hamilton County Public Library
+</p>
+                </div>
+                
+                        <p>Part of the leaf book, &quot;Original leaves from the first four folios of the plays of William Shakespeare : 1623, 1632, 1663, 1685,&quot; issued by Grabhorn Press for D. Magee in 1935. Bound with leaves from the other three folios (which are described there).
+<p>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+        
+    
+
+    <div class="postcard">
+        <div class="rounded shadow-lg h-full bg-gray-50 hover:shadow-xl">
+            <a href="/shakespearedb/copies/6340-f2-Unknown-issue/">
+            <img
+            class="w-full m-0 rounded-t lazy max-h-72 object-cover object-top card-thumbnail"
+            src="/shakespearedb/assets/img/title_icons/f2.png"
+            width="500"
+            height="500"
+            alt="Comedies, Histories, and Tragedies: F2
+">
+            </a>
+            <div class="px-6 py-5">
+                <div class="font-semibold text-lg mb-2">
+                    <a class="text-gray-900 hover:text-gray-700" href="/shakespearedb/copies/6340-f2-Unknown-issue/">Comedies, Histories, and Tragedies: F2
+</a>
+                </div>
+                <div class="my-5 flex flex-wrap justify-between">
+                    <p id="yearCount-table-cell-"   class="text-gray-700 mb-1 max-w-2/5 "><strong>Year:</strong> 1632</p>
+                    <p id="edition-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Edition #:</strong> 
+    Unknown issue
+</p>
+                    <div class="flexitems-break"></div>
+                    <p id="STC-table-cell-" class="text-gray-700 mb-1 max-w-2/5"><strong>STC:</strong> 
+    [unknown]
+</p>
+                    <p id="location-table-cell-"  class="text-gray-700 mb-1 max-w-3/5 wrap-break-word text-right"><strong>Location:</strong> 
+    Indianapolis Public Library
+</p>
+                </div>
+                
+                        <p>Part of the leaf book, &quot;Original leaves from the first four folios of the plays of William Shakespeare : 1623, 1632, 1663, 1685,&quot; issued by Grabhorn Press for D. Magee in 1935. Bound with leaves from the other three folios (which are described there).
 <p>
                     
             </div>
