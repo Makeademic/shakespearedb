@@ -1,6 +1,6 @@
 ---
 id: 171
-order: 890
+order: 0890
 NSC: "808"
 filename: 808-much-ado-about-nothing-1
 copy_URL: /808-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 2
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   C.34.k.31
 isLocationVerified: TRUE

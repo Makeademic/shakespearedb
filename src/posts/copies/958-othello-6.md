@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 60
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   DRAMLIB D823ST7 IC95
 isLocationVerified: TRUE

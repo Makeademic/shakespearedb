@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 172
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   822.3
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 29
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Vet. A3 e.696
 isLocationVerified: TRUE

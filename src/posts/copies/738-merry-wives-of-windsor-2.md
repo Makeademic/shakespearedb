@@ -1,6 +1,6 @@
 ---
 id: 82
-order: 819
+order: 0819
 NSC: "738"
 filename: 738-merry-wives-of-windsor-2
 copy_URL: /738-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 28
-location_name: [McGill University]
+location_name: ["McGill University"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: TRUE

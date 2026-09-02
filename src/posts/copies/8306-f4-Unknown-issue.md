@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 122
-location_name: [Michigan State University]
+location_name: ["Michigan State University"]
 shelfmark: |
   MR 1444
 isLocationVerified: TRUE

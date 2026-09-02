@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 252
-location_name: [University of California, Santa Barbara]
+location_name: ["University of California, Santa Barbara"]
 shelfmark: |
   PR2751.A1 1623
 isLocationVerified: TRUE

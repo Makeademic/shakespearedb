@@ -1,6 +1,6 @@
 ---
 id: 907
-order: 193
+order: 0193
 NSC: "167"
 filename: 167-hamlet-9
 copy_URL: /167-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 2
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   11392.aa.64
 isLocationVerified: TRUE

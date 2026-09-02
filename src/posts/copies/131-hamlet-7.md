@@ -1,6 +1,6 @@
 ---
 id: 1134
-order: 151
+order: 0151
 NSC: "131"
 filename: 131-hamlet-7
 copy_URL: /131-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   S2951 Copy 3
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 562
-order: 77
+order: 0077
 NSC: "75"
 filename: 75-hamlet-4
 copy_URL: /75-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 4
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Eliz 170
 isLocationVerified: TRUE

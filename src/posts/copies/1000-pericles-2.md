@@ -31,7 +31,7 @@ DEEP: 547
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 7
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   STC 22335 Copy 1
 isLocationVerified: TRUE

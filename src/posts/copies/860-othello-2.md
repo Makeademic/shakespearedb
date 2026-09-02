@@ -1,6 +1,6 @@
 ---
 id: 1345
-order: 944
+order: 0944
 NSC: "860"
 filename: 860-othello-2
 copy_URL: /860-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 16
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   Bute.501
 isLocationVerified: TRUE

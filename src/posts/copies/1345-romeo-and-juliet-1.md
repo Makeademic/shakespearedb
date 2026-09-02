@@ -31,7 +31,7 @@ DEEP: 233
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 3
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   Capell R.20[2]
 isLocationVerified: TRUE

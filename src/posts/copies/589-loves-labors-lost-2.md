@@ -1,6 +1,6 @@
 ---
 id: 1266
-order: 664
+order: 0664
 NSC: "589"
 filename: 589-loves-labors-lost-2
 copy_URL: /589-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 22295 Copy 3
 isLocationVerified: TRUE

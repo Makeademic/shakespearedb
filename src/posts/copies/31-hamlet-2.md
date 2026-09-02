@@ -1,6 +1,6 @@
 ---
 id: 541
-order: 33
+order: 0033
 NSC: "31"
 filename: 31-hamlet-2
 copy_URL: /31-hamlet-2/
@@ -32,7 +32,7 @@ DEEP: 348
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 5
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   69305
 isLocationVerified: TRUE

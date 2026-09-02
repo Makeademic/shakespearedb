@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 2
-location_name: [John Rylands Library, University of Manchester]
+location_name: ["John Rylands Library, University of Manchester"]
 shelfmark: |
   C.12.g.26
 isLocationVerified: TRUE

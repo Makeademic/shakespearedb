@@ -1,6 +1,6 @@
 ---
 id: 1476
-order: 736
+order: 0736
 NSC: "656"
 filename: 656-merchant-of-venice-2
 copy_URL: /656-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 96
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

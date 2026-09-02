@@ -1,6 +1,6 @@
 ---
 id: 1251
-order: 613
+order: 0613
 NSC: "539"
 filename: 539-locrine-1
 copy_URL: /539-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 2
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   239.e.32
 isLocationVerified: TRUE

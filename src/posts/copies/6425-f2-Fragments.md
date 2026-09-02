@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 256
-location_name: [Trinity College (Hartford, CT)]
+location_name: ["Trinity College (Hartford, CT)"]
 shelfmark: |
   Z 239 G7 A1 v.234 folio
 isLocationVerified: FALSE

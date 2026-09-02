@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 330
-location_name: [Free Library of Philadelphia]
+location_name: ["Free Library of Philadelphia"]
 shelfmark: |
   Grabhorn Press Collection Quarto - 1130 HBLL
 isLocationVerified: TRUE

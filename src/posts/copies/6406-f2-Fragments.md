@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 278
-location_name: [Carnegie Mellon University]
+location_name: ["Carnegie Mellon University"]
 shelfmark: |
   PR2751 .A25 1632 copy 2
 isLocationVerified: FALSE

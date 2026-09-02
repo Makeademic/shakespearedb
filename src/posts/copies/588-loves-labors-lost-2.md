@@ -1,6 +1,6 @@
 ---
 id: 1268
-order: 663
+order: 0663
 NSC: "588"
 filename: 588-loves-labors-lost-2
 copy_URL: /588-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22295 Copy 2
 isLocationVerified: TRUE

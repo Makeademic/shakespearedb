@@ -1,6 +1,6 @@
 ---
 id: 1295
-order: 776
+order: 0776
 NSC: "695"
 filename: 695-merchant-of-venice-3
 copy_URL: /695-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 3
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   Capell S.27[5]
 isLocationVerified: TRUE

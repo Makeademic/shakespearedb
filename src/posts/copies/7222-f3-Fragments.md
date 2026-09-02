@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 108
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   FOLIO Z8813 .W5
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 25
-location_name: [John Wolfson collection]
+location_name: ["John Wolfson collection"]
 shelfmark: |
   PML 15603
 isLocationVerified: TRUE

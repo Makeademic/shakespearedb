@@ -1,6 +1,6 @@
 ---
 id: 542
-order: 339
+order: 0339
 NSC: "307"
 filename: 307-henry-v-1
 copy_URL: /307-henry-v-1/
@@ -31,7 +31,7 @@ DEEP: 288
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 29
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Arch. G d.39 (3)
 isLocationVerified: TRUE

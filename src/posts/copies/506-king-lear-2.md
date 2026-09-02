@@ -1,6 +1,6 @@
 ---
 id: 1658
-order: 577
+order: 0577
 NSC: "506"
 filename: 506-king-lear-2
 copy_URL: /506-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 39
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   VAULT Case 3A 896
 isLocationVerified: TRUE

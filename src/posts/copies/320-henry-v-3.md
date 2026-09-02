@@ -1,6 +1,6 @@
 ---
 id: 1470
-order: 352
+order: 0352
 NSC: "320"
 filename: 320-henry-v-3
 copy_URL: /320-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 60
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   PR2750 .B12 1619g
 isLocationVerified: TRUE

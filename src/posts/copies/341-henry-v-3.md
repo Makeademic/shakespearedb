@@ -1,6 +1,6 @@
 ---
 id: 488
-order: 377
+order: 0377
 NSC: "341"
 filename: 341-henry-v-3
 copy_URL: /341-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 29
-location_name: [Texas Christian University]
+location_name: ["Texas Christian University"]
 shelfmark: |
   Arch. G d.39 (4)
 isLocationVerified: TRUE

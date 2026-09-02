@@ -32,7 +32,7 @@ DEEP: 5086
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 25
-location_name: [Midwestern State University, Texas]
+location_name: ["Midwestern State University, Texas"]
 shelfmark: |
   PML 15833
 isLocationVerified: TRUE

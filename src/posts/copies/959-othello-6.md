@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 7
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   S2942 Bd.w. L856 Copy 2
 isLocationVerified: TRUE

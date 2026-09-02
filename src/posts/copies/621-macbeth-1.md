@@ -1,6 +1,6 @@
 ---
 id: 927
-order: 699
+order: 0699
 NSC: "621"
 filename: 621-macbeth-1
 copy_URL: /621-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 12
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Dyce 25.D.65
 isLocationVerified: TRUE

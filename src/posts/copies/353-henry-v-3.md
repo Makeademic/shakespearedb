@@ -1,6 +1,6 @@
 ---
 id: 494
-order: 389
+order: 0389
 NSC: "353"
 filename: 353-henry-v-3
 copy_URL: /353-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 4
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Eliz 176
 isLocationVerified: TRUE

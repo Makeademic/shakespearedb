@@ -1,6 +1,6 @@
 ---
 id: 1327
-order: 862
+order: 0862
 NSC: "781"
 filename: 781-midsummer-nights-dream-2
 copy_URL: /781-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   STC 22303 Copy 2
 isLocationVerified: TRUE

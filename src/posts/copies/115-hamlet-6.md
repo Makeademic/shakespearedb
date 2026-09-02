@@ -1,6 +1,6 @@
 ---
 id: 1487
-order: 125
+order: 0125
 NSC: "115"
 filename: 115-hamlet-6
 copy_URL: /115-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 96
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 330
-location_name: [Private collection (Florida)]
+location_name: ["Private collection (Florida)"]
 shelfmark: |
   Grabhorn Press Collection Quarto - 1130 HBLL
 isLocationVerified: TRUE

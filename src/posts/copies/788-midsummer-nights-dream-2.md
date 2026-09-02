@@ -1,6 +1,6 @@
 ---
 id: 283
-order: 869
+order: 0869
 NSC: "788"
 filename: 788-midsummer-nights-dream-2
 copy_URL: /788-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 5
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   69335
 isLocationVerified: TRUE

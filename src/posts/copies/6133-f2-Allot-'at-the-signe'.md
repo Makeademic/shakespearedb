@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 26
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   SR/OS/37 Copy 1: (SBT 3) Accession #: 83000038
 isLocationVerified: FALSE

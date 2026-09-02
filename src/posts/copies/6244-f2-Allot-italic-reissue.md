@@ -32,7 +32,7 @@ DEEP: 5089
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [Wesleyan University]
+location_name: ["Wesleyan University"]
 shelfmark: |
   STC 22274 Fo.2 no.38
 isLocationVerified: TRUE

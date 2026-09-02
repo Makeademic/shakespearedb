@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 8
-location_name: [Buffalo and Erie County Public Library]
+location_name: ["Buffalo and Erie County Public Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

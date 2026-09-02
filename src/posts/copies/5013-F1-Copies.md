@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 43
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   RARE 1-SIZE PR2751 .A1x 1623
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [Wesleyan University]
+location_name: ["Wesleyan University"]
 shelfmark: |
   F2-12 MR 1446
 isLocationVerified: TRUE

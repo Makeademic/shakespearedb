@@ -31,7 +31,7 @@ DEEP: 232
 extant_ed_copies: 22
 ed_fragment: 
 location_id: 11
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   *KC 1634 (Shakespeare, W. Tragedie Of King Richard The Third)
 isLocationVerified: TRUE

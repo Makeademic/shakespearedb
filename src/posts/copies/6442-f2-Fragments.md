@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 4
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Eliz 29 copy 2
 isLocationVerified: TRUE

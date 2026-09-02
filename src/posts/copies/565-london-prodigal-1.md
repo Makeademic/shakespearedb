@@ -1,6 +1,6 @@
 ---
 id: 1570
-order: 640
+order: 0640
 NSC: "565"
 filename: 565-london-prodigal-1
 copy_URL: /565-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 54
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   PR2863 .A1 1605 *
 isLocationVerified: TRUE

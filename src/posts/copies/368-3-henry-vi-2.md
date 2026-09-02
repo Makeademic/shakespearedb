@@ -1,6 +1,6 @@
 ---
 id: 293
-order: 404
+order: 0404
 NSC: "368"
 filename: 368-3-henry-vi-2
 copy_URL: /368-3-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 213
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 5
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   69130
 isLocationVerified: TRUE

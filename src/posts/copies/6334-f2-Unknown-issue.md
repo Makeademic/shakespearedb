@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 8
-location_name: [Brown University, John Hay Library]
+location_name: ["Brown University, John Hay Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 1141
-order: 192
+order: 0192
 NSC: "166"
 filename: 166-hamlet-9
 copy_URL: /166-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 17
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   G.4012.17
 isLocationVerified: TRUE

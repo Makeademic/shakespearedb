@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 101
-location_name: [House of Lords Library]
+location_name: ["House of Lords Library"]
 shelfmark: |
   FOL-Q PIECE-120
 isLocationVerified: FALSE

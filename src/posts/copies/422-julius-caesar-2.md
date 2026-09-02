@@ -1,6 +1,6 @@
 ---
 id: 874
-order: 481
+order: 0481
 NSC: "422"
 filename: 422-julius-caesar-2
 copy_URL: /422-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 72
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   822.33 S5j.HE
 isLocationVerified: TRUE

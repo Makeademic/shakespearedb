@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, St. John's College]
+location_name: ["Cambridge University, St. John's College"]
 shelfmark: |
   S2942 Copy 3
 isLocationVerified: TRUE

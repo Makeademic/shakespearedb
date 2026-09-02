@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 356
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   f 16 .S53
 isLocationVerified: TRUE

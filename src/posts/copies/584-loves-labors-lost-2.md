@@ -1,6 +1,6 @@
 ---
 id: 1262
-order: 659
+order: 0659
 NSC: "584"
 filename: 584-loves-labors-lost-2
 copy_URL: /584-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 3
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Capell S.31[5]
 isLocationVerified: TRUE

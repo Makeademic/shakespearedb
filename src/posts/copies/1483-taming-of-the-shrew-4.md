@@ -31,7 +31,7 @@ DEEP: 184
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 33
-location_name: [Lehigh University]
+location_name: ["Lehigh University"]
 shelfmark: |
   Sa1.4.29(01)
 isLocationVerified: TRUE

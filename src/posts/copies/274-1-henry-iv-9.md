@@ -1,6 +1,6 @@
 ---
 id: 443
-order: 304
+order: 0304
 NSC: "274"
 filename: 274-1-henry-iv-9
 copy_URL: /274-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 29
-location_name: [Auckland Public Library]
+location_name: ["Auckland Public Library"]
 shelfmark: |
   Arch. G d.40 (5)
 isLocationVerified: TRUE

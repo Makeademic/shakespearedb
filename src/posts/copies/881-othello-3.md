@@ -1,6 +1,6 @@
 ---
 id: 1043
-order: 967
+order: 0967
 NSC: "881"
 filename: 881-othello-3
 copy_URL: /881-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 33
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   Sa1.4.29(06)
 isLocationVerified: TRUE

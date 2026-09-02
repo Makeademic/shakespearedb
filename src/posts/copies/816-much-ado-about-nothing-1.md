@@ -1,6 +1,6 @@
 ---
 id: 165
-order: 898
+order: 0898
 NSC: "816"
 filename: 816-much-ado-about-nothing-1
 copy_URL: /816-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 39
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   VAULT Case 3A 893
 isLocationVerified: TRUE

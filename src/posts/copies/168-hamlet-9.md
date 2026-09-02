@@ -1,6 +1,6 @@
 ---
 id: 909
-order: 194
+order: 0194
 NSC: "168"
 filename: 168-hamlet-9
 copy_URL: /168-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 70
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   PR2807.A1.C95
 isLocationVerified: TRUE

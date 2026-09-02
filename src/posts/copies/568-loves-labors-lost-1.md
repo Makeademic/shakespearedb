@@ -1,6 +1,6 @@
 ---
 id: 1257
-order: 643
+order: 0643
 NSC: "568"
 filename: 568-loves-labors-lost-1
 copy_URL: /568-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 3
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Capell S.37[3]
 isLocationVerified: TRUE

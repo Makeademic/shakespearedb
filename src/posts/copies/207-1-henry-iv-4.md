@@ -1,6 +1,6 @@
 ---
 id: 1156
-order: 237
+order: 0237
 NSC: "207"
 filename: 207-1-henry-iv-4
 copy_URL: /207-1-henry-iv-4/
@@ -31,7 +31,7 @@ DEEP: 243
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 16
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Bute.479
 isLocationVerified: TRUE

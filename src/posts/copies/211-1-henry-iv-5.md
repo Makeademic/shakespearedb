@@ -1,6 +1,6 @@
 ---
 id: 1157
-order: 241
+order: 0241
 NSC: "211"
 filename: 211-1-henry-iv-5
 copy_URL: /211-1-henry-iv-5/
@@ -31,7 +31,7 @@ DEEP: 244
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 7
-location_name: [Brown University, John Hay Library]
+location_name: ["Brown University, John Hay Library"]
 shelfmark: |
   STC 22283 Copy 2
 isLocationVerified: TRUE

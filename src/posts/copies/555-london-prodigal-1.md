@@ -1,6 +1,6 @@
 ---
 id: 1255
-order: 629
+order: 0629
 NSC: "555"
 filename: 555-london-prodigal-1
 copy_URL: /555-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 7
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   STC 22333 Copy 2
 isLocationVerified: TRUE

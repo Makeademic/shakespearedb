@@ -1,6 +1,6 @@
 ---
 id: 1323
-order: 866
+order: 0866
 NSC: "785"
 filename: 785-midsummer-nights-dream-2
 copy_URL: /785-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22303 Copy 6
 isLocationVerified: TRUE

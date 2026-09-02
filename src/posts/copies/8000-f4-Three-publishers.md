@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 46
-location_name: [Book Club of California]
+location_name: ["Book Club of California"]
 shelfmark: |
   1685 SHAK Auckland Heritage Collections
 isLocationVerified: TRUE

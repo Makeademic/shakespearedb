@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   F2-13 MR 1917
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 259
-order: 846
+order: 0846
 NSC: "765"
 filename: 765-midsummer-nights-dream-1
 copy_URL: /765-midsummer-nights-dream-1/
@@ -31,7 +31,7 @@ DEEP: 297
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 2
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   C.34.k.29
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 40
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   HB4/Folios.5.5.14
 isLocationVerified: TRUE

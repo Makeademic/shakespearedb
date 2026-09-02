@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 6
-location_name: [University of Colorado, Boulder]
+location_name: ["University of Colorado, Boulder"]
 shelfmark: |
   R163417
 isLocationVerified: TRUE

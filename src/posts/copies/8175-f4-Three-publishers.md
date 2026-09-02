@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 26
-location_name: [Meisei University, Kodama Memorial Library]
+location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: |
   SR/OS/37 (1685) Accession #: 81000049
 isLocationVerified: FALSE

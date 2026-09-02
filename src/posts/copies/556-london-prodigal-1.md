@@ -1,6 +1,6 @@
 ---
 id: 1254
-order: 630
+order: 0630
 NSC: "556"
 filename: 556-london-prodigal-1
 copy_URL: /556-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   STC 22333 Copy 3
 isLocationVerified: TRUE

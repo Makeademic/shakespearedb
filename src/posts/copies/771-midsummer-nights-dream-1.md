@@ -1,6 +1,6 @@
 ---
 id: 257
-order: 852
+order: 0852
 NSC: "771"
 filename: 771-midsummer-nights-dream-1
 copy_URL: /771-midsummer-nights-dream-1/
@@ -31,7 +31,7 @@ DEEP: 297
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 4
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Eliz 183
 isLocationVerified: TRUE

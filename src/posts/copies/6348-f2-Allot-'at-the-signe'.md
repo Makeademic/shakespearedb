@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 295
-location_name: [University of California, Berkeley, Bancroft Library]
+location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: |
   Rare Folio PR2751 .A2 1632
 isLocationVerified: FALSE

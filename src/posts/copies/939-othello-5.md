@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   S2941 Copy 3
 isLocationVerified: TRUE

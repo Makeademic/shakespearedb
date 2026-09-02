@@ -1,6 +1,6 @@
 ---
 id: 789
-order: 612
+order: 0612
 NSC: "538"
 filename: 538-locrine-1
 copy_URL: /538-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 21
-location_name: [Cambridge University]
+location_name: ["Cambridge University"]
 shelfmark: |
   S366.1595
 isLocationVerified: TRUE

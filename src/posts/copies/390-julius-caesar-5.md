@@ -1,6 +1,6 @@
 ---
 id: 1531
-order: 439
+order: 0439
 NSC: "390"
 filename: 390-julius-caesar-5
 copy_URL: /390-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 44
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   PR2750 .A08 1684
 isLocationVerified: TRUE

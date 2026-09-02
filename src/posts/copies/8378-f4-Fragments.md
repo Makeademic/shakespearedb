@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 51
-location_name: [University of California, Los Angeles]
+location_name: ["University of California, Los Angeles"]
 shelfmark: |
   f TYP.Z239.2.G71.1935s copy 3
 isLocationVerified: TRUE

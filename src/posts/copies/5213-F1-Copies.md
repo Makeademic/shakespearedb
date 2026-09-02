@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 81
-location_name: [Longleat House (Marquess of Bath)]
+location_name: ["Longleat House (Marquess of Bath)"]
 shelfmark: |
   fisher .S52 A1 1623 f
 isLocationVerified: TRUE

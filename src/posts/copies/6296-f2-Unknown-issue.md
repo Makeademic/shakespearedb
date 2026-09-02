@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 65
-location_name: [University of Virginia]
+location_name: ["University of Virginia"]
 shelfmark: |
   PR2751 .A2
 isLocationVerified: FALSE

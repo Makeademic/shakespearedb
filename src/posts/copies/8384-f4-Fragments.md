@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 223
-location_name: [Brigham Young University]
+location_name: ["Brigham Young University"]
 shelfmark: |
   QUARTO PR2757 .A1 1685
 isLocationVerified: FALSE

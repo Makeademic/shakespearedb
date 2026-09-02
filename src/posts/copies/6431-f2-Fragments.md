@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 108
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   FOLIO 828 .S527kj 1632
 isLocationVerified: TRUE

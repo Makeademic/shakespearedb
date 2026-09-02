@@ -1,6 +1,6 @@
 ---
 id: 1154
-order: 235
+order: 0235
 NSC: "205"
 filename: 205-1-henry-iv-4
 copy_URL: /205-1-henry-iv-4/
@@ -31,7 +31,7 @@ DEEP: 243
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 3
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Capell R.23[9]
 isLocationVerified: TRUE

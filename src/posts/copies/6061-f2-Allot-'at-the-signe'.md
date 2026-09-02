@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 301
-location_name: [Texas Christian University]
+location_name: ["Texas Christian University"]
 shelfmark: |
   PR2751 .A2 1632 Vlt
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1558
-order: 118
+order: 0118
 NSC: "108"
 filename: 108-hamlet-6
 copy_URL: /108-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 38
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Hickmott 17
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 94
-location_name: [University of Toronto, Thomas Fisher Library]
+location_name: ["University of Toronto, Thomas Fisher Library"]
 shelfmark: |
   Philips 44
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1568
-order: 71
+order: 0071
 NSC: "69"
 filename: 69-hamlet-4
 copy_URL: /69-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 42
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   EX 3925.342.162-
 isLocationVerified: TRUE

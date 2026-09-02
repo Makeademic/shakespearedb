@@ -1,6 +1,6 @@
 ---
 id: 1286
-order: 754
+order: 0754
 NSC: "673"
 filename: 673-merchant-of-venice-3
 copy_URL: /673-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 3
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Capell S.31[3]
 isLocationVerified: TRUE

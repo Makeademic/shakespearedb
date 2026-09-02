@@ -31,7 +31,7 @@ DEEP: 238
 extant_ed_copies: 31
 ed_fragment: 
 location_id: 39
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   VAULT Case 3A 891
 isLocationVerified: TRUE

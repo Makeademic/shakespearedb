@@ -1,6 +1,6 @@
 ---
 id: 4420
-order: 957
+order: 0957
 NSC: "871"
 filename: 871-othello-2
 copy_URL: /871-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 20
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   1977 2703
 isLocationVerified: TRUE

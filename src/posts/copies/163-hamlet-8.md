@@ -1,6 +1,6 @@
 ---
 id: 958
-order: 189
+order: 0189
 NSC: "163"
 filename: 163-hamlet-8
 copy_URL: /163-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 18
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Wg Sh15 603hg
 isLocationVerified: TRUE

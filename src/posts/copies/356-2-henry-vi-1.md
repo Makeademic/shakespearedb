@@ -1,6 +1,6 @@
 ---
 id: 833
-order: 392
+order: 0392
 NSC: "356"
 filename: 356-2-henry-vi-1
 copy_URL: /356-2-henry-vi-1/
@@ -31,7 +31,7 @@ DEEP: 179
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 29
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   Arch. G e.17
 isLocationVerified: TRUE

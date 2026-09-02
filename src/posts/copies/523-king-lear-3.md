@@ -1,6 +1,6 @@
 ---
 id: 1242
-order: 596
+order: 0596
 NSC: "523"
 filename: 523-king-lear-3
 copy_URL: /523-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 3
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Capell S.31[4]
 isLocationVerified: TRUE

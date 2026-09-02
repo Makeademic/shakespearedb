@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 180
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   *STC 22274 8631.F (Putnam)
 isLocationVerified: TRUE

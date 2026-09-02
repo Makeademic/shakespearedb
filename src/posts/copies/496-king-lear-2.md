@@ -1,6 +1,6 @@
 ---
 id: 1237
-order: 566
+order: 0566
 NSC: "496"
 filename: 496-king-lear-2
 copy_URL: /496-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   STC 22293 Copy 4
 isLocationVerified: TRUE

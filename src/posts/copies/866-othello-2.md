@@ -1,6 +1,6 @@
 ---
 id: 213
-order: 951
+order: 0951
 NSC: "866"
 filename: 866-othello-2
 copy_URL: /866-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 34
-location_name: [Oxford University, Lincoln College]
+location_name: ["Oxford University, Lincoln College"]
 shelfmark: |
   [S.L.] I [Shakespeare - 1630] (S)
 isLocationVerified: TRUE

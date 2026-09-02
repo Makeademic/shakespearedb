@@ -1,6 +1,6 @@
 ---
 id: 1167
-order: 268
+order: 0268
 NSC: "238"
 filename: 238-1-henry-iv-7
 copy_URL: /238-1-henry-iv-7/
@@ -31,7 +31,7 @@ DEEP: 246
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 16
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Bute.482
 isLocationVerified: TRUE

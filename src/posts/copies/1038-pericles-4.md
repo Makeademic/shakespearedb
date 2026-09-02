@@ -32,7 +32,7 @@ DEEP: 5077.03
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 20
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   1977 2546
 isLocationVerified: TRUE

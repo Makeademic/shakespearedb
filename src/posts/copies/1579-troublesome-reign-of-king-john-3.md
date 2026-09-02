@@ -31,7 +31,7 @@ DEEP: 5023
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 17
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   G.176.12
 isLocationVerified: TRUE

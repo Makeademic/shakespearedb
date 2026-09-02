@@ -1,6 +1,6 @@
 ---
 id: 292
-order: 408
+order: 0408
 NSC: "372"
 filename: 372-3-henry-vi-2
 copy_URL: /372-3-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 213
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 18
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Pforz 885
 isLocationVerified: TRUE

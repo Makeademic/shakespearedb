@@ -1,6 +1,6 @@
 ---
 id: 869
-order: 453
+order: 0453
 NSC: "402"
 filename: 402-julius-caesar-2
 copy_URL: /402-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 2
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   841.c.3.(1.)
 isLocationVerified: TRUE

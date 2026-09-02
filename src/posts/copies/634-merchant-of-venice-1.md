@@ -1,6 +1,6 @@
 ---
 id: 50
-order: 712
+order: 0712
 NSC: "634"
 filename: 634-merchant-of-venice-1
 copy_URL: /634-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 11
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   *KC 1600 (Shakespeare, W. Most excellent Historie of the Merchant of Venice)
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 15
-location_name: [Museum of Fine Arts, Houston]
+location_name: ["Museum of Fine Arts, Houston"]
 shelfmark: |
   IUQ00006
 isLocationVerified: TRUE

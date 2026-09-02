@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 38
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2751 .A42 H5
 isLocationVerified: TRUE

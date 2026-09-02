@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 2
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   841.c.22.(1.)
 isLocationVerified: TRUE

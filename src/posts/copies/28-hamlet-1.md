@@ -1,6 +1,6 @@
 ---
 id: 538
-order: 30
+order: 0030
 NSC: "28"
 filename: 28-hamlet-1
 copy_URL: /28-hamlet-1/
@@ -31,7 +31,7 @@ DEEP: 347
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 2
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   C.34.k.1
 isLocationVerified: TRUE

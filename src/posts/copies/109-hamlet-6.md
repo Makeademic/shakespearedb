@@ -1,6 +1,6 @@
 ---
 id: 1126
-order: 119
+order: 0119
 NSC: "109"
 filename: 109-hamlet-6
 copy_URL: /109-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   S2950
 isLocationVerified: TRUE

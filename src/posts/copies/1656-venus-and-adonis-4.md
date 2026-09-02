@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 2
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   C.21.a.37
 isLocationVerified: TRUE

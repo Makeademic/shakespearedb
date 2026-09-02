@@ -32,7 +32,7 @@ DEEP: 5089
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Somerville College]
+location_name: ["Oxford University, Somerville College"]
 shelfmark: |
   STC 22274 Fo.2 no.15
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 262
-location_name: [University of Nevada, Reno]
+location_name: ["University of Nevada, Reno"]
 shelfmark: |
   PR 2751 .A2
 isLocationVerified: FALSE

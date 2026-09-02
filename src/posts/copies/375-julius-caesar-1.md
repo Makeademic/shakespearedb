@@ -1,6 +1,6 @@
 ---
 id: 1058
-order: 411
+order: 0411
 NSC: "375"
 filename: 375-julius-caesar-1
 copy_URL: /375-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 2
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   11763.e.21
 isLocationVerified: TRUE

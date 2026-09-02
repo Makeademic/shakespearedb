@@ -1,6 +1,6 @@
 ---
 id: 489
-order: 354
+order: 0354
 NSC: "322"
 filename: 322-henry-v-3
 copy_URL: /322-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 0
 ed_fragment: 1
 location_id: 9
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Hb.3.22
 isLocationVerified: TRUE

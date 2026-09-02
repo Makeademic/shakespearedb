@@ -1,6 +1,6 @@
 ---
 id: 1291
-order: 758
+order: 0758
 NSC: "677"
 filename: 677-merchant-of-venice-3
 copy_URL: /677-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22298 Copy 2
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 101
-location_name: [Williams College, Chapin Library]
+location_name: ["Williams College, Chapin Library"]
 shelfmark: |
   RES P-YK-97 (8)
 isLocationVerified: TRUE

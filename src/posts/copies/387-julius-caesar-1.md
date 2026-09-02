@@ -1,6 +1,6 @@
 ---
 id: 1611
-order: 427
+order: 0427
 NSC: "387"
 filename: 387-julius-caesar-1
 copy_URL: /387-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 42
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   RHT 17th-511
 isLocationVerified: TRUE

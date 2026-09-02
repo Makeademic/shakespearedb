@@ -1,6 +1,6 @@
 ---
 id: 1305
-order: 802
+order: 0802
 NSC: "721"
 filename: 721-merry-wives-of-windsor-2
 copy_URL: /721-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   STC 22300 Copy 1
 isLocationVerified: TRUE

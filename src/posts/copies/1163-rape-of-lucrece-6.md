@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 11
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   *KC 1616 (Shakespeare, W. Rape of Lvcrece)
 isLocationVerified: TRUE

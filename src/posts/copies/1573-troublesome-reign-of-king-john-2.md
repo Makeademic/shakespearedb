@@ -31,7 +31,7 @@ DEEP: 5022
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Mal. 152 (5)
 isLocationVerified: TRUE

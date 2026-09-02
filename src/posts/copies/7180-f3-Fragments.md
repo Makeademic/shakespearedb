@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 330
-location_name: [Wellesley College]
+location_name: ["Wellesley College"]
 shelfmark: |
   Grabhorn Press Collection Quarto - 1130 HBLL
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1642
-order: 176
+order: 0176
 NSC: "152"
 filename: 152-hamlet-8
 copy_URL: /152-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   PROMPT Ham. 54
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 12
-location_name: [Oxford University, Bodleian Library, Verulam Deposit]
+location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: |
   Dyce 26 Box 43/4
 isLocationVerified: TRUE

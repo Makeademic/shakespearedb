@@ -1,6 +1,6 @@
 ---
 id: 1118
-order: 82
+order: 0082
 NSC: "79"
 filename: 79-hamlet-5
 copy_URL: /79-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 3
-location_name: [Oxford University, Balliol College]
+location_name: ["Oxford University, Balliol College"]
 shelfmark: |
   Capell R.21[1]
 isLocationVerified: TRUE

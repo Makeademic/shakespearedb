@@ -1,6 +1,6 @@
 ---
 id: 1294
-order: 770
+order: 0770
 NSC: "689"
 filename: 689-merchant-of-venice-3
 copy_URL: /689-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 23
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   Plays.4.96
 isLocationVerified: TRUE

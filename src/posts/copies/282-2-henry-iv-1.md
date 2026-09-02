@@ -1,6 +1,6 @@
 ---
 id: 1181
-order: 314
+order: 0314
 NSC: "282"
 filename: 282-2-henry-iv-1
 copy_URL: /282-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 293
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 3
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Capell S.35[3]
 isLocationVerified: TRUE

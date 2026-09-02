@@ -1,6 +1,6 @@
 ---
 id: 954
-order: 186
+order: 0186
 NSC: "160"
 filename: 160-hamlet-8
 copy_URL: /160-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 62
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Fag K.25.24 no.3
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 7
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   STC 26101 Copy 3
 isLocationVerified: TRUE

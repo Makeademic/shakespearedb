@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 290
-location_name: [Noble and Greenough School (MA)]
+location_name: ["Noble and Greenough School (MA)"]
 shelfmark: |
   Z8813 .W55 1935
 isLocationVerified: TRUE

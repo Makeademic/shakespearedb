@@ -1,6 +1,6 @@
 ---
 id: 519
-order: 316
+order: 0316
 NSC: "284"
 filename: 284-2-henry-iv-1
 copy_URL: /284-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 293
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 49
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Sp Coll Hunterian Co.3.27m
 isLocationVerified: TRUE

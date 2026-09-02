@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 38
-location_name: [Oxford University, Wadham College]
+location_name: ["Oxford University, Wadham College"]
 shelfmark: |
   Hickmott 58
 isLocationVerified: TRUE

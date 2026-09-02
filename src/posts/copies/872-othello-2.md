@@ -1,6 +1,6 @@
 ---
 id: 207
-order: 958
+order: 0958
 NSC: "872"
 filename: 872-othello-2
 copy_URL: /872-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 4
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Eliz 187
 isLocationVerified: TRUE

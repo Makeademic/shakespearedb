@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 42
-location_name: [Buffalo and Erie County Public Library]
+location_name: ["Buffalo and Erie County Public Library"]
 shelfmark: |
   Oversize 2006-0688Q
 isLocationVerified: FALSE

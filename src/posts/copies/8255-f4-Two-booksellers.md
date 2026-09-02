@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 17
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   G.174.6
 isLocationVerified: TRUE

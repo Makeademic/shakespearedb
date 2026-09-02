@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 329
-location_name: [University of Utah]
+location_name: ["University of Utah"]
 shelfmark: |
   RB-X Oversize 822.33 G
 isLocationVerified: FALSE

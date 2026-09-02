@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 345
-location_name: [California State Library, Sutro]
+location_name: ["California State Library, Sutro"]
 shelfmark: |
   Berg Coll. +Shakespeare 1623
 isLocationVerified: TRUE

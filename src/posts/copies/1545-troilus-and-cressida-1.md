@@ -32,7 +32,7 @@ DEEP: 538
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 96
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1119
-order: 87
+order: 0087
 NSC: "84"
 filename: 84-hamlet-5
 copy_URL: /84-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   STC 22279 Copy 2
 isLocationVerified: TRUE

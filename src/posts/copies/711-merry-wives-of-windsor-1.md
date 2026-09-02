@@ -1,6 +1,6 @@
 ---
 id: 85
-order: 792
+order: 0792
 NSC: "711"
 filename: 711-merry-wives-of-windsor-1
 copy_URL: /711-merry-wives-of-windsor-1/
@@ -31,7 +31,7 @@ DEEP: 328
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 5
-location_name: [University of California, Berkeley, Bancroft Library]
+location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: |
   69331
 isLocationVerified: TRUE

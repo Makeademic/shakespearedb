@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 60
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   PR2869 .A1 1613g
 isLocationVerified: TRUE

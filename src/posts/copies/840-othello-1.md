@@ -1,6 +1,6 @@
 ---
 id: 181
-order: 923
+order: 0923
 NSC: "840"
 filename: 840-othello-1
 copy_URL: /840-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 4
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Eliz 186
 isLocationVerified: TRUE

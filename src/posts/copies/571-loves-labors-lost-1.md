@@ -1,6 +1,6 @@
 ---
 id: 1260
-order: 646
+order: 0646
 NSC: "571"
 filename: 571-loves-labors-lost-1
 copy_URL: /571-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 7
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   STC 22294 Copy 1
 isLocationVerified: TRUE

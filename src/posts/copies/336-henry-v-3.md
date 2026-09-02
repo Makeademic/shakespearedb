@@ -1,6 +1,6 @@
 ---
 id: 1203
-order: 372
+order: 0372
 NSC: "336"
 filename: 336-henry-v-3
 copy_URL: /336-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 16
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Bute.485
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 87
-location_name: [University of South Carolina]
+location_name: ["University of South Carolina"]
 shelfmark: |
   H.C. YBES Sh1 Oversize 0
 isLocationVerified: TRUE

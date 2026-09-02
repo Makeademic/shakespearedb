@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 11
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   *KC 1635 (Shakespeare, W. Late, And much admired Play, calld Pericles, Prince of Tyre)
 isLocationVerified: TRUE

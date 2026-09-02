@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 8
-location_name: [Chetham's Library, Manchester]
+location_name: ["Chetham's Library, Manchester"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 284
-order: 856
+order: 0856
 NSC: "775"
 filename: 775-midsummer-nights-dream-2
 copy_URL: /775-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 2
-location_name: [University of Michigan]
+location_name: ["University of Michigan"]
 shelfmark: |
   C.34.k.30
 isLocationVerified: TRUE

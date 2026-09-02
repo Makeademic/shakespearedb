@@ -1,6 +1,6 @@
 ---
 id: 1089
-order: 27
+order: 0027
 NSC: "25"
 filename: 25-cupids-cabinet-unlocked-1
 copy_URL: /25-cupids-cabinet-unlocked-1/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   C7597a
 isLocationVerified: TRUE

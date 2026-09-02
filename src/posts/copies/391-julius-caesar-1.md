@@ -1,6 +1,6 @@
 ---
 id: 1059
-order: 440
+order: 0440
 NSC: "391"
 filename: 391-julius-caesar-1
 copy_URL: /391-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 27
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Rare Vault PR2750 .A08 1684
 isLocationVerified: TRUE

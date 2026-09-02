@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 285
-location_name: [National Library of Israel]
+location_name: ["National Library of Israel"]
 shelfmark: |
   822.33 Ih 1685
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 781
-order: 633
+order: 0633
 NSC: "558"
 filename: 558-london-prodigal-1
 copy_URL: /558-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 24
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   STC 22333
 isLocationVerified: TRUE

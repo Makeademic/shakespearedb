@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 3
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   Capell S.27[1]
 isLocationVerified: TRUE

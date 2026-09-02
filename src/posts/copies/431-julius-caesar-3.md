@@ -1,6 +1,6 @@
 ---
 id: 1211
-order: 493
+order: 0493
 NSC: "431"
 filename: 431-julius-caesar-3
 copy_URL: /431-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 2
-location_name: [University of Akron]
+location_name: ["University of Akron"]
 shelfmark: |
   642.e.18.(1.)
 isLocationVerified: TRUE

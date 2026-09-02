@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 355
-location_name: [Canterbury Cathedral]
+location_name: ["Canterbury Cathedral"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

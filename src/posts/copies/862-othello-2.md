@@ -1,6 +1,6 @@
 ---
 id: 1693
-order: 946
+order: 0946
 NSC: "862"
 filename: 862-othello-2
 copy_URL: /862-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 39
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Case 4A 953
 isLocationVerified: TRUE

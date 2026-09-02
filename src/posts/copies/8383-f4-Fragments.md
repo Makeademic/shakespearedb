@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 331
-location_name: [Oxford University, Magdalene College]
+location_name: ["Oxford University, Magdalene College"]
 shelfmark: |
   PR2751.A16 O7 1935
 isLocationVerified: TRUE

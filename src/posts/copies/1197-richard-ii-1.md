@@ -31,7 +31,7 @@ DEEP: 217
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 2
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Huth 46
 isLocationVerified: TRUE

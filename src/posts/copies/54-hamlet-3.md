@@ -1,6 +1,6 @@
 ---
 id: 549
-order: 56
+order: 0056
 NSC: "54"
 filename: 54-hamlet-3
 copy_URL: /54-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 4
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Eliz 169
 isLocationVerified: TRUE

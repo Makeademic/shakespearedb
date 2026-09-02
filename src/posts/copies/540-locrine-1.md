@@ -1,6 +1,6 @@
 ---
 id: 1250
-order: 614
+order: 0614
 NSC: "540"
 filename: 540-locrine-1
 copy_URL: /540-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 2
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   80.d.1
 isLocationVerified: TRUE

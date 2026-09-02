@@ -1,6 +1,6 @@
 ---
 id: 1090
-order: 28
+order: 0028
 NSC: "26"
 filename: 26-cupids-cabinet-unlocked-1
 copy_URL: /26-cupids-cabinet-unlocked-1/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 29
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Douce C.80[1]
 isLocationVerified: TRUE

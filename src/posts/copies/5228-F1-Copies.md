@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 4
-location_name: [Cambridge University, Magdalene College]
+location_name: ["Cambridge University, Magdalene College"]
 shelfmark: |
   Eliz 28
 isLocationVerified: TRUE

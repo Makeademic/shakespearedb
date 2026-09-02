@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 122
-location_name: [Private collection (Florida)]
+location_name: ["Private collection (Florida)"]
 shelfmark: |
   MR 3603
 isLocationVerified: TRUE

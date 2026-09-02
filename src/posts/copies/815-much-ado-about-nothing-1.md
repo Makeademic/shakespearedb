@@ -1,6 +1,6 @@
 ---
 id: 1497
-order: 897
+order: 0897
 NSC: "815"
 filename: 815-much-ado-about-nothing-1
 copy_URL: /815-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 96
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

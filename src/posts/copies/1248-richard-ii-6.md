@@ -32,7 +32,7 @@ DEEP: 223
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 39
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   VAULT Case 3A 890
 isLocationVerified: TRUE

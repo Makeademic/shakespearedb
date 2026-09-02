@@ -1,6 +1,6 @@
 ---
 id: 1613
-order: 471
+order: 0471
 NSC: "415"
 filename: 415-julius-caesar-2
 copy_URL: /415-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 42
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   3925.35.13
 isLocationVerified: TRUE

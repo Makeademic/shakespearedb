@@ -1,6 +1,6 @@
 ---
 id: 614
-order: 685
+order: 0685
 NSC: "608"
 filename: 608-loves-martyr-1
 copy_URL: /608-loves-martyr-1/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 5
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   56458
 isLocationVerified: TRUE

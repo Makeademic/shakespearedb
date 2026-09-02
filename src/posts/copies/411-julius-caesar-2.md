@@ -1,6 +1,6 @@
 ---
 id: 871
-order: 464
+order: 0464
 NSC: "411"
 filename: 411-julius-caesar-2
 copy_URL: /411-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 24
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   13408.108.35*
 isLocationVerified: TRUE

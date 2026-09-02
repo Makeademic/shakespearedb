@@ -1,6 +1,6 @@
 ---
 id: 1573
-order: 308
+order: 0308
 NSC: "276"
 filename: 276-1-henry-iv-9
 copy_URL: /276-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 54
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   PR2810 .A1 1639 *
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 101
-location_name: [Mills College, F. W. Olin Library]
+location_name: ["Mills College, F. W. Olin Library"]
 shelfmark: |
   RES-YK-32
 isLocationVerified: FALSE

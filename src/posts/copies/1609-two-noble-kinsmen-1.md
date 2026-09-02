@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 37
-location_name: [Williams College, Chapin Library]
+location_name: ["Williams College, Chapin Library"]
 shelfmark: |
   Keynes.C.8.76
 isLocationVerified: TRUE

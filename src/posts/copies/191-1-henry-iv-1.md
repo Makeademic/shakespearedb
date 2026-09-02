@@ -1,6 +1,6 @@
 ---
 id: 1149
-order: 221
+order: 0221
 NSC: "191"
 filename: 191-1-henry-iv-1
 copy_URL: /191-1-henry-iv-1/
@@ -31,7 +31,7 @@ DEEP: 240
 extant_ed_copies: 0
 ed_fragment: 1
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   STC 22279a
 isLocationVerified: TRUE

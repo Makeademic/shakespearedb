@@ -1,6 +1,6 @@
 ---
 id: 197
-order: 677
+order: 0677
 NSC: "602"
 filename: 602-loves-labors-lost-2
 copy_URL: /602-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 26
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   SR 35.18
 isLocationVerified: TRUE

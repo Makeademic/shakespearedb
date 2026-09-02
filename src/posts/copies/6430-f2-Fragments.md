@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 306
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   PR2751 .A2 1632
 isLocationVerified: TRUE

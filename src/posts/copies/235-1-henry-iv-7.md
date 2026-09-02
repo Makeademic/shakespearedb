@@ -1,6 +1,6 @@
 ---
 id: 1165
-order: 265
+order: 0265
 NSC: "235"
 filename: 235-1-henry-iv-7
 copy_URL: /235-1-henry-iv-7/
@@ -31,7 +31,7 @@ DEEP: 246
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   STC 22285 Copy 2
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 29
-location_name: [Meisei University, Kodama Memorial Library]
+location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: |
   Arch. G f.2 (9)
 isLocationVerified: TRUE

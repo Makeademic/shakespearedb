@@ -1,6 +1,6 @@
 ---
 id: 1099
-order: 9
+order: 0009
 NSC: "8"
 filename: 8-birth-of-merlin-1
 copy_URL: /8-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   R2096 Copy 2
 isLocationVerified: TRUE

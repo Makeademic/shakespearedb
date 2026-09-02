@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 116
-location_name: [Emory University]
+location_name: ["Emory University"]
 shelfmark: |
   f x
 isLocationVerified: FALSE

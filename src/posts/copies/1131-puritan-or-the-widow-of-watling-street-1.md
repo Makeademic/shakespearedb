@@ -31,7 +31,7 @@ DEEP: 489
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 21531 copy 1
 isLocationVerified: TRUE

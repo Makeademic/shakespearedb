@@ -31,7 +31,7 @@ DEEP: 171
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library, Verulam Deposit]
+location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: |
   STC 22328
 isLocationVerified: TRUE

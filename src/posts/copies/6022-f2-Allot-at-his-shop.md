@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 122
-location_name: [Trinity College, Dublin]
+location_name: ["Trinity College, Dublin"]
 shelfmark: |
   F2-03 MR 0668
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 54
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   PR 2829.A1 1681 *
 isLocationVerified: TRUE

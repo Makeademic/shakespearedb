@@ -1,6 +1,6 @@
 ---
 id: 1625
-order: 72
+order: 0072
 NSC: "70"
 filename: 70-hamlet-4
 copy_URL: /70-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 8
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

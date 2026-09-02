@@ -1,6 +1,6 @@
 ---
 id: 1304
-order: 804
+order: 0804
 NSC: "723"
 filename: 723-merry-wives-of-windsor-2
 copy_URL: /723-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   STC 22300 Copy 3
 isLocationVerified: TRUE

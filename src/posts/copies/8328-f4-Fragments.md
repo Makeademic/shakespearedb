@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 17
-location_name: [Phoenix Public Library]
+location_name: ["Phoenix Public Library"]
 shelfmark: |
   G.60a.17 no.9
 isLocationVerified: TRUE

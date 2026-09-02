@@ -1,6 +1,6 @@
 ---
 id: 1608
-order: 157
+order: 0157
 NSC: "137"
 filename: 137-hamlet-7
 copy_URL: /137-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 42
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   3925.342.136
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1495
-order: 694
+order: 0694
 NSC: "617"
 filename: 617-macbeth-1
 copy_URL: /617-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 96
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

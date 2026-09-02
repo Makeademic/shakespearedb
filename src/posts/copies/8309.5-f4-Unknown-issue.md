@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 8
-location_name: [Cambridge University, Queens' College]
+location_name: ["Cambridge University, Queens' College"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

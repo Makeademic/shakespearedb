@@ -1,6 +1,6 @@
 ---
 id: 1207
-order: 402
+order: 0402
 NSC: "366"
 filename: 366-3-henry-vi-2
 copy_URL: /366-3-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 213
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 21006a Copy 2
 isLocationVerified: TRUE

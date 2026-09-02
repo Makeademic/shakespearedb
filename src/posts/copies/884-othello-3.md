@@ -1,6 +1,6 @@
 ---
 id: 1697
-order: 970
+order: 0970
 NSC: "884"
 filename: 884-othello-3
 copy_URL: /884-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 50
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Safe 2 No. 26
 isLocationVerified: TRUE

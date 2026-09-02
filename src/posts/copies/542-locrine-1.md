@@ -1,6 +1,6 @@
 ---
 id: 1247
-order: 616
+order: 0616
 NSC: "542"
 filename: 542-locrine-1
 copy_URL: /542-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 3
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Capell S.37[2]
 isLocationVerified: TRUE

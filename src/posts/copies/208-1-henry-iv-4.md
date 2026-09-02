@@ -1,6 +1,6 @@
 ---
 id: 613
-order: 238
+order: 0238
 NSC: "208"
 filename: 208-1-henry-iv-4
 copy_URL: /208-1-henry-iv-4/
@@ -31,7 +31,7 @@ DEEP: 243
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 29
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Arch. G d.43 (2)
 isLocationVerified: TRUE

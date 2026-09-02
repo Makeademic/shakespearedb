@@ -1,6 +1,6 @@
 ---
 id: 1267
-order: 662
+order: 0662
 NSC: "587"
 filename: 587-loves-labors-lost-2
 copy_URL: /587-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22295 Copy 1
 isLocationVerified: TRUE

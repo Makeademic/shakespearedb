@@ -31,7 +31,7 @@ DEEP: 5022
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 54
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   PR2411 .T851 1611*
 isLocationVerified: TRUE

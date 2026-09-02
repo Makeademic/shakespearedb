@@ -1,6 +1,6 @@
 ---
 id: 1201
-order: 359
+order: 0359
 NSC: "327"
 filename: 327-henry-v-3
 copy_URL: /327-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 22291 Copy 3
 isLocationVerified: TRUE

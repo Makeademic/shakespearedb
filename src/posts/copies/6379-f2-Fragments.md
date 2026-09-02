@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 7
-location_name: [Bryn Mawr College]
+location_name: ["Bryn Mawr College"]
 shelfmark: |
   PROMPT 2d Folio T.N.
 isLocationVerified: TRUE

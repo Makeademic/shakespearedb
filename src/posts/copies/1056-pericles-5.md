@@ -32,7 +32,7 @@ DEEP: 550
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 32
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   17521
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 21
-location_name: [Williams College, Chapin Library]
+location_name: ["Williams College, Chapin Library"]
 shelfmark: |
   S377.1634
 isLocationVerified: TRUE

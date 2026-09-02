@@ -1,6 +1,6 @@
 ---
 id: 467
-order: 256
+order: 0256
 NSC: "226"
 filename: 226-1-henry-iv-6
 copy_URL: /226-1-henry-iv-6/
@@ -31,7 +31,7 @@ DEEP: 245
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G d.39 (2)
 isLocationVerified: TRUE

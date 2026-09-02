@@ -1,6 +1,6 @@
 ---
 id: 1324
-order: 865
+order: 0865
 NSC: "784"
 filename: 784-midsummer-nights-dream-2
 copy_URL: /784-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22303 Copy 5 Bd.w. STC 26101 Copy 3
 isLocationVerified: TRUE

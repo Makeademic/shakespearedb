@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 7
-location_name: [State Library of South Australia]
+location_name: ["State Library of South Australia"]
 shelfmark: |
   STC 26101 Copy 7
 isLocationVerified: TRUE

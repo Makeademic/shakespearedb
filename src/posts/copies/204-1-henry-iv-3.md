@@ -1,6 +1,6 @@
 ---
 id: 422
-order: 234
+order: 0234
 NSC: "204"
 filename: 204-1-henry-iv-3
 copy_URL: /204-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 4
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Eliz 172
 isLocationVerified: TRUE

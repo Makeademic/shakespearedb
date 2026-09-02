@@ -1,6 +1,6 @@
 ---
 id: 1539
-order: 353
+order: 0353
 NSC: "321"
 filename: 321-henry-v-3
 copy_URL: /321-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 38
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Hickmott 34
 isLocationVerified: TRUE

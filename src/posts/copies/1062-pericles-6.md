@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 9
-location_name: [Cardiff University]
+location_name: ["Cardiff University"]
 shelfmark: |
   JA 3703
 isLocationVerified: TRUE

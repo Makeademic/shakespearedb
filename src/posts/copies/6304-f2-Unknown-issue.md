@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 174
-location_name: [Oxford University, Queen's College]
+location_name: ["Oxford University, Queen's College"]
 shelfmark: |
   qREng SHAK Mr 1632 copy 2
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 461
-order: 263
+order: 0263
 NSC: "233"
 filename: 233-1-henry-iv-7
 copy_URL: /233-1-henry-iv-7/
@@ -31,7 +31,7 @@ DEEP: 246
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 9
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   JA 3711
 isLocationVerified: TRUE

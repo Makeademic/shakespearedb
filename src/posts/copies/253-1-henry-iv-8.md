@@ -1,6 +1,6 @@
 ---
 id: 1094
-order: 283
+order: 0283
 NSC: "253"
 filename: 253-1-henry-iv-8
 copy_URL: /253-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 23
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Plays.4.94 (2)
 isLocationVerified: TRUE

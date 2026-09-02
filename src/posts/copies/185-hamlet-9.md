@@ -1,6 +1,6 @@
 ---
 id: 898
-order: 212
+order: 0212
 NSC: "185"
 filename: 185-hamlet-9
 copy_URL: /185-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 5
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   105473
 isLocationVerified: TRUE

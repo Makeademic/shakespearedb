@@ -1,6 +1,6 @@
 ---
 id: 568
-order: 97
+order: 0097
 NSC: "92"
 filename: 92-hamlet-5
 copy_URL: /92-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 29
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   4o Z 3(6) Art.Seld
 isLocationVerified: TRUE

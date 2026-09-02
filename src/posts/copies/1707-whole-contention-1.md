@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 29
-location_name: [John Wolfson collection]
+location_name: ["John Wolfson collection"]
 shelfmark: |
   Arch G d.39(5)
 isLocationVerified: TRUE

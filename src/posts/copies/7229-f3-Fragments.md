@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 116
-location_name: [Book Club of California]
+location_name: ["Book Club of California"]
 shelfmark: |
   f Grabhorn 234
 isLocationVerified: FALSE

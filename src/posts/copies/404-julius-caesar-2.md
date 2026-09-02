@@ -1,6 +1,6 @@
 ---
 id: 875
-order: 456
+order: 0456
 NSC: "404"
 filename: 404-julius-caesar-2
 copy_URL: /404-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 37
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Keynes.C.7.78
 isLocationVerified: TRUE

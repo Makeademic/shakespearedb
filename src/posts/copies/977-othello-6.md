@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 71
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   PR 2829 .A2 D78 1695
 isLocationVerified: TRUE

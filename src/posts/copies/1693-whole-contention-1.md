@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 7
-location_name: [Union Theological Seminary, Burke Library]
+location_name: ["Union Theological Seminary, Burke Library"]
 shelfmark: |
   STC 26101 Copy 4
 isLocationVerified: TRUE

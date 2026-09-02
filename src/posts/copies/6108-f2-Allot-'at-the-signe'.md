@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 79
-location_name: [Smith College]
+location_name: ["Smith College"]
 shelfmark: |
   L.4.14 SR O.15
 isLocationVerified: TRUE

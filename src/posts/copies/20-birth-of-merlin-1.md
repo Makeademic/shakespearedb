@@ -1,6 +1,6 @@
 ---
 id: 878
-order: 21
+order: 0021
 NSC: "20"
 filename: 20-birth-of-merlin-1
 copy_URL: /20-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 44
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR1241 .L6 vol. 210, no. 4
 isLocationVerified: TRUE

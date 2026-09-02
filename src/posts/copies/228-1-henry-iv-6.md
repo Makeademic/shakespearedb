@@ -1,6 +1,6 @@
 ---
 id: 1588
-order: 258
+order: 0258
 NSC: "228"
 filename: 228-1-henry-iv-6
 copy_URL: /228-1-henry-iv-6/
@@ -31,7 +31,7 @@ DEEP: 245
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 42
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   RHT 17th-509
 isLocationVerified: TRUE

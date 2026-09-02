@@ -1,6 +1,6 @@
 ---
 id: 1564
-order: 412
+order: 0412
 NSC: "376"
 filename: 376-julius-caesar-1
 copy_URL: /376-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 38
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   Hickmott 49
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1342
-order: 936
+order: 0936
 NSC: "853"
 filename: 853-othello-2
 copy_URL: /853-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   STC 22306 Copy 3
 isLocationVerified: TRUE

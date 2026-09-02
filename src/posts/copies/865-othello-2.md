@@ -1,6 +1,6 @@
 ---
 id: 1692
-order: 950
+order: 0950
 NSC: "865"
 filename: 865-othello-2
 copy_URL: /865-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 25
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   PML 5114
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1184
-order: 319
+order: 0319
 NSC: "287"
 filename: 287-2-henry-iv-1
 copy_URL: /287-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 293
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 16
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Bute.480
 isLocationVerified: TRUE

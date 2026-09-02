@@ -1,6 +1,6 @@
 ---
 id: 1065
-order: 787
+order: 0787
 NSC: "706"
 filename: 706-merchant-of-venice-3
 copy_URL: /706-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 26
-location_name: [Cambridge University, Magdalene College]
+location_name: ["Cambridge University, Magdalene College"]
 shelfmark: |
   SR 50.21
 isLocationVerified: TRUE

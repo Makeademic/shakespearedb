@@ -1,6 +1,6 @@
 ---
 id: 1256
-order: 628
+order: 0628
 NSC: "554"
 filename: 554-london-prodigal-1
 copy_URL: /554-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22333 Copy 1
 isLocationVerified: TRUE

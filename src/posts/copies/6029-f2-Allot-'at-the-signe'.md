@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 11
-location_name: [New York Public Library, Berg Collection]
+location_name: ["New York Public Library, Berg Collection"]
 shelfmark: |
   *KC+ 1632 (Copy 2)
 isLocationVerified: TRUE

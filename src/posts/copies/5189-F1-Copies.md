@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 34
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   [D.-L.L.] (XVII) Bc [Shakespeare - 1623] fol. (S)
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 11
-location_name: [Windsor Castle, Royal Collection Trust]
+location_name: ["Windsor Castle, Royal Collection Trust"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Shakespeare's plays; Pavier's collected edition, 1619. Yorkshire tragedy)
 isLocationVerified: TRUE

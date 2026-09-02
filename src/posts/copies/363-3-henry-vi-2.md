@@ -1,6 +1,6 @@
 ---
 id: 1206
-order: 399
+order: 0399
 NSC: "363"
 filename: 363-3-henry-vi-2
 copy_URL: /363-3-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 213
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 17
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   G.176.8
 isLocationVerified: TRUE

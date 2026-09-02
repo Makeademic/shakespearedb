@@ -1,6 +1,6 @@
 ---
 id: 1034
-order: 977
+order: 0977
 NSC: "891"
 filename: 891-othello-3
 copy_URL: /891-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 29
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Arch. G e.47 (8)
 isLocationVerified: TRUE

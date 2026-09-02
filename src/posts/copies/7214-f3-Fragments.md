@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 112
-location_name: [University of Utah]
+location_name: ["University of Utah"]
 shelfmark: |
   Z239 .G72 W73 F CB
 isLocationVerified: FALSE

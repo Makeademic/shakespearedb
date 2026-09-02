@@ -1,6 +1,6 @@
 ---
 id: 842
-order: 284
+order: 0284
 NSC: "254"
 filename: 254-1-henry-iv-8
 copy_URL: /254-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 68
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   3700
 isLocationVerified: TRUE

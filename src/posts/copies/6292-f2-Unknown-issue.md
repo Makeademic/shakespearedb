@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 285
-location_name: [Syracuse University]
+location_name: ["Syracuse University"]
 shelfmark: |
   822.33 Ih 1632
 isLocationVerified: FALSE

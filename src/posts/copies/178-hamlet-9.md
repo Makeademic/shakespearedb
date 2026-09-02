@@ -1,6 +1,6 @@
 ---
 id: 900
-order: 205
+order: 0205
 NSC: "178"
 filename: 178-hamlet-9
 copy_URL: /178-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 2
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   644.i.46
 isLocationVerified: TRUE

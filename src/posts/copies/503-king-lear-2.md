@@ -1,6 +1,6 @@
 ---
 id: 1240
-order: 574
+order: 0574
 NSC: "503"
 filename: 503-king-lear-2
 copy_URL: /503-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 16
-location_name: [Haverford College]
+location_name: ["Haverford College"]
 shelfmark: |
   Bute.488
 isLocationVerified: TRUE

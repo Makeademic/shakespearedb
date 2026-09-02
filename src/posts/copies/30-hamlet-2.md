@@ -1,6 +1,6 @@
 ---
 id: 1103
-order: 32
+order: 0032
 NSC: "30"
 filename: 30-hamlet-2
 copy_URL: /30-hamlet-2/
@@ -32,7 +32,7 @@ DEEP: 348
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   STC 22276
 isLocationVerified: TRUE

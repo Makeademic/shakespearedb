@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 186
-location_name: [New York Public Library, Berg Collection]
+location_name: ["New York Public Library, Berg Collection"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

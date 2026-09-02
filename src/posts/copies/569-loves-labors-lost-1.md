@@ -1,6 +1,6 @@
 ---
 id: 1532
-order: 644
+order: 0644
 NSC: "569"
 filename: 569-loves-labors-lost-1
 copy_URL: /569-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 38
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Hickmott 30
 isLocationVerified: TRUE

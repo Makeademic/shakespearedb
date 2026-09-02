@@ -1,6 +1,6 @@
 ---
 id: 1175
-order: 296
+order: 0296
 NSC: "266"
 filename: 266-1-henry-iv-9
 copy_URL: /266-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   STC 22287 Copy 6
 isLocationVerified: TRUE

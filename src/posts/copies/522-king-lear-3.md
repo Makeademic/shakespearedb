@@ -1,6 +1,6 @@
 ---
 id: 949
-order: 595
+order: 0595
 NSC: "522"
 filename: 522-king-lear-3
 copy_URL: /522-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 2
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   C.34.k.64
 isLocationVerified: TRUE

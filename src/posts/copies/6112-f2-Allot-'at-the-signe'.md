@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 172
-location_name: [West Virginia University]
+location_name: ["West Virginia University"]
 shelfmark: |
   19958
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 491
-order: 387
+order: 0387
 NSC: "351"
 filename: 351-henry-v-3
 copy_URL: /351-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 18
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   Pforz 883
 isLocationVerified: TRUE

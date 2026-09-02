@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 137
-location_name: [National Library of New Zealand]
+location_name: ["National Library of New Zealand"]
 shelfmark: |
   SR17 Bk8816
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1483
-order: 385
+order: 0385
 NSC: "349"
 filename: 349-henry-v-3
 copy_URL: /349-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 31
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   PR2812 .A1 1619 copy 1
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 583
-order: 589
+order: 0589
 NSC: "517"
 filename: 517-king-lear-2
 copy_URL: /517-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 18
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Pforz 887
 isLocationVerified: TRUE

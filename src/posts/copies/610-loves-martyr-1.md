@@ -1,6 +1,6 @@
 ---
 id: 11
-order: 687
+order: 0687
 NSC: "610"
 filename: 610-loves-martyr-1
 copy_URL: /610-loves-martyr-1/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 2
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   C.39.c.44
 isLocationVerified: TRUE

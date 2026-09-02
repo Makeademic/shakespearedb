@@ -1,6 +1,6 @@
 ---
 id: 1661
-order: 817
+order: 0817
 NSC: "736"
 filename: 736-merry-wives-of-windsor-2
 copy_URL: /736-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 39
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   VAULT Case 4A 956
 isLocationVerified: TRUE

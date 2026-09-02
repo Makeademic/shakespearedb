@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Winchester College]
+location_name: ["Winchester College"]
 shelfmark: |
   STC 22341 Copy 5
 isLocationVerified: TRUE

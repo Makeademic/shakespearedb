@@ -1,6 +1,6 @@
 ---
 id: 1279
-order: 723
+order: 0723
 NSC: "645"
 filename: 645-merchant-of-venice-2
 copy_URL: /645-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 3
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Capell Q.11[5]
 isLocationVerified: TRUE

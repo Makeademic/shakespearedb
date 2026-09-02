@@ -1,6 +1,6 @@
 ---
 id: 282
-order: 886
+order: 0886
 NSC: "804"
 filename: 804-midsummer-nights-dream-2
 copy_URL: /804-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 4
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   Eliz 184
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1061
-order: 419
+order: 0419
 NSC: "381"
 filename: 381-julius-caesar-1
 copy_URL: /381-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 24
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   13408.108*
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 539
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 4
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Bd. w. Eliz 197
 isLocationVerified: TRUE

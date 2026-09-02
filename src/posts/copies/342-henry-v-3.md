@@ -1,6 +1,6 @@
 ---
 id: 1465
-order: 378
+order: 0378
 NSC: "342"
 filename: 342-henry-v-3
 copy_URL: /342-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 25
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   PML 5116
 isLocationVerified: TRUE

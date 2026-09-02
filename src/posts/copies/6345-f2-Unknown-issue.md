@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 108
-location_name: [University of Kansas]
+location_name: ["University of Kansas"]
 shelfmark: |
   FOLIO PR2751 .A2 1632
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 206
-location_name: [Private collection (Florida)]
+location_name: ["Private collection (Florida)"]
 shelfmark: |
   2DGP.dr.IV,4565rara
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 145
-order: 772
+order: 0772
 NSC: "691"
 filename: 691-merchant-of-venice-3
 copy_URL: /691-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 15
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   822.33 P3 1637
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1246
-order: 604
+order: 0604
 NSC: "531"
 filename: 531-king-lear-3
 copy_URL: /531-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 16
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Bute.489
 isLocationVerified: TRUE

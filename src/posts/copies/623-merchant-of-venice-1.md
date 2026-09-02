@@ -1,6 +1,6 @@
 ---
 id: 55
-order: 701
+order: 0701
 NSC: "623"
 filename: 623-merchant-of-venice-1
 copy_URL: /623-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 2
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   C.12.g.11
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [University of Delaware]
+location_name: ["University of Delaware"]
 shelfmark: |
   ART Box D783 no.1
 isLocationVerified: TRUE

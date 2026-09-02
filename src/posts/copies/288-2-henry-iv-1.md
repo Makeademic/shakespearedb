@@ -1,6 +1,6 @@
 ---
 id: 517
-order: 320
+order: 0320
 NSC: "288"
 filename: 288-2-henry-iv-1
 copy_URL: /288-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 293
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 39
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   VAULT Case 3A 892
 isLocationVerified: TRUE

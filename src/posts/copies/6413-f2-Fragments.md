@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 258
-location_name: [Colby College]
+location_name: ["Colby College"]
 shelfmark: |
   822.33 U3Sh15t 1632
 isLocationVerified: TRUE

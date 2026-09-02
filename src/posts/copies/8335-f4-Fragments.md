@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 319
-location_name: [Occidental College]
+location_name: ["Occidental College"]
 shelfmark: |
   ROBSN ROOM DRAWER 2 Shakspear  leaf
 isLocationVerified: FALSE

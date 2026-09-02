@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 7
-location_name: [Mitchell Library, Glasgow]
+location_name: ["Mitchell Library, Glasgow"]
 shelfmark: |
   STC 22339 Copy 4
 isLocationVerified: TRUE

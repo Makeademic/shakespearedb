@@ -1,6 +1,6 @@
 ---
 id: 1482
-order: 588
+order: 0588
 NSC: "516"
 filename: 516-king-lear-2
 copy_URL: /516-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 31
-location_name: [University of Virginia]
+location_name: ["University of Virginia"]
 shelfmark: |
   PR2750 .A19 1619
 isLocationVerified: TRUE

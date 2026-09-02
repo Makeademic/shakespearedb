@@ -1,6 +1,6 @@
 ---
 id: 1338
-order: 929
+order: 0929
 NSC: "846"
 filename: 846-othello-2
 copy_URL: /846-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 3
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Capell S.34[5]
 isLocationVerified: TRUE

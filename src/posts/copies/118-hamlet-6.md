@@ -1,6 +1,6 @@
 ---
 id: 1129
-order: 131
+order: 0131
 NSC: "118"
 filename: 118-hamlet-6
 copy_URL: /118-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 88
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   Z.38/3
 isLocationVerified: TRUE

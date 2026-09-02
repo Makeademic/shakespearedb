@@ -31,7 +31,7 @@ DEEP: 232
 extant_ed_copies: 22
 ed_fragment: 
 location_id: 7
-location_name: [Martin Bodmer Foundation, Geneva]
+location_name: ["Martin Bodmer Foundation, Geneva"]
 shelfmark: |
   STC 22321 Copy 2
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 268
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   Library Shelf # 24 ID # 1779 Position 8
 isLocationVerified: FALSE

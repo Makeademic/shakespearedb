@@ -1,6 +1,6 @@
 ---
 id: 886
-order: 22
+order: 0022
 NSC: "21"
 filename: 21-birth-of-merlin-1
 copy_URL: /21-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 54
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   PR2856 .A1 1662 *
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 195
-order: 660
+order: 0660
 NSC: "585"
 filename: 585-loves-labors-lost-2
 copy_URL: /585-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 9
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   JA 3728
 isLocationVerified: TRUE

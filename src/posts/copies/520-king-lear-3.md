@@ -1,6 +1,6 @@
 ---
 id: 950
-order: 593
+order: 0593
 NSC: "520"
 filename: 520-king-lear-3
 copy_URL: /520-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 21
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   S332.1655
 isLocationVerified: TRUE

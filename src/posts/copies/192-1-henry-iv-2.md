@@ -1,6 +1,6 @@
 ---
 id: 424
-order: 222
+order: 0222
 NSC: "192"
 filename: 192-1-henry-iv-2
 copy_URL: /192-1-henry-iv-2/
@@ -31,7 +31,7 @@ DEEP: 241
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 2
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   C.34.k.5*
 isLocationVerified: TRUE

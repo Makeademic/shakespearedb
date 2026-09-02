@@ -1,6 +1,6 @@
 ---
 id: 3994
-order: 376
+order: 0376
 NSC: "340"
 filename: 340-henry-v-3
 copy_URL: /340-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 109
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   PR2812 .A1 1608
 isLocationVerified: TRUE

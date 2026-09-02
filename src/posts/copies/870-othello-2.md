@@ -1,6 +1,6 @@
 ---
 id: 215
-order: 956
+order: 0956
 NSC: "870"
 filename: 870-othello-2
 copy_URL: /870-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 12
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Dyce 25.D.64
 isLocationVerified: TRUE

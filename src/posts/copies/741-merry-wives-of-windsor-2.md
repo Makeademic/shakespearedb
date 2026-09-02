@@ -1,6 +1,6 @@
 ---
 id: 1596
-order: 822
+order: 0822
 NSC: "741"
 filename: 741-merry-wives-of-windsor-2
 copy_URL: /741-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 42
-location_name: [Canterbury Cathedral]
+location_name: ["Canterbury Cathedral"]
 shelfmark: |
   RHT 17th-515
 isLocationVerified: TRUE

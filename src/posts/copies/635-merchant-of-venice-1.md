@@ -1,6 +1,6 @@
 ---
 id: 48
-order: 713
+order: 0713
 NSC: "635"
 filename: 635-merchant-of-venice-1
 copy_URL: /635-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 29
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   Arch. G d.45 (2)
 isLocationVerified: TRUE

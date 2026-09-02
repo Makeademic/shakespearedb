@@ -1,6 +1,6 @@
 ---
 id: 468
-order: 255
+order: 0255
 NSC: "225"
 filename: 225-1-henry-iv-6
 copy_URL: /225-1-henry-iv-6/
@@ -31,7 +31,7 @@ DEEP: 245
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 11
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   *KC 1613 (Shakespeare, W. History Of Henrie the fourth)
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1319
-order: 848
+order: 0848
 NSC: "767"
 filename: 767-midsummer-nights-dream-1
 copy_URL: /767-midsummer-nights-dream-1/
@@ -31,7 +31,7 @@ DEEP: 297
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 7
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   STC 22302
 isLocationVerified: TRUE

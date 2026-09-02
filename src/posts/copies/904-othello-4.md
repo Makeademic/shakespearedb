@@ -1,6 +1,6 @@
 ---
 id: 1356
-order: 991
+order: 0991
 NSC: "904"
 filename: 904-othello-4
 copy_URL: /904-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 7
-location_name: [University of Minnesota]
+location_name: ["University of Minnesota"]
 shelfmark: |
   S2940 Copy 1
 isLocationVerified: TRUE

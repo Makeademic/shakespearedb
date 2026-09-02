@@ -1,6 +1,6 @@
 ---
 id: 25
-order: 38
+order: 0038
 NSC: "36"
 filename: 36-hamlet-2
 copy_URL: /36-hamlet-2/
@@ -32,7 +32,7 @@ DEEP: 349
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 14
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   4 N 290 (4)
 isLocationVerified: TRUE

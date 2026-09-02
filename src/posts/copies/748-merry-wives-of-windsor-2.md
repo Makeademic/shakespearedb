@@ -1,6 +1,6 @@
 ---
 id: 69
-order: 829
+order: 0829
 NSC: "748"
 filename: 748-merry-wives-of-windsor-2
 copy_URL: /748-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 18
-location_name: [Sir John Soane's Museum]
+location_name: ["Sir John Soane's Museum"]
 shelfmark: |
   Pforz 889
 isLocationVerified: TRUE

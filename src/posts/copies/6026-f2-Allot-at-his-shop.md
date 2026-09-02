@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 164
-location_name: [West Chester University]
+location_name: ["West Chester University"]
 shelfmark: |
   PR2751 .A2 1632
 isLocationVerified: TRUE

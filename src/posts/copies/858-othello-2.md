@@ -1,6 +1,6 @@
 ---
 id: 209
-order: 941
+order: 0941
 NSC: "858"
 filename: 858-othello-2
 copy_URL: /858-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 5
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   69348
 isLocationVerified: TRUE

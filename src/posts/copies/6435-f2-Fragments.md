@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 281
-location_name: [US Library of Congress]
+location_name: ["US Library of Congress"]
 shelfmark: |
   XLarge • PR 2751 .A2
 isLocationVerified: FALSE

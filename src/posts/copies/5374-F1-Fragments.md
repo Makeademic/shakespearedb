@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 222
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   SPEC Y62.5.14
 isLocationVerified: TRUE

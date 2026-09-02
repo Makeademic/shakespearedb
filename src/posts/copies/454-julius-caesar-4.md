@@ -1,6 +1,6 @@
 ---
 id: 914
-order: 518
+order: 0518
 NSC: "454"
 filename: 454-julius-caesar-4
 copy_URL: /454-julius-caesar-4/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 5
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   105463
 isLocationVerified: TRUE

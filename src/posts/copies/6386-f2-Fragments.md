@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   STC 22274 Fo.2/fragment 04
 isLocationVerified: TRUE

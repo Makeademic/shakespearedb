@@ -1,6 +1,6 @@
 ---
 id: 1718
-order: 257
+order: 0257
 NSC: "227"
 filename: 227-1-henry-iv-6
 copy_URL: /227-1-henry-iv-6/
@@ -31,7 +31,7 @@ DEEP: 245
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 13
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Deposit
 isLocationVerified: TRUE

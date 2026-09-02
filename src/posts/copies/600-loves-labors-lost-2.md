@@ -1,6 +1,6 @@
 ---
 id: 1681
-order: 675
+order: 0675
 NSC: "600"
 filename: 600-loves-labors-lost-2
 copy_URL: /600-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 29
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Arch. G e.47 (11)
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 122
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   F2-15 MR 1941
 isLocationVerified: TRUE

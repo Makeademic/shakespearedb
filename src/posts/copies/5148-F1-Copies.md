@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 164
-location_name: [University of Birmingham, Cadbury Research Library]
+location_name: ["University of Birmingham, Cadbury Research Library"]
 shelfmark: |
   PR 1101 .E37 1715:1
 isLocationVerified: TRUE

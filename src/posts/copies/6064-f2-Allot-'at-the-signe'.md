@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 149
-location_name: [University of North Carolina]
+location_name: ["University of North Carolina"]
 shelfmark: |
   822.33 ICo q
 isLocationVerified: TRUE

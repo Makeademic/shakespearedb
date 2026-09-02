@@ -1,6 +1,6 @@
 ---
 id: 56
-order: 702
+order: 0702
 NSC: "624"
 filename: 624-merchant-of-venice-1
 copy_URL: /624-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 2
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   C.12.g.32
 isLocationVerified: TRUE

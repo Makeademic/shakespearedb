@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 262
-location_name: [US Library of Congress]
+location_name: ["US Library of Congress"]
 shelfmark: |
   PR 3570 .W4 1632
 isLocationVerified: FALSE

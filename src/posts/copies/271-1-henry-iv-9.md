@@ -1,6 +1,6 @@
 ---
 id: 1180
-order: 301
+order: 0301
 NSC: "271"
 filename: 271-1-henry-iv-9
 copy_URL: /271-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 16
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Bute.483
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 37
-location_name: [San Francisco Public Library]
+location_name: ["San Francisco Public Library"]
 shelfmark: |
   Thackeray.13
 isLocationVerified: FALSE

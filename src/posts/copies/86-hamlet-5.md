@@ -1,6 +1,6 @@
 ---
 id: 1123
-order: 89
+order: 0089
 NSC: "86"
 filename: 86-hamlet-5
 copy_URL: /86-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   STC 22279 Copy 4
 isLocationVerified: TRUE

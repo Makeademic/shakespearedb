@@ -1,6 +1,6 @@
 ---
 id: 495
-order: 366
+order: 0366
 NSC: "334"
 filename: 334-henry-v-3
 copy_URL: /334-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 5
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   69323
 isLocationVerified: TRUE

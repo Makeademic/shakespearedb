@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 261
-location_name: [Windsor Castle, Royal Collection Trust]
+location_name: ["Windsor Castle, Royal Collection Trust"]
 shelfmark: |
   822.33 M7J1
 isLocationVerified: TRUE

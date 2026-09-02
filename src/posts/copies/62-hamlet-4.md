@@ -1,6 +1,6 @@
 ---
 id: 1113
-order: 64
+order: 0064
 NSC: "62"
 filename: 62-hamlet-4
 copy_URL: /62-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22278 Copy 2
 isLocationVerified: TRUE

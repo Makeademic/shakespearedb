@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [Williams College, Chapin Library]
+location_name: ["Williams College, Chapin Library"]
 shelfmark: |
   F2-08 MR 0906
 isLocationVerified: TRUE

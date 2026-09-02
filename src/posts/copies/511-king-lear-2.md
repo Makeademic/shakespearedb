@@ -1,6 +1,6 @@
 ---
 id: 1598
-order: 582
+order: 0582
 NSC: "511"
 filename: 511-king-lear-2
 copy_URL: /511-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 42
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   RHT 17th-512
 isLocationVerified: TRUE

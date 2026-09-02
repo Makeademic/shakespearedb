@@ -1,6 +1,6 @@
 ---
 id: 941
-order: 441
+order: 0441
 NSC: "392"
 filename: 392-julius-caesar-1
 copy_URL: /392-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 54
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   PR2808.A1 1684 *
 isLocationVerified: TRUE

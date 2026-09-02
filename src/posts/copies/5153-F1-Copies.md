@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 166
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   FB.0279 UNESCO 30
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 865
-order: 512
+order: 0512
 NSC: "448"
 filename: 448-julius-caesar-3
 copy_URL: /448-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 4
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Eliz 171
 isLocationVerified: TRUE

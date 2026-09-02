@@ -1,6 +1,6 @@
 ---
 id: 1136
-order: 155
+order: 0155
 NSC: "135"
 filename: 135-hamlet-7
 copy_URL: /135-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 16
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   [Al].2/1.1(9)
 isLocationVerified: TRUE

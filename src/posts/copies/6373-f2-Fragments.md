@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 38
-location_name: [University of Basel]
+location_name: ["University of Basel"]
 shelfmark: |
   PR2751 .A2532
 isLocationVerified: TRUE

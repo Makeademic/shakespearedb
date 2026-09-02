@@ -31,7 +31,7 @@ DEEP: 5021
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 3
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Capell W.5[2-3]
 isLocationVerified: TRUE

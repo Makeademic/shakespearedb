@@ -1,6 +1,6 @@
 ---
 id: 1150
-order: 223
+order: 0223
 NSC: "193"
 filename: 193-1-henry-iv-2
 copy_URL: /193-1-henry-iv-2/
@@ -31,7 +31,7 @@ DEEP: 241
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 3
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Capell R.20[4]
 isLocationVerified: TRUE

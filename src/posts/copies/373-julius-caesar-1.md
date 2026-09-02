@@ -1,6 +1,6 @@
 ---
 id: 1060
-order: 409
+order: 0409
 NSC: "373"
 filename: 373-julius-caesar-1
 copy_URL: /373-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 21
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   S329.1684
 isLocationVerified: TRUE

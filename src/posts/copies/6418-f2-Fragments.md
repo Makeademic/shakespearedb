@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 26
-location_name: [Phillips Exeter Academy]
+location_name: ["Phillips Exeter Academy"]
 shelfmark: |
   SRP-37 (1632) Accession #: 81083513
 isLocationVerified: FALSE

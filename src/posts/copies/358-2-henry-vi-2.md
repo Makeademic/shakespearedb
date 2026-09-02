@@ -1,6 +1,6 @@
 ---
 id: 343
-order: 394
+order: 0394
 NSC: "358"
 filename: 358-2-henry-vi-2
 copy_URL: /358-2-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 180
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 5
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   79884
 isLocationVerified: TRUE

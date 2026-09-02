@@ -1,6 +1,6 @@
 ---
 id: 1144
-order: 199
+order: 0199
 NSC: "173"
 filename: 173-hamlet-9
 copy_URL: /173-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 16
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Bute.478
 isLocationVerified: TRUE

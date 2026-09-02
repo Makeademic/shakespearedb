@@ -1,6 +1,6 @@
 ---
 id: 544
-order: 338
+order: 0338
 NSC: "306"
 filename: 306-henry-v-1
 copy_URL: /306-henry-v-1/
@@ -31,7 +31,7 @@ DEEP: 288
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   69321
 isLocationVerified: TRUE

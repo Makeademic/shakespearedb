@@ -1,6 +1,6 @@
 ---
 id: 1694
-order: 938
+order: 0938
 NSC: "855"
 filename: 855-othello-2
 copy_URL: /855-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 49
-location_name: [Cardiff University]
+location_name: ["Cardiff University"]
 shelfmark: |
   Sp Coll BD1-c.51
 isLocationVerified: TRUE

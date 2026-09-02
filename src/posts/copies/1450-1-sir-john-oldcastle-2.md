@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 12
-location_name: [Johns Hopkins University]
+location_name: ["Johns Hopkins University"]
 shelfmark: |
   Dyce 26 Box 43/2
 isLocationVerified: TRUE

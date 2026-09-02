@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 7
-location_name: [Carnegie Mellon University]
+location_name: ["Carnegie Mellon University"]
 shelfmark: |
   PROMPT 3d Folio 1 Hen.IV Smock Alley
 isLocationVerified: TRUE

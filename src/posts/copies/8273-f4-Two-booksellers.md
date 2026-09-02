@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 42
-location_name: [San Francisco de Paula International School, Seville]
+location_name: ["San Francisco de Paula International School, Seville"]
 shelfmark: |
   EXKA Oversize Special 1685q Shakespeare
 isLocationVerified: FALSE

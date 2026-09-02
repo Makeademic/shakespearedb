@@ -1,6 +1,6 @@
 ---
 id: 168
-order: 902
+order: 0902
 NSC: "820"
 filename: 820-much-ado-about-nothing-1
 copy_URL: /820-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 18
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   Pforz 891
 isLocationVerified: TRUE

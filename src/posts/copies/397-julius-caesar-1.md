@@ -1,6 +1,6 @@
 ---
 id: 1050
-order: 446
+order: 0446
 NSC: "397"
 filename: 397-julius-caesar-1
 copy_URL: /397-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 18
-location_name: [Guildhall Library]
+location_name: ["Guildhall Library"]
 shelfmark: |
   Wg Sh15 623jb
 isLocationVerified: TRUE

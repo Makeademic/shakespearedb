@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 122
-location_name: [University at Buffalo]
+location_name: ["University at Buffalo"]
 shelfmark: |
   F2-04 MR 0887
 isLocationVerified: TRUE

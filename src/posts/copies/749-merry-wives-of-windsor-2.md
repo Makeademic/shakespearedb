@@ -1,6 +1,6 @@
 ---
 id: 83
-order: 830
+order: 0830
 NSC: "749"
 filename: 749-merry-wives-of-windsor-2
 copy_URL: /749-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 12
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Dyce 26 Box 42/1
 isLocationVerified: TRUE

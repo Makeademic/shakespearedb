@@ -1,6 +1,6 @@
 ---
 id: 1542
-order: 560
+order: 0560
 NSC: "490"
 filename: 490-king-lear-2
 copy_URL: /490-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 38
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Hickmott 38
 isLocationVerified: TRUE

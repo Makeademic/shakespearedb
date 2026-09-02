@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 15
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   IUA13306
 isLocationVerified: TRUE

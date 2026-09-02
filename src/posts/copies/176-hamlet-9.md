@@ -1,6 +1,6 @@
 ---
 id: 905
-order: 203
+order: 0203
 NSC: "176"
 filename: 176-hamlet-9
 copy_URL: /176-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 31
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   EC Sh155.F676de copy 1
 isLocationVerified: TRUE

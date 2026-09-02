@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 39
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Case fYS 01
 isLocationVerified: TRUE

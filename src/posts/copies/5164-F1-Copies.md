@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 134
-location_name: [Bute Collection at Mount Stuart, Mount Stuart Trust, Isle of Bute]
+location_name: ["Bute Collection at Mount Stuart, Mount Stuart Trust, Isle of Bute"]
 shelfmark: |
   A22.5
 isLocationVerified: TRUE

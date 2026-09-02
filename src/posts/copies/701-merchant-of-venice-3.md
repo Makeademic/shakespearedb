@@ -1,6 +1,6 @@
 ---
 id: 1069
-order: 782
+order: 0782
 NSC: "701"
 filename: 701-merchant-of-venice-3
 copy_URL: /701-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 24
-location_name: [Haverford College]
+location_name: ["Haverford College"]
 shelfmark: |
   13408.116.15*
 isLocationVerified: TRUE

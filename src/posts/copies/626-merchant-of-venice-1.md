@@ -1,6 +1,6 @@
 ---
 id: 1273
-order: 704
+order: 0704
 NSC: "626"
 filename: 626-merchant-of-venice-1
 copy_URL: /626-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 3
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Capell S.30[4]
 isLocationVerified: TRUE

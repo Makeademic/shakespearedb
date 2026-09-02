@@ -1,6 +1,6 @@
 ---
 id: 256
-order: 851
+order: 0851
 NSC: "770"
 filename: 770-midsummer-nights-dream-1
 copy_URL: /770-midsummer-nights-dream-1/
@@ -31,7 +31,7 @@ DEEP: 297
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 29
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Arch. G d.45
 isLocationVerified: TRUE

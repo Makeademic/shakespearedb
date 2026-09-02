@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 26
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   SR/OS/37 (1685) Accession #: 83000062
 isLocationVerified: FALSE

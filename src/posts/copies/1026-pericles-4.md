@@ -32,7 +32,7 @@ DEEP: 5077.03
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 11
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Late, And much admired Play, Called, Pericles, Prince of Tyre)
 isLocationVerified: TRUE

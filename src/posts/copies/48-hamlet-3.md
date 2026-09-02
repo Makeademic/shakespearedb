@@ -1,6 +1,6 @@
 ---
 id: 1486
-order: 50
+order: 0050
 NSC: "48"
 filename: 48-hamlet-3
 copy_URL: /48-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 96
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

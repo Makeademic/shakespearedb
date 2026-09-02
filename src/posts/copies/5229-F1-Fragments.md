@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 101
-location_name: [Gloucester Cathedral]
+location_name: ["Gloucester Cathedral"]
 shelfmark: |
   4-NF-23617
 isLocationVerified: FALSE

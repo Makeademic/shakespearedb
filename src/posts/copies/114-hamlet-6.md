@@ -1,6 +1,6 @@
 ---
 id: 1643
-order: 124
+order: 0124
 NSC: "114"
 filename: 114-hamlet-6
 copy_URL: /114-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 100
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   PO2807 .A2 1676 copy 1
 isLocationVerified: TRUE

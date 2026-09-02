@@ -1,6 +1,6 @@
 ---
 id: 75
-order: 832
+order: 0832
 NSC: "751"
 filename: 751-merry-wives-of-windsor-2
 copy_URL: /751-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 20
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   1977 2353
 isLocationVerified: TRUE

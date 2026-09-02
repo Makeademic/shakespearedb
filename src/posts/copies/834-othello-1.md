@@ -1,6 +1,6 @@
 ---
 id: 179
-order: 916
+order: 0916
 NSC: "834"
 filename: 834-othello-1
 copy_URL: /834-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 11
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   *KC 1622 (Shakespeare, W. Tragoedy of Othello)
 isLocationVerified: TRUE

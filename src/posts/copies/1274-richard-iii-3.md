@@ -31,7 +31,7 @@ DEEP: 227
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 38
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Hickmott 27
 isLocationVerified: TRUE

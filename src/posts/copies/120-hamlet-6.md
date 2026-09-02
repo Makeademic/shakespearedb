@@ -1,6 +1,6 @@
 ---
 id: 894
-order: 140
+order: 0140
 NSC: "120"
 filename: 120-hamlet-6
 copy_URL: /120-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 54
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   PR 2807 A1 1676 *
 isLocationVerified: TRUE

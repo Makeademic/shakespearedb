@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 6
-location_name: [Biblioteca Universitaria, Padova (University of Padua)]
+location_name: ["Biblioteca Universitaria, Padova (University of Padua)"]
 shelfmark: |
   8123
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 334
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   GRABHORN TYP COLL  copy 2
 isLocationVerified: TRUE

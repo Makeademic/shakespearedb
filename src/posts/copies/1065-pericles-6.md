@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22339 Copy 2
 isLocationVerified: TRUE

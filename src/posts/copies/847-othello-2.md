@@ -1,6 +1,6 @@
 ---
 id: 1552
-order: 930
+order: 0930
 NSC: "847"
 filename: 847-othello-2
 copy_URL: /847-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 38
-location_name: [Trinity College, Dublin]
+location_name: ["Trinity College, Dublin"]
 shelfmark: |
   Hickmott 41
 isLocationVerified: TRUE

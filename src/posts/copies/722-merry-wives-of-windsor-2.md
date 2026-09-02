@@ -1,6 +1,6 @@
 ---
 id: 1310
-order: 803
+order: 0803
 NSC: "722"
 filename: 722-merry-wives-of-windsor-2
 copy_URL: /722-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22300 Copy 2
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 120
-location_name: [Texas Christian University]
+location_name: ["Texas Christian University"]
 shelfmark: |
   PET
 isLocationVerified: TRUE

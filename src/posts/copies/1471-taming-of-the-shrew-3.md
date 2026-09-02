@@ -31,7 +31,7 @@ DEEP: 183
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 24
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   STC 23669
 isLocationVerified: TRUE

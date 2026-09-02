@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 228
-location_name: [Middle Temple]
+location_name: ["Middle Temple"]
 shelfmark: |
   Z8812 .S45M c. 1
 isLocationVerified: TRUE

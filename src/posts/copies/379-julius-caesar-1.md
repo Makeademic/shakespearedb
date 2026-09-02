@@ -1,6 +1,6 @@
 ---
 id: 1668
-order: 417
+order: 0417
 NSC: "379"
 filename: 379-julius-caesar-1
 copy_URL: /379-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 7
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   S2922 copy 1
 isLocationVerified: TRUE

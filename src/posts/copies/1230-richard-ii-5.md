@@ -31,7 +31,7 @@ DEEP: 222
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 16
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Bute.507
 isLocationVerified: TRUE

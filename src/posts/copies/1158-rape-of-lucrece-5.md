@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 3
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Capell *.9
 isLocationVerified: TRUE

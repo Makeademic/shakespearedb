@@ -1,6 +1,6 @@
 ---
 id: 1322
-order: 867
+order: 0867
 NSC: "786"
 filename: 786-midsummer-nights-dream-2
 copy_URL: /786-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   STC 22303 Copy 7
 isLocationVerified: TRUE

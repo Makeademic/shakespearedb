@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 42
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   RHT 17th-519
 isLocationVerified: TRUE

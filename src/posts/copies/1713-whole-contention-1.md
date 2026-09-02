@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 18
-location_name: [John Wolfson collection]
+location_name: ["John Wolfson collection"]
 shelfmark: |
   Pforz 884
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1336
-order: 910
+order: 0910
 NSC: "828"
 filename: 828-othello-1
 copy_URL: /828-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 7
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   STC 22305 Copy 1
 isLocationVerified: TRUE

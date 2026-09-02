@@ -1,6 +1,6 @@
 ---
 id: 1565
-order: 495
+order: 0495
 NSC: "433"
 filename: 433-julius-caesar-3
 copy_URL: /433-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 38
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Hickmott 50
 isLocationVerified: TRUE

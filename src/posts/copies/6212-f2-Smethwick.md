@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 8
-location_name: [Senate House Library, University of London]
+location_name: ["Senate House Library, University of London"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

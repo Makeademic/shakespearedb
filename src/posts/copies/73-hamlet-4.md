@@ -1,6 +1,6 @@
 ---
 id: 1116
-order: 75
+order: 0075
 NSC: "73"
 filename: 73-hamlet-4
 copy_URL: /73-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 31
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   PR2750 .A07 1620z
 isLocationVerified: TRUE

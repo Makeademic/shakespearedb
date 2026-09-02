@@ -32,7 +32,7 @@ DEEP: 5084
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 351
-location_name: [University of Tennessee]
+location_name: ["University of Tennessee"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

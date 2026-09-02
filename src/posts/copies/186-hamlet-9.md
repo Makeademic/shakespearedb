@@ -1,6 +1,6 @@
 ---
 id: 899
-order: 213
+order: 0213
 NSC: "186"
 filename: 186-hamlet-9
 copy_URL: /186-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 5
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   32208
 isLocationVerified: TRUE

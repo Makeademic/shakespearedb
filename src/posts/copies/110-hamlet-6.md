@@ -1,6 +1,6 @@
 ---
 id: 970
-order: 120
+order: 0120
 NSC: "110"
 filename: 110-hamlet-6
 copy_URL: /110-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 49
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Sp Coll Hunterian Co.3.34
 isLocationVerified: TRUE

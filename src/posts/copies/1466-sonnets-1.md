@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 4
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Eliz 194
 isLocationVerified: TRUE

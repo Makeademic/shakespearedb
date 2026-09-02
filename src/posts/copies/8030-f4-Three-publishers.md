@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 7
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   S2915 Fo.4 no.04
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 942
-order: 609
+order: 0609
 NSC: "535"
 filename: 535-king-lear-3
 copy_URL: /535-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 15
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   822.33 T3 1655
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1039
-order: 972
+order: 0972
 NSC: "886"
 filename: 886-othello-3
 copy_URL: /886-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 5
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   32207
 isLocationVerified: TRUE

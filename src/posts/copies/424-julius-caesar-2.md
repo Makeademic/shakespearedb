@@ -1,6 +1,6 @@
 ---
 id: 873
-order: 483
+order: 0483
 NSC: "424"
 filename: 424-julius-caesar-2
 copy_URL: /424-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 71
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   PR 2808 .A1 1691
 isLocationVerified: TRUE

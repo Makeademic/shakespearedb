@@ -32,7 +32,7 @@ DEEP: 5084
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 112
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   KC1632 .S5 F CB
 isLocationVerified: FALSE

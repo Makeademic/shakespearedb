@@ -1,6 +1,6 @@
 ---
 id: 1169
-order: 280
+order: 0280
 NSC: "250"
 filename: 250-1-henry-iv-8
 copy_URL: /250-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   STC 22286 Copy 4
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 539
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 18
-location_name: [Ohio State University]
+location_name: ["Ohio State University"]
 shelfmark: |
   Pforz 898
 isLocationVerified: TRUE

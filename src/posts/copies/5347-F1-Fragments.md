@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library, Berg Collection]
+location_name: ["New York Public Library, Berg Collection"]
 shelfmark: |
   W.b.604 item 1
 isLocationVerified: TRUE

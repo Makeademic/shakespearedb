@@ -31,7 +31,7 @@ DEEP: 332
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 11
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   *KC 1602 (Thomas, lord Cromwell (Drama) The True Chronicle Historie of the whole life and death of Thomas Lord Cromwell)
 isLocationVerified: TRUE

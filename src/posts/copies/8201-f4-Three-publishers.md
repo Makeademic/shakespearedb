@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 163
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   SPEC Depository PR2751 .A4x
 isLocationVerified: FALSE

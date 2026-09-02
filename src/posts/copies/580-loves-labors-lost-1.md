@@ -1,6 +1,6 @@
 ---
 id: 223
-order: 655
+order: 0655
 NSC: "580"
 filename: 580-loves-labors-lost-1
 copy_URL: /580-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 42
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   EX 3925.359 1598
 isLocationVerified: TRUE

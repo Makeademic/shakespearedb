@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 26
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   SR/OS/37 Copy 3: (RSC 2) Accession #: 08100020
 isLocationVerified: FALSE

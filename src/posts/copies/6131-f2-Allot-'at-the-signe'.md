@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 118
-location_name: [Senate House Library, University of London]
+location_name: ["Senate House Library, University of London"]
 shelfmark: |
   Oversized Rare Books PR2751.A2 1632
 isLocationVerified: FALSE

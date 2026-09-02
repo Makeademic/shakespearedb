@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 250
-location_name: [Wesleyan University]
+location_name: ["Wesleyan University"]
 shelfmark: |
   822.33 S7c f
 isLocationVerified: TRUE

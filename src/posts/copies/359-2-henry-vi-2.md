@@ -1,6 +1,6 @@
 ---
 id: 344
-order: 395
+order: 0395
 NSC: "359"
 filename: 359-2-henry-vi-2
 copy_URL: /359-2-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 180
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 5
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   79885
 isLocationVerified: TRUE

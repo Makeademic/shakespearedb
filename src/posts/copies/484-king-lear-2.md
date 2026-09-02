@@ -1,6 +1,6 @@
 ---
 id: 1654
-order: 554
+order: 0554
 NSC: "484"
 filename: 484-king-lear-2
 copy_URL: /484-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 101
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   RES-YK-86
 isLocationVerified: TRUE

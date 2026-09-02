@@ -1,6 +1,6 @@
 ---
 id: 501
-order: 350
+order: 0350
 NSC: "318"
 filename: 318-henry-v-3
 copy_URL: /318-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 37
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Keynes.C.7.76
 isLocationVerified: TRUE

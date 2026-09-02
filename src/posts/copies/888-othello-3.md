@@ -1,6 +1,6 @@
 ---
 id: 1350
-order: 974
+order: 0974
 NSC: "888"
 filename: 888-othello-3
 copy_URL: /888-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 16
-location_name: [Cambridge University, English Faculty]
+location_name: ["Cambridge University, English Faculty"]
 shelfmark: |
   Bute.502
 isLocationVerified: TRUE

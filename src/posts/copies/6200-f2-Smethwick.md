@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 228
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Posner PR2751 .A2 1632
 isLocationVerified: TRUE

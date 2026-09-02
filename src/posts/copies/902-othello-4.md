@@ -1,6 +1,6 @@
 ---
 id: 1560
-order: 989
+order: 0989
 NSC: "902"
 filename: 902-othello-4
 copy_URL: /902-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 38
-location_name: [Marsh's Library]
+location_name: ["Marsh's Library"]
 shelfmark: |
   Hickmott 43
 isLocationVerified: TRUE

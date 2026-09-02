@@ -1,6 +1,6 @@
 ---
 id: 963
-order: 172
+order: 0172
 NSC: "149"
 filename: 149-hamlet-8
 copy_URL: /149-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 70
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   PR2807.A1 1683b
 isLocationVerified: TRUE

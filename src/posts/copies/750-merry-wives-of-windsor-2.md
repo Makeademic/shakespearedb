@@ -1,6 +1,6 @@
 ---
 id: 1529
-order: 831
+order: 0831
 NSC: "750"
 filename: 750-merry-wives-of-windsor-2
 copy_URL: /750-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 97
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   RCIN 1059072
 isLocationVerified: TRUE

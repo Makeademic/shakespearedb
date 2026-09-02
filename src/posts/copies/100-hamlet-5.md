@@ -1,6 +1,6 @@
 ---
 id: 1620
-order: 108
+order: 0108
 NSC: "100"
 filename: 100-hamlet-5
 copy_URL: /100-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 12
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Dyce 25.D.64
 isLocationVerified: TRUE

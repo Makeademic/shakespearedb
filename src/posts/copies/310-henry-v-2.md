@@ -1,6 +1,6 @@
 ---
 id: 1191
-order: 342
+order: 0342
 NSC: "310"
 filename: 310-henry-v-2
 copy_URL: /310-henry-v-2/
@@ -31,7 +31,7 @@ DEEP: 289
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 7
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   STC 22290
 isLocationVerified: TRUE

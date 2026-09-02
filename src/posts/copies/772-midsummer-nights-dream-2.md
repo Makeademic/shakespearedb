@@ -1,6 +1,6 @@
 ---
 id: 1656
-order: 853
+order: 0853
 NSC: "772"
 filename: 772-midsummer-nights-dream-2
 copy_URL: /772-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 101
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   RES-YK-90
 isLocationVerified: TRUE

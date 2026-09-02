@@ -1,6 +1,6 @@
 ---
 id: 1045
-order: 963
+order: 0963
 NSC: "877"
 filename: 877-othello-3
 copy_URL: /877-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 37
-location_name: [Cardiff University]
+location_name: ["Cardiff University"]
 shelfmark: |
   Keynes.C.6.1
 isLocationVerified: TRUE

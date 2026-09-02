@@ -1,6 +1,6 @@
 ---
 id: 1041
-order: 959
+order: 0959
 NSC: "873"
 filename: 873-othello-3
 copy_URL: /873-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 21
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   S341.1655
 isLocationVerified: TRUE

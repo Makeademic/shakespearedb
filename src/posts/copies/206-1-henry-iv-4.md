@@ -1,6 +1,6 @@
 ---
 id: 1155
-order: 236
+order: 0236
 NSC: "206"
 filename: 206-1-henry-iv-4
 copy_URL: /206-1-henry-iv-4/
@@ -31,7 +31,7 @@ DEEP: 243
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   STC 22282
 isLocationVerified: TRUE

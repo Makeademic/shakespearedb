@@ -1,6 +1,6 @@
 ---
 id: 498
-order: 382
+order: 0382
 NSC: "346"
 filename: 346-henry-v-3
 copy_URL: /346-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 27
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Rare Vault PR2812 .A1 1619
 isLocationVerified: TRUE

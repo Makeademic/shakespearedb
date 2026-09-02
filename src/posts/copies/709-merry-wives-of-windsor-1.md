@@ -1,6 +1,6 @@
 ---
 id: 1300
-order: 790
+order: 0790
 NSC: "709"
 filename: 709-merry-wives-of-windsor-1
 copy_URL: /709-merry-wives-of-windsor-1/
@@ -31,7 +31,7 @@ DEEP: 328
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 3
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   Capell W.5[5]
 isLocationVerified: TRUE

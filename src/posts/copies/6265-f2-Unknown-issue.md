@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 148
-location_name: [University of California, Davis]
+location_name: ["University of California, Davis"]
 shelfmark: |
   Rare Books PR2751 .A2 ++
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 932
-order: 535
+order: 0535
 NSC: "466"
 filename: 466-julius-caesar-5
 copy_URL: /466-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 76
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   SpecCol RB PR2750.A08
 isLocationVerified: TRUE

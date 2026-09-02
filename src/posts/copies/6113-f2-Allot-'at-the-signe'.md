@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 320
-location_name: [University of Oregon]
+location_name: ["University of Oregon"]
 shelfmark: |
   822 S527, J, 1632 Vault
 isLocationVerified: FALSE

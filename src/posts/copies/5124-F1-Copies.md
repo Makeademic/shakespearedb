@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 117
-location_name: [Universitäts-und Stadtbibliothek Köln (University and City Library of Cologne)]
+location_name: ["Universitäts-und Stadtbibliothek Köln (University and City Library of Cologne)"]
 shelfmark: |
   PR 2751.AI
 isLocationVerified: TRUE

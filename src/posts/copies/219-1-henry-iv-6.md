@@ -1,6 +1,6 @@
 ---
 id: 1160
-order: 249
+order: 0249
 NSC: "219"
 filename: 219-1-henry-iv-6
 copy_URL: /219-1-henry-iv-6/
@@ -31,7 +31,7 @@ DEEP: 245
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 3
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Capell R.21[2]
 isLocationVerified: TRUE

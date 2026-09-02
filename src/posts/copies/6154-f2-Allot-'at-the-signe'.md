@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 18
-location_name: [University of Melbourne, Trinity College]
+location_name: ["University of Melbourne, Trinity College"]
 shelfmark: |
   Wg Sh15 +C632c WRE
 isLocationVerified: TRUE

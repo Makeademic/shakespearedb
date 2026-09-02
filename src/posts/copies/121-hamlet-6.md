@@ -1,6 +1,6 @@
 ---
 id: 966
-order: 141
+order: 0141
 NSC: "121"
 filename: 121-hamlet-6
 copy_URL: /121-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 15
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   X 822.33 S71676
 isLocationVerified: TRUE

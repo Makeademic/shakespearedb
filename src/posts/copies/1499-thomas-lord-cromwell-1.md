@@ -31,7 +31,7 @@ DEEP: 332
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 2
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   C.34.i.30
 isLocationVerified: TRUE

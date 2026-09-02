@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 18
-location_name: [Cambridge University]
+location_name: ["Cambridge University"]
 shelfmark: |
   PR 2751.A1 copy 1
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1233
-order: 559
+order: 0559
 NSC: "489"
 filename: 489-king-lear-2
 copy_URL: /489-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 3
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Capell Q.11[4]
 isLocationVerified: TRUE

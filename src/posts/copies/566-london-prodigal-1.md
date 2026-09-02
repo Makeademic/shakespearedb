@@ -1,6 +1,6 @@
 ---
 id: 782
-order: 641
+order: 0641
 NSC: "566"
 filename: 566-london-prodigal-1
 copy_URL: /566-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 4
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Eliz 202
 isLocationVerified: TRUE

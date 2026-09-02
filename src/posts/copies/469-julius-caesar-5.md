@@ -1,6 +1,6 @@
 ---
 id: 933
-order: 538
+order: 0538
 NSC: "469"
 filename: 469-julius-caesar-5
 copy_URL: /469-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 31
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   EC Sh155 684jd
 isLocationVerified: TRUE

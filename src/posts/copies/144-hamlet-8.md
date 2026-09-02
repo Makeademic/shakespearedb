@@ -1,6 +1,6 @@
 ---
 id: 1137
-order: 166
+order: 0166
 NSC: "144"
 filename: 144-hamlet-8
 copy_URL: /144-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 7
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   S2952 Copy 2
 isLocationVerified: TRUE

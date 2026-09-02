@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 331
-location_name: [Free Library of Philadelphia]
+location_name: ["Free Library of Philadelphia"]
 shelfmark: |
   PR2751.A16 O7 1935
 isLocationVerified: TRUE

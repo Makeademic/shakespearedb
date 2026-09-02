@@ -1,6 +1,6 @@
 ---
 id: 1202
-order: 349
+order: 0349
 NSC: "317"
 filename: 317-henry-v-3
 copy_URL: /317-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 90
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   D619 .S527c
 isLocationVerified: TRUE

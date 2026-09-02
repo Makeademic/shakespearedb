@@ -32,7 +32,7 @@ DEEP: 5089
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 122
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   F2-02 MR 0660
 isLocationVerified: TRUE

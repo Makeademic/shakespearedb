@@ -1,6 +1,6 @@
 ---
 id: 1618
-order: 80
+order: 0080
 NSC: "78"
 filename: 78-hamlet-5
 copy_URL: /78-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 55
-location_name: [University of Akron]
+location_name: ["University of Akron"]
 shelfmark: |
   SSS.32.23
 isLocationVerified: TRUE

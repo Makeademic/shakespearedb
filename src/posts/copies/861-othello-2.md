@@ -1,6 +1,6 @@
 ---
 id: 206
-order: 945
+order: 0945
 NSC: "861"
 filename: 861-othello-2
 copy_URL: /861-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 11
-location_name: [Cambridge University, St. Catharine's College]
+location_name: ["Cambridge University, St. Catharine's College"]
 shelfmark: |
   *KC 1630 (Shakespeare, W. Tragoedy of Othello, The Moore of Venice)
 isLocationVerified: TRUE

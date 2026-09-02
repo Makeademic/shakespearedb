@@ -1,6 +1,6 @@
 ---
 id: 1623
-order: 103
+order: 0103
 NSC: "96"
 filename: 96-hamlet-5
 copy_URL: /96-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 348
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

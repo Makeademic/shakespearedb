@@ -1,6 +1,6 @@
 ---
 id: 587
-order: 592
+order: 0592
 NSC: "519"
 filename: 519-king-lear-2
 copy_URL: /519-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 4
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Eliz 177
 isLocationVerified: TRUE

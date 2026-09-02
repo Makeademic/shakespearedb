@@ -1,6 +1,6 @@
 ---
 id: 198
-order: 672
+order: 0672
 NSC: "597"
 filename: 597-loves-labors-lost-2
 copy_URL: /597-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 120
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   PET 10
 isLocationVerified: TRUE

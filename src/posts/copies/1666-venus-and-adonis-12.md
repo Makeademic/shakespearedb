@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 3
-location_name: [University of Leeds, Brotherton Library]
+location_name: ["University of Leeds, Brotherton Library"]
 shelfmark: |
   Capell *.22[2]
 isLocationVerified: TRUE

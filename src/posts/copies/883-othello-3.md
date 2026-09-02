@@ -1,6 +1,6 @@
 ---
 id: 1348
-order: 969
+order: 0969
 NSC: "883"
 filename: 883-othello-3
 copy_URL: /883-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   S2939 Copy 2
 isLocationVerified: TRUE

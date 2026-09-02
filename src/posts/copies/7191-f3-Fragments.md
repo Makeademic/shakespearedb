@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 9
-location_name: [Carnegie Mellon University]
+location_name: ["Carnegie Mellon University"]
 shelfmark: |
   JY 442
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 122
-order: 737
+order: 0737
 NSC: "657"
 filename: 657-merchant-of-venice-2
 copy_URL: /657-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 11
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   *KC 1619 (Shakespeare, W.) (Merchant of Venice)
 isLocationVerified: TRUE

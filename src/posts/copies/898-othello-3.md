@@ -1,6 +1,6 @@
 ---
 id: 930
-order: 985
+order: 0985
 NSC: "898"
 filename: 898-othello-3
 copy_URL: /898-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 5
-location_name: [California State Library, Sutro]
+location_name: ["California State Library, Sutro"]
 shelfmark: |
   106553
 isLocationVerified: TRUE

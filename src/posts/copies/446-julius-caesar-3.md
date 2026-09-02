@@ -1,6 +1,6 @@
 ---
 id: 1223
-order: 510
+order: 0510
 NSC: "446"
 filename: 446-julius-caesar-3
 copy_URL: /446-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 31
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   EC Sh155 684jb
 isLocationVerified: TRUE

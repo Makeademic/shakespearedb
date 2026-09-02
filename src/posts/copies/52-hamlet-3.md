@@ -1,6 +1,6 @@
 ---
 id: 2174
-order: 54
+order: 0054
 NSC: "52"
 filename: 52-hamlet-3
 copy_URL: /52-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 31
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2750 .A07 1611
 isLocationVerified: TRUE

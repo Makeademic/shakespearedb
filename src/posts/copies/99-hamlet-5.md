@@ -1,6 +1,6 @@
 ---
 id: 1619
-order: 107
+order: 0107
 NSC: "99"
 filename: 99-hamlet-5
 copy_URL: /99-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 12
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Dyce 25.D.63
 isLocationVerified: TRUE

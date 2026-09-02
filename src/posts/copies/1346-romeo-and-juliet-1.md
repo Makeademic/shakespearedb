@@ -31,7 +31,7 @@ DEEP: 233
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 7
-location_name: [Windsor Castle, Royal Collection Trust]
+location_name: ["Windsor Castle, Royal Collection Trust"]
 shelfmark: |
   STC 22322
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1591
-order: 380
+order: 0380
 NSC: "344"
 filename: 344-henry-v-3
 copy_URL: /344-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 42
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   RHT 17th-510
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G g.3
 isLocationVerified: TRUE

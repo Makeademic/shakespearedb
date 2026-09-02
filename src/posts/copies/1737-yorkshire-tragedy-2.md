@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 5
-location_name: [University of California, Irvine]
+location_name: ["University of California, Irvine"]
 shelfmark: |
   69373
 isLocationVerified: TRUE

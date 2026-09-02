@@ -1,6 +1,6 @@
 ---
 id: 1536
-order: 325
+order: 0325
 NSC: "293"
 filename: 293-2-henry-iv-1
 copy_URL: /293-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 294
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 38
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Hickmott 33
 isLocationVerified: TRUE

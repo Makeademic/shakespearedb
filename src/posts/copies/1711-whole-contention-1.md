@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 54
-location_name: [John Wolfson collection]
+location_name: ["John Wolfson collection"]
 shelfmark: |
   Chrzanowski 1619s *
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1331
-order: 891
+order: 0891
 NSC: "809"
 filename: 809-much-ado-about-nothing-1
 copy_URL: /809-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 3
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Capell S.34[3]
 isLocationVerified: TRUE

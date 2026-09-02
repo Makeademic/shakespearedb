@@ -1,6 +1,6 @@
 ---
 id: 1253
-order: 631
+order: 0631
 NSC: "557"
 filename: 557-london-prodigal-1
 copy_URL: /557-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 7
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   STC 22333 Copy 4
 isLocationVerified: TRUE

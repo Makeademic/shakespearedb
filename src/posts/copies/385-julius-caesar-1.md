@@ -1,6 +1,6 @@
 ---
 id: 1667
-order: 424
+order: 0424
 NSC: "385"
 filename: 385-julius-caesar-1
 copy_URL: /385-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 16
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Bute.890
 isLocationVerified: TRUE

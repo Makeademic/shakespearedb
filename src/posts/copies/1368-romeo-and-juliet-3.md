@@ -31,7 +31,7 @@ DEEP: 235
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 98
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   RaP 123
 isLocationVerified: TRUE

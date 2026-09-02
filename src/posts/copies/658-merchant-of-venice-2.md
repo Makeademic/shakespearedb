@@ -1,6 +1,6 @@
 ---
 id: 1662
-order: 738
+order: 0738
 NSC: "658"
 filename: 658-merchant-of-venice-2
 copy_URL: /658-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 39
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   VAULT Case 3A 895
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 31
-location_name: [Ron Gillespie collection]
+location_name: ["Ron Gillespie collection"]
 shelfmark: |
   PR2751.A4 1685b
 isLocationVerified: TRUE

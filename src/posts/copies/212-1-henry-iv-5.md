@@ -1,6 +1,6 @@
 ---
 id: 525
-order: 242
+order: 0242
 NSC: "212"
 filename: 212-1-henry-iv-5
 copy_URL: /212-1-henry-iv-5/
@@ -31,7 +31,7 @@ DEEP: 244
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 24
-location_name: [US Library of Congress]
+location_name: ["US Library of Congress"]
 shelfmark: |
   STC 22283
 isLocationVerified: TRUE

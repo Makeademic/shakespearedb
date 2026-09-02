@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 11
-location_name: [Meisei University, Kodama Memorial Library]
+location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Shakespeare's plays; Pavier's collected edition, 1619. Sir John Oldcastle)
 isLocationVerified: TRUE

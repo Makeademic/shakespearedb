@@ -1,6 +1,6 @@
 ---
 id: 5630
-order: 506
+order: 0506
 NSC: "442"
 filename: 442-julius-caesar-3
 copy_URL: /442-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 26
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   SR 50.15 - 83016899
 isLocationVerified: TRUE

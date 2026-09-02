@@ -32,7 +32,7 @@ DEEP: 223
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 24
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   STC 22313
 isLocationVerified: TRUE

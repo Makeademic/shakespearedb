@@ -1,6 +1,6 @@
 ---
 id: 286
-order: 868
+order: 0868
 NSC: "787"
 filename: 787-midsummer-nights-dream-2
 copy_URL: /787-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 24
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   STC 22303
 isLocationVerified: TRUE

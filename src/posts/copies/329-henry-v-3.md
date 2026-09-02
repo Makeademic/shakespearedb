@@ -1,6 +1,6 @@
 ---
 id: 1198
-order: 361
+order: 0361
 NSC: "329"
 filename: 329-henry-v-3
 copy_URL: /329-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 7
-location_name: [Haverford College]
+location_name: ["Haverford College"]
 shelfmark: |
   STC 22291 Copy 5
 isLocationVerified: TRUE

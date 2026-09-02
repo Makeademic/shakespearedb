@@ -1,6 +1,6 @@
 ---
 id: 86
-order: 789
+order: 0789
 NSC: "708"
 filename: 708-merry-wives-of-windsor-1
 copy_URL: /708-merry-wives-of-windsor-1/
@@ -31,7 +31,7 @@ DEEP: 328
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 2
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Huth.48
 isLocationVerified: TRUE

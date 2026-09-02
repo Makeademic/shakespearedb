@@ -1,6 +1,6 @@
 ---
 id: 1298
-order: 781
+order: 0781
 NSC: "700"
 filename: 700-merchant-of-venice-3
 copy_URL: /700-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 7
-location_name: [Trinity College, Dublin]
+location_name: ["Trinity College, Dublin"]
 shelfmark: |
   S2938 Copy 3
 isLocationVerified: TRUE

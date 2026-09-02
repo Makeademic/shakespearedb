@@ -1,6 +1,6 @@
 ---
 id: 539
-order: 343
+order: 0343
 NSC: "311"
 filename: 311-henry-v-2
 copy_URL: /311-henry-v-2/
@@ -31,7 +31,7 @@ DEEP: 289
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 5
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   69322
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1153
-order: 229
+order: 0229
 NSC: "199"
 filename: 199-1-henry-iv-3
 copy_URL: /199-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 7
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   STC 22281 Copy 2
 isLocationVerified: TRUE

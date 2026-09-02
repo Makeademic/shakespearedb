@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 29
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Mal. 222 (4)
 isLocationVerified: TRUE

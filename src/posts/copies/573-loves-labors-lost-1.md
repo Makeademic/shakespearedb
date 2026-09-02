@@ -1,6 +1,6 @@
 ---
 id: 1258
-order: 648
+order: 0648
 NSC: "573"
 filename: 573-loves-labors-lost-1
 copy_URL: /573-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 7
-location_name: [John Rylands Library, University of Manchester]
+location_name: ["John Rylands Library, University of Manchester"]
 shelfmark: |
   STC 22294 Copy 3
 isLocationVerified: TRUE

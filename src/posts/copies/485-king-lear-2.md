@@ -1,6 +1,6 @@
 ---
 id: 1232
-order: 555
+order: 0555
 NSC: "485"
 filename: 485-king-lear-2
 copy_URL: /485-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 17
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   G.176.13
 isLocationVerified: TRUE

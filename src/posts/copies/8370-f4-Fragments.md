@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 329
-location_name: [University of California, Berkeley, Bancroft Library]
+location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: |
   RB-X Oversize 822.33 G
 isLocationVerified: FALSE

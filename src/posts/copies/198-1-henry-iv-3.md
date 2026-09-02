@@ -1,6 +1,6 @@
 ---
 id: 1152
-order: 228
+order: 0228
 NSC: "198"
 filename: 198-1-henry-iv-3
 copy_URL: /198-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 7
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   STC 22281 Copy 1
 isLocationVerified: TRUE

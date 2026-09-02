@@ -32,7 +32,7 @@ DEEP: 220
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 47
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   Lewis PR2750 .A20 1608
 isLocationVerified: TRUE

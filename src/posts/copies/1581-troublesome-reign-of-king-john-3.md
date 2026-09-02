@@ -31,7 +31,7 @@ DEEP: 5023
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 2
-location_name: [Wake Forest University]
+location_name: ["Wake Forest University"]
 shelfmark: |
   C.34.k.16
 isLocationVerified: TRUE

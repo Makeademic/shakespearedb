@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 7
-location_name: [Walters Art Museum]
+location_name: ["Walters Art Museum"]
 shelfmark: |
   STC 22273 fo. 1 no. 45
 isLocationVerified: TRUE

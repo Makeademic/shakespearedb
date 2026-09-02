@@ -1,6 +1,6 @@
 ---
 id: 851
-order: 398
+order: 0398
 NSC: "362"
 filename: 362-3-henry-vi-1
 copy_URL: /362-3-henry-vi-1/
@@ -31,7 +31,7 @@ DEEP: 212
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 29
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Arch G f.1
 isLocationVerified: TRUE

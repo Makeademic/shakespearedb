@@ -32,7 +32,7 @@ DEEP: 220
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 5
-location_name: [New York Society Library]
+location_name: ["New York Society Library"]
 shelfmark: |
   69340
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 62
-location_name: [University of Liverpool]
+location_name: ["University of Liverpool"]
 shelfmark: |
   Bender D.1.3
 isLocationVerified: TRUE

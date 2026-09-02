@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 16
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Bute.532
 isLocationVerified: TRUE

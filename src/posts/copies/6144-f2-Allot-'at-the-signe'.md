@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 49
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Sp Coll Hunterian Dr.2.3
 isLocationVerified: TRUE

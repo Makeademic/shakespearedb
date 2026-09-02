@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 2
-location_name: [Longleat House (Marquess of Bath)]
+location_name: ["Longleat House (Marquess of Bath)"]
 shelfmark: |
   C.12.g.17
 isLocationVerified: TRUE

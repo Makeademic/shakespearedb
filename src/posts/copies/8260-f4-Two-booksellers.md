@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 7
-location_name: [Lehigh University]
+location_name: ["Lehigh University"]
 shelfmark: |
   S2915 Fo.4 no.21
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 11
-location_name: [Royal Scots College Salamanca]
+location_name: ["Royal Scots College Salamanca"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Whole Contention betweene the two Famous Houses, Lancaster and Yorke) copy 2
 isLocationVerified: TRUE

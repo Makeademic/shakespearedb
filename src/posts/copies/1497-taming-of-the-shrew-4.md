@@ -31,7 +31,7 @@ DEEP: 184
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 31
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   PR2750 .A32 1631 copy 2
 isLocationVerified: TRUE

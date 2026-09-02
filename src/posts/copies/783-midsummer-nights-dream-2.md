@@ -1,6 +1,6 @@
 ---
 id: 1325
-order: 864
+order: 0864
 NSC: "783"
 filename: 783-midsummer-nights-dream-2
 copy_URL: /783-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   STC 22303 Copy 4
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 969
-order: 143
+order: 0143
 NSC: "123"
 filename: 123-hamlet-6
 copy_URL: /123-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 20
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   Ig 6c 676
 isLocationVerified: TRUE

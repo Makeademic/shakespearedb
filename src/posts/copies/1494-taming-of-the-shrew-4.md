@@ -31,7 +31,7 @@ DEEP: 184
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 25
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   PML 5108
 isLocationVerified: TRUE

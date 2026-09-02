@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 7
-location_name: [California State University, Northridge]
+location_name: ["California State University, Northridge"]
 shelfmark: |
   STC 22274 Fo.2 no.45
 isLocationVerified: TRUE

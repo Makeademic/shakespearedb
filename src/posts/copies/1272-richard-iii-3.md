@@ -31,7 +31,7 @@ DEEP: 227
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 2
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   C.34.k.48
 isLocationVerified: TRUE

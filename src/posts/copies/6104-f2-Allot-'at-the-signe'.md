@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 39
-location_name: [Detroit Public Library]
+location_name: ["Detroit Public Library"]
 shelfmark: |
   Case folio PR2751 .A2
 isLocationVerified: TRUE

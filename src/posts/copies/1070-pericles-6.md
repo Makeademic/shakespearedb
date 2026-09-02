@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 5
-location_name: [State Library of New South Wales]
+location_name: ["State Library of New South Wales"]
 shelfmark: |
   69344
 isLocationVerified: TRUE

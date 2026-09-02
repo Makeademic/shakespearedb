@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 329
-location_name: [London Library]
+location_name: ["London Library"]
 shelfmark: |
   RB-X Oversize 822.33 G
 isLocationVerified: FALSE

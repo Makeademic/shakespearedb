@@ -1,6 +1,6 @@
 ---
 id: 1221
-order: 508
+order: 0508
 NSC: "444"
 filename: 444-julius-caesar-5
 copy_URL: /444-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 93
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   DSM/ Y15J1/ H
 isLocationVerified: TRUE

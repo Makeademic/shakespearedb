@@ -1,6 +1,6 @@
 ---
 id: 1535
-order: 892
+order: 0892
 NSC: "810"
 filename: 810-much-ado-about-nothing-1
 copy_URL: /810-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 38
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Hickmott 200
 isLocationVerified: TRUE

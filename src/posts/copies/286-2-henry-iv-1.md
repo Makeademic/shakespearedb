@@ -1,6 +1,6 @@
 ---
 id: 1183
-order: 318
+order: 0318
 NSC: "286"
 filename: 286-2-henry-iv-1
 copy_URL: /286-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 293
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 89
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   [ZZ]1600.22.06
 isLocationVerified: TRUE

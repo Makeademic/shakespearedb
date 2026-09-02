@@ -1,6 +1,6 @@
 ---
 id: 1239
-order: 564
+order: 0564
 NSC: "494"
 filename: 494-king-lear-2
 copy_URL: /494-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   STC 22293 Copy 2
 isLocationVerified: TRUE

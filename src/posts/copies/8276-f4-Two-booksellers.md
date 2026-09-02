@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 8
-location_name: [Osterreichische Nationalbibliothek (Austrian National Library)]
+location_name: ["Osterreichische Nationalbibliothek (Austrian National Library)"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

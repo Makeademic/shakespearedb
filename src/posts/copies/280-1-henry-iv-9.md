@@ -1,6 +1,6 @@
 ---
 id: 447
-order: 312
+order: 0312
 NSC: "280"
 filename: 280-1-henry-iv-9
 copy_URL: /280-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 20
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Ig 6Db 639
 isLocationVerified: TRUE

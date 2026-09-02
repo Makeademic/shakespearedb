@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [Colgate University, Case Library]
+location_name: ["Colgate University, Case Library"]
 shelfmark: |
   STC 22273 Fo.1 misc. frag. 08
 isLocationVerified: TRUE

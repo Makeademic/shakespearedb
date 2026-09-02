@@ -1,6 +1,6 @@
 ---
 id: 1582
-order: 953
+order: 0953
 NSC: "867"
 filename: 867-othello-2
 copy_URL: /867-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 54
-location_name: [Queen's University]
+location_name: ["Queen's University"]
 shelfmark: |
   PR2829 .A1 1630 *
 isLocationVerified: TRUE

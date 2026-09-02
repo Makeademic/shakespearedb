@@ -1,6 +1,6 @@
 ---
 id: 1054
-order: 449
+order: 0449
 NSC: "399"
 filename: 399-julius-caesar-1
 copy_URL: /399-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 20
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Ig 6e 680b
 isLocationVerified: TRUE

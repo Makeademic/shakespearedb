@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 8
-location_name: [John Wolfson collection]
+location_name: ["John Wolfson collection"]
 shelfmark: |
   Scot. 1: Silver Room: Contentions (1)
 isLocationVerified: TRUE

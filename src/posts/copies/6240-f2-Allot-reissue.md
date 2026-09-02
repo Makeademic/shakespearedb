@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 56
-location_name: [Wormsley Library]
+location_name: ["Wormsley Library"]
 shelfmark: |
   CA 13552
 isLocationVerified: TRUE

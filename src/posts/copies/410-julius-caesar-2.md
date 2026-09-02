@@ -1,6 +1,6 @@
 ---
 id: 1674
-order: 463
+order: 0463
 NSC: "410"
 filename: 410-julius-caesar-2
 copy_URL: /410-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   S2927 copy 4
 isLocationVerified: TRUE

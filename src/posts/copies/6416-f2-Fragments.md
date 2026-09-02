@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 334
-location_name: [Oxford University, Somerville College]
+location_name: ["Oxford University, Somerville College"]
 shelfmark: |
   GRABHORN TYP COLL  copy 2
 isLocationVerified: TRUE

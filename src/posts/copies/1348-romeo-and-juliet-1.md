@@ -31,7 +31,7 @@ DEEP: 233
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 29
-location_name: [US Library of Congress]
+location_name: ["US Library of Congress"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 220
-order: 650
+order: 0650
 NSC: "575"
 filename: 575-loves-labors-lost-1
 copy_URL: /575-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 5
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   69326
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 584
-order: 576
+order: 0576
 NSC: "505"
 filename: 505-king-lear-2
 copy_URL: /505-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 11
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Shakespeare's plays; Pavier's collected edition, 1619. M. VVilliam Shake-speare, his true chronicle history..)
 isLocationVerified: TRUE

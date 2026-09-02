@@ -1,6 +1,6 @@
 ---
 id: 1035
-order: 966
+order: 0966
 NSC: "880"
 filename: 880-othello-3
 copy_URL: /880-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 9
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   JA 3722
 isLocationVerified: TRUE

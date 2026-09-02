@@ -1,6 +1,6 @@
 ---
 id: 125
-order: 750
+order: 0750
 NSC: "669"
 filename: 669-merchant-of-venice-2
 copy_URL: /669-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 4
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Eliz 181
 isLocationVerified: TRUE

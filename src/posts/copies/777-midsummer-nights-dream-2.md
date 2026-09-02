@@ -1,6 +1,6 @@
 ---
 id: 1534
-order: 858
+order: 0858
 NSC: "777"
 filename: 777-midsummer-nights-dream-2
 copy_URL: /777-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 38
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   Hickmott 36
 isLocationVerified: TRUE

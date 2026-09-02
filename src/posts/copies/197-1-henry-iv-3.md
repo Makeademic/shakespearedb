@@ -1,6 +1,6 @@
 ---
 id: 1151
-order: 227
+order: 0227
 NSC: "197"
 filename: 197-1-henry-iv-3
 copy_URL: /197-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 3
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Capell S.37[4]
 isLocationVerified: TRUE

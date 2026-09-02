@@ -1,6 +1,6 @@
 ---
 id: 1287
-order: 762
+order: 0762
 NSC: "681"
 filename: 681-merchant-of-venice-3
 copy_URL: /681-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   STC 22298 Copy 6
 isLocationVerified: TRUE

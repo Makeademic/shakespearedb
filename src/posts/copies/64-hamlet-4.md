@@ -1,6 +1,6 @@
 ---
 id: 566
-order: 66
+order: 0066
 NSC: "64"
 filename: 64-hamlet-4
 copy_URL: /64-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 24
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   STC 22278
 isLocationVerified: TRUE

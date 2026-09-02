@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 29
-location_name: [Cambridge University]
+location_name: ["Cambridge University"]
 shelfmark: |
   Arch. G g.4 (2)
 isLocationVerified: TRUE

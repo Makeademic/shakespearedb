@@ -1,6 +1,6 @@
 ---
 id: 1036
-order: 984
+order: 0984
 NSC: "897"
 filename: 897-othello-3
 copy_URL: /897-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 31
-location_name: [Cardiff University]
+location_name: ["Cardiff University"]
 shelfmark: |
   EC Sh155.622oc
 isLocationVerified: TRUE

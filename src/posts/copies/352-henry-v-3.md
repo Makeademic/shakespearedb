@@ -1,6 +1,6 @@
 ---
 id: 1472
-order: 388
+order: 0388
 NSC: "352"
 filename: 352-henry-v-3
 copy_URL: /352-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 12
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Dyce 26 Box 41/3
 isLocationVerified: TRUE

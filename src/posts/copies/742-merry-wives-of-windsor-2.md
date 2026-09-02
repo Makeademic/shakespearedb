@@ -1,6 +1,6 @@
 ---
 id: 72
-order: 823
+order: 0823
 NSC: "742"
 filename: 742-merry-wives-of-windsor-2
 copy_URL: /742-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 26
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   SR 35.22 (1200)
 isLocationVerified: TRUE

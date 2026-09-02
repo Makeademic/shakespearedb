@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 358
-location_name: [Southern Illinois University]
+location_name: ["Southern Illinois University"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 2583
-order: 881
+order: 0881
 NSC: "799"
 filename: 799-midsummer-nights-dream-2
 copy_URL: /799-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 47
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   PR2750 .A15 1619 (7)
 isLocationVerified: TRUE

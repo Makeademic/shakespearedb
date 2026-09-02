@@ -1,6 +1,6 @@
 ---
 id: 276
-order: 884
+order: 0884
 NSC: "802"
 filename: 802-midsummer-nights-dream-2
 copy_URL: /802-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 15
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   822.33 P71619
 isLocationVerified: TRUE

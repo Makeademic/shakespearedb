@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 278
-location_name: [University of Notre Dame, Hesburgh Library]
+location_name: ["University of Notre Dame, Hesburgh Library"]
 shelfmark: |
   PR2751 .A25 1632 copy 1
 isLocationVerified: FALSE

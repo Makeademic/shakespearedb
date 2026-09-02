@@ -1,6 +1,6 @@
 ---
 id: 929
-order: 975
+order: 0975
 NSC: "889"
 filename: 889-othello-3
 copy_URL: /889-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 11
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   *KC 1655 (Shakespeare, W. Tragoedy of Othello, the Moore of Venice)
 isLocationVerified: TRUE

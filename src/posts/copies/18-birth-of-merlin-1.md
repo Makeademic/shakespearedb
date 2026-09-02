@@ -1,6 +1,6 @@
 ---
 id: 1102
-order: 19
+order: 0019
 NSC: "18"
 filename: 18-birth-of-merlin-1
 copy_URL: /18-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 23
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Plays.3.35 (3)
 isLocationVerified: TRUE

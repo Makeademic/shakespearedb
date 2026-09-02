@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 52
-location_name: [Book Club of California]
+location_name: ["Book Club of California"]
 shelfmark: |
   PR2751 .A3 1663
 isLocationVerified: FALSE

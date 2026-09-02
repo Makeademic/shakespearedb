@@ -1,6 +1,6 @@
 ---
 id: 1621
-order: 100
+order: 0100
 NSC: "94"
 filename: 94-hamlet-5
 copy_URL: /94-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 25
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   PML 5113
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1193
-order: 351
+order: 0351
 NSC: "319"
 filename: 319-henry-v-3
 copy_URL: /319-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 3
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Capell Q.12[2]
 isLocationVerified: TRUE

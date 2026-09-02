@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 38
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Hickmott 26
 isLocationVerified: TRUE

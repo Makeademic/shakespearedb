@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 299
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Frey-Gryn N I 19
 isLocationVerified: TRUE

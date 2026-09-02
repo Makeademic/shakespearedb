@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 25
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   PML 5126
 isLocationVerified: TRUE

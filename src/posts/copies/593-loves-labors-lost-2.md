@@ -1,6 +1,6 @@
 ---
 id: 202
-order: 668
+order: 0668
 NSC: "593"
 filename: 593-loves-labors-lost-2
 copy_URL: /593-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 24
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   STC 22295
 isLocationVerified: TRUE

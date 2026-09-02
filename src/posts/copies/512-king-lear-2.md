@@ -1,6 +1,6 @@
 ---
 id: 593
-order: 584
+order: 0584
 NSC: "512"
 filename: 512-king-lear-2
 copy_URL: /512-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 34
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   [S.L.] I [Shakespeare - 1608] (S)
 isLocationVerified: TRUE

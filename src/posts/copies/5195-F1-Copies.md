@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 155
-location_name: [Oxford University, St. John's College]
+location_name: ["Oxford University, St. John's College"]
 shelfmark: |
   Libri impressi rari 2o 147.
 isLocationVerified: TRUE

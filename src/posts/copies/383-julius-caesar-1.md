@@ -1,6 +1,6 @@
 ---
 id: 1492
-order: 421
+order: 0421
 NSC: "383"
 filename: 383-julius-caesar-1
 copy_URL: /383-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 96
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

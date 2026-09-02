@@ -1,6 +1,6 @@
 ---
 id: 1252
-order: 626
+order: 0626
 NSC: "552"
 filename: 552-london-prodigal-1
 copy_URL: /552-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 3
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Capell S.34[4]
 isLocationVerified: TRUE

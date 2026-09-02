@@ -31,7 +31,7 @@ DEEP: 184
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 5
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   69368
 isLocationVerified: TRUE

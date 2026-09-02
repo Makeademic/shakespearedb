@@ -1,6 +1,6 @@
 ---
 id: 196
-order: 673
+order: 0673
 NSC: "598"
 filename: 598-loves-labors-lost-2
 copy_URL: /598-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 11
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   *KC 1631 (Shakespeare) (Love's Labors Lost)
 isLocationVerified: TRUE

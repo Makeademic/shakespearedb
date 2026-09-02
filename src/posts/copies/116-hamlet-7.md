@@ -1,6 +1,6 @@
 ---
 id: 6359
-order: 128
+order: 0128
 NSC: "116"
 filename: 116-hamlet-7
 copy_URL: /116-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 16
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: FALSE

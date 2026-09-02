@@ -32,7 +32,7 @@ DEEP: 5086
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, New College]
+location_name: ["Oxford University, New College"]
 shelfmark: |
   69390
 isLocationVerified: TRUE

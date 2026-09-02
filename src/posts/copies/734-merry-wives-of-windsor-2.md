@@ -1,6 +1,6 @@
 ---
 id: 71
-order: 815
+order: 0815
 NSC: "734"
 filename: 734-merry-wives-of-windsor-2
 copy_URL: /734-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 11
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Most pleasant and excellent conceited Comedy), copy B
 isLocationVerified: TRUE

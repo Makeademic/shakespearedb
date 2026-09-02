@@ -1,6 +1,6 @@
 ---
 id: 1671
-order: 460
+order: 0460
 NSC: "407"
 filename: 407-julius-caesar-2
 copy_URL: /407-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 7
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   S2927 copy 1
 isLocationVerified: TRUE

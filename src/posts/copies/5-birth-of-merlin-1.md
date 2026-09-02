@@ -1,6 +1,6 @@
 ---
 id: 1096
-order: 5
+order: 0005
 NSC: "5"
 filename: 5-birth-of-merlin-1
 copy_URL: /5-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 3
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   Capell R.23[7]
 isLocationVerified: TRUE

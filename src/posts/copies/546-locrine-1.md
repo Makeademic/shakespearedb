@@ -1,6 +1,6 @@
 ---
 id: 1516
-order: 620
+order: 0620
 NSC: "546"
 filename: 546-locrine-1
 copy_URL: /546-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 96
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

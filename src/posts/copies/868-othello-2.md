@@ -1,6 +1,6 @@
 ---
 id: 203
-order: 954
+order: 0954
 NSC: "868"
 filename: 868-othello-2
 copy_URL: /868-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 15
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   822.33 T7 1630
 isLocationVerified: TRUE

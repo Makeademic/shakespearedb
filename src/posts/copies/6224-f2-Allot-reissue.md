@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 3
-location_name: [Württembergische Landesbibliothek, Stuttgart (State Library of Württemberg)]
+location_name: ["Württembergische Landesbibliothek, Stuttgart (State Library of Württemberg)"]
 shelfmark: |
   Capell *[large].2
 isLocationVerified: TRUE

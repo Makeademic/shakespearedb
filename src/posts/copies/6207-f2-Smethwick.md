@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 24
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   f HEW 7.11.2
 isLocationVerified: TRUE

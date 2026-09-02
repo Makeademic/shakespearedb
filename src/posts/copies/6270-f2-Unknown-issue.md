@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 7
-location_name: [Yale University, Lewis Walpole Library]
+location_name: ["Yale University, Lewis Walpole Library"]
 shelfmark: |
   STC 22274 Fo.2 no.19
 isLocationVerified: TRUE

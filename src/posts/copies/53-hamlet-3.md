@@ -1,6 +1,6 @@
 ---
 id: 556
-order: 55
+order: 0055
 NSC: "53"
 filename: 53-hamlet-3
 copy_URL: /53-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 12
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Dyce 26 Box 41/1
 isLocationVerified: TRUE

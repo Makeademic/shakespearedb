@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [Haverford College]
+location_name: ["Haverford College"]
 shelfmark: |
   STC 22273 Fo. 1 Noble Frag. 25
 isLocationVerified: FALSE

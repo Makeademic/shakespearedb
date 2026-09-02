@@ -1,6 +1,6 @@
 ---
 id: 1296
-order: 780
+order: 0780
 NSC: "699"
 filename: 699-merchant-of-venice-3
 copy_URL: /699-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 7
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   S2938 Copy 2
 isLocationVerified: TRUE

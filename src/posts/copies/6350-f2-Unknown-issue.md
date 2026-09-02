@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 71
-location_name: [McGill University]
+location_name: ["McGill University"]
 shelfmark: |
   PR 2751 .A2
 isLocationVerified: TRUE

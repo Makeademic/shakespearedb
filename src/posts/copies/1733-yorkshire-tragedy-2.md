@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Marquess of Northampton]
+location_name: ["Marquess of Northampton"]
 shelfmark: |
   STC 22341 Copy 4 Bd.w. STC 26101 Copy 3
 isLocationVerified: TRUE

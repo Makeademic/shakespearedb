@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 252
-location_name: [State Library of New South Wales]
+location_name: ["State Library of New South Wales"]
 shelfmark: |
   PR2751.A1 1623
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1326
-order: 861
+order: 0861
 NSC: "780"
 filename: 780-midsummer-nights-dream-2
 copy_URL: /780-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   STC 22303 Copy 1
 isLocationVerified: TRUE

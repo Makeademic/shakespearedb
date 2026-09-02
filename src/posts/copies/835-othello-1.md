@@ -1,6 +1,6 @@
 ---
 id: 176
-order: 917
+order: 0917
 NSC: "835"
 filename: 835-othello-1
 copy_URL: /835-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 29
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   Arch. G d.43 (7)
 isLocationVerified: TRUE

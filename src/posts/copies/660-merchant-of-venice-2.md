@@ -1,6 +1,6 @@
 ---
 id: 121
-order: 740
+order: 0740
 NSC: "660"
 filename: 660-merchant-of-venice-2
 copy_URL: /660-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 25
-location_name: [Columbia University]
+location_name: ["Columbia University"]
 shelfmark: |
   PML 16503
 isLocationVerified: TRUE

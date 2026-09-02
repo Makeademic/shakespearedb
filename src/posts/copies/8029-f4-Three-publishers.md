@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 7
-location_name: [Northwestern University]
+location_name: ["Northwestern University"]
 shelfmark: |
   S2915 Fo.4 no.03
 isLocationVerified: TRUE

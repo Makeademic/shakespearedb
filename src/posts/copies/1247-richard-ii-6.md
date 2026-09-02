@@ -32,7 +32,7 @@ DEEP: 223
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 11
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   *KC 1634 (Shakespeare, W. Life And Death Of King Richard The Second)
 isLocationVerified: TRUE

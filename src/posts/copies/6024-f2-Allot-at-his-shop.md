@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 122
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   F2-22 MR 3601
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 29
-location_name: [California State Library, Sutro]
+location_name: ["California State Library, Sutro"]
 shelfmark: |
   Arch. G d.42 (7)
 isLocationVerified: TRUE

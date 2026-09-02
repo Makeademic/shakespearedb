@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 8
-location_name: [University of Vermont]
+location_name: ["University of Vermont"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

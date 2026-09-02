@@ -1,6 +1,6 @@
 ---
 id: 1471
-order: 356
+order: 0356
 NSC: "324"
 filename: 324-henry-v-3
 copy_URL: /324-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 33
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   Sa1.4.29(4)
 isLocationVerified: TRUE

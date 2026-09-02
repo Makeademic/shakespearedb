@@ -1,6 +1,6 @@
 ---
 id: 1663
-order: 375
+order: 0375
 NSC: "339"
 filename: 339-henry-v-3
 copy_URL: /339-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 39
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Case YS 725 .607
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 18
-location_name: [Southern Utah University]
+location_name: ["Southern Utah University"]
 shelfmark: |
   -q- PFORZ 907
 isLocationVerified: TRUE

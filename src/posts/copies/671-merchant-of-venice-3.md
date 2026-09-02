@@ -1,6 +1,6 @@
 ---
 id: 1285
-order: 752
+order: 0752
 NSC: "671"
 filename: 671-merchant-of-venice-3
 copy_URL: /671-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 17
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   G.176.19
 isLocationVerified: TRUE

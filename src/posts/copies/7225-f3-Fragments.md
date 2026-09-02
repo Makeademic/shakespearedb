@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 281
-location_name: [Claremont Colleges]
+location_name: ["Claremont Colleges"]
 shelfmark: |
   XLarge PR 2751 .A3 1664
 isLocationVerified: FALSE

@@ -31,7 +31,7 @@ DEEP: 5022
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 15
-location_name: [University of Delaware]
+location_name: ["University of Delaware"]
 shelfmark: |
   822.33 X1 1611
 isLocationVerified: TRUE

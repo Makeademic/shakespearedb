@@ -1,6 +1,6 @@
 ---
 id: 857
-order: 482
+order: 0482
 NSC: "423"
 filename: 423-julius-caesar-2
 copy_URL: /423-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 15
-location_name: [Haverford College]
+location_name: ["Haverford College"]
 shelfmark: |
   822.33 T1 1691
 isLocationVerified: TRUE

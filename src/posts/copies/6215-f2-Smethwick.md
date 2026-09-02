@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 263
-location_name: [Bryn Mawr College]
+location_name: ["Bryn Mawr College"]
 shelfmark: |
   Bailey PR2751 .A2
 isLocationVerified: FALSE

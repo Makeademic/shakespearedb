@@ -1,6 +1,6 @@
 ---
 id: 582
-order: 561
+order: 0561
 NSC: "491"
 filename: 491-king-lear-2
 copy_URL: /491-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 9
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   JA 3729
 isLocationVerified: TRUE

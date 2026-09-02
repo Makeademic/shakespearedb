@@ -1,6 +1,6 @@
 ---
 id: 496
-order: 348
+order: 0348
 NSC: "316"
 filename: 316-henry-v-3
 copy_URL: /316-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 2
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   C.34.k.14
 isLocationVerified: TRUE

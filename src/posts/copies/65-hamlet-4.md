@@ -1,6 +1,6 @@
 ---
 id: 563
-order: 67
+order: 0067
 NSC: "65"
 filename: 65-hamlet-4
 copy_URL: /65-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   69308
 isLocationVerified: TRUE

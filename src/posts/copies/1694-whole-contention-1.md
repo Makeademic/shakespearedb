@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 7
-location_name: [University of Sydney, Fisher Library]
+location_name: ["University of Sydney, Fisher Library"]
 shelfmark: |
   STC 26101 Copy 5
 isLocationVerified: TRUE

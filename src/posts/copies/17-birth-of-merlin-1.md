@@ -1,6 +1,6 @@
 ---
 id: 6437
-order: 18
+order: 0018
 NSC: "17"
 filename: 17-birth-of-merlin-1
 copy_URL: /17-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 40
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   HB4/6.a.2.15(2)
 isLocationVerified: TRUE

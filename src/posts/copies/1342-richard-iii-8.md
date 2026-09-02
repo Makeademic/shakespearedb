@@ -31,7 +31,7 @@ DEEP: 232
 extant_ed_copies: 22
 ed_fragment: 
 location_id: 12
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   Dyce 25.D.68
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 7
-location_name: [University of Basel]
+location_name: ["University of Basel"]
 shelfmark: |
   STC 22274 Fo.2 no.54
 isLocationVerified: TRUE

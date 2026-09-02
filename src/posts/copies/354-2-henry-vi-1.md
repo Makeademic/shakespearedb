@@ -1,6 +1,6 @@
 ---
 id: 834
-order: 390
+order: 0390
 NSC: "354"
 filename: 354-2-henry-vi-1
 copy_URL: /354-2-henry-vi-1/
@@ -31,7 +31,7 @@ DEEP: 179
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 66
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   ELHAM 1356
 isLocationVerified: TRUE

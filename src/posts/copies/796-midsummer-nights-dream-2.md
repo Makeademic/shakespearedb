@@ -1,6 +1,6 @@
 ---
 id: 1600
-order: 878
+order: 0878
 NSC: "796"
 filename: 796-midsummer-nights-dream-2
 copy_URL: /796-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 42
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   EX 3925.364 1619
 isLocationVerified: TRUE

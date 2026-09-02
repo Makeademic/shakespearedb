@@ -1,6 +1,6 @@
 ---
 id: 280
-order: 873
+order: 0873
 NSC: "791"
 filename: 791-midsummer-nights-dream-2
 copy_URL: /791-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 11
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. / Midsommer nights / dreame)
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1098
-order: 8
+order: 0008
 NSC: "7"
 filename: 7-birth-of-merlin-1
 copy_URL: /7-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 7
-location_name: [John Rylands Library, University of Manchester]
+location_name: ["John Rylands Library, University of Manchester"]
 shelfmark: |
   R2096 Copy 1
 isLocationVerified: TRUE

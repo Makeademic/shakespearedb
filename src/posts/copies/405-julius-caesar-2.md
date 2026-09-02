@@ -1,6 +1,6 @@
 ---
 id: 872
-order: 457
+order: 0457
 NSC: "405"
 filename: 405-julius-caesar-2
 copy_URL: /405-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 70
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   PR2808.A1 1691 Copy 1
 isLocationVerified: TRUE

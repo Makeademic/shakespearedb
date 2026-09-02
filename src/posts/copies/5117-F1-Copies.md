@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 24
-location_name: [Dallas Public Library]
+location_name: ["Dallas Public Library"]
 shelfmark: |
   HEW 7.11.1 F
 isLocationVerified: TRUE

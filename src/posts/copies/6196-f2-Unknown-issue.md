@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 189
-location_name: [Cornell University]
+location_name: ["Cornell University"]
 shelfmark: |
   V:A0c:5
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1284
-order: 732
+order: 0732
 NSC: "654"
 filename: 654-merchant-of-venice-2
 copy_URL: /654-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 94
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   Philips 50
 isLocationVerified: TRUE

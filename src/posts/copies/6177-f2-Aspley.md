@@ -32,7 +32,7 @@ DEEP: 5084
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 223
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   QUARTO PR2751 .A2 1632
 isLocationVerified: FALSE

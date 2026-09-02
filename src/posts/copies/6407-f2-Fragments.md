@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 333
-location_name: [University of Wisconsin, Madison]
+location_name: ["University of Wisconsin, Madison"]
 shelfmark: |
   P Grabhorn
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 779
-order: 625
+order: 0625
 NSC: "551"
 filename: 551-london-prodigal-1
 copy_URL: /551-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 2
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   C.34.l.3
 isLocationVerified: TRUE

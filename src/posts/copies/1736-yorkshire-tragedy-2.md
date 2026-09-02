@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 24
-location_name: [University of California, Berkeley, Bancroft Library]
+location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: |
   STC 22341
 isLocationVerified: TRUE

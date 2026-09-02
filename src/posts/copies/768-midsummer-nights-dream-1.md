@@ -1,6 +1,6 @@
 ---
 id: 260
-order: 849
+order: 0849
 NSC: "768"
 filename: 768-midsummer-nights-dream-1
 copy_URL: /768-midsummer-nights-dream-1/
@@ -31,7 +31,7 @@ DEEP: 297
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 24
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   STC 22302
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 178
-order: 921
+order: 0921
 NSC: "838"
 filename: 838-othello-1
 copy_URL: /838-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 18
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Pforz 892
 isLocationVerified: TRUE

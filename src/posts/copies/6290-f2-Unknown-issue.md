@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 5
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   69386
 isLocationVerified: TRUE

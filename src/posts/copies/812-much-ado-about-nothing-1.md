@@ -1,6 +1,6 @@
 ---
 id: 1332
-order: 894
+order: 0894
 NSC: "812"
 filename: 812-much-ado-about-nothing-1
 copy_URL: /812-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22304
 isLocationVerified: TRUE

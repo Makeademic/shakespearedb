@@ -1,6 +1,6 @@
 ---
 id: 78
-order: 799
+order: 0799
 NSC: "718"
 filename: 718-merry-wives-of-windsor-2
 copy_URL: /718-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 2
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   C.34.k.27
 isLocationVerified: TRUE

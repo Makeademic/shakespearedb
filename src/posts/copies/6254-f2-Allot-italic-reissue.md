@@ -32,7 +32,7 @@ DEEP: 5089
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 8
-location_name: [Pequot Library, Southport, CT]
+location_name: ["Pequot Library, Southport, CT"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

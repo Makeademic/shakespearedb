@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 149
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   822.33 ICo q c.2
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1665
-order: 410
+order: 0410
 NSC: "374"
 filename: 374-julius-caesar-1
 copy_URL: /374-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 17
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   G.4012.35
 isLocationVerified: TRUE

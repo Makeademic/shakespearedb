@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 26
-location_name: [Senate House Library, University of London]
+location_name: ["Senate House Library, University of London"]
 shelfmark: |
   SR/OS/37 Copy 2: (SBT 4) Accession #: 83000046
 isLocationVerified: FALSE

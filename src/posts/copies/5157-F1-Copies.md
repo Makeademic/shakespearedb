@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 11
-location_name: [Buffalo and Erie County Public Library]
+location_name: ["Buffalo and Erie County Public Library"]
 shelfmark: |
   *KC+ 1623 (Shakespeare, W. Mr. VVilliam Shakespeares Comedies, Histories, & Tragedies) copy 4
 isLocationVerified: TRUE

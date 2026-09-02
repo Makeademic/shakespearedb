@@ -1,6 +1,6 @@
 ---
 id: 1274
-order: 707
+order: 0707
 NSC: "629"
 filename: 629-merchant-of-venice-1
 copy_URL: /629-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   STC 22296 Copy 3
 isLocationVerified: TRUE

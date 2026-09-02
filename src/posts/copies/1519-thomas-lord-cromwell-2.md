@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 54
-location_name: [Oxford University, Bodleian Library, Verulam Deposit]
+location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: |
   PR2869 .A1 1613 *
 isLocationVerified: TRUE

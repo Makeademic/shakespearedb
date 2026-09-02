@@ -1,6 +1,6 @@
 ---
 id: 80
-order: 826
+order: 0826
 NSC: "745"
 filename: 745-merry-wives-of-windsor-2
 copy_URL: /745-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 27
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Rare Vault PR2826 .A1 1619
 isLocationVerified: TRUE

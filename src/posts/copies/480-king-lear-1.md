@@ -1,6 +1,6 @@
 ---
 id: 1678
-order: 550
+order: 0550
 NSC: "480"
 filename: 480-king-lear-1
 copy_URL: /480-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 29
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   Arch. G d.42 (6)
 isLocationVerified: TRUE

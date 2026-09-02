@@ -1,6 +1,6 @@
 ---
 id: 492
-order: 374
+order: 0374
 NSC: "338"
 filename: 338-henry-v-3
 copy_URL: /338-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 11
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   *KC 1619
 isLocationVerified: TRUE

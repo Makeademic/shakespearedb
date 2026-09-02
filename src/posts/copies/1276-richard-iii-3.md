@@ -31,7 +31,7 @@ DEEP: 227
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 13
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Deposit
 isLocationVerified: TRUE

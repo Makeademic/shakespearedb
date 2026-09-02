@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 332
-location_name: [Wellesley College]
+location_name: ["Wellesley College"]
 shelfmark: |
   f FW GP 234 1935
 isLocationVerified: TRUE

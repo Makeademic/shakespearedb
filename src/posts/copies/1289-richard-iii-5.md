@@ -31,7 +31,7 @@ DEEP: 229
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 24
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: TRUE

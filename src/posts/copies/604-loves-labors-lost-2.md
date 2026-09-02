@@ -1,6 +1,6 @@
 ---
 id: 193
-order: 680
+order: 0680
 NSC: "604"
 filename: 604-loves-labors-lost-2
 copy_URL: /604-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 15
-location_name: [Oxford University, Corpus Christi College]
+location_name: ["Oxford University, Corpus Christi College"]
 shelfmark: |
   822.33 O71631
 isLocationVerified: TRUE

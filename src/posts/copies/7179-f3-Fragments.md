@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 327
-location_name: [Wellesley College]
+location_name: ["Wellesley College"]
 shelfmark: |
   PR2751 .A1 1623
 isLocationVerified: FALSE

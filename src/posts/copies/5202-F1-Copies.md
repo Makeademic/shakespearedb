@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 51
-location_name: [University of Akron]
+location_name: ["University of Akron"]
 shelfmark: |
   fPR2751.A1 1623 VAULT
 isLocationVerified: TRUE

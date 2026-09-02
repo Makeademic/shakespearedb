@@ -1,6 +1,6 @@
 ---
 id: 5629
-order: 534
+order: 0534
 NSC: "465"
 filename: 465-julius-caesar-5
 copy_URL: /465-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 26
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   SR 50.15 - 81088310
 isLocationVerified: TRUE

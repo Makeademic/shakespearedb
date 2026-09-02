@@ -1,6 +1,6 @@
 ---
 id: 1033
-order: 980
+order: 0980
 NSC: "894"
 filename: 894-othello-3
 copy_URL: /894-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Wood 320 (7)
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1145
-order: 210
+order: 0210
 NSC: "183"
 filename: 183-hamlet-9
 copy_URL: /183-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 7
-location_name: [Senate House Library, University of London]
+location_name: ["Senate House Library, University of London"]
 shelfmark: |
   S2955 Copy 3
 isLocationVerified: TRUE

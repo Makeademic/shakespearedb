@@ -1,6 +1,6 @@
 ---
 id: 1199
-order: 357
+order: 0357
 NSC: "325"
 filename: 325-henry-v-3
 copy_URL: /325-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Worcester College]
+location_name: ["Oxford University, Worcester College"]
 shelfmark: |
   STC 22291 Copy 1
 isLocationVerified: TRUE

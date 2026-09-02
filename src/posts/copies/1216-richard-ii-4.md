@@ -32,7 +32,7 @@ DEEP: 220
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 96
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

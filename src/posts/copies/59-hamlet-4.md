@@ -1,6 +1,6 @@
 ---
 id: 1111
-order: 61
+order: 0061
 NSC: "59"
 filename: 59-hamlet-4
 copy_URL: /59-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 64
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   I.4.3(2)
 isLocationVerified: TRUE

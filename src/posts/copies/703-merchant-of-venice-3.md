@@ -1,6 +1,6 @@
 ---
 id: 1299
-order: 784
+order: 0784
 NSC: "703"
 filename: 703-merchant-of-venice-3
 copy_URL: /703-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 16
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Bute.496
 isLocationVerified: TRUE

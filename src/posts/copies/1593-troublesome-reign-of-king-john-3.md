@@ -31,7 +31,7 @@ DEEP: 5023
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 24
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   STC 14647
 isLocationVerified: TRUE

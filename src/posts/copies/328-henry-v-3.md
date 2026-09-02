@@ -1,6 +1,6 @@
 ---
 id: 1195
-order: 360
+order: 0360
 NSC: "328"
 filename: 328-henry-v-3
 copy_URL: /328-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   STC 22291 Copy 4 Bd.w. STC 26101 Copy 3
 isLocationVerified: TRUE

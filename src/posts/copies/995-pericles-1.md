@@ -31,7 +31,7 @@ DEEP: 546
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 29
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   Arch. G d.41 (5)
 isLocationVerified: TRUE

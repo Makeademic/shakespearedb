@@ -1,6 +1,6 @@
 ---
 id: 559
-order: 76
+order: 0076
 NSC: "74"
 filename: 74-hamlet-4
 copy_URL: /74-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 18
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   Pforz 881
 isLocationVerified: TRUE

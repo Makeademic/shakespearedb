@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 26
-location_name: [Brigham Young University]
+location_name: ["Brigham Young University"]
 shelfmark: |
   SR/OS/37 (1664) Accession #: 83008217
 isLocationVerified: FALSE

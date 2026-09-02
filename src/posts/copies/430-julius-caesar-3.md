@@ -1,6 +1,6 @@
 ---
 id: 1210
-order: 492
+order: 0492
 NSC: "430"
 filename: 430-julius-caesar-3
 copy_URL: /430-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 17
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   G.65.8
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 2
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   Harl.5993(90)
 isLocationVerified: TRUE

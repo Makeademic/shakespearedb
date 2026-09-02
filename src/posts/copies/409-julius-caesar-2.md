@@ -1,6 +1,6 @@
 ---
 id: 1673
-order: 462
+order: 0462
 NSC: "409"
 filename: 409-julius-caesar-2
 copy_URL: /409-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   S2927 copy 3
 isLocationVerified: TRUE

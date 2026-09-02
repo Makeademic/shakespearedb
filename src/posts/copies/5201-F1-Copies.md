@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 146
-location_name: [University of Adelaide, Barr Smith Library]
+location_name: ["University of Adelaide, Barr Smith Library"]
 shelfmark: |
   Vault PR2751 .A1 1623
 isLocationVerified: TRUE

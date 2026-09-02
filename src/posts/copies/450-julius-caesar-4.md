@@ -1,6 +1,6 @@
 ---
 id: 912
-order: 514
+order: 0514
 NSC: "450"
 filename: 450-julius-caesar-4
 copy_URL: /450-julius-caesar-4/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 9
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   JA 157
 isLocationVerified: TRUE

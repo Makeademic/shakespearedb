@@ -1,6 +1,6 @@
 ---
 id: 550
-order: 49
+order: 0049
 NSC: "47"
 filename: 47-hamlet-3
 copy_URL: /47-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 5
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   69307
 isLocationVerified: TRUE

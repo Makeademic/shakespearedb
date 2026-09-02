@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 42
-location_name: [Columbia University]
+location_name: ["Columbia University"]
 shelfmark: |
   RHT 17th-518
 isLocationVerified: TRUE

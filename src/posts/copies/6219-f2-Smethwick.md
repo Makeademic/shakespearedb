@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 335
-location_name: [University of Notre Dame, Hesburgh Library]
+location_name: ["University of Notre Dame, Hesburgh Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

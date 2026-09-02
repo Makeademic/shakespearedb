@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Balliol College]
+location_name: ["Oxford University, Balliol College"]
 shelfmark: |
   STC 22274 Fo.2 no.20
 isLocationVerified: TRUE

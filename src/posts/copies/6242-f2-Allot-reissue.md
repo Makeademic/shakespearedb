@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 20
-location_name: [University of Miami]
+location_name: ["University of Miami"]
 shelfmark: |
   1978 +55 copy 2
 isLocationVerified: TRUE

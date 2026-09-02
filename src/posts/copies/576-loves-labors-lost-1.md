@@ -1,6 +1,6 @@
 ---
 id: 219
-order: 651
+order: 0651
 NSC: "576"
 filename: 576-loves-labors-lost-1
 copy_URL: /576-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 5
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   69327
 isLocationVerified: TRUE

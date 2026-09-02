@@ -1,6 +1,6 @@
 ---
 id: 6400
-order: 503
+order: 0503
 NSC: "440"
 filename: 440-julius-caesar-4
 copy_URL: /440-julius-caesar-4/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 16
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   [Al].2/1.1(11)
 isLocationVerified: TRUE

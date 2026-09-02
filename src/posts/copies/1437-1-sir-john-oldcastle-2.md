@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 29
-location_name: [William Zachs collection]
+location_name: ["William Zachs collection"]
 shelfmark: |
   J-J Drayton f.72
 isLocationVerified: TRUE

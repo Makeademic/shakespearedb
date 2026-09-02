@@ -1,6 +1,6 @@
 ---
 id: 1271
-order: 691
+order: 0691
 NSC: "614"
 filename: 614-macbeth-1
 copy_URL: /614-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   S2929
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1349
-order: 968
+order: 0968
 NSC: "882"
 filename: 882-othello-3
 copy_URL: /882-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 7
-location_name: [Columbia University]
+location_name: ["Columbia University"]
 shelfmark: |
   S2939 Copy 1
 isLocationVerified: TRUE

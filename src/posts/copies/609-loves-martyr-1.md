@@ -1,6 +1,6 @@
 ---
 id: 615
-order: 686
+order: 0686
 NSC: "609"
 filename: 609-loves-martyr-1
 copy_URL: /609-loves-martyr-1/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 53
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 5119-20
 isLocationVerified: TRUE

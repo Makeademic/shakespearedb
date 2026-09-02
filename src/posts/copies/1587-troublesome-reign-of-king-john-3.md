@@ -31,7 +31,7 @@ DEEP: 5023
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 7
-location_name: [Brown University, John Hay Library]
+location_name: ["Brown University, John Hay Library"]
 shelfmark: |
   STC 14647 Copy 2 Bd. w. STC 4619
 isLocationVerified: TRUE

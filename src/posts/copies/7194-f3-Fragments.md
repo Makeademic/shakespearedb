@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 7
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   PROMPT 3d Folio Com. Err. Smock Alley
 isLocationVerified: TRUE

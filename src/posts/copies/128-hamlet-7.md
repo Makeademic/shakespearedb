@@ -1,6 +1,6 @@
 ---
 id: 887
-order: 148
+order: 0148
 NSC: "128"
 filename: 128-hamlet-7
 copy_URL: /128-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 9
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   De.6.4
 isLocationVerified: TRUE

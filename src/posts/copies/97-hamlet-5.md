@@ -1,6 +1,6 @@
 ---
 id: 571
-order: 105
+order: 0105
 NSC: "97"
 filename: 97-hamlet-5
 copy_URL: /97-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 51
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   PR2807.A1 1637
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 26
-location_name: [Cambridge University]
+location_name: ["Cambridge University"]
 shelfmark: |
   SR/P35.44
 isLocationVerified: TRUE

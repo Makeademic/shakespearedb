@@ -1,6 +1,6 @@
 ---
 id: 1243
-order: 601
+order: 0601
 NSC: "528"
 filename: 528-king-lear-3
 copy_URL: /528-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   S2957 Copy 3
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 23
-order: 37
+order: 0037
 NSC: "35"
 filename: 35-hamlet-2
 copy_URL: /35-hamlet-2/
@@ -32,7 +32,7 @@ DEEP: 349
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 13
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Deposit
 isLocationVerified: TRUE

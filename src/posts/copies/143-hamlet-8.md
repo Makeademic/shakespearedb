@@ -1,6 +1,6 @@
 ---
 id: 928
-order: 165
+order: 0165
 NSC: "143"
 filename: 143-hamlet-8
 copy_URL: /143-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 21
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   S317.1683
 isLocationVerified: TRUE

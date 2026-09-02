@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 3
-location_name: [University of California, Berkeley, Bancroft Library]
+location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: |
   H.18.12
 isLocationVerified: TRUE

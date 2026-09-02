@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 4
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Eliz 179
 isLocationVerified: TRUE

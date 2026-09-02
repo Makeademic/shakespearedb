@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [National Library of Wales]
+location_name: ["National Library of Wales"]
 shelfmark: |
   F2-20 MR 3485
 isLocationVerified: TRUE

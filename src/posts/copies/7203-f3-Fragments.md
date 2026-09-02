@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 7
-location_name: [University of Iowa]
+location_name: ["University of Iowa"]
 shelfmark: |
   PROMPT 3d Folio Wint. T. Smock Alley
 isLocationVerified: TRUE

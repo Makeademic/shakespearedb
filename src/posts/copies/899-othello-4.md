@@ -1,6 +1,6 @@
 ---
 id: 1023
-order: 986
+order: 0986
 NSC: "899"
 filename: 899-othello-4
 copy_URL: /899-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 21
-location_name: [University of Michigan]
+location_name: ["University of Michigan"]
 shelfmark: |
   S341.1681
 isLocationVerified: TRUE

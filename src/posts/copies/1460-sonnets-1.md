@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 3
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   Capell S.36[5]
 isLocationVerified: TRUE

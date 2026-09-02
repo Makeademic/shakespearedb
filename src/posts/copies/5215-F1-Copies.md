@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 12
-location_name: [Oxford University, Brasenose College]
+location_name: ["Oxford University, Brasenose College"]
 shelfmark: |
   Dyce 25.F.63
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1559
-order: 147
+order: 0147
 NSC: "127"
 filename: 127-hamlet-7
 copy_URL: /127-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 38
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Hickmott 18
 isLocationVerified: TRUE

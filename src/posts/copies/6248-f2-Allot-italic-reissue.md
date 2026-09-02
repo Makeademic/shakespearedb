@@ -32,7 +32,7 @@ DEEP: 5089
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 122
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   F2-25 MR 3833
 isLocationVerified: TRUE

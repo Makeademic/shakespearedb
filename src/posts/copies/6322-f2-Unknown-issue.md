@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 359
-location_name: [Cornell University]
+location_name: ["Cornell University"]
 shelfmark: |
   PR2751 .A2 1632B VAULT
 isLocationVerified: TRUE

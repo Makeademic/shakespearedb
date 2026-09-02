@@ -1,6 +1,6 @@
 ---
 id: 1115
-order: 65
+order: 0065
 NSC: "63"
 filename: 63-hamlet-4
 copy_URL: /63-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22278 Copy 3
 isLocationVerified: TRUE

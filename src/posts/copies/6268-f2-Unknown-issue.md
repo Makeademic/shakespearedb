@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 7
-location_name: [Loyola Marymount University, Charles Von der Ahe Library]
+location_name: ["Loyola Marymount University, Charles Von der Ahe Library"]
 shelfmark: |
   STC 22274 Fo.2 no.17
 isLocationVerified: TRUE

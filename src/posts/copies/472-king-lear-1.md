@@ -1,6 +1,6 @@
 ---
 id: 606
-order: 542
+order: 0542
 NSC: "472"
 filename: 472-king-lear-1
 copy_URL: /472-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 2
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   C.34.k.17
 isLocationVerified: TRUE

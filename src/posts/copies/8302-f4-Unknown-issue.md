@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 279
-location_name: [National Library of Israel]
+location_name: ["National Library of Israel"]
 shelfmark: |
   Vining PR 2751 .A45 1685
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 965
-order: 187
+order: 0187
 NSC: "161"
 filename: 161-hamlet-8
 copy_URL: /161-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 54
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2807.A1 1683 *
 isLocationVerified: TRUE

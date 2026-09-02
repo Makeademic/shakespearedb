@@ -1,6 +1,6 @@
 ---
 id: 786
-order: 622
+order: 0622
 NSC: "548"
 filename: 548-locrine-1
 copy_URL: /548-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 25
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   PML 5125
 isLocationVerified: TRUE

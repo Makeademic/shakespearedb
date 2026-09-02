@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 43
-location_name: [Legislative Library of British Columbia]
+location_name: ["Legislative Library of British Columbia"]
 shelfmark: |
   RARE 2-S PR2751 .A4
 isLocationVerified: FALSE

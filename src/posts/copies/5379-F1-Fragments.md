@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 20
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   BEIN 2015 +591
 isLocationVerified: TRUE

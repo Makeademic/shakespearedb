@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 127
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: 
 isLocationVerified: FALSE
 isFacsimileAvailable: FALSE

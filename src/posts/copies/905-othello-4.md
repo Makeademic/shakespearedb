@@ -1,6 +1,6 @@
 ---
 id: 1355
-order: 992
+order: 0992
 NSC: "905"
 filename: 905-othello-4
 copy_URL: /905-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 7
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   S2940 Copy 2
 isLocationVerified: TRUE

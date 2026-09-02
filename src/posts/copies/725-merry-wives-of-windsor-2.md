@@ -1,6 +1,6 @@
 ---
 id: 1309
-order: 806
+order: 0806
 NSC: "725"
 filename: 725-merry-wives-of-windsor-2
 copy_URL: /725-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   STC 22300 Copy 5
 isLocationVerified: TRUE

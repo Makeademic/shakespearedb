@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 21
-location_name: [Indiana University, Lilly Library]
+location_name: ["Indiana University, Lilly Library"]
 shelfmark: |
   S163.2F Case
 isLocationVerified: TRUE

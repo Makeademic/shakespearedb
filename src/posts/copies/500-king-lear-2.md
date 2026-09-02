@@ -1,6 +1,6 @@
 ---
 id: 580
-order: 570
+order: 0570
 NSC: "500"
 filename: 500-king-lear-2
 copy_URL: /500-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 94
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   Philips 49
 isLocationVerified: TRUE

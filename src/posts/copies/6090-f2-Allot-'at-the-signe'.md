@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [Phoenix Public Library]
+location_name: ["Phoenix Public Library"]
 shelfmark: |
   F2-07 MR 0792
 isLocationVerified: TRUE

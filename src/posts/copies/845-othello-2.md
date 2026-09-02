@@ -1,6 +1,6 @@
 ---
 id: 214
-order: 928
+order: 0928
 NSC: "845"
 filename: 845-othello-2
 copy_URL: /845-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 41
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   MSS 22.6.12
 isLocationVerified: TRUE

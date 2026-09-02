@@ -1,6 +1,6 @@
 ---
 id: 776
-order: 637
+order: 0637
 NSC: "562"
 filename: 562-london-prodigal-1
 copy_URL: /562-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 11
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   *KC 1605 (London prodigal)
 isLocationVerified: TRUE

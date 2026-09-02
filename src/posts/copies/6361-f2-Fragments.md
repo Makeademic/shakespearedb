@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 332
-location_name: [Brown University, John Hay Library]
+location_name: ["Brown University, John Hay Library"]
 shelfmark: |
   f FW GP 234 1935
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 170
-order: 896
+order: 0896
 NSC: "814"
 filename: 814-much-ado-about-nothing-1
 copy_URL: /814-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 5
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   69336
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 26
-location_name: [Cincinnati and Hamilton County Public Library]
+location_name: ["Cincinnati and Hamilton County Public Library"]
 shelfmark: |
   SR/OS/37 Copy 5: (SML 1141) Accession #: 81011415
 isLocationVerified: FALSE

@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 11
-location_name: [Windsor Castle, Royal Collection Trust]
+location_name: ["Windsor Castle, Royal Collection Trust"]
 shelfmark: |
   *KC+ 1632 (Copy 8)
 isLocationVerified: TRUE

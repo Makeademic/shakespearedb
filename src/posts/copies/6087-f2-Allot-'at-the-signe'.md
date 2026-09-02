@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 5
-location_name: [Vassar College]
+location_name: ["Vassar College"]
 shelfmark: |
   69383
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 5168
-order: 195
+order: 0195
 NSC: "169"
 filename: 169-hamlet-9
 copy_URL: /169-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 9
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   JA 156
 isLocationVerified: TRUE

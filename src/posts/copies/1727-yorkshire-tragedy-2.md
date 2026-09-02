@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 3
-location_name: [Oxford University, Queen's College]
+location_name: ["Oxford University, Queen's College"]
 shelfmark: |
   Capell Q.11[1]
 isLocationVerified: TRUE

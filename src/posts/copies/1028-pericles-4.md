@@ -32,7 +32,7 @@ DEEP: 5077.03
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 39
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Vault Case 3A 897
 isLocationVerified: TRUE

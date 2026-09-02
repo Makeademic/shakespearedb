@@ -31,7 +31,7 @@ DEEP: 184
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 9
-location_name: [Boston Athenaeum]
+location_name: ["Boston Athenaeum"]
 shelfmark: |
   JA 3706
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 547
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 35
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Scrin A/22
 isLocationVerified: TRUE

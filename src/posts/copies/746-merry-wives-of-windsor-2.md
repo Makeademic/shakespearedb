@@ -1,6 +1,6 @@
 ---
 id: 1578
-order: 827
+order: 0827
 NSC: "746"
 filename: 746-merry-wives-of-windsor-2
 copy_URL: /746-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 54
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2826 .A1 1619 *
 isLocationVerified: TRUE

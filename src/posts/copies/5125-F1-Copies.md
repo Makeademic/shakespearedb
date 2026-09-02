@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 90
-location_name: [Württembergische Landesbibliothek, Stuttgart (State Library of Württemberg)]
+location_name: ["Württembergische Landesbibliothek, Stuttgart (State Library of Württemberg)"]
 shelfmark: |
   D623 .S527m
 isLocationVerified: TRUE

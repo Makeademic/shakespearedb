@@ -1,6 +1,6 @@
 ---
 id: 1188
-order: 336
+order: 0336
 NSC: "304"
 filename: 304-henry-v-1
 copy_URL: /304-henry-v-1/
@@ -31,7 +31,7 @@ DEEP: 288
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 3
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Capell W.5[6]
 isLocationVerified: TRUE

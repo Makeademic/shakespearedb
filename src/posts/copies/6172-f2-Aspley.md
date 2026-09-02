@@ -32,7 +32,7 @@ DEEP: 5084
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 348
-location_name: [University of Oklahoma]
+location_name: ["University of Oklahoma"]
 shelfmark: |
   PR2751 .A2 1632
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1173
-order: 288
+order: 0288
 NSC: "258"
 filename: 258-1-henry-iv-9
 copy_URL: /258-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 3
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Capell S.29[4]
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 589
-order: 558
+order: 0558
 NSC: "488"
 filename: 488-king-lear-2
 copy_URL: /488-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 2
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   C.34.k.20
 isLocationVerified: TRUE

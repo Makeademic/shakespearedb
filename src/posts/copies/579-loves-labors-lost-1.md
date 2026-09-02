@@ -1,6 +1,6 @@
 ---
 id: 217
-order: 654
+order: 0654
 NSC: "579"
 filename: 579-loves-labors-lost-1
 copy_URL: /579-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 29
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   Arch. G d.41 (4)
 isLocationVerified: TRUE

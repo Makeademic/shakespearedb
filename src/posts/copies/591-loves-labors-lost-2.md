@@ -1,6 +1,6 @@
 ---
 id: 1263
-order: 666
+order: 0666
 NSC: "591"
 filename: 591-loves-labors-lost-2
 copy_URL: /591-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 7
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   STC 22295 Copy 5
 isLocationVerified: TRUE

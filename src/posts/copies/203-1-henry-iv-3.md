@@ -1,6 +1,6 @@
 ---
 id: 416
-order: 233
+order: 0233
 NSC: "203"
 filename: 203-1-henry-iv-3
 copy_URL: /203-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G d.45 (5)
 isLocationVerified: TRUE

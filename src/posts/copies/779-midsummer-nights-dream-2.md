@@ -1,6 +1,6 @@
 ---
 id: 287
-order: 860
+order: 0860
 NSC: "779"
 filename: 779-midsummer-nights-dream-2
 copy_URL: /779-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 33
-location_name: [US Library of Congress]
+location_name: ["US Library of Congress"]
 shelfmark: |
   Sa1.4.27(1)
 isLocationVerified: TRUE

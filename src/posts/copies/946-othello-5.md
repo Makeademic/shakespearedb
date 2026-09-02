@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 31
-location_name: [University of Toronto, Thomas Fisher Library]
+location_name: ["University of Toronto, Thomas Fisher Library"]
 shelfmark: |
   EC Sh155.622oe
 isLocationVerified: TRUE

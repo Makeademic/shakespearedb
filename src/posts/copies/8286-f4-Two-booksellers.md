@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 20
-location_name: [US Library of Congress]
+location_name: ["US Library of Congress"]
 shelfmark: |
   Ig 14 +685 copy 2
 isLocationVerified: TRUE

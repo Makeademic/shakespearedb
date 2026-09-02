@@ -31,7 +31,7 @@ DEEP: 489
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 11
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   *KC 1607 (Puritan. Pvritaine)
 isLocationVerified: TRUE

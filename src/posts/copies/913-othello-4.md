@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 29
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Vet. A3 e.695
 isLocationVerified: TRUE

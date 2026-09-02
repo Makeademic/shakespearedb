@@ -1,6 +1,6 @@
 ---
 id: 1135
-order: 154
+order: 0154
 NSC: "134"
 filename: 134-hamlet-7
 copy_URL: /134-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 16
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Bute.477
 isLocationVerified: TRUE

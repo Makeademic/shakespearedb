@@ -1,6 +1,6 @@
 ---
 id: 62
-order: 842
+order: 0842
 NSC: "761"
 filename: 761-merry-wives-of-windsor-3
 copy_URL: /761-merry-wives-of-windsor-3/
@@ -31,7 +31,7 @@ DEEP: 330
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 11
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   *KC 1630 (Shakespeare, W. Merry VVives of Windsor)
 isLocationVerified: TRUE

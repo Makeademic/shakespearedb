@@ -1,6 +1,6 @@
 ---
 id: 296
-order: 403
+order: 0403
 NSC: "367"
 filename: 367-3-henry-vi-2
 copy_URL: /367-3-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 213
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 24
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   STC 21006a
 isLocationVerified: TRUE

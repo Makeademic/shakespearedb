@@ -32,7 +32,7 @@ DEEP: 5089
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 122
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   F2-24 MR 3854
 isLocationVerified: TRUE

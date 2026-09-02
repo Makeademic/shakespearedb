@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 22
 ed_fragment: 
 location_id: 81
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Fisher S52 A408 1695
 isLocationVerified: TRUE

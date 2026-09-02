@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 5
-location_name: [Fordham University]
+location_name: ["Fordham University"]
 shelfmark: |
   108210
 isLocationVerified: TRUE

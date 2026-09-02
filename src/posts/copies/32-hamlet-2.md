@@ -1,6 +1,6 @@
 ---
 id: 540
-order: 34
+order: 0034
 NSC: "32"
 filename: 32-hamlet-2
 copy_URL: /32-hamlet-2/
@@ -32,7 +32,7 @@ DEEP: 348
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 4
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Eliz 168
 isLocationVerified: TRUE

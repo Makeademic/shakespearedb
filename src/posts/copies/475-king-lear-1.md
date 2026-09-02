@@ -1,6 +1,6 @@
 ---
 id: 1231
-order: 545
+order: 0545
 NSC: "475"
 filename: 475-king-lear-1
 copy_URL: /475-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   STC 22292 Copy 1
 isLocationVerified: TRUE

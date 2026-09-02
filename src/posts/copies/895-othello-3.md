@@ -1,6 +1,6 @@
 ---
 id: 1696
-order: 982
+order: 0982
 NSC: "895"
 filename: 895-othello-3
 copy_URL: /895-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 25
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   PML 5118
 isLocationVerified: TRUE

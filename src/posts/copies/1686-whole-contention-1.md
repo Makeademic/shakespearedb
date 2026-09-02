@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 7
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   STC 26101 Copy 1
 isLocationVerified: TRUE

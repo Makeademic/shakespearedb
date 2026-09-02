@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 96
-location_name: [Private collection (Florida)]
+location_name: ["Private collection (Florida)"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 42
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   RHT 17th-520
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 277
-location_name: [Wake Forest University]
+location_name: ["Wake Forest University"]
 shelfmark: |
   Folio PR2751 .A2
 isLocationVerified: FALSE

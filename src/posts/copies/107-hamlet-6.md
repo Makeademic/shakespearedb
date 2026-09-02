@@ -1,6 +1,6 @@
 ---
 id: 971
-order: 116
+order: 0116
 NSC: "107"
 filename: 107-hamlet-6
 copy_URL: /107-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 78
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   E.4.44(2)
 isLocationVerified: TRUE

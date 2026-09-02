@@ -1,6 +1,6 @@
 ---
 id: 913
-order: 444
+order: 0444
 NSC: "395"
 filename: 395-julius-caesar-4
 copy_URL: /395-julius-caesar-4/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 31
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   EC Sh155 684jc
 isLocationVerified: TRUE

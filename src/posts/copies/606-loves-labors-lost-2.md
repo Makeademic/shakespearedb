@@ -1,6 +1,6 @@
 ---
 id: 1682
-order: 682
+order: 0682
 NSC: "606"
 filename: 606-loves-labors-lost-2
 copy_URL: /606-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 12
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Dyce 26 Box 41/5
 isLocationVerified: TRUE

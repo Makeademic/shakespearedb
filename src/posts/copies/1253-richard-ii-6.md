@@ -32,7 +32,7 @@ DEEP: 223
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 18
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Pforz 896
 isLocationVerified: TRUE

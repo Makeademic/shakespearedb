@@ -1,6 +1,6 @@
 ---
 id: 775
-order: 638
+order: 0638
 NSC: "563"
 filename: 563-london-prodigal-1
 copy_URL: /563-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 29
-location_name: [Cambridge University]
+location_name: ["Cambridge University"]
 shelfmark: |
   Mal. 218 (3)
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1124
-order: 95
+order: 0095
 NSC: "90"
 filename: 90-hamlet-5
 copy_URL: /90-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 16
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Bute.476
 isLocationVerified: TRUE

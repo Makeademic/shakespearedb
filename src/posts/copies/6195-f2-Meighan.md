@@ -32,7 +32,7 @@ DEEP: 5086
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 28
-location_name: [University of Oregon]
+location_name: ["University of Oregon"]
 shelfmark: |
   525 d 17
 isLocationVerified: TRUE

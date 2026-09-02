@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 149
-location_name: [Kennesaw State University]
+location_name: ["Kennesaw State University"]
 shelfmark: |
   822.33 ICo q c.3
 isLocationVerified: TRUE

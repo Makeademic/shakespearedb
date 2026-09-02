@@ -1,6 +1,6 @@
 ---
 id: 1176
-order: 295
+order: 0295
 NSC: "265"
 filename: 265-1-henry-iv-9
 copy_URL: /265-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 7
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   STC 22287 Copy 5
 isLocationVerified: TRUE

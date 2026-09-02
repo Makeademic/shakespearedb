@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 9
-location_name: [Southampton University]
+location_name: ["Southampton University"]
 shelfmark: |
   JA 3737
 isLocationVerified: TRUE

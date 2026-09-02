@@ -1,6 +1,6 @@
 ---
 id: 592
-order: 569
+order: 0569
 NSC: "499"
 filename: 499-king-lear-2
 copy_URL: /499-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 24
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22293
 isLocationVerified: TRUE

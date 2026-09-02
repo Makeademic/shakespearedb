@@ -1,6 +1,6 @@
 ---
 id: 1330
-order: 888
+order: 0888
 NSC: "806"
 filename: 806-much-ado-about-nothing-1
 copy_URL: /806-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 17
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   G.176.24
 isLocationVerified: TRUE

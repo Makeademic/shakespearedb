@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 122
-location_name: [Auckland Public Library]
+location_name: ["Auckland Public Library"]
 shelfmark: |
   MR 3570
 isLocationVerified: TRUE

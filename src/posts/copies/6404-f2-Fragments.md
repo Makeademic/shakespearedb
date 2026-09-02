@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 324
-location_name: [Miami University]
+location_name: ["Miami University"]
 shelfmark: |
   PR2751.A2508 1632
 isLocationVerified: TRUE

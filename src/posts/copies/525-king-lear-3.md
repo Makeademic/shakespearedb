@@ -1,6 +1,6 @@
 ---
 id: 952
-order: 598
+order: 0598
 NSC: "525"
 filename: 525-king-lear-3
 copy_URL: /525-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 33
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Sa1.4.28(04)
 isLocationVerified: TRUE

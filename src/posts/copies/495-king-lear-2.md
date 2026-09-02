@@ -1,6 +1,6 @@
 ---
 id: 1238
-order: 565
+order: 0565
 NSC: "495"
 filename: 495-king-lear-2
 copy_URL: /495-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [University of California, Berkeley, Bancroft Library]
+location_name: ["University of California, Berkeley, Bancroft Library"]
 shelfmark: |
   STC 22293 Copy 3
 isLocationVerified: TRUE

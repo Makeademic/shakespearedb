@@ -1,6 +1,6 @@
 ---
 id: 1230
-order: 546
+order: 0546
 NSC: "476"
 filename: 476-king-lear-1
 copy_URL: /476-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22292 Copy 2
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1638
-order: 955
+order: 0955
 NSC: "869"
 filename: 869-othello-2
 copy_URL: /869-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 31
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   PR2750 .A29 1630
 isLocationVerified: TRUE

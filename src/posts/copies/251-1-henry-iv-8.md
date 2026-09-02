@@ -1,6 +1,6 @@
 ---
 id: 847
-order: 281
+order: 0281
 NSC: "251"
 filename: 251-1-henry-iv-8
 copy_URL: /251-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 24
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22286
 isLocationVerified: TRUE

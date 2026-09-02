@@ -31,7 +31,7 @@ DEEP: 5022
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 17
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   G.176.11
 isLocationVerified: TRUE

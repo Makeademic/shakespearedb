@@ -1,6 +1,6 @@
 ---
 id: 543
-order: 340
+order: 0340
 NSC: "308"
 filename: 308-henry-v-1
 copy_URL: /308-henry-v-1/
@@ -31,7 +31,7 @@ DEEP: 288
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 4
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Eliz 175
 isLocationVerified: TRUE

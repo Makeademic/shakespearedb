@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 25
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   PML 5103
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 572
-order: 96
+order: 0096
 NSC: "91"
 filename: 91-hamlet-5
 copy_URL: /91-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 11
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   *KC 1637 (Shakespeare, W. Tragedy Of Hamlet Prince Of Denmark)
 isLocationVerified: TRUE

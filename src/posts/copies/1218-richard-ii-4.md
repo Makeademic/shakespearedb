@@ -32,7 +32,7 @@ DEEP: 220
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 4
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Eliz 178
 isLocationVerified: TRUE

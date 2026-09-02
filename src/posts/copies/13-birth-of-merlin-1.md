@@ -1,6 +1,6 @@
 ---
 id: 1100
-order: 14
+order: 0014
 NSC: "13"
 filename: 13-birth-of-merlin-1
 copy_URL: /13-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 16
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   H.3.c.20(2)
 isLocationVerified: TRUE

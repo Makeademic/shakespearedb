@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 94
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Philips 47
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 18
-location_name: [Phoenix Public Library]
+location_name: ["Phoenix Public Library"]
 shelfmark: |
   -Q- PR 2751 A4 (Copy 5)
 isLocationVerified: TRUE

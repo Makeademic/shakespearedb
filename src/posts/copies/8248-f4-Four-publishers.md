@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 264
-location_name: [Bucknell University]
+location_name: ["Bucknell University"]
 shelfmark: |
   Rare Books Oversize PR2751 .A4
 isLocationVerified: FALSE

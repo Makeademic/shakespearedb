@@ -1,6 +1,6 @@
 ---
 id: 2584
-order: 586
+order: 0586
 NSC: "514"
 filename: 514-king-lear-2
 copy_URL: /514-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 47
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   PR2750 .A15 1619 (6)
 isLocationVerified: TRUE

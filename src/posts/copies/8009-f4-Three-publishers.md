@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 83
-location_name: [San Francisco Public Library]
+location_name: ["San Francisco Public Library"]
 shelfmark: |
   PR2751 .A4 1685
 isLocationVerified: TRUE

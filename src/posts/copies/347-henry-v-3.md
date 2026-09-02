@@ -1,6 +1,6 @@
 ---
 id: 1571
-order: 383
+order: 0383
 NSC: "347"
 filename: 347-henry-v-3
 copy_URL: /347-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 54
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2812 .A1 1619 *
 isLocationVerified: TRUE

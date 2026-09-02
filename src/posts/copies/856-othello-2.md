@@ -1,6 +1,6 @@
 ---
 id: 212
-order: 939
+order: 0939
 NSC: "856"
 filename: 856-othello-2
 copy_URL: /856-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 24
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22306
 isLocationVerified: TRUE

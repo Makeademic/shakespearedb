@@ -1,6 +1,6 @@
 ---
 id: 911
-order: 520
+order: 0520
 NSC: "455"
 filename: 455-julius-caesar-5
 copy_URL: /455-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 29
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Vet. A3 e.833
 isLocationVerified: TRUE

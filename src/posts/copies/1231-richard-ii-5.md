@@ -31,7 +31,7 @@ DEEP: 222
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 11
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   *KC 1615 (Shakespeare, W. Plays. Richard II. 1615.Tragedie of King Richard the Second)
 isLocationVerified: TRUE

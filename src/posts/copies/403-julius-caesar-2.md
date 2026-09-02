@@ -1,6 +1,6 @@
 ---
 id: 4775
-order: 454
+order: 0454
 NSC: "403"
 filename: 403-julius-caesar-2
 copy_URL: /403-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 2
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   C.131.c.14.
 isLocationVerified: TRUE

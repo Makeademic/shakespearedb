@@ -1,6 +1,6 @@
 ---
 id: 493
-order: 373
+order: 0373
 NSC: "337"
 filename: 337-henry-v-3
 copy_URL: /337-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 120
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   PET 15
 isLocationVerified: TRUE

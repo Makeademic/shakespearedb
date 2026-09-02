@@ -32,7 +32,7 @@ DEEP: 5086
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 7
-location_name: [Southern Oregon University]
+location_name: ["Southern Oregon University"]
 shelfmark: |
   STC 22274 Fo.2 no.46
 isLocationVerified: TRUE

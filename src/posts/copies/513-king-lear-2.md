@@ -1,6 +1,6 @@
 ---
 id: 585
-order: 585
+order: 0585
 NSC: "513"
 filename: 513-king-lear-2
 copy_URL: /513-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 26
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   SR 35.17 (1170)
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 924
-order: 689
+order: 0689
 NSC: "612"
 filename: 612-macbeth-1
 copy_URL: /612-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 2
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   C.57.l.4
 isLocationVerified: TRUE

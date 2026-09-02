@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 265
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   PR 2751 .A15 1685
 isLocationVerified: FALSE

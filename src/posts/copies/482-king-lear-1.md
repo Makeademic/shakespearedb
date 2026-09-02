@@ -1,6 +1,6 @@
 ---
 id: 1715
-order: 552
+order: 0552
 NSC: "482"
 filename: 482-king-lear-1
 copy_URL: /482-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 13
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Deposit
 isLocationVerified: TRUE

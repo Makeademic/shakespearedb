@@ -1,6 +1,6 @@
 ---
 id: 551
-order: 48
+order: 0048
 NSC: "46"
 filename: 46-hamlet-3
 copy_URL: /46-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   69306
 isLocationVerified: TRUE

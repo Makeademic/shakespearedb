@@ -1,6 +1,6 @@
 ---
 id: 1993
-order: 870
+order: 0870
 NSC: "789"
 filename: 789-midsummer-nights-dream-2
 copy_URL: /789-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 96
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

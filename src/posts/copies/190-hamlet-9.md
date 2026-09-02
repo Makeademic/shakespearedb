@@ -1,6 +1,6 @@
 ---
 id: 896
-order: 220
+order: 0220
 NSC: "190"
 filename: 190-hamlet-9
 copy_URL: /190-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 20
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   Ig 6c 695
 isLocationVerified: TRUE

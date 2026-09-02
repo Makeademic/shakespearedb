@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 75
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   STC 22274e
 isLocationVerified: FALSE

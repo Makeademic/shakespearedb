@@ -1,6 +1,6 @@
 ---
 id: 1351
-order: 987
+order: 0987
 NSC: "900"
 filename: 900-othello-4
 copy_URL: /900-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 17
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   G.4013.23
 isLocationVerified: TRUE

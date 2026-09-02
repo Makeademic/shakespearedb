@@ -31,7 +31,7 @@ DEEP: 234
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 7
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   STC 22323 Copy 2
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 449
-order: 287
+order: 0287
 NSC: "257"
 filename: 257-1-henry-iv-9
 copy_URL: /257-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 2
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   C.34.k.11
 isLocationVerified: TRUE

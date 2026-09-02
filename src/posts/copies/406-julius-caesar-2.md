@@ -1,6 +1,6 @@
 ---
 id: 1675
-order: 459
+order: 0459
 NSC: "406"
 filename: 406-julius-caesar-2
 copy_URL: /406-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   S2927 Bd.w. L856 copy 2
 isLocationVerified: TRUE

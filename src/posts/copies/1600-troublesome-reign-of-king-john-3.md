@@ -31,7 +31,7 @@ DEEP: 5023
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 12
-location_name: [Stanford University]
+location_name: ["Stanford University"]
 shelfmark: |
   Dyce 26 Box 41/4
 isLocationVerified: TRUE

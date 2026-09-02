@@ -1,6 +1,6 @@
 ---
 id: 1196
-order: 363
+order: 0363
 NSC: "331"
 filename: 331-henry-v-3
 copy_URL: /331-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 7
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   STC 22291 Copy 7
 isLocationVerified: TRUE

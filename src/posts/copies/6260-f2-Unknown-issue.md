@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 339
-location_name: [University of Leipzig]
+location_name: ["University of Leipzig"]
 shelfmark: |
   PR2751 .A2 1632
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1303
-order: 800
+order: 0800
 NSC: "719"
 filename: 719-merry-wives-of-windsor-2
 copy_URL: /719-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 3
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Capell Q.11[2]
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 53
-location_name: [Ron Gillespie collection]
+location_name: ["Ron Gillespie collection"]
 shelfmark: |
   LlGC Gogledd PRINT Wing S2915
 isLocationVerified: FALSE

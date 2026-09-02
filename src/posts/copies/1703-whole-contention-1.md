@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 11
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Whole Contention betweene the two Famous Houses, Lancaster and Yorke) copy 1
 isLocationVerified: TRUE

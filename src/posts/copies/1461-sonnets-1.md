@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 7
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   STC 22353a
 isLocationVerified: TRUE

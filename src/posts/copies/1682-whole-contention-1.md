@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 3
-location_name: [Newcastle University]
+location_name: ["Newcastle University"]
 shelfmark: |
   Capell Q.12[3]
 isLocationVerified: TRUE

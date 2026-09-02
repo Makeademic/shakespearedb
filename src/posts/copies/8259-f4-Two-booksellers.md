@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 7
-location_name: [Hill Museum & Manuscript Library]
+location_name: ["Hill Museum & Manuscript Library"]
 shelfmark: |
   S2915 Fo.4 no.16
 isLocationVerified: TRUE

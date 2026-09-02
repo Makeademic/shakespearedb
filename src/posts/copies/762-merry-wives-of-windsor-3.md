@@ -1,6 +1,6 @@
 ---
 id: 59
-order: 843
+order: 0843
 NSC: "762"
 filename: 762-merry-wives-of-windsor-3
 copy_URL: /762-merry-wives-of-windsor-3/
@@ -31,7 +31,7 @@ DEEP: 330
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 29
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Arch. G d.40 (4)
 isLocationVerified: TRUE

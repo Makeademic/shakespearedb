@@ -1,6 +1,6 @@
 ---
 id: 175
-order: 903
+order: 0903
 NSC: "821"
 filename: 821-much-ado-about-nothing-1
 copy_URL: /821-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 12
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Dyce 26 Box 42/3
 isLocationVerified: TRUE

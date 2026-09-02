@@ -1,6 +1,6 @@
 ---
 id: 926
-order: 692
+order: 0692
 NSC: "615"
 filename: 615-macbeth-1
 copy_URL: /615-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 24
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   *EC Sh154 673m
 isLocationVerified: TRUE

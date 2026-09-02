@@ -1,6 +1,6 @@
 ---
 id: 500
-order: 364
+order: 0364
 NSC: "332"
 filename: 332-henry-v-3
 copy_URL: /332-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 24
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   STC 22291
 isLocationVerified: TRUE

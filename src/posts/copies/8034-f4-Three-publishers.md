@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 7
-location_name: [Württembergische Landesbibliothek, Stuttgart (State Library of Württemberg)]
+location_name: ["Württembergische Landesbibliothek, Stuttgart (State Library of Württemberg)"]
 shelfmark: |
   S2915 Fo.4 no.15
 isLocationVerified: TRUE

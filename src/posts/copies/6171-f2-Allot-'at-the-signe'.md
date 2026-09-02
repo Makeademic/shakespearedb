@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 39
-location_name: [University of Iowa]
+location_name: ["University of Iowa"]
 shelfmark: |
   Case folio YS 02
 isLocationVerified: TRUE

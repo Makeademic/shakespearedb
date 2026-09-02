@@ -1,6 +1,6 @@
 ---
 id: 1297
-order: 779
+order: 0779
 NSC: "698"
 filename: 698-merchant-of-venice-3
 copy_URL: /698-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 7
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   S2938 Copy 1
 isLocationVerified: TRUE

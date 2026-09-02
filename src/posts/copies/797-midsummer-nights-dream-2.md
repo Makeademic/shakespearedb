@@ -1,6 +1,6 @@
 ---
 id: 1599
-order: 879
+order: 0879
 NSC: "797"
 filename: 797-midsummer-nights-dream-2
 copy_URL: /797-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 42
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   EX 3925.364.111
 isLocationVerified: TRUE

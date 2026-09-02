@@ -1,6 +1,6 @@
 ---
 id: 554
-order: 47
+order: 0047
 NSC: "45"
 filename: 45-hamlet-3
 copy_URL: /45-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 24
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 22277
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Worcester College]
+location_name: ["Oxford University, Worcester College"]
 shelfmark: |
   S2942 Copy 2
 isLocationVerified: TRUE

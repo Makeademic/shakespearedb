@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 336
-location_name: [McGill University]
+location_name: ["McGill University"]
 shelfmark: |
   MEF 822.33 SHA 1632
 isLocationVerified: TRUE

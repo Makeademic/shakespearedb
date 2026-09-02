@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 42
-location_name: [University of Kansas]
+location_name: ["University of Kansas"]
 shelfmark: |
   S.3.8
 isLocationVerified: TRUE

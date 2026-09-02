@@ -1,6 +1,6 @@
 ---
 id: 1104
-order: 36
+order: 0036
 NSC: "34"
 filename: 34-hamlet-2
 copy_URL: /34-hamlet-2/
@@ -32,7 +32,7 @@ DEEP: 349
 extant_ed_copies: 4
 ed_fragment: 
 location_id: 3
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Capell S.31[2]
 isLocationVerified: TRUE

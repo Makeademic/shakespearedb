@@ -1,6 +1,6 @@
 ---
 id: 1316
-order: 841
+order: 0841
 NSC: "760"
 filename: 760-merry-wives-of-windsor-3
 copy_URL: /760-merry-wives-of-windsor-3/
@@ -31,7 +31,7 @@ DEEP: 330
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 16
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Bute.499
 isLocationVerified: TRUE

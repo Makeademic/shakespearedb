@@ -1,6 +1,6 @@
 ---
 id: 1512
-order: 636
+order: 0636
 NSC: "561"
 filename: 561-london-prodigal-1
 copy_URL: /561-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 96
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

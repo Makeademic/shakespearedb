@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 9
-location_name: [Indiana University, Lilly Library]
+location_name: ["Indiana University, Lilly Library"]
 shelfmark: |
   Hb.3.21
 isLocationVerified: FALSE

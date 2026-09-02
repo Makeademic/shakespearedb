@@ -1,6 +1,6 @@
 ---
 id: 184
-order: 906
+order: 0906
 NSC: "824"
 filename: 824-othello-1
 copy_URL: /824-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 2
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   C.34.k.32
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 513
-order: 324
+order: 0324
 NSC: "292"
 filename: 292-2-henry-iv-1
 copy_URL: /292-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 294
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 2
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   C.34.k.12
 isLocationVerified: TRUE

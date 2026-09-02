@@ -1,6 +1,6 @@
 ---
 id: 1249
-order: 618
+order: 0618
 NSC: "544"
 filename: 544-locrine-1
 copy_URL: /544-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 7
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   STC 21528 copy 2
 isLocationVerified: TRUE

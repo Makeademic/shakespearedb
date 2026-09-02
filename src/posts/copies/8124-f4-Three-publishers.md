@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 320
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   822 S527, J, 1685 Vault
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 1612
-order: 521
+order: 0521
 NSC: "456"
 filename: 456-julius-caesar-4
 copy_URL: /456-julius-caesar-4/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 42
-location_name: [Oxford University, Bodleian Library, Verulam Deposit]
+location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: |
   PR2808 .xA1 1684c
 isLocationVerified: TRUE

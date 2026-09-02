@@ -1,6 +1,6 @@
 ---
 id: 586
-order: 575
+order: 0575
 NSC: "504"
 filename: 504-king-lear-2
 copy_URL: /504-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 120
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   PET 14
 isLocationVerified: TRUE

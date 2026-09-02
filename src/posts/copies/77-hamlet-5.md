@@ -1,6 +1,6 @@
 ---
 id: 575
-order: 79
+order: 0079
 NSC: "77"
 filename: 77-hamlet-5
 copy_URL: /77-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 2
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   C.34.k.5
 isLocationVerified: TRUE

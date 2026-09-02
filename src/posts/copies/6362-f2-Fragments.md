@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 327
-location_name: [University at Buffalo]
+location_name: ["University at Buffalo"]
 shelfmark: |
   PR2751 .A1 1623
 isLocationVerified: FALSE

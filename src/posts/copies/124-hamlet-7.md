@@ -1,6 +1,6 @@
 ---
 id: 893
-order: 144
+order: 0144
 NSC: "124"
 filename: 124-hamlet-7
 copy_URL: /124-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 2
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   1344.f.30
 isLocationVerified: TRUE

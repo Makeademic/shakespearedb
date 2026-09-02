@@ -1,6 +1,6 @@
 ---
 id: 1171
-order: 277
+order: 0277
 NSC: "247"
 filename: 247-1-henry-iv-8
 copy_URL: /247-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   STC 22286 Copy 1
 isLocationVerified: TRUE

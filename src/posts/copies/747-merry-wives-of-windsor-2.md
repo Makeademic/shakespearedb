@@ -1,6 +1,6 @@
 ---
 id: 66
-order: 828
+order: 0828
 NSC: "747"
 filename: 747-merry-wives-of-windsor-2
 copy_URL: /747-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 15
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   822.33 P51619
 isLocationVerified: TRUE

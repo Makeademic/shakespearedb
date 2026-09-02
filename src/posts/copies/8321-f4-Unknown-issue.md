@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 49
-location_name: [Ron Gillespie collection]
+location_name: ["Ron Gillespie collection"]
 shelfmark: |
   Sp Coll f234
 isLocationVerified: TRUE

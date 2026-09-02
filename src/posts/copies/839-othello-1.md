@@ -1,6 +1,6 @@
 ---
 id: 186
-order: 922
+order: 0922
 NSC: "839"
 filename: 839-othello-1
 copy_URL: /839-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 12
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Dyce 26 Box 42/4
 isLocationVerified: TRUE

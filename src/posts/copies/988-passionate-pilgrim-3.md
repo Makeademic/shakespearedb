@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 29
-location_name: [Charleston Library Society]
+location_name: ["Charleston Library Society"]
 shelfmark: |
   Arch. G g.1
 isLocationVerified: TRUE

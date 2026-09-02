@@ -1,6 +1,6 @@
 ---
 id: 1301
-order: 791
+order: 0791
 NSC: "710"
 filename: 710-merry-wives-of-windsor-1
 copy_URL: /710-merry-wives-of-windsor-1/
@@ -31,7 +31,7 @@ DEEP: 328
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 7
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   STC 22299
 isLocationVerified: TRUE

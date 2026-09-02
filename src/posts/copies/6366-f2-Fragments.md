@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 297
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   Special Collections Folio/Oversize   PR2751 .A2
 isLocationVerified: FALSE

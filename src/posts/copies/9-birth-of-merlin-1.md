@@ -1,6 +1,6 @@
 ---
 id: 1097
-order: 10
+order: 0010
 NSC: "9"
 filename: 9-birth-of-merlin-1
 copy_URL: /9-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   R2096 Copy 3
 isLocationVerified: TRUE

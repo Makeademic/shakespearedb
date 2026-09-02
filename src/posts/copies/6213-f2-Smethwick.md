@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 8
-location_name: [Bryn Mawr College]
+location_name: ["Bryn Mawr College"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

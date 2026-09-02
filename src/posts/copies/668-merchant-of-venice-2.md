@@ -1,6 +1,6 @@
 ---
 id: 1087
-order: 749
+order: 0749
 NSC: "668"
 filename: 668-merchant-of-venice-2
 copy_URL: /668-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 31
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   PR2825 .A1 1619
 isLocationVerified: TRUE

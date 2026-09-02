@@ -1,6 +1,6 @@
 ---
 id: 148
-order: 773
+order: 0773
 NSC: "692"
 filename: 692-merchant-of-venice-3
 copy_URL: /692-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: [Unknown]
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 31
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Furness PR2750 .A25 1637
 isLocationVerified: TRUE

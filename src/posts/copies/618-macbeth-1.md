@@ -1,6 +1,6 @@
 ---
 id: 920
-order: 695
+order: 0695
 NSC: "618"
 filename: 618-macbeth-1
 copy_URL: /618-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 39
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   Case 4A 955
 isLocationVerified: TRUE

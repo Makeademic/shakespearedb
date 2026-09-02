@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 222
-location_name: [Duke University]
+location_name: ["Duke University"]
 shelfmark: |
   Morton 334
 isLocationVerified: TRUE

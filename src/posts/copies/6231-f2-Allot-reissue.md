@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 5
-location_name: [Phoenix Public Library]
+location_name: ["Phoenix Public Library"]
 shelfmark: |
   69387
 isLocationVerified: TRUE

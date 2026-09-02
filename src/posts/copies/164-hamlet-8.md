@@ -1,6 +1,6 @@
 ---
 id: 957
-order: 190
+order: 0190
 NSC: "164"
 filename: 164-hamlet-8
 copy_URL: /164-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 20
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Ig 6c 683
 isLocationVerified: TRUE

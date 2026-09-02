@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 62
-location_name: [Trinity College (Hartford, CT)]
+location_name: ["Trinity College (Hartford, CT)"]
 shelfmark: |
   Bender D.1.3
 isLocationVerified: TRUE

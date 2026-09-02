@@ -31,7 +31,7 @@ DEEP: 225
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G d.44 (4)
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 269
-location_name: [Cornell University]
+location_name: ["Cornell University"]
 shelfmark: |
   PR2751 .A2525 1632
 isLocationVerified: FALSE

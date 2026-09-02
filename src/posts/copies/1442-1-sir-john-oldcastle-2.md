@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 8
-location_name: [Columbia University]
+location_name: ["Columbia University"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 1225
-order: 516
+order: 0516
 NSC: "452"
 filename: 452-julius-caesar-4
 copy_URL: /452-julius-caesar-4/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   S2924 Copy 2
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 901
-order: 211
+order: 0211
 NSC: "184"
 filename: 184-hamlet-9
 copy_URL: /184-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 24
-location_name: [Cambridge University, Emmanuel College]
+location_name: ["Cambridge University, Emmanuel College"]
 shelfmark: |
   13408.100.60*
 isLocationVerified: TRUE

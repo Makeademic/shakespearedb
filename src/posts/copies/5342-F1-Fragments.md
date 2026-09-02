@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   STC 22273 Fo.1 misc. frag. 04
 isLocationVerified: TRUE

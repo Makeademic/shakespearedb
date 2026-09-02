@@ -31,7 +31,7 @@ DEEP: 546
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 17
-location_name: [Oxford University, Christ Church]
+location_name: ["Oxford University, Christ Church"]
 shelfmark: |
   G.176.27
 isLocationVerified: TRUE

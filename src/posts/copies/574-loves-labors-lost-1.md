@@ -1,6 +1,6 @@
 ---
 id: 222
-order: 649
+order: 0649
 NSC: "574"
 filename: 574-loves-labors-lost-1
 copy_URL: /574-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 24
-location_name: [University of Wisconsin, Madison]
+location_name: ["University of Wisconsin, Madison"]
 shelfmark: |
   STC 22294
 isLocationVerified: TRUE

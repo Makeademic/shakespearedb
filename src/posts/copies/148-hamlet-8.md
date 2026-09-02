@@ -1,6 +1,6 @@
 ---
 id: 1139
-order: 171
+order: 0171
 NSC: "148"
 filename: 148-hamlet-8
 copy_URL: /148-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 3
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   H.10.86[2]
 isLocationVerified: TRUE

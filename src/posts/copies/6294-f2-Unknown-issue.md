@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 168
-location_name: [Oxford University, Wadham College]
+location_name: ["Oxford University, Wadham College"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

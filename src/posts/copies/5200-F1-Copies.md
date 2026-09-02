@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 44
-location_name: [National Trust, Ickworth House]
+location_name: ["National Trust, Ickworth House"]
 shelfmark: |
   PR2751 .A1 1623
 isLocationVerified: TRUE

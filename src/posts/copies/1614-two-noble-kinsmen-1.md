@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 7
-location_name: [Bayerische Staatsbibliothek (Bavarian State Library)]
+location_name: ["Bayerische Staatsbibliothek (Bavarian State Library)"]
 shelfmark: |
   STC 11075 Copy 2
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 108
-location_name: [Staatsbibliothek zu Berlin—Preussischer Kulturbesitz (Berlin State Library—Prussian Cultural Heritage)]
+location_name: ["Staatsbibliothek zu Berlin—Preussischer Kulturbesitz (Berlin State Library—Prussian Cultural Heritage)"]
 shelfmark: |
   FOLIO Z8813 .W5
 isLocationVerified: TRUE

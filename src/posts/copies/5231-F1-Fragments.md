@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 332
-location_name: [Longleat House (Marquess of Bath)]
+location_name: ["Longleat House (Marquess of Bath)"]
 shelfmark: |
   f FW GP 234 1935
 isLocationVerified: TRUE

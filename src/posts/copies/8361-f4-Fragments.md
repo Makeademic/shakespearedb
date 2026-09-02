@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 139
-location_name: [Anne and Roger Cognard Collection]
+location_name: ["Anne and Roger Cognard Collection"]
 shelfmark: |
   Z250.E4
 isLocationVerified: TRUE

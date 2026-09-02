@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 160
-location_name: [University of British Colubmia]
+location_name: ["University of British Colubmia"]
 shelfmark: |
   822.33 A Shak
 isLocationVerified: TRUE

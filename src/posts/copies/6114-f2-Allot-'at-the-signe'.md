@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 258
-location_name: [University of Louisville]
+location_name: ["University of Louisville"]
 shelfmark: |
   822.33 ISh15m 1632
 isLocationVerified: TRUE

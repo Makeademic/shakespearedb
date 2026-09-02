@@ -1,6 +1,6 @@
 ---
 id: 128
-order: 721
+order: 0721
 NSC: "643"
 filename: 643-merchant-of-venice-2
 copy_URL: /643-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 2
-location_name: [York Minster]
+location_name: ["York Minster"]
 shelfmark: |
   C.12.g.31
 isLocationVerified: TRUE

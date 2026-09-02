@@ -1,6 +1,6 @@
 ---
 id: 1189
-order: 337
+order: 0337
 NSC: "305"
 filename: 305-henry-v-1
 copy_URL: /305-henry-v-1/
@@ -31,7 +31,7 @@ DEEP: 288
 extant_ed_copies: 0
 ed_fragment: 1
 location_id: 7
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   STC 22289
 isLocationVerified: TRUE

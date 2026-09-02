@@ -1,6 +1,6 @@
 ---
 id: 182
-order: 913
+order: 0913
 NSC: "831"
 filename: 831-othello-1
 copy_URL: /831-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 5
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   69337
 isLocationVerified: TRUE

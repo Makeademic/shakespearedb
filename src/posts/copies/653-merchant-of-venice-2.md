@@ -1,6 +1,6 @@
 ---
 id: 130
-order: 731
+order: 0731
 NSC: "653"
 filename: 653-merchant-of-venice-2
 copy_URL: /653-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 24
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 22297
 isLocationVerified: TRUE

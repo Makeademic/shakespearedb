@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 11
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   *KC 1687 (Shakespeare, W. Othello, the Moor of Venice)
 isLocationVerified: TRUE

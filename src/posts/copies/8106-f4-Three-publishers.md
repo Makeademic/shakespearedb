@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 205
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   THOM 8223304
 isLocationVerified: FALSE

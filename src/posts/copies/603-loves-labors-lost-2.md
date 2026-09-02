@@ -1,6 +1,6 @@
 ---
 id: 1576
-order: 679
+order: 0679
 NSC: "603"
 filename: 603-loves-labors-lost-2
 copy_URL: /603-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 54
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2822 .A1 1631 *
 isLocationVerified: TRUE

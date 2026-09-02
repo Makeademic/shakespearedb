@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 92
-location_name: [Washington University in St. Louis]
+location_name: ["Washington University in St. Louis"]
 shelfmark: |
   825 SB 1632
 isLocationVerified: TRUE

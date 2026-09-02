@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 29
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Arch. G e.32 (3)
 isLocationVerified: TRUE

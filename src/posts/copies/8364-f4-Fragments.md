@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 320
-location_name: [Anne and Roger Cognard Collection]
+location_name: ["Anne and Roger Cognard Collection"]
 shelfmark: |
   822 S527, P1 Vault
 isLocationVerified: FALSE

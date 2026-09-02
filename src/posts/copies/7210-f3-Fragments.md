@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 334
-location_name: [Brigham Young University]
+location_name: ["Brigham Young University"]
 shelfmark: |
   GRABHORN TYP COLL  copy 1
 isLocationVerified: TRUE

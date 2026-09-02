@@ -1,6 +1,6 @@
 ---
 id: 882
-order: 12
+order: 0012
 NSC: "11"
 filename: 11-birth-of-merlin-1
 copy_URL: /11-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   105496
 isLocationVerified: TRUE

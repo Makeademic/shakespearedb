@@ -1,6 +1,6 @@
 ---
 id: 1229
-order: 544
+order: 0544
 NSC: "474"
 filename: 474-king-lear-1
 copy_URL: /474-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 3
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Capell S.35[1]
 isLocationVerified: TRUE

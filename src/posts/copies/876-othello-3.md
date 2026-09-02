@@ -1,6 +1,6 @@
 ---
 id: 1040
-order: 962
+order: 0962
 NSC: "876"
 filename: 876-othello-3
 copy_URL: /876-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 2
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   C.34.k.35
 isLocationVerified: TRUE

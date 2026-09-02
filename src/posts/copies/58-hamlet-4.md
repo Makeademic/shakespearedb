@@ -1,6 +1,6 @@
 ---
 id: 564
-order: 60
+order: 0060
 NSC: "58"
 filename: 58-hamlet-4
 copy_URL: /58-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 2
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   C.34.k.3
 isLocationVerified: TRUE

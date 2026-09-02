@@ -1,6 +1,6 @@
 ---
 id: 1182
-order: 315
+order: 0315
 NSC: "283"
 filename: 283-2-henry-iv-1
 copy_URL: /283-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 293
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22288
 isLocationVerified: TRUE

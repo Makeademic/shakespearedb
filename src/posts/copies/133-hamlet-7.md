@@ -1,6 +1,6 @@
 ---
 id: 1488
-order: 153
+order: 0153
 NSC: "133"
 filename: 133-hamlet-7
 copy_URL: /133-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 96
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

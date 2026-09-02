@@ -1,6 +1,6 @@
 ---
 id: 1217
-order: 502
+order: 0502
 NSC: "439"
 filename: 439-julius-caesar-3
 copy_URL: /439-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 91
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   120025
 isLocationVerified: TRUE

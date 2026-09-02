@@ -32,7 +32,7 @@ DEEP: 5085
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 37
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Thackeray.21.B.10
 isLocationVerified: FALSE

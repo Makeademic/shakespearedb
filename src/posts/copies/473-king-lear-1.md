@@ -1,6 +1,6 @@
 ---
 id: 605
-order: 543
+order: 0543
 NSC: "473"
 filename: 473-king-lear-1
 copy_URL: /473-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 2
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   C.34.k.18
 isLocationVerified: TRUE

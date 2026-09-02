@@ -1,6 +1,6 @@
 ---
 id: 487
-order: 365
+order: 0365
 NSC: "333"
 filename: 333-henry-v-3
 copy_URL: /333-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 94
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Philips 48
 isLocationVerified: TRUE

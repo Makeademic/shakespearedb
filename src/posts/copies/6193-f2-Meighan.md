@@ -32,7 +32,7 @@ DEEP: 5086
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 122
-location_name: [University of Wisconsin, Milwaukee]
+location_name: ["University of Wisconsin, Milwaukee"]
 shelfmark: |
   F2-26 MR 4355
 isLocationVerified: TRUE

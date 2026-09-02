@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 20
-location_name: [State Library of Victoria]
+location_name: ["State Library of Victoria"]
 shelfmark: |
   1978 +60
 isLocationVerified: TRUE

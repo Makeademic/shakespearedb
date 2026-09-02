@@ -1,6 +1,6 @@
 ---
 id: 1572
-order: 747
+order: 0747
 NSC: "666"
 filename: 666-merchant-of-venice-2
 copy_URL: /666-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 54
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   PR2825 .A1 1619 *
 isLocationVerified: TRUE

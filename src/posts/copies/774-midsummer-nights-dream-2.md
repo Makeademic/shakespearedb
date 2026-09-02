@@ -1,6 +1,6 @@
 ---
 id: 285
-order: 855
+order: 0855
 NSC: "774"
 filename: 774-midsummer-nights-dream-2
 copy_URL: /774-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 2
-location_name: [Cardiff University]
+location_name: ["Cardiff University"]
 shelfmark: |
   C.12.g.30
 isLocationVerified: TRUE

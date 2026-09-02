@@ -1,6 +1,6 @@
 ---
 id: 1122
-order: 88
+order: 0088
 NSC: "85"
 filename: 85-hamlet-5
 copy_URL: /85-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   STC 22279 Copy 3
 isLocationVerified: TRUE

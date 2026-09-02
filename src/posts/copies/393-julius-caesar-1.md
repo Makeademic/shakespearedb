@@ -1,6 +1,6 @@
 ---
 id: 1046
-order: 442
+order: 0442
 NSC: "393"
 filename: 393-julius-caesar-1
 copy_URL: /393-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 15
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   822.33 TI
 isLocationVerified: TRUE

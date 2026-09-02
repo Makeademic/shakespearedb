@@ -1,6 +1,6 @@
 ---
 id: 1186
-order: 327
+order: 0327
 NSC: "295"
 filename: 295-2-henry-iv-1
 copy_URL: /295-2-henry-iv-1/
@@ -32,7 +32,7 @@ DEEP: 294
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 22288a Copy 2 Bd.w. STC 22282
 isLocationVerified: TRUE

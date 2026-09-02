@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 44
-location_name: [Wormsley Library]
+location_name: ["Wormsley Library"]
 shelfmark: |
   PR2751 .A2 1632 copy 2
 isLocationVerified: TRUE

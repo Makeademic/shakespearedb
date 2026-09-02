@@ -1,6 +1,6 @@
 ---
 id: 975
-order: 112
+order: 0112
 NSC: "104"
 filename: 104-hamlet-6
 copy_URL: /104-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 21
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   S317.1676
 isLocationVerified: TRUE

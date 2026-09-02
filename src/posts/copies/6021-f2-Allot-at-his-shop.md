@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 122
-location_name: [Penn State University]
+location_name: ["Penn State University"]
 shelfmark: |
   F2-01 MR 0121
 isLocationVerified: TRUE

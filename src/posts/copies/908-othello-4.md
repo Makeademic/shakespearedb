@@ -1,6 +1,6 @@
 ---
 id: 1353
-order: 995
+order: 0995
 NSC: "908"
 filename: 908-othello-4
 copy_URL: /908-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   S2940 Copy 6
 isLocationVerified: TRUE

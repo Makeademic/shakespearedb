@@ -31,7 +31,7 @@ DEEP: 523
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 5
-location_name: [Guildhall Library]
+location_name: ["Guildhall Library"]
 shelfmark: |
   69372
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1587
-order: 26
+order: 0026
 NSC: "24"
 filename: 24-birth-of-merlin-1
 copy_URL: /24-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 20
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   Ih R798 662
 isLocationVerified: TRUE

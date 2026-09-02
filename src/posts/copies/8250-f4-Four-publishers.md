@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 52
-location_name: [Bucknell University]
+location_name: ["Bucknell University"]
 shelfmark: |
   E 1685 .S43
 isLocationVerified: FALSE

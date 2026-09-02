@@ -1,6 +1,6 @@
 ---
 id: 1347
-order: 964
+order: 0964
 NSC: "878"
 filename: 878-othello-3
 copy_URL: /878-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 3
-location_name: [University of Michigan]
+location_name: ["University of Michigan"]
 shelfmark: |
   Capell R.22[1]
 isLocationVerified: TRUE

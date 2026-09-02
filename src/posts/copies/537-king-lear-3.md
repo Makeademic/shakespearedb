@@ -1,6 +1,6 @@
 ---
 id: 947
-order: 611
+order: 0611
 NSC: "537"
 filename: 537-king-lear-3
 copy_URL: /537-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 20
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Ig 6g 655
 isLocationVerified: TRUE

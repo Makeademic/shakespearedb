@@ -1,6 +1,6 @@
 ---
 id: 1498
-order: 914
+order: 0914
 NSC: "832"
 filename: 832-othello-1
 copy_URL: /832-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 96
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

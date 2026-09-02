@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 20
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Speck Tp S731 +632
 isLocationVerified: TRUE

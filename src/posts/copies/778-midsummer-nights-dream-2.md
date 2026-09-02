@@ -1,6 +1,6 @@
 ---
 id: 278
-order: 859
+order: 0859
 NSC: "778"
 filename: 778-midsummer-nights-dream-2
 copy_URL: /778-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 9
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   JA 3710
 isLocationVerified: TRUE

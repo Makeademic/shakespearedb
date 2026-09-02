@@ -1,6 +1,6 @@
 ---
 id: 1234
-order: 563
+order: 0563
 NSC: "493"
 filename: 493-king-lear-2
 copy_URL: /493-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   STC 22293 Copy 1
 isLocationVerified: TRUE

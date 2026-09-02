@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 7
-location_name: [Stanford University]
+location_name: ["Stanford University"]
 shelfmark: |
   STC 22274 Fo.2 no.07
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1318
-order: 847
+order: 0847
 NSC: "766"
 filename: 766-midsummer-nights-dream-1
 copy_URL: /766-midsummer-nights-dream-1/
@@ -31,7 +31,7 @@ DEEP: 297
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 3
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Capell S.27[3]
 isLocationVerified: TRUE

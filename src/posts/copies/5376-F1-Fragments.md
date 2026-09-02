@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 331
-location_name: [Buffalo and Erie County Public Library]
+location_name: ["Buffalo and Erie County Public Library"]
 shelfmark: |
   PR2751.A16 O7 1935
 isLocationVerified: TRUE

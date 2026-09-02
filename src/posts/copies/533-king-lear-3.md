@@ -1,6 +1,6 @@
 ---
 id: 946
-order: 606
+order: 0606
 NSC: "533"
 filename: 533-king-lear-3
 copy_URL: /533-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 11
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   *KC 1655 (Shakespeare, W. M. William Shake-speare, his True chronicle history of the life and death of King Lear)
 isLocationVerified: TRUE

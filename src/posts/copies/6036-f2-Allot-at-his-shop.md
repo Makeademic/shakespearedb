@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 8
-location_name: [University of Leeds, Brotherton Library]
+location_name: ["University of Leeds, Brotherton Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

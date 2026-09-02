@@ -1,6 +1,6 @@
 ---
 id: 446
-order: 302
+order: 0302
 NSC: "272"
 filename: 272-1-henry-iv-9
 copy_URL: /272-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 11
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   *KC 1639 (Shakespeare, W. Historie Of Henry the Fourth)
 isLocationVerified: TRUE

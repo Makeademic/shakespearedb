@@ -32,7 +32,7 @@ DEEP: 550
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 16
-location_name: [John Carter Brown Library]
+location_name: ["John Carter Brown Library"]
 shelfmark: |
   H.28.e.19
 isLocationVerified: TRUE

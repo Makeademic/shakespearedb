@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 290
-location_name: [University of Akron]
+location_name: ["University of Akron"]
 shelfmark: |
   Z8813 .W55 1935
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1214
-order: 497
+order: 0497
 NSC: "435"
 filename: 435-julius-caesar-3
 copy_URL: /435-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   S2923 Copy 1
 isLocationVerified: TRUE

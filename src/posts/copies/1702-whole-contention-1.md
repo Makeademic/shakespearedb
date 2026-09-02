@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 11
-location_name: [University of Wroclaw]
+location_name: ["University of Wroclaw"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Shakespeare's plays; Pavier's collected edition, 1619)
 isLocationVerified: TRUE

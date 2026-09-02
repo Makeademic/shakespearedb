@@ -31,7 +31,7 @@ DEEP: 5023
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 16
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Bute.487
 isLocationVerified: TRUE

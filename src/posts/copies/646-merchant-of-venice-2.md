@@ -1,6 +1,6 @@
 ---
 id: 1533
-order: 724
+order: 0724
 NSC: "646"
 filename: 646-merchant-of-venice-2
 copy_URL: /646-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 38
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Hickmott 35
 isLocationVerified: TRUE

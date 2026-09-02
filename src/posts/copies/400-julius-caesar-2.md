@@ -1,6 +1,6 @@
 ---
 id: 870
-order: 450
+order: 0450
 NSC: "400"
 filename: 400-julius-caesar-2
 copy_URL: /400-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 21
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   S329.1691
 isLocationVerified: TRUE

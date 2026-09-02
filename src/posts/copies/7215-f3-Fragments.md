@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 62
-location_name: [University of Utah]
+location_name: ["University of Utah"]
 shelfmark: |
   Bender D.1.3
 isLocationVerified: TRUE

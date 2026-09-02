@@ -1,6 +1,6 @@
 ---
 id: 567
-order: 106
+order: 0106
 NSC: "98"
 filename: 98-hamlet-5
 copy_URL: /98-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 15
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   822.33 S71637
 isLocationVerified: TRUE

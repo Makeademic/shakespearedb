@@ -1,6 +1,6 @@
 ---
 id: 1480
-order: 562
+order: 0562
 NSC: "492"
 filename: 492-king-lear-2
 copy_URL: /492-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 33
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Sa1.4.28(3)
 isLocationVerified: TRUE

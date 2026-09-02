@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 8
-location_name: [Oxford University, Exeter College]
+location_name: ["Oxford University, Exeter College"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

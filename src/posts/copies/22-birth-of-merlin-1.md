@@ -1,6 +1,6 @@
 ---
 id: 877
-order: 23
+order: 0023
 NSC: "22"
 filename: 22-birth-of-merlin-1
 copy_URL: /22-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 15
-location_name: [Oxford University, Bodleian Library, Verulam Deposit]
+location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: |
   IUB00496
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 938
-order: 524
+order: 0524
 NSC: "458"
 filename: 458-julius-caesar-5
 copy_URL: /458-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 21
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   S329.168
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 7
-location_name: [St. Louis Public Library]
+location_name: ["St. Louis Public Library"]
 shelfmark: |
   PROMPT 3d Folio T.N. Smock Alley
 isLocationVerified: TRUE

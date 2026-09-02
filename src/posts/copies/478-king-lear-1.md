@@ -1,6 +1,6 @@
 ---
 id: 604
-order: 548
+order: 0548
 NSC: "478"
 filename: 478-king-lear-1
 copy_URL: /478-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 5
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   69324
 isLocationVerified: TRUE

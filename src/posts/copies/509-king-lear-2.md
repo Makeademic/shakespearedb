@@ -1,6 +1,6 @@
 ---
 id: 1468
-order: 580
+order: 0580
 NSC: "509"
 filename: 509-king-lear-2
 copy_URL: /509-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 25
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   PML 15602
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 603
-order: 549
+order: 0549
 NSC: "479"
 filename: 479-king-lear-1
 copy_URL: /479-king-lear-1/
@@ -31,7 +31,7 @@ DEEP: 517
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 11
-location_name: [Oxford University, Balliol College]
+location_name: ["Oxford University, Balliol College"]
 shelfmark: |
   *KC 1608 (Shakespeare, W. M. William Shak-speare: His True Chronicle Historie of the life and death of King Lear and his three Daughters)
 isLocationVerified: TRUE

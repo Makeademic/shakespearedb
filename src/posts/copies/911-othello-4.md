@@ -1,6 +1,6 @@
 ---
 id: 1018
-order: 998
+order: 0998
 NSC: "911"
 filename: 911-othello-4
 copy_URL: /911-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 84
-location_name: [Oxford University, Lincoln College]
+location_name: ["Oxford University, Lincoln College"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: TRUE

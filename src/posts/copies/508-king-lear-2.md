@@ -1,6 +1,6 @@
 ---
 id: 1679
-order: 579
+order: 0579
 NSC: "508"
 filename: 508-king-lear-2
 copy_URL: /508-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 29
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   Vet. A2 e.504
 isLocationVerified: TRUE

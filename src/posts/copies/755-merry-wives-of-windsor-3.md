@@ -1,6 +1,6 @@
 ---
 id: 1314
-order: 836
+order: 0836
 NSC: "755"
 filename: 755-merry-wives-of-windsor-3
 copy_URL: /755-merry-wives-of-windsor-3/
@@ -31,7 +31,7 @@ DEEP: 330
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 3
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Capell T.7[6]
 isLocationVerified: TRUE

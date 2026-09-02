@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 270
-location_name: [University of Michigan]
+location_name: ["University of Michigan"]
 shelfmark: |
   MTC/18
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 337
-location_name: [University of South Carolina]
+location_name: ["University of South Carolina"]
 shelfmark: |
   I Arch.3.18
 isLocationVerified: TRUE

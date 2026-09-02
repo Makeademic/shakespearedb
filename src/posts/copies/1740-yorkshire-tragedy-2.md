@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 39
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Case YS 896 .728
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1340
-order: 934
+order: 0934
 NSC: "851"
 filename: 851-othello-2
 copy_URL: /851-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 7
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   STC 22306 Copy 1
 isLocationVerified: TRUE

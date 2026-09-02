@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 20
-location_name: [Claremont Colleges]
+location_name: ["Claremont Colleges"]
 shelfmark: |
   Ig 12 +632 copy 2
 isLocationVerified: TRUE

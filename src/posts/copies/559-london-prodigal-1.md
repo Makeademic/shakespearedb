@@ -1,6 +1,6 @@
 ---
 id: 778
-order: 634
+order: 0634
 NSC: "559"
 filename: 559-london-prodigal-1
 copy_URL: /559-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 5
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   69328
 isLocationVerified: TRUE

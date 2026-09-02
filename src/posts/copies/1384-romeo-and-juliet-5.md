@@ -31,7 +31,7 @@ DEEP: 238
 extant_ed_copies: 31
 ed_fragment: 
 location_id: 55
-location_name: [Zentralbibliothek Zürich (Zurich Central Library)]
+location_name: ["Zentralbibliothek Zürich (Zurich Central Library)"]
 shelfmark: |
   SSS.44.24
 isLocationVerified: TRUE

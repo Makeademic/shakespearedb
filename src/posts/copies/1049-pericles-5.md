@@ -32,7 +32,7 @@ DEEP: 550
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 3
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Capell R.22[2]
 isLocationVerified: TRUE

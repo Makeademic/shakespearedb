@@ -1,6 +1,6 @@
 ---
 id: 846
-order: 273
+order: 0273
 NSC: "243"
 filename: 243-1-henry-iv-8
 copy_URL: /243-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 2
-location_name: [University of Illinois, Urbana-Champaign]
+location_name: ["University of Illinois, Urbana-Champaign"]
 shelfmark: |
   C.34.k.10
 isLocationVerified: TRUE

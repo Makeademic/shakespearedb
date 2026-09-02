@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 7
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   STC 22273 Fo.1 frag. folder 1
 isLocationVerified: TRUE

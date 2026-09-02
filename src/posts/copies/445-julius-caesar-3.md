@@ -1,6 +1,6 @@
 ---
 id: 1222
-order: 509
+order: 0509
 NSC: "445"
 filename: 445-julius-caesar-3
 copy_URL: /445-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 15
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   822.33 T1 1685a
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1209
-order: 496
+order: 0496
 NSC: "434"
 filename: 434-julius-caesar-3
 copy_URL: /434-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 9
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   Hc.6.31
 isLocationVerified: TRUE

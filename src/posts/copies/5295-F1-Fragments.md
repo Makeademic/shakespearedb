@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [John Carter Brown Library]
+location_name: ["John Carter Brown Library"]
 shelfmark: |
   STC 22273 Fo. 1 Noble Frag. 37
 isLocationVerified: FALSE

@@ -1,6 +1,6 @@
 ---
 id: 119
-order: 739
+order: 0739
 NSC: "659"
 filename: 659-merchant-of-venice-2
 copy_URL: /659-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 29
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   Arch. G d.41 (2)
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 3999
-order: 303
+order: 0303
 NSC: "273"
 filename: 273-1-henry-iv-9
 copy_URL: /273-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 109
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   PR2810 .A1 1639
 isLocationVerified: TRUE

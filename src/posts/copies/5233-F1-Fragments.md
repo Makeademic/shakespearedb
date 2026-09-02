@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 330
-location_name: [Niedersachsische Staats- und Universitatsbibliothek Göttingen (Göttingen State and University Library)]
+location_name: ["Niedersachsische Staats- und Universitatsbibliothek Göttingen (Göttingen State and University Library)"]
 shelfmark: |
   Grabhorn Press Collection Quarto - 1130 HBLL
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 345
-location_name: [West Chester University]
+location_name: ["West Chester University"]
 shelfmark: |
   Berg Coll. +Shakespeare 1632 copy 1
 isLocationVerified: TRUE

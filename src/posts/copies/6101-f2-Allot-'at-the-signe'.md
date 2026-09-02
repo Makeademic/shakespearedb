@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 11
-location_name: [Penn State University]
+location_name: ["Penn State University"]
 shelfmark: |
   *KC+ 1632 (Copy 5)
 isLocationVerified: TRUE

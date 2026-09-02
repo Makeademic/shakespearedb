@@ -32,7 +32,7 @@ DEEP: 224
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 49
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Sp Coll Hunterian Co.3.31a
 isLocationVerified: TRUE

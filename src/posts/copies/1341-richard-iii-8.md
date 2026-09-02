@@ -31,7 +31,7 @@ DEEP: 232
 extant_ed_copies: 22
 ed_fragment: 
 location_id: 15
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   IUB00496
 isLocationVerified: TRUE

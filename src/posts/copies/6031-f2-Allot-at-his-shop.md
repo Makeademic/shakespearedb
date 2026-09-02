@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 181
-location_name: [Smith College]
+location_name: ["Smith College"]
 shelfmark: 
 isLocationVerified: FALSE
 isFacsimileAvailable: FALSE

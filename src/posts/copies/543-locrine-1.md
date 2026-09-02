@@ -1,6 +1,6 @@
 ---
 id: 1248
-order: 617
+order: 0617
 NSC: "543"
 filename: 543-locrine-1
 copy_URL: /543-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 21528 copy 1
 isLocationVerified: TRUE

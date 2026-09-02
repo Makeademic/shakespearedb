@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 7
-location_name: [Edinburgh Napier University]
+location_name: ["Edinburgh Napier University"]
 shelfmark: |
   S2916 (4th Fo.) frag.02
 isLocationVerified: FALSE

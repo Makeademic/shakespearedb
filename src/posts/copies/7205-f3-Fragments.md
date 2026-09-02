@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 5
-location_name: [University of Iowa]
+location_name: ["University of Iowa"]
 shelfmark: |
   218945
 isLocationVerified: TRUE

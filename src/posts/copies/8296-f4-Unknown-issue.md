@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 7
-location_name: [National Library of New Zealand]
+location_name: ["National Library of New Zealand"]
 shelfmark: |
   S2915 Fo.4 no.12
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 100
-location_name: [Kyoto University of Foreign Studies]
+location_name: ["Kyoto University of Foreign Studies"]
 shelfmark: |
   PO2751 .A1 1623 FOLIO
 isLocationVerified: TRUE

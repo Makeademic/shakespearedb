@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 254
-location_name: [Indianapolis Public Library]
+location_name: ["Indianapolis Public Library"]
 shelfmark: |
   909
 isLocationVerified: FALSE

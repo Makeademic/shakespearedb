@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 217
-location_name: [Lehigh University]
+location_name: ["Lehigh University"]
 shelfmark: |
   Grille Folio PR 2751 .A1526 1623
 isLocationVerified: TRUE

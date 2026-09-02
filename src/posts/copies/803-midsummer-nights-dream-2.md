@@ -1,6 +1,6 @@
 ---
 id: 279
-order: 885
+order: 0885
 NSC: "803"
 filename: 803-midsummer-nights-dream-2
 copy_URL: /803-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 18
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Pforz 890
 isLocationVerified: TRUE

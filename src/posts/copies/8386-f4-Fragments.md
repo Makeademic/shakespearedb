@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 97
-location_name: [University of Toronto, Centre for Renaissance and Reformation Studies]
+location_name: ["University of Toronto, Centre for Renaissance and Reformation Studies"]
 shelfmark: |
   RCIN 661421
 isLocationVerified: FALSE

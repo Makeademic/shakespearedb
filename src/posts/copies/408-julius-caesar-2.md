@@ -1,6 +1,6 @@
 ---
 id: 1672
-order: 461
+order: 0461
 NSC: "408"
 filename: 408-julius-caesar-2
 copy_URL: /408-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 7
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   S2927 copy 2
 isLocationVerified: TRUE

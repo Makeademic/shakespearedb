@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 341
-location_name: [Bute Collection at Mount Stuart, Mount Stuart Trust, Isle of Bute]
+location_name: ["Bute Collection at Mount Stuart, Mount Stuart Trust, Isle of Bute"]
 shelfmark: |
   #ERROR!
 isLocationVerified: TRUE

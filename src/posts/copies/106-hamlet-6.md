@@ -1,6 +1,6 @@
 ---
 id: 974
-order: 114
+order: 0114
 NSC: "106"
 filename: 106-hamlet-6
 copy_URL: /106-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 2
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   1344.f.25
 isLocationVerified: TRUE

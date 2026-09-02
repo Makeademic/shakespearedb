@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 29
-location_name: [Wormsley Library]
+location_name: ["Wormsley Library"]
 shelfmark: |
   Arch. G c.9
 isLocationVerified: TRUE

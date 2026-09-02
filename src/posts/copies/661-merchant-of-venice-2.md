@@ -1,6 +1,6 @@
 ---
 id: 1592
-order: 741
+order: 0741
 NSC: "661"
 filename: 661-merchant-of-venice-2
 copy_URL: /661-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 42
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   RHT 17th-514
 isLocationVerified: TRUE

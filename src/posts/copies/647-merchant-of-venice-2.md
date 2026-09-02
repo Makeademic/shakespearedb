@@ -1,6 +1,6 @@
 ---
 id: 120
-order: 725
+order: 0725
 NSC: "647"
 filename: 647-merchant-of-venice-2
 copy_URL: /647-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 9
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   JA 3725
 isLocationVerified: TRUE

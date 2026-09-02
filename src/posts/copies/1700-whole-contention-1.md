@@ -32,7 +32,7 @@ DEEP: 5077
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 96
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

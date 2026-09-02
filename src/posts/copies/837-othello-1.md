@@ -1,6 +1,6 @@
 ---
 id: 1581
-order: 920
+order: 0920
 NSC: "837"
 filename: 837-othello-1
 copy_URL: /837-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 54
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   PR2829 .A1 1622 *
 isLocationVerified: TRUE

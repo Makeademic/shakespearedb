@@ -1,6 +1,6 @@
 ---
 id: 1101
-order: 13
+order: 0013
 NSC: "12"
 filename: 12-birth-of-merlin-1
 copy_URL: /12-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 16
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Bute.535
 isLocationVerified: TRUE

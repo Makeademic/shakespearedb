@@ -1,6 +1,6 @@
 ---
 id: 1052
-order: 541
+order: 0541
 NSC: "471"
 filename: 471-julius-caesar-5
 copy_URL: /471-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 20
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Ig 6e 680be
 isLocationVerified: TRUE

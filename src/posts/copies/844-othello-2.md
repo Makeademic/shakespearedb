@@ -1,6 +1,6 @@
 ---
 id: 1344
-order: 927
+order: 0927
 NSC: "844"
 filename: 844-othello-2
 copy_URL: /844-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 90
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   D630 .S527t
 isLocationVerified: TRUE

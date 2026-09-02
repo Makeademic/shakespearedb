@@ -1,6 +1,6 @@
 ---
 id: 1655
-order: 887
+order: 0887
 NSC: "805"
 filename: 805-much-ado-about-nothing-1
 copy_URL: /805-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 101
-location_name: [Cardiff University]
+location_name: ["Cardiff University"]
 shelfmark: |
   8-RE-8329
 isLocationVerified: TRUE

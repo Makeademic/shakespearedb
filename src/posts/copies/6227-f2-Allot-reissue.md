@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 7
-location_name: [Indianapolis Public Library]
+location_name: ["Indianapolis Public Library"]
 shelfmark: |
   STC 22274 Fo.2 no.10
 isLocationVerified: TRUE

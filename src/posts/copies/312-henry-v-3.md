@@ -1,6 +1,6 @@
 ---
 id: 1647
-order: 344
+order: 0344
 NSC: "312"
 filename: 312-henry-v-3
 copy_URL: /312-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 101
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   RES-YK-89
 isLocationVerified: TRUE

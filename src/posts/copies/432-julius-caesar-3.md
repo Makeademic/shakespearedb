@@ -1,6 +1,6 @@
 ---
 id: 1212
-order: 494
+order: 0494
 NSC: "432"
 filename: 432-julius-caesar-3
 copy_URL: /432-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 70
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   PR2808.A1 1695
 isLocationVerified: TRUE

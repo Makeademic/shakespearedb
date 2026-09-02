@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 7
-location_name: [Cincinnati and Hamilton County Public Library]
+location_name: ["Cincinnati and Hamilton County Public Library"]
 shelfmark: |
   STC 22274 Fo.2 no.09
 isLocationVerified: TRUE

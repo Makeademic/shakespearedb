@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 11
-location_name: [Columbia University]
+location_name: ["Columbia University"]
 shelfmark: |
   *KC+ 1632 (Copy 4)
 isLocationVerified: TRUE

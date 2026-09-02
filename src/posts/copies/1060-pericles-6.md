@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 3
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Capell R.23[5]
 isLocationVerified: TRUE

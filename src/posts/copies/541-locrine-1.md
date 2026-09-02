@@ -1,6 +1,6 @@
 ---
 id: 788
-order: 615
+order: 0615
 NSC: "541"
 filename: 541-locrine-1
 copy_URL: /541-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 2
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   C.34.b.28
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 5
-location_name: [Johns Hopkins University]
+location_name: ["Johns Hopkins University"]
 shelfmark: |
   59780
 isLocationVerified: TRUE

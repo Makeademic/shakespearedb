@@ -1,6 +1,6 @@
 ---
 id: 1580
-order: 901
+order: 0901
 NSC: "819"
 filename: 819-much-ado-about-nothing-1
 copy_URL: /819-much-ado-about-nothing-1/
@@ -31,7 +31,7 @@ DEEP: 295
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 54
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2828 .A1 1600 *
 isLocationVerified: TRUE

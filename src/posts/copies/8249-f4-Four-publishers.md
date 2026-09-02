@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 18
-location_name: [Bucknell University]
+location_name: ["Bucknell University"]
 shelfmark: |
   -q- PFORZ 910 PFZ
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 956
-order: 188
+order: 0188
 NSC: "162"
 filename: 162-hamlet-8
 copy_URL: /162-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 31
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   EC Sh155 F676dc
 isLocationVerified: TRUE

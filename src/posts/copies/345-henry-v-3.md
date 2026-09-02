@@ -1,6 +1,6 @@
 ---
 id: 2581
-order: 381
+order: 0381
 NSC: "345"
 filename: 345-henry-v-3
 copy_URL: /345-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 47
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   PR2750 .A15 1619 (4)
 isLocationVerified: TRUE

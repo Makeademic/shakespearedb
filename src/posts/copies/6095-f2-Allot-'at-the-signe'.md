@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [Hollins University]
+location_name: ["Hollins University"]
 shelfmark: |
   F2-16 MR 1964
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 116
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   f Grabhorn 234
 isLocationVerified: FALSE

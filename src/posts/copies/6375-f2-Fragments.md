@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 38
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   Val 824 Sh J781
 isLocationVerified: TRUE

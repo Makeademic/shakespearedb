@@ -31,7 +31,7 @@ DEEP: 184
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 11
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   *KC 1631 (Shakespeare, W. Wittie And Pleasant Comedie Called The Taming of the Shrew)
 isLocationVerified: TRUE

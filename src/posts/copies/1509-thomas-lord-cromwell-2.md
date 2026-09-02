@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 7
-location_name: [University of Glasgow]
+location_name: ["University of Glasgow"]
 shelfmark: |
   STC 21533 copy 1
 isLocationVerified: TRUE

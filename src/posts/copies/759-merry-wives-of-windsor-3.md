@@ -1,6 +1,6 @@
 ---
 id: 63
-order: 840
+order: 0840
 NSC: "759"
 filename: 759-merry-wives-of-windsor-3
 copy_URL: /759-merry-wives-of-windsor-3/
@@ -31,7 +31,7 @@ DEEP: 330
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   69333
 isLocationVerified: TRUE

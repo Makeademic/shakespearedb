@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 25
-location_name: [Indiana University, Lilly Library]
+location_name: ["Indiana University, Lilly Library"]
 shelfmark: |
   PML 5127
 isLocationVerified: TRUE

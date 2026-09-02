@@ -1,6 +1,6 @@
 ---
 id: 194
-order: 674
+order: 0674
 NSC: "599"
 filename: 599-loves-labors-lost-2
 copy_URL: /599-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G d.40 (1)
 isLocationVerified: TRUE

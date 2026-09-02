@@ -1,6 +1,6 @@
 ---
 id: 972
-order: 142
+order: 0142
 NSC: "122"
 filename: 122-hamlet-6
 copy_URL: /122-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 18
-location_name: [Cambridge University, King's College]
+location_name: ["Cambridge University, King's College"]
 shelfmark: |
   PR 2807 A1 1676
 isLocationVerified: TRUE

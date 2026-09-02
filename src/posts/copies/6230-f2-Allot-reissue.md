@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 150
-location_name: [Occidental College]
+location_name: ["Occidental College"]
 shelfmark: |
   RBD EL Sh15w 1632
 isLocationVerified: TRUE

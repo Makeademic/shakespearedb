@@ -1,6 +1,6 @@
 ---
 id: 1114
-order: 63
+order: 0063
 NSC: "61"
 filename: 61-hamlet-4
 copy_URL: /61-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 7
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   STC 22278 Copy 1
 isLocationVerified: TRUE

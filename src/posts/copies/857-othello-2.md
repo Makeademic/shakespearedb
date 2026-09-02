@@ -1,6 +1,6 @@
 ---
 id: 208
-order: 940
+order: 0940
 NSC: "857"
 filename: 857-othello-2
 copy_URL: /857-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 5
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   69338
 isLocationVerified: TRUE

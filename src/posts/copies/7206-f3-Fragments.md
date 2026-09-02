@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 333
-location_name: [Dallas Public Library]
+location_name: ["Dallas Public Library"]
 shelfmark: |
   P Grabhorn
 isLocationVerified: FALSE

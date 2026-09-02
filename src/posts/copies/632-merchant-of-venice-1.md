@@ -1,6 +1,6 @@
 ---
 id: 52
-order: 710
+order: 0710
 NSC: "632"
 filename: 632-merchant-of-venice-1
 copy_URL: /632-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Corpus Christi College]
+location_name: ["Oxford University, Corpus Christi College"]
 shelfmark: |
   59556
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 552
-order: 41
+order: 0041
 NSC: "39"
 filename: 39-hamlet-3
 copy_URL: /39-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 2
-location_name: [Oxford University, Worcester College]
+location_name: ["Oxford University, Worcester College"]
 shelfmark: |
   C.71.b.2
 isLocationVerified: TRUE

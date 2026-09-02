@@ -1,6 +1,6 @@
 ---
 id: 908
-order: 191
+order: 0191
 NSC: "165"
 filename: 165-hamlet-9
 copy_URL: /165-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 21
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   S317.1695
 isLocationVerified: TRUE

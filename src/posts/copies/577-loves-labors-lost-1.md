@@ -1,6 +1,6 @@
 ---
 id: 1493
-order: 652
+order: 0652
 NSC: "577"
 filename: 577-loves-labors-lost-1
 copy_URL: /577-loves-labors-lost-1/
@@ -31,7 +31,7 @@ DEEP: 256
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 96
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

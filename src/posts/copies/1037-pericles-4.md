@@ -32,7 +32,7 @@ DEEP: 5077.03
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 12
-location_name: [Lambeth Palace Library]
+location_name: ["Lambeth Palace Library"]
 shelfmark: |
   Dyce 26 Box 42/5
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 96
-location_name: [Loyola Marymount University, Charles Von der Ahe Library]
+location_name: ["Loyola Marymount University, Charles Von der Ahe Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

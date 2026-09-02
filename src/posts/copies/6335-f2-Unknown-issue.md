@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 8
-location_name: [Kongelige Bibliotek (Royal Library, Denmark)]
+location_name: ["Kongelige Bibliotek (Royal Library, Denmark)"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

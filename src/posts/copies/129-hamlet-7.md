@@ -1,6 +1,6 @@
 ---
 id: 1133
-order: 149
+order: 0149
 NSC: "129"
 filename: 129-hamlet-7
 copy_URL: /129-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   S2951 Copy 1
 isLocationVerified: TRUE

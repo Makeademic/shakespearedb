@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 345
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Berg Coll. +Shakespeare 1685 copy 2
 isLocationVerified: TRUE

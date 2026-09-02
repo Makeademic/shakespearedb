@@ -1,6 +1,6 @@
 ---
 id: 922
-order: 698
+order: 0698
 NSC: "620"
 filename: 620-macbeth-1
 copy_URL: /620-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 31
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   EC Sh155.673m
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 341
-order: 397
+order: 0397
 NSC: "361"
 filename: 361-2-henry-vi-2
 copy_URL: /361-2-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 180
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 29
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Arch. G e.14
 isLocationVerified: TRUE

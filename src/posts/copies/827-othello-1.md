@@ -1,6 +1,6 @@
 ---
 id: 177
-order: 909
+order: 0909
 NSC: "827"
 filename: 827-othello-1
 copy_URL: /827-othello-1/
@@ -31,7 +31,7 @@ DEEP: 694
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 9
-location_name: [University of Cincinnati]
+location_name: ["University of Cincinnati"]
 shelfmark: |
   JA 3720
 isLocationVerified: TRUE

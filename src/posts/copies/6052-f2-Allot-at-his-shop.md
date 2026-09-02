@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 262
-location_name: [Southern Methodist University]
+location_name: ["Southern Methodist University"]
 shelfmark: |
   PR 2751 .A2
 isLocationVerified: FALSE

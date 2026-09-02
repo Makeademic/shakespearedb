@@ -1,6 +1,6 @@
 ---
 id: 417
-order: 230
+order: 0230
 NSC: "200"
 filename: 200-1-henry-iv-3
 copy_URL: /200-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 49
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Sp Coll Hunterian Co.3.27l
 isLocationVerified: TRUE

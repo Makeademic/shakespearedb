@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 43
-location_name: [San Francisco Public Library]
+location_name: ["San Francisco Public Library"]
 shelfmark: |
   RARE 2-S PR2751 .A4 c.2
 isLocationVerified: FALSE

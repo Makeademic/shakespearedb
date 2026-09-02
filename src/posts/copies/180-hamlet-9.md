@@ -1,6 +1,6 @@
 ---
 id: 1148
-order: 207
+order: 0207
 NSC: "180"
 filename: 180-hamlet-9
 copy_URL: /180-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 16
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   S2955 Bd.w. D2249
 isLocationVerified: TRUE

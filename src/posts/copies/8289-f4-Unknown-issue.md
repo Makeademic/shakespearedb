@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 42
 ed_fragment: 
 location_id: 86
-location_name: [Legislative Library of British Columbia]
+location_name: ["Legislative Library of British Columbia"]
 shelfmark: |
   Ee.9.42
 isLocationVerified: TRUE

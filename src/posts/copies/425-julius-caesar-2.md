@@ -1,6 +1,6 @@
 ---
 id: 860
-order: 484
+order: 0484
 NSC: "425"
 filename: 425-julius-caesar-2
 copy_URL: /425-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 31
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   EC65 Sh155 684jf
 isLocationVerified: TRUE

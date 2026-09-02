@@ -1,6 +1,6 @@
 ---
 id: 560
-order: 69
+order: 0069
 NSC: "67"
 filename: 67-hamlet-4
 copy_URL: /67-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 11
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Tragedy Of Hamlet Prince Of Denmarke)
 isLocationVerified: TRUE

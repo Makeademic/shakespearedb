@@ -1,6 +1,6 @@
 ---
 id: 1088
-order: 29
+order: 0029
 NSC: "27"
 filename: 27-cupids-cabinet-unlocked-2
 copy_URL: /27-cupids-cabinet-unlocked-2/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 17
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   G.176.62
 isLocationVerified: TRUE

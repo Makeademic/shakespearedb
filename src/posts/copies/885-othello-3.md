@@ -1,6 +1,6 @@
 ---
 id: 1042
-order: 971
+order: 0971
 NSC: "885"
 filename: 885-othello-3
 copy_URL: /885-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 24
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   13408.124.10*
 isLocationVerified: TRUE

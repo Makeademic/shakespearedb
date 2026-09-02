@@ -1,6 +1,6 @@
 ---
 id: 1550
-order: 83
+order: 0083
 NSC: "80"
 filename: 80-hamlet-5
 copy_URL: /80-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 38
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   Hickmott 16
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 133
-location_name: [Bibliothèque de l'agglomération de Saint-Omer (Library of Saint-Omer, France)]
+location_name: ["Bibliothèque de l'agglomération de Saint-Omer (Library of Saint-Omer, France)"]
 shelfmark: |
   Sel.b.203
 isLocationVerified: TRUE

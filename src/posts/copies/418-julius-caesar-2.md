@@ -1,6 +1,6 @@
 ---
 id: 6490
-order: 477
+order: 0477
 NSC: "418"
 filename: 418-julius-caesar-2
 copy_URL: /418-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 8
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: 
 isLocationVerified: FALSE
 isFacsimileAvailable: FALSE

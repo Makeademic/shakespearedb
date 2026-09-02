@@ -1,6 +1,6 @@
 ---
 id: 465
-order: 270
+order: 0270
 NSC: "240"
 filename: 240-1-henry-iv-7
 copy_URL: /240-1-henry-iv-7/
@@ -31,7 +31,7 @@ DEEP: 246
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 12
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Dyce 26 Box 51/1
 isLocationVerified: TRUE

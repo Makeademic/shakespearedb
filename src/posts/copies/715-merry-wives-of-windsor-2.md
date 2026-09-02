@@ -1,6 +1,6 @@
 ---
 id: 1653
-order: 796
+order: 0796
 NSC: "715"
 filename: 715-merry-wives-of-windsor-2
 copy_URL: /715-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 101
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   RES-YK-61
 isLocationVerified: TRUE

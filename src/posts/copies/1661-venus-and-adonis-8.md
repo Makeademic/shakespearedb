@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 29
-location_name: [Durham University]
+location_name: ["Durham University"]
 shelfmark: |
   Arch. G f.3 (2)
 isLocationVerified: TRUE

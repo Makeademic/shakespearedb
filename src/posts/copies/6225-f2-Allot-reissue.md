@@ -32,7 +32,7 @@ DEEP: 5088
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 7
-location_name: [West Virginia University]
+location_name: ["West Virginia University"]
 shelfmark: |
   STC 22274 Fo.2 no.06
 isLocationVerified: TRUE

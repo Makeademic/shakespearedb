@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 38
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   Hickmott 57
 isLocationVerified: TRUE

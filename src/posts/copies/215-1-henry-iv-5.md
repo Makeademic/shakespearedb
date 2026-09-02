@@ -1,6 +1,6 @@
 ---
 id: 1712
-order: 245
+order: 0245
 NSC: "215"
 filename: 215-1-henry-iv-5
 copy_URL: /215-1-henry-iv-5/
@@ -31,7 +31,7 @@ DEEP: 244
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 39
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   Case 4A 948
 isLocationVerified: TRUE

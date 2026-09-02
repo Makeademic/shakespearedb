@@ -1,6 +1,6 @@
 ---
 id: 845
-order: 285
+order: 0285
 NSC: "255"
 filename: 255-1-henry-iv-8
 copy_URL: /255-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 20
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Ig 6Db 632
 isLocationVerified: TRUE

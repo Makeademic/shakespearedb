@@ -1,6 +1,6 @@
 ---
 id: 783
-order: 624
+order: 0624
 NSC: "550"
 filename: 550-locrine-1
 copy_URL: /550-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 15
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   IUB00197
 isLocationVerified: TRUE

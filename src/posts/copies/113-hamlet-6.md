@@ -1,6 +1,6 @@
 ---
 id: 1127
-order: 123
+order: 0123
 NSC: "113"
 filename: 113-hamlet-6
 copy_URL: /113-hamlet-6/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 87
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   I.C. YS Ha
 isLocationVerified: TRUE

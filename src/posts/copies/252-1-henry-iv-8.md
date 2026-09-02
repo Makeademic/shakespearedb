@@ -1,6 +1,6 @@
 ---
 id: 844
-order: 282
+order: 0282
 NSC: "252"
 filename: 252-1-henry-iv-8
 copy_URL: /252-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 120
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PET 14
 isLocationVerified: TRUE

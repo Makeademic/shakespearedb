@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 339
-location_name: [Oxford University, Balliol College]
+location_name: ["Oxford University, Balliol College"]
 shelfmark: |
   PR2801 .A1 1623
 isLocationVerified: TRUE

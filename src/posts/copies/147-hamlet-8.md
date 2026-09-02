@@ -1,6 +1,6 @@
 ---
 id: 961
-order: 170
+order: 0170
 NSC: "147"
 filename: 147-hamlet-8
 copy_URL: /147-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 2
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   11762.f.4.
 isLocationVerified: TRUE

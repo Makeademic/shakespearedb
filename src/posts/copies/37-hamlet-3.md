@@ -1,6 +1,6 @@
 ---
 id: 1105
-order: 39
+order: 0039
 NSC: "37"
 filename: 37-hamlet-3
 copy_URL: /37-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 17
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   G.176.1
 isLocationVerified: TRUE

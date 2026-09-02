@@ -1,6 +1,6 @@
 ---
 id: 561
-order: 68
+order: 0068
 NSC: "66"
 filename: 66-hamlet-4
 copy_URL: /66-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 120
-location_name: [Morgan Library & Museum]
+location_name: ["Morgan Library & Museum"]
 shelfmark: |
   PET 7
 isLocationVerified: TRUE

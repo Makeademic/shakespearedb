@@ -1,6 +1,6 @@
 ---
 id: 1328
-order: 863
+order: 0863
 NSC: "782"
 filename: 782-midsummer-nights-dream-2
 copy_URL: /782-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   STC 22303 Copy 3
 isLocationVerified: TRUE

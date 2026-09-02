@@ -1,6 +1,6 @@
 ---
 id: 867
-order: 488
+order: 0488
 NSC: "427"
 filename: 427-julius-caesar-2
 copy_URL: /427-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 20
-location_name: [National Trust, Petworth]
+location_name: ["National Trust, Petworth"]
 shelfmark: |
   1975 2631
 isLocationVerified: TRUE

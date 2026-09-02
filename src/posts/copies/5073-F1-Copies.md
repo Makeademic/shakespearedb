@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 7
-location_name: [Indiana University, Lilly Library]
+location_name: ["Indiana University, Lilly Library"]
 shelfmark: |
   STC 22273 fo. 1 no. 42
 isLocationVerified: TRUE

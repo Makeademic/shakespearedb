@@ -31,7 +31,7 @@ DEEP: 226
 extant_ed_copies: 8
 ed_fragment: 
 location_id: 3
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Capell R.22[4]
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 333
-location_name: [University of Leeds, Brotherton Library]
+location_name: ["University of Leeds, Brotherton Library"]
 shelfmark: |
   P Grabhorn
 isLocationVerified: FALSE

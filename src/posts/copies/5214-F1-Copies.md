@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 156
-location_name: [Oxford University, All Souls College]
+location_name: ["Oxford University, All Souls College"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 7
-location_name: [Bowdoin College]
+location_name: ["Bowdoin College"]
 shelfmark: |
   PROMPT 2d Folio Rich.II Covent Garden
 isLocationVerified: TRUE

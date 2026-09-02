@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [Willamette University]
+location_name: ["Willamette University"]
 shelfmark: |
   STC 22273 Fo. 1 Noble Frag. 03
 isLocationVerified: FALSE

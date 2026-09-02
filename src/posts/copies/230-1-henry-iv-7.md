@@ -1,6 +1,6 @@
 ---
 id: 1163
-order: 260
+order: 0260
 NSC: "230"
 filename: 230-1-henry-iv-7
 copy_URL: /230-1-henry-iv-7/
@@ -31,7 +31,7 @@ DEEP: 246
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 17
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   G.176.4
 isLocationVerified: TRUE

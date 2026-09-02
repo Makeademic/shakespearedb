@@ -1,6 +1,6 @@
 ---
 id: 579
-order: 587
+order: 0587
 NSC: "515"
 filename: 515-king-lear-2
 copy_URL: /515-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 15
-location_name: [Senate House Library, University of London]
+location_name: ["Senate House Library, University of London"]
 shelfmark: |
   822.33 T3 1619
 isLocationVerified: TRUE

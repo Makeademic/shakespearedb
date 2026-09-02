@@ -1,6 +1,6 @@
 ---
 id: 1352
-order: 994
+order: 0994
 NSC: "907"
 filename: 907-othello-4
 copy_URL: /907-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 7
-location_name: [Library of Birmingham]
+location_name: ["Library of Birmingham"]
 shelfmark: |
   S2940 Copy 4
 isLocationVerified: TRUE

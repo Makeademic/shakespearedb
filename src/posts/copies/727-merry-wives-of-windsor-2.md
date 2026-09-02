@@ -1,6 +1,6 @@
 ---
 id: 1307
-order: 808
+order: 0808
 NSC: "727"
 filename: 727-merry-wives-of-windsor-2
 copy_URL: /727-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   STC 22300 Copy 7
 isLocationVerified: TRUE

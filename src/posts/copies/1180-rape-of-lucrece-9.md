@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 22
 ed_fragment: 
 location_id: 37
-location_name: [Cambridge University, St. John's College]
+location_name: ["Cambridge University, St. John's College"]
 shelfmark: |
   Keynes.C.2.18
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1057
-order: 420
+order: 0420
 NSC: "382"
 filename: 382-julius-caesar-1
 copy_URL: /382-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 5
-location_name: [National Library of Scotland]
+location_name: ["National Library of Scotland"]
 shelfmark: |
   105468
 isLocationVerified: TRUE

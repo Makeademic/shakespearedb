@@ -1,6 +1,6 @@
 ---
 id: 1566
-order: 639
+order: 0639
 NSC: "564"
 filename: 564-london-prodigal-1
 copy_URL: /564-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 42
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   RHT 17th-513
 isLocationVerified: TRUE

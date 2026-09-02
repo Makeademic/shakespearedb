@@ -1,6 +1,6 @@
 ---
 id: 1530
-order: 882
+order: 0882
 NSC: "800"
 filename: 800-midsummer-nights-dream-2
 copy_URL: /800-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 44
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   PR2750 .A27 1619
 isLocationVerified: TRUE

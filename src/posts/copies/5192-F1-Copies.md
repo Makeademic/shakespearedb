@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 26
-location_name: [Oxford University, Lincoln College]
+location_name: ["Oxford University, Lincoln College"]
 shelfmark: |
   SR/0537-1623
 isLocationVerified: TRUE

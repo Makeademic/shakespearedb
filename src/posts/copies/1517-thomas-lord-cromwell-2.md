@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 23
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   Plays.4.3
 isLocationVerified: TRUE

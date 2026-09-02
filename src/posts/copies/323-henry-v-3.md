@@ -1,6 +1,6 @@
 ---
 id: 1194
-order: 355
+order: 0355
 NSC: "323"
 filename: 323-henry-v-3
 copy_URL: /323-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 9
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   JA 3716
 isLocationVerified: TRUE

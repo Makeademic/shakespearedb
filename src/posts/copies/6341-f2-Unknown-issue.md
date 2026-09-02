@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 93
-location_name: [Southern Methodist University]
+location_name: ["Southern Methodist University"]
 shelfmark: |
   SAFE 1/63
 isLocationVerified: FALSE

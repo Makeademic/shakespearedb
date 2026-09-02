@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 122
-location_name: [Johns Hopkins University]
+location_name: ["Johns Hopkins University"]
 shelfmark: |
   F2-14 MR 1937
 isLocationVerified: TRUE

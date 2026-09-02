@@ -1,6 +1,6 @@
 ---
 id: 780
-order: 627
+order: 0627
 NSC: "553"
 filename: 553-london-prodigal-1
 copy_URL: /553-london-prodigal-1/
@@ -31,7 +31,7 @@ DEEP: 410
 extant_ed_copies: 17
 ed_fragment: 
 location_id: 33
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Sa1.4.30(01)
 isLocationVerified: TRUE

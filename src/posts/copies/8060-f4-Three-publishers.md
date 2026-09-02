@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 5
-location_name: [Louisiana State University]
+location_name: ["Louisiana State University"]
 shelfmark: |
   108177
 isLocationVerified: TRUE

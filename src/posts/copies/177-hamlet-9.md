@@ -1,6 +1,6 @@
 ---
 id: 1644
-order: 204
+order: 0204
 NSC: "177"
 filename: 177-hamlet-9
 copy_URL: /177-hamlet-9/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 31
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   EC Sh155.F676de copy 2
 isLocationVerified: TRUE

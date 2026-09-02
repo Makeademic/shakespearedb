@@ -1,6 +1,6 @@
 ---
 id: 787
-order: 619
+order: 0619
 NSC: "545"
 filename: 545-locrine-1
 copy_URL: /545-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 5
-location_name: [Oxford University, Bodleian Library, Verulam Deposit]
+location_name: ["Oxford University, Bodleian Library, Verulam Deposit"]
 shelfmark: |
   69201
 isLocationVerified: TRUE

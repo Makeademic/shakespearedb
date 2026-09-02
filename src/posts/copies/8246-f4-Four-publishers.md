@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 54
-location_name: [Charlecote House]
+location_name: ["Charlecote House"]
 shelfmark: |
   PR2751 .A4 1685a
 isLocationVerified: TRUE

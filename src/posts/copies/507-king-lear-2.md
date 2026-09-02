@@ -1,6 +1,6 @@
 ---
 id: 581
-order: 578
+order: 0578
 NSC: "507"
 filename: 507-king-lear-2
 copy_URL: /507-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 29
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Arch. G d.42 (5)
 isLocationVerified: TRUE

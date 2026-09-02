@@ -1,6 +1,6 @@
 ---
 id: 1174
-order: 293
+order: 0293
 NSC: "263"
 filename: 263-1-henry-iv-9
 copy_URL: /263-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 7
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   STC 22287 Copy 3
 isLocationVerified: TRUE

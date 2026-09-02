@@ -1,6 +1,6 @@
 ---
 id: 558
-order: 74
+order: 0074
 NSC: "72"
 filename: 72-hamlet-4
 copy_URL: /72-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 31
-location_name: [Charlecote House]
+location_name: ["Charlecote House"]
 shelfmark: |
   PR2750 .A07 1619 copy 2
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 65
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   folio PR2751 A4 1685 (Copy 1)
 isLocationVerified: FALSE

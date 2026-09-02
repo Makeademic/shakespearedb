@@ -31,7 +31,7 @@ DEEP: 238
 extant_ed_copies: 31
 ed_fragment: 
 location_id: 3
-location_name: [Princeton University]
+location_name: ["Princeton University"]
 shelfmark: |
   Capell S.34[1]
 isLocationVerified: TRUE

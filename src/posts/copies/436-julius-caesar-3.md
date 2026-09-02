@@ -1,6 +1,6 @@
 ---
 id: 1213
-order: 498
+order: 0498
 NSC: "436"
 filename: 436-julius-caesar-3
 copy_URL: /436-julius-caesar-3/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   S2923 Copy 2
 isLocationVerified: TRUE

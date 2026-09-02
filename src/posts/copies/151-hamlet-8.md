@@ -1,6 +1,6 @@
 ---
 id: 1561
-order: 175
+order: 0175
 NSC: "151"
 filename: 151-hamlet-8
 copy_URL: /151-hamlet-8/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 38
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Hickmott 19
 isLocationVerified: TRUE

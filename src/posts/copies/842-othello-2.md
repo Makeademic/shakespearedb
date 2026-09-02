@@ -1,6 +1,6 @@
 ---
 id: 211
-order: 925
+order: 0925
 NSC: "842"
 filename: 842-othello-2
 copy_URL: /842-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 2
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   C.12.g.28
 isLocationVerified: TRUE

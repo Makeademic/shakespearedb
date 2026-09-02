@@ -1,6 +1,6 @@
 ---
 id: 6477
-order: 445
+order: 0445
 NSC: "396"
 filename: 396-julius-caesar-1
 copy_URL: /396-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 82
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: FALSE

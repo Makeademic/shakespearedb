@@ -1,6 +1,6 @@
 ---
 id: 277
-order: 876
+order: 0876
 NSC: "794"
 filename: 794-midsummer-nights-dream-2
 copy_URL: /794-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 29
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Arch. G d.42 (1)
 isLocationVerified: TRUE

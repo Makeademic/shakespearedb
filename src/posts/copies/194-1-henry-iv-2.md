@@ -1,6 +1,6 @@
 ---
 id: 423
-order: 224
+order: 0224
 NSC: "194"
 filename: 194-1-henry-iv-2
 copy_URL: /194-1-henry-iv-2/
@@ -31,7 +31,7 @@ DEEP: 241
 extant_ed_copies: 3
 ed_fragment: 
 location_id: 5
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   69310
 isLocationVerified: TRUE

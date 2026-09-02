@@ -1,6 +1,6 @@
 ---
 id: 84
-order: 793
+order: 0793
 NSC: "712"
 filename: 712-merry-wives-of-windsor-1
 copy_URL: /712-merry-wives-of-windsor-1/
@@ -31,7 +31,7 @@ DEEP: 328
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 29
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Arch. G d.45 (6)
 isLocationVerified: TRUE

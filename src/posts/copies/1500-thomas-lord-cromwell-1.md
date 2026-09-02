@@ -31,7 +31,7 @@ DEEP: 332
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 21532
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 103
-location_name: [Haverford College]
+location_name: ["Haverford College"]
 shelfmark: |
   822.33 I 1632
 isLocationVerified: TRUE

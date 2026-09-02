@@ -1,6 +1,6 @@
 ---
 id: 553
-order: 40
+order: 0040
 NSC: "38"
 filename: 38-hamlet-3
 copy_URL: /38-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 2
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   C.34.k.4
 isLocationVerified: TRUE

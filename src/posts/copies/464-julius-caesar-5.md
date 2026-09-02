@@ -1,6 +1,6 @@
 ---
 id: 935
-order: 531
+order: 0531
 NSC: "464"
 filename: 464-julius-caesar-5
 copy_URL: /464-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 11
-location_name: [Cambridge University, Trinity College]
+location_name: ["Cambridge University, Trinity College"]
 shelfmark: |
   *KC 1688 (Shakespeare) (Julius Ceasar)
 isLocationVerified: TRUE

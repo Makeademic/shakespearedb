@@ -1,6 +1,6 @@
 ---
 id: 58
-order: 716
+order: 0716
 NSC: "638"
 filename: 638-merchant-of-venice-1
 copy_URL: /638-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 12
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Dyce 26 Box 41/6
 isLocationVerified: TRUE

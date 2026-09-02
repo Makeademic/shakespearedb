@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 11
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   *KC+ 1686 (Lenox B)
 isLocationVerified: TRUE

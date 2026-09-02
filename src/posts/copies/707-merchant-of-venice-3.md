@@ -1,6 +1,6 @@
 ---
 id: 1066
-order: 788
+order: 0788
 NSC: "707"
 filename: 707-merchant-of-venice-3
 copy_URL: /707-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 20
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   Ig 6k 652
 isLocationVerified: TRUE

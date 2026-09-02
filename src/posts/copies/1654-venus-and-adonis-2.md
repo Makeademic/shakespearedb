@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 4
-location_name: [Private collection]
+location_name: ["Private collection"]
 shelfmark: |
   Eliz 199
 isLocationVerified: TRUE

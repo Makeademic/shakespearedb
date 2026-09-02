@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 7
-location_name: [Syracuse University]
+location_name: ["Syracuse University"]
 shelfmark: |
   STC 22274 Fo.2/fragment 05
 isLocationVerified: TRUE

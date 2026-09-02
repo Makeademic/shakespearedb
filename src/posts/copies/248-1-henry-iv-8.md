@@ -1,6 +1,6 @@
 ---
 id: 1168
-order: 278
+order: 0278
 NSC: "248"
 filename: 248-1-henry-iv-8
 copy_URL: /248-1-henry-iv-8/
@@ -31,7 +31,7 @@ DEEP: 247
 extant_ed_copies: 14
 ed_fragment: 
 location_id: 7
-location_name: [Shakespeare Birthplace Trust]
+location_name: ["Shakespeare Birthplace Trust"]
 shelfmark: |
   STC 22286 Copy 2 Bd.w. STC 4619
 isLocationVerified: TRUE

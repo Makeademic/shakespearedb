@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 301
-location_name: [Mills College, F. W. Olin Library]
+location_name: ["Mills College, F. W. Olin Library"]
 shelfmark: |
   PR2751 .A2 1685 Vlt
 isLocationVerified: TRUE

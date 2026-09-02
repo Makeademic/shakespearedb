@@ -1,6 +1,6 @@
 ---
 id: 2344
-order: 407
+order: 0407
 NSC: "371"
 filename: 371-3-henry-vi-2
 copy_URL: /371-3-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 213
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 13
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Deposit
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1110
-order: 58
+order: 0058
 NSC: "56"
 filename: 56-hamlet-4
 copy_URL: /56-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 17
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: |
   G.176.2
 isLocationVerified: TRUE

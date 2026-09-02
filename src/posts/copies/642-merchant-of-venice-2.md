@@ -1,6 +1,6 @@
 ---
 id: 1278
-order: 720
+order: 0720
 NSC: "642"
 filename: 642-merchant-of-venice-2
 copy_URL: /642-merchant-of-venice-2/
@@ -31,7 +31,7 @@ DEEP: 302
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 17
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   G.176.17
 isLocationVerified: TRUE

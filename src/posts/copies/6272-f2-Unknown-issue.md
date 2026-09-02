@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 7
-location_name: [University at Buffalo]
+location_name: ["University at Buffalo"]
 shelfmark: |
   STC 22274 Fo.2 no.26
 isLocationVerified: TRUE

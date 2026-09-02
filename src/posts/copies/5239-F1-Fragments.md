@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 228
-location_name: [Sir John Soane's Museum]
+location_name: ["Sir John Soane's Museum"]
 shelfmark: |
   Z8812 .S45M c. 2
 isLocationVerified: TRUE

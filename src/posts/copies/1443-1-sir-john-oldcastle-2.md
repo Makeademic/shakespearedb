@@ -31,7 +31,7 @@ DEEP: 292
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 26
-location_name: [California State Library, Sutro]
+location_name: ["California State Library, Sutro"]
 shelfmark: |
   SR 51.10 (10)
 isLocationVerified: TRUE

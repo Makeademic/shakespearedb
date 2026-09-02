@@ -31,7 +31,7 @@ DEEP: 333
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 16
-location_name: [Cambridge University]
+location_name: ["Cambridge University"]
 shelfmark: |
   Bute.527
 isLocationVerified: TRUE

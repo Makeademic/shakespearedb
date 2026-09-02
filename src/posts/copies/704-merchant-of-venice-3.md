@@ -1,6 +1,6 @@
 ---
 id: 1064
-order: 785
+order: 0785
 NSC: "704"
 filename: 704-merchant-of-venice-3
 copy_URL: /704-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 304
 extant_ed_copies: 15
 ed_fragment: 
 location_id: 11
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   *KC 1652 (Shakespeare, W. Most excellent historie of the merchant of Venice)
 isLocationVerified: TRUE

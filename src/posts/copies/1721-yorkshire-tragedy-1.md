@@ -31,7 +31,7 @@ DEEP: 523
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 57
-location_name: [Senate House Library, University of London]
+location_name: ["Senate House Library, University of London"]
 shelfmark: |
   phi.B.1.3(7)
 isLocationVerified: TRUE

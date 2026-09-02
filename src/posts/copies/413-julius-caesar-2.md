@@ -1,6 +1,6 @@
 ---
 id: 1677
-order: 467
+order: 0467
 NSC: "413"
 filename: 413-julius-caesar-2
 copy_URL: /413-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 103
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   SC R 822.33 R3 1691
 isLocationVerified: TRUE

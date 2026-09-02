@@ -1,6 +1,6 @@
 ---
 id: 934
-order: 540
+order: 0540
 NSC: "470"
 filename: 470-julius-caesar-5
 copy_URL: /470-julius-caesar-5/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 18
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Wg Sh15 623je
 isLocationVerified: TRUE

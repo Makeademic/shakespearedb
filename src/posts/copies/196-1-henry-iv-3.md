@@ -1,6 +1,6 @@
 ---
 id: 420
-order: 226
+order: 0226
 NSC: "196"
 filename: 196-1-henry-iv-3
 copy_URL: /196-1-henry-iv-3/
@@ -31,7 +31,7 @@ DEEP: 242
 extant_ed_copies: 10
 ed_fragment: 
 location_id: 2
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   C.34.k.6
 isLocationVerified: TRUE

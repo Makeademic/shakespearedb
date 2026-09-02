@@ -1,6 +1,6 @@
 ---
 id: 4950
-order: 53
+order: 0053
 NSC: "51"
 filename: 51-hamlet-3
 copy_URL: /51-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 8
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

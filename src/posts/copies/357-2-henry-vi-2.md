@@ -1,6 +1,6 @@
 ---
 id: 1205
-order: 393
+order: 0393
 NSC: "357"
 filename: 357-2-henry-vi-2
 copy_URL: /357-2-henry-vi-2/
@@ -31,7 +31,7 @@ DEEP: 180
 extant_ed_copies: 5
 ed_fragment: 
 location_id: 3
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Capell T.8[3]
 isLocationVerified: TRUE

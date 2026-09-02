@@ -1,6 +1,6 @@
 ---
 id: 497
-order: 347
+order: 0347
 NSC: "315"
 filename: 315-henry-v-3
 copy_URL: /315-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 2
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   C.12.g.33
 isLocationVerified: TRUE

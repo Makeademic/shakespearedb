@@ -1,6 +1,6 @@
 ---
 id: 944
-order: 597
+order: 0597
 NSC: "524"
 filename: 524-king-lear-3
 copy_URL: /524-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 9
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   JA 3730
 isLocationVerified: TRUE

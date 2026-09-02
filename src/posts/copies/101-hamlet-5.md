@@ -1,6 +1,6 @@
 ---
 id: 578
-order: 109
+order: 0109
 NSC: "101"
 filename: 101-hamlet-5
 copy_URL: /101-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 12
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Dyce 26 Box 41/2
 isLocationVerified: TRUE

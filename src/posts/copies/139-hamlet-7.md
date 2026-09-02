@@ -1,6 +1,6 @@
 ---
 id: 1641
-order: 161
+order: 0161
 NSC: "139"
 filename: 139-hamlet-7
 copy_URL: /139-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 71
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   PR 2807 .A1 1676
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 204
-order: 948
+order: 0948
 NSC: "864"
 filename: 864-othello-2
 copy_URL: /864-othello-2/
@@ -31,7 +31,7 @@ DEEP: 695
 extant_ed_copies: 35
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G d.40 (6)
 isLocationVerified: TRUE

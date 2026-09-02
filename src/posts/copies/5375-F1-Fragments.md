@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 363
-location_name: [Texas Christian University]
+location_name: ["Texas Christian University"]
 shelfmark: |
   Upjohn-Waldie 1623 S43 fol.
 isLocationVerified: FALSE

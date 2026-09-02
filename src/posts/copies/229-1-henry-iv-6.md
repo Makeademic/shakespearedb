@@ -1,6 +1,6 @@
 ---
 id: 469
-order: 259
+order: 0259
 NSC: "229"
 filename: 229-1-henry-iv-6
 copy_URL: /229-1-henry-iv-6/
@@ -31,7 +31,7 @@ DEEP: 245
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 4
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Eliz 173
 isLocationVerified: TRUE

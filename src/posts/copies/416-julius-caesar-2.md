@@ -1,6 +1,6 @@
 ---
 id: 1615
-order: 472
+order: 0472
 NSC: "416"
 filename: 416-julius-caesar-2
 copy_URL: /416-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 42
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   3925.35.13.169-
 isLocationVerified: TRUE

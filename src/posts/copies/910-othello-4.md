@@ -1,6 +1,6 @@
 ---
 id: 1022
-order: 997
+order: 0997
 NSC: "910"
 filename: 910-othello-4
 copy_URL: /910-othello-4/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 30
 ed_fragment: 
 location_id: 5
-location_name: [University of Michigan]
+location_name: ["University of Michigan"]
 shelfmark: |
   84279
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1292
-order: 759
+order: 0759
 NSC: "678"
 filename: 678-merchant-of-venice-3
 copy_URL: /678-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [University of Leeds, Brotherton Library]
+location_name: ["University of Leeds, Brotherton Library"]
 shelfmark: |
   STC 22298 Copy 3
 isLocationVerified: TRUE

@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 154
-location_name: [Southern Utah University]
+location_name: ["Southern Utah University"]
 shelfmark: |
   822.33 1.5C426
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1293
-order: 766
+order: 0766
 NSC: "685"
 filename: 685-merchant-of-venice-3
 copy_URL: /685-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 16
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Bute.495
 isLocationVerified: TRUE

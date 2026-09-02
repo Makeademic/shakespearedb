@@ -1,6 +1,6 @@
 ---
 id: 1577
-order: 883
+order: 0883
 NSC: "801"
 filename: 801-midsummer-nights-dream-2
 copy_URL: /801-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 54
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   PR2827 .A1 1619 *
 isLocationVerified: TRUE

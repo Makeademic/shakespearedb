@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 62
 ed_fragment: 
 location_id: 221
-location_name: [Loras College (Iowa)]
+location_name: ["Loras College (Iowa)"]
 shelfmark: |
   Wing S2915
 isLocationVerified: FALSE

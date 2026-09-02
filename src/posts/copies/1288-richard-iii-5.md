@@ -31,7 +31,7 @@ DEEP: 229
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 7
-location_name: [Eton College]
+location_name: ["Eton College"]
 shelfmark: |
   STC 22318 Copy 2
 isLocationVerified: TRUE

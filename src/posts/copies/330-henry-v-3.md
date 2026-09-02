@@ -1,6 +1,6 @@
 ---
 id: 1197
-order: 362
+order: 0362
 NSC: "330"
 filename: 330-henry-v-3
 copy_URL: /330-henry-v-3/
@@ -31,7 +31,7 @@ DEEP: 290
 extant_ed_copies: 45
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   STC 22291 Copy 6
 isLocationVerified: TRUE

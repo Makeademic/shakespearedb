@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 5
-location_name: [Staatsbibliothek zu Berlin—Preussischer Kulturbesitz (Berlin State Library—Prussian Cultural Heritage)]
+location_name: ["Staatsbibliothek zu Berlin—Preussischer Kulturbesitz (Berlin State Library—Prussian Cultural Heritage)"]
 shelfmark: |
   56422
 isLocationVerified: TRUE

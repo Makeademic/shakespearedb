@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 55
-location_name: [Waseda University, Tokyo]
+location_name: ["Waseda University, Tokyo"]
 shelfmark: |
   SSS.10.7
 isLocationVerified: TRUE

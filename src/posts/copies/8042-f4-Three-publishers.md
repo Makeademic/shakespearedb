@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 7
-location_name: [University of Mississippi]
+location_name: ["University of Mississippi"]
 shelfmark: |
   S2915 Fo.4 no.29
 isLocationVerified: TRUE

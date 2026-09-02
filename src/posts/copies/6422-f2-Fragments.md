@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 112
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Z239 .G72 W73 F CB
 isLocationVerified: FALSE

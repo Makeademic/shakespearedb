@@ -1,6 +1,6 @@
 ---
 id: 49
-order: 715
+order: 0715
 NSC: "637"
 filename: 637-merchant-of-venice-1
 copy_URL: /637-merchant-of-venice-1/
@@ -31,7 +31,7 @@ DEEP: 301
 extant_ed_copies: 18
 ed_fragment: 
 location_id: 18
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   Pforz 888
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1556
-order: 965
+order: 0965
 NSC: "879"
 filename: 879-othello-3
 copy_URL: /879-othello-3/
@@ -32,7 +32,7 @@ DEEP: 696
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 38
-location_name: [University of Toronto, Thomas Fisher Library]
+location_name: ["University of Toronto, Thomas Fisher Library"]
 shelfmark: |
   Hickmott 42
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1607
-order: 20
+order: 0020
 NSC: "19"
 filename: 19-birth-of-merlin-1
 copy_URL: /19-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 42
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   RHT 17th-493
 isLocationVerified: TRUE

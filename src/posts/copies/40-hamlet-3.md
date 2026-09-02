@@ -1,6 +1,6 @@
 ---
 id: 1106
-order: 42
+order: 0042
 NSC: "40"
 filename: 40-hamlet-3
 copy_URL: /40-hamlet-3/
@@ -31,7 +31,7 @@ DEEP: 350
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 3
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   Capell R.19[1]
 isLocationVerified: TRUE

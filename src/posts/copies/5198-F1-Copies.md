@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 62
-location_name: [Royal Society Library]
+location_name: ["Royal Society Library"]
 shelfmark: |
   Press C.5.10 / OL Safe
 isLocationVerified: TRUE

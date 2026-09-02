@@ -31,7 +31,7 @@ DEEP: 523
 extant_ed_copies: 6
 ed_fragment: 
 location_id: 7
-location_name: [Reform Club, London]
+location_name: ["Reform Club, London"]
 shelfmark: |
   STC 22340
 isLocationVerified: TRUE

@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 260
-location_name: [University of Alberta]
+location_name: ["University of Alberta"]
 shelfmark: |
   * Z239.2 .S52o
 isLocationVerified: FALSE

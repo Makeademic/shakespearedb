@@ -1,6 +1,6 @@
 ---
 id: 923
-order: 693
+order: 0693
 NSC: "616"
 filename: 616-macbeth-1
 copy_URL: /616-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 5
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   105457
 isLocationVerified: TRUE

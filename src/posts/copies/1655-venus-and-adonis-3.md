@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 1
 ed_fragment: 
 location_id: 7
-location_name: [Arundel Castle]
+location_name: ["Arundel Castle"]
 shelfmark: |
   STC 22356
 isLocationVerified: TRUE

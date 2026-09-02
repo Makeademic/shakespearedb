@@ -1,6 +1,6 @@
 ---
 id: 943
-order: 607
+order: 0607
 NSC: "534"
 filename: 534-king-lear-3
 copy_URL: /534-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 29
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Mal. 871
 isLocationVerified: TRUE

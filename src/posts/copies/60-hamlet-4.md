@@ -1,6 +1,6 @@
 ---
 id: 1112
-order: 62
+order: 0062
 NSC: "60"
 filename: 60-hamlet-4
 copy_URL: /60-hamlet-4/
@@ -32,7 +32,7 @@ DEEP: 351
 extant_ed_copies: 20
 ed_fragment: 
 location_id: 3
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Capell R.20[1]
 isLocationVerified: TRUE

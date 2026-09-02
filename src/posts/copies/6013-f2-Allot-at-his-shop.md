@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 7
-location_name: [Johns Hopkins University]
+location_name: ["Johns Hopkins University"]
 shelfmark: |
   STC 22274 Fo.2 no.56
 isLocationVerified: TRUE

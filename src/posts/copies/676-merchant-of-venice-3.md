@@ -1,6 +1,6 @@
 ---
 id: 1290
-order: 757
+order: 0757
 NSC: "676"
 filename: 676-merchant-of-venice-3
 copy_URL: /676-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 7
-location_name: [University of Akron]
+location_name: ["University of Akron"]
 shelfmark: |
   STC 22298 Copy 1
 isLocationVerified: TRUE

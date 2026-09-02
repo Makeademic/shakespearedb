@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 38
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Hickmott 40
 isLocationVerified: TRUE

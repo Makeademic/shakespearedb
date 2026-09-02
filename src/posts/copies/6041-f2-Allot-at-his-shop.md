@@ -32,7 +32,7 @@ DEEP: 5082
 extant_ed_copies: 65
 ed_fragment: 
 location_id: 8
-location_name: [Stanford University]
+location_name: ["Stanford University"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

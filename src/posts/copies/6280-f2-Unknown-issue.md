@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 7
-location_name: [John Rylands Library, University of Manchester]
+location_name: ["John Rylands Library, University of Manchester"]
 shelfmark: |
   STC 22274 Fo.2 no.49
 isLocationVerified: TRUE

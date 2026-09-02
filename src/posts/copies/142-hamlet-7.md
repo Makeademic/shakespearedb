@@ -1,6 +1,6 @@
 ---
 id: 888
-order: 164
+order: 0164
 NSC: "142"
 filename: 142-hamlet-7
 copy_URL: /142-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 20
-location_name: [Oxford University, Bodleian Library]
+location_name: ["Oxford University, Bodleian Library"]
 shelfmark: |
   Ig 6c 676B
 isLocationVerified: TRUE

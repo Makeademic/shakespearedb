@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 326
-location_name: [Brigham Young University]
+location_name: ["Brigham Young University"]
 shelfmark: |
   107306
 isLocationVerified: FALSE

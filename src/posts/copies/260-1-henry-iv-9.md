@@ -1,6 +1,6 @@
 ---
 id: 1527
-order: 290
+order: 0290
 NSC: "260"
 filename: 260-1-henry-iv-9
 copy_URL: /260-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 33
-location_name: [Henry E. Huntington Library and Art Gallery]
+location_name: ["Henry E. Huntington Library and Art Gallery"]
 shelfmark: |
   Sa1.4.26(02)
 isLocationVerified: TRUE

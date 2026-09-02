@@ -32,7 +32,7 @@ DEEP: 5087
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 15
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   IUQ00003
 isLocationVerified: TRUE

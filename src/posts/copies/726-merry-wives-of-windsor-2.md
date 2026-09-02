@@ -1,6 +1,6 @@
 ---
 id: 1308
-order: 807
+order: 0807
 NSC: "726"
 filename: 726-merry-wives-of-windsor-2
 copy_URL: /726-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 7
-location_name: [Oxford University, Worcester College]
+location_name: ["Oxford University, Worcester College"]
 shelfmark: |
   STC 22300 Copy 6
 isLocationVerified: TRUE

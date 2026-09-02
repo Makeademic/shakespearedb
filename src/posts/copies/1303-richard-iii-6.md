@@ -31,7 +31,7 @@ DEEP: 230
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 29
-location_name: [Martin Bodmer Foundation, Geneva]
+location_name: ["Martin Bodmer Foundation, Geneva"]
 shelfmark: |
   [Shelfmark not available]
 isLocationVerified: TRUE

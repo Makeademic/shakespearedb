@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 33
 ed_fragment: 
 location_id: 86
-location_name: [University of Akron]
+location_name: ["University of Akron"]
 shelfmark: |
   Ee.4.3(4)
 isLocationVerified: TRUE

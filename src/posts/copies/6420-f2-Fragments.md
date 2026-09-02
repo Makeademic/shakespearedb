@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 115
-location_name: [Phillips Exeter Academy]
+location_name: ["Phillips Exeter Academy"]
 shelfmark: |
   PR2827 .A2 1632
 isLocationVerified: FALSE

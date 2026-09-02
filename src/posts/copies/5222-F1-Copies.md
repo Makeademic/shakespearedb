@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 75
-location_name: [University of Toronto, Thomas Fisher Library]
+location_name: ["University of Toronto, Thomas Fisher Library"]
 shelfmark: |
   fSTC22273 Vault
 isLocationVerified: TRUE

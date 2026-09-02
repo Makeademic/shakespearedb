@@ -1,6 +1,6 @@
 ---
 id: 945
-order: 610
+order: 0610
 NSC: "536"
 filename: 536-king-lear-3
 copy_URL: /536-king-lear-3/
@@ -31,7 +31,7 @@ DEEP: 519
 extant_ed_copies: 19
 ed_fragment: 
 location_id: 31
-location_name: [University of California, Los Angeles, Clark Library]
+location_name: ["University of California, Los Angeles, Clark Library"]
 shelfmark: |
   EC Sh155 608Lc
 isLocationVerified: TRUE

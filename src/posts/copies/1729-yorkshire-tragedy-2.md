@@ -31,7 +31,7 @@ DEEP: 524
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 9
-location_name: [Stonyhurst College]
+location_name: ["Stonyhurst College"]
 shelfmark: |
   JA 3712
 isLocationVerified: TRUE

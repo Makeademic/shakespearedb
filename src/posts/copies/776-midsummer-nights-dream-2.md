@@ -1,6 +1,6 @@
 ---
 id: 1321
-order: 857
+order: 0857
 NSC: "776"
 filename: 776-midsummer-nights-dream-2
 copy_URL: /776-midsummer-nights-dream-2/
@@ -31,7 +31,7 @@ DEEP: 298
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 3
-location_name: [University of Adelaide, Barr Smith Library]
+location_name: ["University of Adelaide, Barr Smith Library"]
 shelfmark: |
   Capell Q.11[3]
 isLocationVerified: TRUE

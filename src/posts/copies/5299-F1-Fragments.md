@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 7
-location_name: [Buffalo and Erie County Public Library]
+location_name: ["Buffalo and Erie County Public Library"]
 shelfmark: |
   STC 22273 Fo. 1 Noble Frag. 41
 isLocationVerified: FALSE

@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 149
-location_name: [San Francisco Public Library]
+location_name: ["San Francisco Public Library"]
 shelfmark: |
   Vault 47
 isLocationVerified: TRUE

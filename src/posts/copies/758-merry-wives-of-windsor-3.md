@@ -1,6 +1,6 @@
 ---
 id: 65
-order: 839
+order: 0839
 NSC: "758"
 filename: 758-merry-wives-of-windsor-3
 copy_URL: /758-merry-wives-of-windsor-3/
@@ -31,7 +31,7 @@ DEEP: 330
 extant_ed_copies: 11
 ed_fragment: 
 location_id: 24
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22301
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1177
-order: 294
+order: 0294
 NSC: "264"
 filename: 264-1-henry-iv-9
 copy_URL: /264-1-henry-iv-9/
@@ -31,7 +31,7 @@ DEEP: 248
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 7
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   STC 22287 Copy 4
 isLocationVerified: TRUE

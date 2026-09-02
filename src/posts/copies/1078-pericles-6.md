@@ -31,7 +31,7 @@ DEEP: 551
 extant_ed_copies: 27
 ed_fragment: 
 location_id: 15
-location_name: [Boston Public Library]
+location_name: ["Boston Public Library"]
 shelfmark: |
   822.33 U1 1635
 isLocationVerified: TRUE

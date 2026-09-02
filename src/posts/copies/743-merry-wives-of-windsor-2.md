@@ -1,6 +1,6 @@
 ---
 id: 73
-order: 824
+order: 0824
 NSC: "743"
 filename: 743-merry-wives-of-windsor-2
 copy_URL: /743-merry-wives-of-windsor-2/
@@ -31,7 +31,7 @@ DEEP: 329
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 26
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   SR 35.22 (SMT5)
 isLocationVerified: TRUE

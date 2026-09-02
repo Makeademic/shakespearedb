@@ -1,6 +1,6 @@
 ---
 id: 1270
-order: 684
+order: 0684
 NSC: "607"
 filename: 607-loves-martyr-1
 copy_URL: /607-loves-martyr-1/
@@ -32,7 +32,7 @@ DEEP: 0
 extant_ed_copies: 2
 ed_fragment: 
 location_id: 7
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   STC 5119
 isLocationVerified: TRUE

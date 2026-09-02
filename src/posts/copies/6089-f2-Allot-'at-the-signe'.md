@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 119
 ed_fragment: 
 location_id: 100
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   PO 2751 .A2 1632 FOLIO
 isLocationVerified: TRUE

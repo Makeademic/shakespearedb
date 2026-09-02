@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 7
 ed_fragment: 
 location_id: 5
-location_name: [Bibliothèque nationale de France (National Library of France)]
+location_name: ["Bibliothèque nationale de France (National Library of France)"]
 shelfmark: |
   69380
 isLocationVerified: TRUE

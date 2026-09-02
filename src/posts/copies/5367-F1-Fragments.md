@@ -31,7 +31,7 @@ DEEP: 5081
 extant_ed_copies: 164
 ed_fragment: 
 location_id: 256
-location_name: [University of Michigan]
+location_name: ["University of Michigan"]
 shelfmark: |
   Z 239 G7 A1 v.234 folio
 isLocationVerified: FALSE

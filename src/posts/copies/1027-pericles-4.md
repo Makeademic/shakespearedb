@@ -32,7 +32,7 @@ DEEP: 5077.03
 extant_ed_copies: 37
 ed_fragment: 
 location_id: 11
-location_name: [Folger Shakespeare Library]
+location_name: ["Folger Shakespeare Library"]
 shelfmark: |
   *KC 1619 (Shakespeare, W. Shakespeare's plays; Pavier's collected edition, 1619)
 isLocationVerified: TRUE

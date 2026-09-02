@@ -1,6 +1,6 @@
 ---
 id: 1634
-order: 111
+order: 0111
 NSC: "103"
 filename: 103-hamlet-5
 copy_URL: /103-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 20
-location_name: [University of Pennsylvania, Kislak Center]
+location_name: ["University of Pennsylvania, Kislak Center"]
 shelfmark: |
   Ig 6c 637
 isLocationVerified: TRUE

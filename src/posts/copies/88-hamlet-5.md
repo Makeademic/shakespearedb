@@ -1,6 +1,6 @@
 ---
 id: 577
-order: 91
+order: 0091
 NSC: "88"
 filename: 88-hamlet-5
 copy_URL: /88-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 24
-location_name: [Yale University, Elizabethan Club]
+location_name: ["Yale University, Elizabethan Club"]
 shelfmark: |
   STC 22279
 isLocationVerified: TRUE

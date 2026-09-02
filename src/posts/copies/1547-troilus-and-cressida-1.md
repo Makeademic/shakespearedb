@@ -32,7 +32,7 @@ DEEP: 539
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 2
-location_name: [Ohio State University]
+location_name: ["Ohio State University"]
 shelfmark: |
   C.34.k.61
 isLocationVerified: TRUE

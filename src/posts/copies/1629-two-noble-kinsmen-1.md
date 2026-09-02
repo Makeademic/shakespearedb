@@ -31,7 +31,7 @@ DEEP: 835
 extant_ed_copies: 63
 ed_fragment: 
 location_id: 29
-location_name: [Rutgers University]
+location_name: ["Rutgers University"]
 shelfmark: |
   Arch. G e.33 (3)
 isLocationVerified: TRUE

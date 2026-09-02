@@ -1,6 +1,6 @@
 ---
 id: 784
-order: 621
+order: 0621
 NSC: "547"
 filename: 547-locrine-1
 copy_URL: /547-locrine-1/
@@ -31,7 +31,7 @@ DEEP: 210
 extant_ed_copies: 13
 ed_fragment: 
 location_id: 29
-location_name: [Yale University, Beinecke Library]
+location_name: ["Yale University, Beinecke Library"]
 shelfmark: |
   Mal. 224 (2)
 isLocationVerified: TRUE

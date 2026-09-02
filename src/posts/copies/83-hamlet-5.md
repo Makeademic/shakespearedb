@@ -1,6 +1,6 @@
 ---
 id: 1120
-order: 86
+order: 0086
 NSC: "83"
 filename: 83-hamlet-5
 copy_URL: /83-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 7
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   STC 22279 Copy 1
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 861
-order: 486
+order: 0486
 NSC: "426"
 filename: 426-julius-caesar-2
 copy_URL: /426-julius-caesar-2/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 41
 ed_fragment: 
 location_id: 18
-location_name: [University of Texas at Austin, Harry Ransom Center]
+location_name: ["University of Texas at Austin, Harry Ransom Center"]
 shelfmark: |
   Pforz 886
 isLocationVerified: TRUE

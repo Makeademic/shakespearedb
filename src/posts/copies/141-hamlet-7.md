@@ -1,6 +1,6 @@
 ---
 id: 889
-order: 163
+order: 0163
 NSC: "141"
 filename: 141-hamlet-7
 copy_URL: /141-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 18
-location_name: [Newberry Library]
+location_name: ["Newberry Library"]
 shelfmark: |
   PR 2807 A1 1676b
 isLocationVerified: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1685
-order: 769
+order: 0769
 NSC: "688"
 filename: 688-merchant-of-venice-3
 copy_URL: /688-merchant-of-venice-3/
@@ -32,7 +32,7 @@ DEEP: 303
 extant_ed_copies: 21
 ed_fragment: 
 location_id: 29
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   Arch. G e.18
 isLocationVerified: TRUE

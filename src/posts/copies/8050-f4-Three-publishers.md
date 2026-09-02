@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 150
-location_name: [State Library of Victoria]
+location_name: ["State Library of Victoria"]
 shelfmark: |
   RBD EL Sh15w 1685
 isLocationVerified: TRUE

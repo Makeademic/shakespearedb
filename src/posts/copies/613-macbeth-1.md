@@ -1,6 +1,6 @@
 ---
 id: 1557
-order: 690
+order: 0690
 NSC: "613"
 filename: 613-macbeth-1
 copy_URL: /613-macbeth-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 12
 ed_fragment: 
 location_id: 38
-location_name: [Meisei University, Kodama Memorial Library]
+location_name: ["Meisei University, Kodama Memorial Library"]
 shelfmark: |
   Hickmott 48
 isLocationVerified: TRUE

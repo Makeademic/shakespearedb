@@ -1,6 +1,6 @@
 ---
 id: 1494
-order: 670
+order: 0670
 NSC: "595"
 filename: 595-loves-labors-lost-2
 copy_URL: /595-loves-labors-lost-2/
@@ -31,7 +31,7 @@ DEEP: 257
 extant_ed_copies: 28
 ed_fragment: 
 location_id: 96
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

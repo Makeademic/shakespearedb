@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 122
-location_name: [Texas A&M University, Cushing Memorial Library]
+location_name: ["Texas A&M University, Cushing Memorial Library"]
 shelfmark: |
   MR 3486
 isLocationVerified: TRUE

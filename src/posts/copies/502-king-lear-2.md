@@ -1,6 +1,6 @@
 ---
 id: 1478
-order: 572
+order: 0572
 NSC: "502"
 filename: 502-king-lear-2
 copy_URL: /502-king-lear-2/
@@ -31,7 +31,7 @@ DEEP: 518
 extant_ed_copies: 39
 ed_fragment: 
 location_id: 96
-location_name: [Victoria and Albert Museum National Art Library]
+location_name: ["Victoria and Albert Museum National Art Library"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: TRUE

@@ -1,6 +1,6 @@
 ---
 id: 1610
-order: 426
+order: 0426
 NSC: "386"
 filename: 386-julius-caesar-1
 copy_URL: /386-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 42
-location_name: [Harvard University, Houghton Library]
+location_name: ["Harvard University, Houghton Library"]
 shelfmark: |
   EX 3925.35.1684
 isLocationVerified: TRUE

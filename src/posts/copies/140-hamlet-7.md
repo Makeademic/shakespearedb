@@ -1,6 +1,6 @@
 ---
 id: 2155
-order: 162
+order: 0162
 NSC: "140"
 filename: 140-hamlet-7
 copy_URL: /140-hamlet-7/
@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 23
 ed_fragment: 
 location_id: 31
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PR2807 .A1 1676b
 isLocationVerified: TRUE

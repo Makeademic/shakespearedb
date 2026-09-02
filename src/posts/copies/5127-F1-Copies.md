@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 168
-location_name: [Konan Women’s University, Kobe]
+location_name: ["Konan Women’s University, Kobe"]
 shelfmark: 
 isLocationVerified: TRUE
 isFacsimileAvailable: FALSE

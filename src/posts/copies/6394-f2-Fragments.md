@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 7
-location_name: [University of Virginia]
+location_name: ["University of Virginia"]
 shelfmark: |
   STC 22274 Fo.2/fragment 12
 isLocationVerified: TRUE

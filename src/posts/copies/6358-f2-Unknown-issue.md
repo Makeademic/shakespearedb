@@ -32,7 +32,7 @@ DEEP: [unknown]
 extant_ed_copies: 103
 ed_fragment: 
 location_id: 132
-location_name: [Dartmouth College]
+location_name: ["Dartmouth College"]
 shelfmark: |
   BM495
 isLocationVerified: FALSE

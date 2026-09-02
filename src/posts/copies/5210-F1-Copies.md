@@ -32,7 +32,7 @@ DEEP: 5081
 extant_ed_copies: 229
 ed_fragment: 
 location_id: 18
-location_name: [British Library]
+location_name: ["British Library"]
 shelfmark: |
   PFORZ 905 PFZ
 isLocationVerified: TRUE

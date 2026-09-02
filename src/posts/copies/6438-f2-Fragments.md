@@ -31,7 +31,7 @@ DEEP: [various]
 extant_ed_copies: 101
 ed_fragment: 
 location_id: 271
-location_name: [Oxford University, Queen's College]
+location_name: ["Oxford University, Queen's College"]
 shelfmark: |
   COLL V OV 61
 isLocationVerified: FALSE

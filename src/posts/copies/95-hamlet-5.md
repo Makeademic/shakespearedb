@@ -1,6 +1,6 @@
 ---
 id: 1622
-order: 102
+order: 0102
 NSC: "95"
 filename: 95-hamlet-5
 copy_URL: /95-hamlet-5/
@@ -31,7 +31,7 @@ DEEP: 352
 extant_ed_copies: 34
 ed_fragment: 
 location_id: 122
-location_name: [Edinburgh University]
+location_name: ["Edinburgh University"]
 shelfmark: |
   MR 0787
 isLocationVerified: TRUE

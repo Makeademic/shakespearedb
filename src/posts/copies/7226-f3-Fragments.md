@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 54
 ed_fragment: 
 location_id: 31
-location_name: [Claremont Colleges]
+location_name: ["Claremont Colleges"]
 shelfmark: |
   PR2751.A3501 1664
 isLocationVerified: TRUE

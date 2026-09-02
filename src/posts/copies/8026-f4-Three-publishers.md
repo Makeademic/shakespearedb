@@ -32,7 +32,7 @@ DEEP:
 extant_ed_copies: 239
 ed_fragment: 
 location_id: 33
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Sa2.3.19
 isLocationVerified: TRUE

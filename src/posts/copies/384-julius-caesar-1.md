@@ -1,6 +1,6 @@
 ---
 id: 1666
-order: 423
+order: 0423
 NSC: "384"
 filename: 384-julius-caesar-1
 copy_URL: /384-julius-caesar-1/
@@ -31,7 +31,7 @@ DEEP: 0
 extant_ed_copies: 38
 ed_fragment: 
 location_id: 16
-location_name: [New York Public Library]
+location_name: ["New York Public Library"]
 shelfmark: |
   Bute.486
 isLocationVerified: TRUE

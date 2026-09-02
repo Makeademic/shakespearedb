@@ -1,6 +1,6 @@
 ---
 id: 881
-order: 15
+order: 0015
 NSC: "14"
 filename: 14-birth-of-merlin-1
 copy_URL: /14-birth-of-merlin-1/
@@ -31,7 +31,7 @@ DEEP:
 extant_ed_copies: 26
 ed_fragment: 
 location_id: 11
-location_name: [Earl of Macclesfield]
+location_name: ["Earl of Macclesfield"]
 shelfmark: |
   *KC 1662 (Rowley, W. Birth of Merlin)
 isLocationVerified: TRUE
