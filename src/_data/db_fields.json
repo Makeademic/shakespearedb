@@ -11,5 +11,6 @@
     "edition_format",
     "STC_Wing",
     "isLocationVerified",
-    "isFacsimileAvailable"
+    "isFacsimileAvailable",
+    "apocryphal"
 ]
