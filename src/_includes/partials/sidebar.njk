@@ -12,46 +12,24 @@
 
 <fieldset class="flex flex-col">
     <legend>Title</legend>
-        {% for title in collections.posts | mapToDbField("title") | flatten | sort | uniq %}
-        <div class="inline-flex mt-3">
-            <input type="radio"
-                   name="title"
-                   value="{{ title }}"
-                   id="{{ title }}-radio"
-                   onclick="updatePostGrid(this)"
-                   class="copy-filter form-radio h-5 w-5 text-blue-500 border-gray-300 transition duration-100 ease-in-out shadow-sm focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none focus:ring-opacity-50 focus:ring-offset-0  disabled:opacity-50 disabled:cursor-not-allowed">
-            <label for="{{ title }}-radio" class="ml-2 text-gray-700">{{ title }}
-            </label>
-        </div>
-        {% endfor %}
+    {% for title in collections.posts | mapToDbField("title") | flatten | sort | uniq %}
+        <label class="inline-flex items-center mt-3">
+            <input type="checkbox" name="title" value="{{ title }}" onclick="updatePostGrid(this)" class="copy-filter form-checkbox h-5 w-5 text-gray-600">
+            <span class="ml-2 text-gray-700">{{ title }}</span>
+        </label>
+   {% endfor %}
 </fieldset>
 
 <br>
 
-<fieldset class="mb-3 xl:w-96">
-    <legend class="form-check-label inline-block text-gray-800" id="locationSelectionLegend">
-      Location
-    </legend>
-    <select id="locationSelection" name="location_name" onchange="updatePostGrid(this)" class="copy-filter form-select
-      block
-      px-3
-      py-1.5
-      text-base
-      font-normal
-      text-gray-700
-      bg-white bg-clip-padding bg-no-repeat
-      border border-solid border-gray-300
-      rounded
-      transition
-      ease-in-out
-      m-0
-      focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" 
-      aria-labelledby="locationSelectionLegend">
-        <option value="" selected>Any</option>
-        {% for locationName in collections.posts | mapToDbField("location_name") | flatten | sort | uniq  %}
-        <option value="{{ locationName }}">{{ locationName }}</option>
-        {% endfor %}
-    </select>
+<fieldset class="block text-left">
+    <legend>Location (Ctrl+Click to select more than one)</legend>
+    <select name="location_name" id="location-multi-select" onchange="updatePostGrid(this)" class="copy-filter form-multiselect block w-full mt-1 border-2"
+        aria-label="Location selection" multiple>
+       {% for locationName in collections.posts | mapToDbField("location_name") | flatten | sort | uniq  %}
+           <option value="{{ locationName }}">{{ locationName }}</option>
+       {% endfor %}
+     </select>
 </fieldset>
 
 <br>

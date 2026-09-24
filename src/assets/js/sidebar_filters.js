@@ -7,13 +7,14 @@ function isCheckable(element) {
     // property so verifying `"checked" in element` is not sufficient.
     return element.type === "radio" || element.type === "checkbox";
 }
+
 function getElementValue(element) {
     if (element instanceof HTMLSelectElement) {
-       return Array.from(element.options).filter(option => option.selected).map(option => option.value).toString();
+       return Array.from(element.options).filter(option => option.selected).map(option => option.value).join(";");
     }
     if (element instanceof HTMLInputElement && element.hasAttribute("type")) {
         if (element.type === "checkbox") {
-            return Array.from(document.querySelectorAll(`input[name=${element.name}]:checked`)).map(option => option.value).toString();
+            return Array.from(document.querySelectorAll(`input[name=${element.name}]:checked`)).map(option => option.value).join(";");
         } else if (element.type === "text") {
             return element.value;
         }
@@ -116,7 +117,7 @@ function syncSidebarFilters() {
             } else if (element instanceof HTMLSelectElement) {
                 if (element.multiple) {
                     const options = element.options;
-                    const fieldValuesArray = fieldValue.split(",");
+                    const fieldValuesArray = fieldValue.split(";");
                     for (const option of options) {
                         option.selected = fieldValuesArray.includes(option.value);
                     }
@@ -133,7 +134,7 @@ function syncSidebarFilters() {
             } else if (element instanceof HTMLInputElement && element.type === "text") {
                 element.value = fieldValue;
             } else if (isCheckable(element)) {
-                const fieldValuesArray = fieldValue.split(",");
+                const fieldValuesArray = fieldValue.split(";");
                 element.checked = fieldValuesArray.includes(element.value);
             }
         }

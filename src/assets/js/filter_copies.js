@@ -17,7 +17,7 @@ function isCopyConforming(query, copyData) {
         return false;
       }
     } else if (copyData[queryKey] instanceof Array) {
-        const selectedValues = value.split(",");
+        const selectedValues = value.split(";");
         if (!selectedValues.some(x => new Set(copyData[queryKey]).has(x))) {
             return false;
         }
